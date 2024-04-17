@@ -60,6 +60,9 @@ b) Use a single `curl` command with the appropriate options to do the following:
 
 Take a screenshot of the `curl` command and options you used and the result of your execution to include in your report.
 
+<img src="using curl.PNG" height="300" alt="Locally stored repository image">
+
+
 c) Use a single `curl` command with the appropriate options to do the following:
   * request the URI
   * follow any redirects
@@ -68,7 +71,11 @@ c) Use a single `curl` command with the appropriate options to do the following:
 
 Take a screenshot of the `curl` command and options you used and the result of your execution to include in your report.  
 
+<img src="saving HTML.PNG" height="300" alt="Locally stored repository image">
+
 d) View the HTML output file that was produced by `curl` from part c in a web browser and take a screenshot to include in your report.
+
+<img src="Saved output.PNG" height="300" alt="Locally stored repository image">
 
 ### Q3
 
