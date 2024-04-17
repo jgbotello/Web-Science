@@ -100,6 +100,14 @@ There are a couple ways you can use your program to gather the URIs:
 
 <img src="Getting Links.png" height="300" alt="Locally stored repository image">
 
+
+Links Used as Support:
+- https://www.youtube.com/watch?v=nBzrMw8hkmY
+- https://www.youtube.com/watch?v=VDd6dVrYzao
+- https://www.youtube.com/watch?v=fJN-HEM-cjw
+- https://www.youtube.com/watch?v=h9mSBZgkcCU
+
+
 Here is a snippet of the expected operation:
 
 ```
