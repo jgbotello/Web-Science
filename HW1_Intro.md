@@ -42,12 +42,15 @@ For the graph, list the nodes (in alphabetical order) that are each of the follo
 * Tubes: 
     * explain how the nodes serve as tubes
 * Disconnected:
-    
+
+<img src="Directed Graph.png" height="300" alt="Locally stored repository image">
     
 ### Q2
 Demonstrate that you know how to use `curl` and are familiar with the available options.  Complete the following steps using https://www.cs.odu.edu/~mweigle/courses/cs532/ua_echo.php as the URI to request. Explain the results you get from each step.
 
 a) First, load the webpage at the URI in your web browser.  The result should show the "User-Agent" HTTP request header that your web browser sends to the web server. Take a screenshot to include in your report.
+
+<img src="Display.PNG" height="300" alt="Locally stored repository image">
 
 b) Use a single `curl` command with the appropriate options to do the following:
   * request the URI
