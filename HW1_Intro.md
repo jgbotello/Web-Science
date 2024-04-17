@@ -102,6 +102,7 @@ There are a couple ways you can use your program to gather the URIs:
 
 
 Links Used as Support:
+- https://stackoverflow.com/questions/59347372/how-extract-all-urls-in-a-website-using-beautifulsoup
 - https://www.youtube.com/watch?v=nBzrMw8hkmY
 - https://www.youtube.com/watch?v=VDd6dVrYzao
 - https://www.youtube.com/watch?v=fJN-HEM-cjw
