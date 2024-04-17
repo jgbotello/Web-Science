@@ -98,7 +98,7 @@ There are a couple ways you can use your program to gather the URIs:
 * have your program randomly pick a URI that you've collected and use that as the new seed until you've collected 500 unique URIs
 
 
-<img src="Getting Links.PNG" height="300" alt="Locally stored repository image">
+<img src="Getting Links.png" height="300" alt="Locally stored repository image">
 
 Here is a snippet of the expected operation:
 
