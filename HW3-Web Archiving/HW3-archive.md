@@ -6,7 +6,8 @@ Test out my installation of memgator
 ./memgator-darwin-amd64 -a https://raw.githubusercontent.com/odu-cs432-websci/public/main/archives.json -F 2 -f JSON https://www.cs.odu.edu/~mweigle/ > mweigle-tm.jsonon
 
 **What do the -F 2 and -f JSON options do?**
--F 2: This option sets the fanout level. Fanout is a parameter that controls how many URIs the tool will fetch concurrently. A value of 2 means that the tool will request up to 2 URIs at the same time, which can help in managing the load on the network and the archives.
+
+-F 2: 
 
 -f JSON: This option specifies the output format of the aggregated TimeMap. By setting -f JSON, you instruct memgator to output the TimeMap in JSON format, which is a widely used data format that is easy to parse and understand.
 
