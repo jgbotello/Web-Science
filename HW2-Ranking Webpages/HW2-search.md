@@ -9,7 +9,7 @@ In this section, several Python scripts are employed to gather and process web p
 *Link Collection:*
 A Python script ('collect-webpages_HW2') is used to collect URIs of web pages. This script uses the requests module and BeautifulSoup library to fetch links starting from an initial URL provided as an argument. The URIs are stored in a text file, a step that was completed in the first assignment.
 
-<img src="Files/Images/Collected_URIs.png" height="200" alt="">
+<img src="Files/Images/Collected_URIs.PNG" height="200" alt="">
 
 *Download HTML Content:*
 The 'Download_html' script downloads the HTML content of the collected URIs. Using the requests module, this script performs HTTP requests and saves the HTML content into individual files, named by hashing the URIs. Execution involves providing the text file with links, and the HTML files are saved in a 'html_files' folder. Additionally, a mapping file was created to link URIs with their respective HTML document names.
