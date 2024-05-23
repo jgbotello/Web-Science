@@ -36,6 +36,7 @@ Using the word 'assistant' for the query, it was found that 39 documents contain
 
 
 To calculate TF:
+
 $$ TF =  Occurrences in doc / Words in doc $$
 
 To calculate IDF: 
@@ -43,6 +44,7 @@ To calculate IDF:
 $$ log2(total docs in corpus / docs with term) $$
 
 To calculate TF- IDF:
+
 $$ TF-IDF = TF x IDF  $$
 
 I used 4 Billion as the total size of the corpus
