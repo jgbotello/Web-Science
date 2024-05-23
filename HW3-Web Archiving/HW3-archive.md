@@ -12,8 +12,8 @@ To start, I tested the installation of Memgator in my computer using the specifi
 The result showed a timemap for the website of Dr. Weigle.
 
 
+<img src="Files/Images/test_install_memgator.PNG" height="500" alt="">
 
-test_install_memgator.PNG
 
 
 
