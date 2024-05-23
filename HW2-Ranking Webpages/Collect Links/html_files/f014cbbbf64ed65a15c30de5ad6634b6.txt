@@ -1,0 +1,2370 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information Systems & Technology (Minor) | Old Dominion University
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apply
+
+
+Visit
+
+
+Give
+
+
+myODU
+
+
+
+
+
+
+Menu 
+
+
+Search 
+
+
+Close 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Breadcrumb
+
+
+Home
+
+
+Academics
+
+
+Programs
+
+
+                  Information Systems & Technology (Minor)
+              
+
+
+
+Information Systems & Technology (Minor)
+
+
+
+
+
+Program HighlightsCareersCoursesRequirementsTransferCostNext-StepsContact
+
+
+
+
+
+Request Info
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About this Program
+
+The Information Systems and Technology program offers a unique combination of business knowledge and technical skills that prepare undergraduate students for success in the highly competitive and increasingly technical business world of the twenty-first century. The minor emphasizes the development of business analysis and system implementation skills, which can provide a basis for job entry, career development and flexibility amid the rapid changes in information technology. 
+
+
+
+
+Program Highlights
+
+
+We are committed to providing a balanced education between the highly integrated fields of general business and information systems and technology.
+
+
+Our curriculum will prepare you to understand both automation technology and the complex world within which it is utilized.
+
+
+Our faculty's research has been funded by the National Science Foundation, the National Institute of Standards and Technology and the U.S. Department of Transportation.
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Available In-Person and Online
+
+
+
+
+            AT A GLANCE
+          
+
+
+        Strome College of Business
+      
+
+
+
+        Department of Information Technology & Decision Sciences
+      
+
+
+Degree Level
+
+        Undergraduate
+            
+
+
+Degree Earned
+
+        Minor
+            
+
+
+Delivery Modes
+
+
+
+
+
+
+
+
+
+
+
+
+Online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          On-Campus
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Careers
+          
+
+
+Check out these ideas from ODU Career Development Services and the Occupational Information Network (O*NET). A median salary is a midpoint of what people typically earn—half of those surveyed earned above the median salary, and half earned below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Requirements
+What are the requirements to apply for Information Systems & Technology at ODU?
+Students entering the Minor program in Information Systems & Technology should meet the minimum university admission requirements Undergraduate Admission.
+
+
+The courses in the minor have a number of technical prerequisites that are normally waived for those students who have completed CS 150, CS 250, and either CS 170 or ECE 241 or equivalent major course work.  
+
+
+
+
+More Program and Degree Requirements
+
+
+
+
+
+
+
+
+            Transfer
+          
+
+At ODU, we understand that as a transfer student you have unique needs that require a wide array of campus resources. The Center for Advising Administration and Academic Partnerships aims to create a transfer inclusive culture that supports the successful...
+
+
+
+Transfer Info
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Featured Courses
+
+
+
+
+
+
+
+
+
+        IT 363
+            
+
+
+
+
+View full course description for 
+Systems Analysis and Design
+
+
+
+                  This course provides an introduction to the analysis and design of computer-based information systems. Emphasis is…
+              
+
+
+
+
+
+
+
+
+
+
+
+        IT 363
+            
+
+
+
+Systems Analysis and Design
+
+
+
+
+
+This course provides an introduction to the analysis and design of computer-based information systems. Emphasis is placed upon the development of requirements that serve the business needs of the organization as well as the logical and physical design of business information systems. This course covers both the structured and the object-oriented approach of system analysis and design process. Topics covered include introduction to the software development methodologies, requirement gathering, modeling, and logical/physical design techniques. Students are also exposed to emerging topics that promise major improvements in software development area. Factors relevant to the creation of business information systems through development and implementation will be examined in detail. Prerequisites: IT 201 with a C or better, IT 205, and a declared major in the university or permission of the Dean's Office of the Strome College of Business.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        IT 325
+            
+
+
+
+
+View full course description for 
+Web Site and Web Page Design
+
+
+
+                  Advanced design and hands-on implementation skills in designing and creating dynamic web sites. Key topics include: web…
+              
+
+
+
+
+
+
+
+
+
+
+
+        IT 325
+            
+
+
+
+Web Site and Web Page Design
+
+
+
+
+
+Advanced design and hands-on implementation skills in designing and creating dynamic web sites. Key topics include: web page design, usability principles, HTML, XHTML, Cascading Style Sheets (CSS), JavaScript and Internet security. Prerequisites: IT 150G.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        IT 310
+            
+
+
+
+
+View full course description for 
+Object-Oriented Programming with C++
+
+
+
+                  This course is part of the Day One Access program; you should not purchase any course materials denoted by the Day One…
+              
+
+
+
+
+
+
+
+
+
+
+
+        IT 310
+            
+
+
+
+Object-Oriented Programming with C++
+
+
+
+
+
+This course is part of the Day One Access program; you should not purchase any course materials denoted by the Day One Access logo as they are part of your course registration. In the event you drop this course from your schedule on or prior to the last day of DROP/ADD period, your account will be fully refunded automatically if you received a digital textbook. If you received a physical textbook you will need to return the textbook to the store and your account will be refunded at that time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Cost
+            
+
+
+
+
+Estimated rates for the 2023-24 academic year. Rates are subject to change. Anyone that is not a current Virginia resident will be charged non-resident rates. That includes international students.
+
+
+
+
+
+
+Active Duty Military Rate
+
+Cost Per-Credit
+$250
+
+
+
+
+
+Virginia Resident
+
+Cost Per-Credit
+$393
+
+
+
+
+
+Technology Delivered Courses Outside Virginia and/or the United States
+
+Cost Per-Credit
+$407
+
+
+
+
+
+Non-Resident
+
+Cost Per-Credit
+$1,073
+
+
+
+
+
+
+
+Ways to Save
+Here are a few ways for you to save on the cost of attending ODU. For more information visit University Student Financial aid
+
+
+
+
+
+
+Cost Estimator
+
+
+
+
+
+
+
+
+
+
+
+        Next Steps
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Explore Community
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Request Information
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Virtual Tour
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Visit Campus
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Roya Ardalan
+
+
+                  Senior Lecturer
+                
+
+
+757-683-5959
+
+
+rardalan@odu.edu
+
+
+
+          2081 CONSTANT HALL          
+        NORFOLK,            23529
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+
+
+
+Undergraduate Admissions
+
+
+
+ 
+          1004 Rollins Hall          
+        Norfolk,           VA 23529
+  
+
+
+
+
+
+
+
+
+757-683-3685
+                
+        office
+            
+      
+
+
+
+
+757-683-3255
+                
+        fax
+            
+      
+
+
+
+
+
+
+
+
+admissions@odu.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+
+
+
+International Admissions
+
+
+
+ 
+          2101 Dragas Hall          
+        Norfolk,           VA 23529
+  
+
+
+
+
+
+
+
+
+757-683-3701
+                
+        office
+            
+      
+
+
+
+
+757-683-3651
+                
+        fax
+            
+      
+
+
+
+
+
+
+
+
+intladm@odu.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Related Programs
+            
+
+
+
+Enterprise Cybersecurity (Information Systems & Technology, B.S.B.A)
+
+
+Business Analytics (B.S.B.A.)
+
+
+Maritime & Supply Chain Management (B.S.B.A.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+          5115 Hampton Blvd          
+        Norfolk,           VA 23529
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resources
+
+
+Employment
+
+
+Directories
+
+
+University Libraries
+
+
+Alumni
+
+
+
+
+
+
+Legal
+
+
+Privacy
+
+
+Accessibility
+
+
+Consumer Information
+
+
+Health and Safety
+
+
+Emergency
+
+
+
+
+
+
+Visit
+
+
+Visit ODU
+
+
+Transportation & Parking
+
+
+Maps and Directions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © Old Dominion University • Updated 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mega Menu
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+
+myODU
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+        Academic Programs
+            
+
+
+
+
+
+            All Programs
+          
+
+
+
+            Undergraduate Programs
+          
+
+
+
+            Graduate Programs
+          
+
+
+
+            Continued Learning
+          
+
+
+
+            ODUGlobal
+          
+
+
+
+            Study Abroad
+          
+
+
+
+            Summer Studies
+          
+
+
+
+            Pre-College Programs
+          
+
+
+
+
+
+
+
+
+
+        Colleges & Schools
+            
+
+
+
+
+
+            All Colleges & Schools
+          
+
+
+
+            College of Arts & Letters
+          
+
+
+
+            Strome College of Business
+          
+
+
+
+            Darden College of Education
+          
+
+
+
+            Batten College of Engineering & Technology 
+          
+
+
+
+            College of Health Sciences
+          
+
+
+
+            College of Sciences
+          
+
+
+
+            Honors College
+          
+
+
+
+            School of Cyber Security
+          
+
+
+
+            Graduate School
+          
+
+
+
+            School of Continuing Education
+          
+
+
+
+
+
+
+
+
+
+        Academic Resources
+            
+
+
+
+
+
+            Academic Calendars
+          
+
+
+
+            University Libraries
+          
+
+
+
+            Academic Advising
+          
+
+
+
+            Tutoring
+          
+
+
+
+            Writing Center
+          
+
+
+
+            Academic Success
+          
+
+
+
+            University Catalogs
+          
+
+
+
+            Higher Education Regional Centers
+          
+
+
+
+
+
+
+
+
+
+Admission & Aid
+
+
+
+
+
+
+
+
+        Future Students
+            
+
+
+
+
+
+            Undergraduate Admissions
+          
+
+
+
+            Graduate Admissions
+          
+
+
+
+            International Admissions
+          
+
+
+
+            ODUGlobal
+          
+
+
+
+            Military & Veterans
+          
+
+
+
+
+
+
+
+
+
+        Admitted Students
+            
+
+
+
+
+
+            Undergraduate
+          
+
+
+
+            Graduate
+          
+
+
+
+            International
+          
+
+
+
+            English Proficiency
+          
+
+
+
+            Returning Students
+          
+
+
+
+
+
+
+
+
+
+        Cost & Aid
+            
+
+
+
+
+
+            Tuition & Fees
+          
+
+
+
+            Financial Aid
+          
+
+
+
+            Scholarships
+          
+
+
+
+            Housing
+          
+
+
+
+            Meal Plans
+          
+
+
+
+            Parking Permits
+          
+
+
+
+            Cost Estimator
+          
+
+
+
+            GI Bill Benefits
+          
+
+
+
+
+
+
+
+
+
+Life at ODU
+
+
+
+
+
+
+
+
+        Getting Involved
+            
+
+
+
+
+
+            Clubs & Organizations
+          
+
+
+
+            Office of Intercultural Relations
+          
+
+
+
+            Recreation & Wellness
+          
+
+
+
+            Student Engagement & Traditions
+          
+
+
+
+            Leadership & Learning
+          
+
+
+
+            Off-Campus University Life
+          
+
+
+
+            Service & Civic Engagement
+          
+
+
+
+
+
+
+
+
+
+        University Services
+            
+
+
+
+
+
+            University Village Bookstore
+          
+
+
+
+            Housing
+          
+
+
+
+            Dining
+          
+
+
+
+            Transportation & Parking
+          
+
+
+
+            Health & Safety
+          
+
+
+
+
+
+
+
+
+
+        Student Services
+            
+
+
+
+
+
+            Educational Accessibility
+          
+
+
+
+            Student Success Center
+          
+
+
+
+            Career Development Services
+          
+
+
+
+            International Student Resources
+          
+
+
+
+            Student Outreach & Support
+          
+
+
+
+            Counseling
+          
+
+
+
+            Women & Gender Equity Center
+          
+
+
+
+            LGBTQIA+ Initiatives
+          
+
+
+
+            Military Connection Center
+          
+
+
+
+
+
+
+
+
+
+Research
+
+
+
+
+
+
+
+
+        Research
+            
+
+
+
+
+
+            Research Centers
+          
+
+
+
+            ODU Research Foundation
+          
+
+
+
+            Office of Research
+          
+
+
+
+            Research Initiatives
+          
+
+
+
+            Grants & Funding
+          
+
+
+
+            Student Research
+          
+
+
+
+
+
+
+
+
+
+        Initiatives & Outreach
+            
+
+
+
+
+
+            Cybersecurity
+          
+
+
+
+            Global & Public Health
+          
+
+
+
+            Center for Social Mobility
+          
+
+
+
+            Economic Forecasting
+          
+
+
+
+            Maritime, Ports & Logistics
+          
+
+
+
+            Modeling & Simulation
+          
+
+
+
+            Spaceflight & Autonomous Systems
+          
+
+
+
+            Bioelectrics & Biomedical
+          
+
+
+
+            Coastal Adaptation & Resilience
+          
+
+
+
+
+
+
+
+
+
+        Innovation & Entrepreneurship
+            
+
+
+
+
+
+            Strome Entrepreneurial Center
+          
+
+
+
+
+
+
+
+
+
+Community
+
+
+
+
+
+
+
+
+        Programs & Partnerships
+            
+
+
+
+
+
+            Visitors Guide
+          
+
+
+
+            Sports & Recreation
+          
+
+
+
+            Community Partnerships
+          
+
+
+
+            Pre-College & Summer Programs
+          
+
+
+
+            Vendors
+          
+
+
+
+
+
+
+
+
+
+        Alumni
+            
+
+
+
+
+
+            Alumni Association 
+          
+
+
+
+            Lion's Den
+          
+
+
+
+            Alumni Directory
+          
+
+
+
+            Homecoming
+          
+
+
+
+            Donate
+          
+
+
+
+
+
+
+
+
+
+        Military & Veterans
+            
+
+
+
+
+
+            Army ROTC
+          
+
+
+
+            Navy ROTC
+          
+
+
+
+            Veterans Services
+          
+
+
+
+            Military Partnerships
+          
+
+
+
+
+
+
+
+
+
+About ODU
+
+
+
+
+
+
+
+
+        Our Story
+            
+
+
+
+
+
+            Accreditation
+          
+
+
+
+            Facts & Figures
+          
+
+
+
+            Coastal Virginia 
+          
+
+
+
+            History & Archives
+          
+
+
+
+            Employment
+          
+
+
+
+            Contact the University
+          
+
+
+
+
+
+
+
+
+
+        Leadership
+            
+
+
+
+
+
+            Office of the President
+          
+
+
+
+            Administration & Organization
+          
+
+
+
+            Strategic Planning & Initiatives
+          
+
+
+
+
+
+
+
+
+
+        News & Events
+            
+
+
+
+
+
+            News at ODU
+          
+
+
+
+            Media Center
+          
+
+
+
+            University Calendar
+          
+
+
+
+            Monarch Magazine
+          
+
+
+
+
+
+
+
+
+
+Arts & Culture
+
+
+
+
+
+
+
+
+        Arts & Culture
+            
+
+
+
+
+
+            Arts @ ODU
+          
+
+
+
+            Gordon Art Galleries
+          
+
+
+
+            Diehn Concert Series
+          
+
+
+
+            Literary Festival
+          
+
+
+
+            Barry Art Museum
+          
+
+
+
+
+
+
+
+
+
+Athletics
+
+
+
+
+
+
+
+
+
+
+Default / Quicklinks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Quick Links
+            
+
+
+
+
+
+            A to Z Index
+          
+
+
+
+            Directories
+          
+
+
+
+            University Libraries
+          
+
+
+
+            Bookstore
+          
+
+
+
+            Academic Calendar
+          
+
+
+
+            Campus Map
+          
+
+
+
+            University Calendar
+          
+
+
+
+
+
+
+
+
+
+        Current Students
+            
+
+
+
+
+
+            Student Resources
+          
+
+
+
+            Student Email
+          
+
+
+
+            Canvas
+          
+
+
+
+            Add, Drop, Withdraw 
+          
+
+
+
+            Dining
+          
+
+
+
+            Monarch Groups
+          
+
+
+
+            Tuition & Aid
+          
+
+
+
+            Parking & Transportation
+          
+
+
+
+
+
+
+
+
+
+        Faculty & Staff
+            
+
+
+
+
+
+            Faculty & Staff Resources
+          
+
+
+
+            Faculty/Staff Email
+          
+
+
+
+            LEO Online
+          
+
+
+
+            Academic Advisors
+          
+
+
+
+            Human Resources
+          
+
+
+
+            Technology Services
+          
+
+
+
+            Center for Faculty Development
+          
+
+
+
+            Center for Learning & Teaching
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Experience Guaranteed
+        
+
+
+
+Enhance your college career by gaining relevant experience with the skills and knowledge needed for your future career. Discover our experiential learning opportunities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Academic Days
+        
+
+
+
+Picture yourself in the classroom, speak with professors in your major, and meet current students.
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Upcoming Events
+        
+
+
+
+From sports games to concerts and lectures, join the ODU community at a variety of campus events. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

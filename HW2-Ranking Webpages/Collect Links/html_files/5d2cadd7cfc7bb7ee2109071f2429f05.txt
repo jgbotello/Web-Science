@@ -1,0 +1,2456 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modeling & Simulation (Minor) | Old Dominion University
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apply
+
+
+Visit
+
+
+Give
+
+
+myODU
+
+
+
+
+
+
+Menu 
+
+
+Search 
+
+
+Close 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Breadcrumb
+
+
+Home
+
+
+Academics
+
+
+Programs
+
+
+                  Modeling & Simulation (Minor)
+              
+
+
+
+Modeling & Simulation (Minor)
+
+
+
+
+
+Program HighlightsCareersCoursesRequirementsTransferCostNext-StepsContact
+
+
+
+
+
+Request Info
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About this Program
+
+This minor is a good fit for those who are majoring in computer science, physics, mathematics, electrical engineering, mechanical engineering, and civil engineering at ODU. Students will learn how to formally model complex systems and then to use computer simulation to study the system behavior. Science and engineering students looking to improve their ability to study complex systems in their field through the use of computer simulations will benefit from the simulation application track as they already have the prerequisite math, science, and programming coursework. The development track focuses on the software development of simulations. The application track focuses on the use of simulation tools.
+
+
+
+
+Program Highlights
+
+
+Faculty research opportunities
+
+
+Two tracks within the modeling and simulation minor: Simulation Application and Simulation Development
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Available In-Person and Online
+
+
+
+
+            AT A GLANCE
+          
+
+
+        Batten College of Engineering & Technology
+      
+
+
+Degree Level
+
+        Undergraduate
+            
+
+
+Degree Earned
+
+        Minor
+            
+
+
+Delivery Modes
+
+
+
+
+
+
+
+
+
+
+
+
+Online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          On-Campus
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Careers
+          
+
+
+Check out these ideas from ODU Career Development Services and the Occupational Information Network (O*NET). A median salary is a midpoint of what people typically earn—half of those surveyed earned above the median salary, and half earned below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Systems Analysts
+
+
+
+
+
+
+            $92,740
+      
+Median Salary
+
+
+
+
+Analyze science, engineering, business, and other data processing problems to implement and improve computer systems. Analyze user requirements, procedures, and problems to automate or improve existing systems and review computer system capabilities, workflow, and scheduling limitations. May analyze or recommend commercially available software.
+
+
+
+
+
+
+
+
+Software Developers, Applications
+
+
+
+
+
+
+            $106,710
+      
+Median Salary
+
+
+
+
+Develop, create, and modify general computer applications software or specialized utility programs. Analyze user needs and develop software solutions. Design software or customize software for client use with the aim of optimizing operational efficiency. May analyze and design databases within an application area, working individually or coordinating database development as part of a team. May supervise computer programmers.
+
+
+
+
+
+
+
+
+Computer Programmers
+
+
+
+
+
+
+            $87,530
+      
+Median Salary
+
+
+
+
+Create, modify, and test the code, forms, and script that allow computer applications to run. Work from specifications drawn up by software developers or other individuals. May assist software developers by analyzing user needs and designing software solutions. May develop and write computer programs to store, locate, and retrieve specific documents, data, and information.
+
+
+
+
+
+
+
+
+Video Game Designers
+
+
+
+
+
+
+            $91,080
+      
+Median Salary
+
+
+
+
+Design core features of video games. Specify innovative game and role-play mechanics, story lines, and character biographies. Create and maintain design documentation. Guide and collaborate with production staff to produce games as designed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Requirements
+What are the requirements to apply for Modeling & Simulation at ODU?
+Students entering the Minor program in Modeling & Simulation should meet the minimum university admission requirements Undergraduate Admission.
+
+
+To enter the program, students must have completed calculus and one college-level computer-programming course (CS 150, ENGN 150 or equivalent)”. “An undergraduate minor in modeling and simulation may be obtained by successful completion of 12 or more credit hours of approved modeling and simulation engineering coursework at the 200-, 300-, and 400- level.” The chief departmental advisor for the Department of Computational Modeling and Simulation Engineering must approve the precise course of study in the minor.
+
+
+
+
+More Program and Degree Requirements
+
+
+
+
+
+
+
+
+            Transfer
+          
+
+At ODU, we understand that as a transfer student you have unique needs that require a wide array of campus resources. The Center for Advising Administration and Academic Partnerships aims to create a transfer inclusive culture that supports the successful...
+
+
+
+Transfer Info
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Featured Courses
+
+
+
+
+
+
+
+
+
+        MSIM 441
+            
+
+
+
+
+View full course description for 
+Computer Graphics and Visualization
+
+
+
+                  The course provides a practical treatment of computer graphics and visualization with emphasis on modeling and…
+              
+
+
+
+
+
+
+
+
+
+
+
+        MSIM 441
+            
+
+
+
+Computer Graphics and Visualization
+
+
+
+
+
+The course provides a practical treatment of computer graphics and visualization with emphasis on modeling and simulation applications. It covers digital image and signal processing basics such as sampling and discrete Fourier transform, computer graphics fundamentals, visualization principles, and software architecture for visualization in modeling and simulation. Written communication and information literacy skills are stressed in this course. (Cross listed with ECE 406/506.) (Offered fall) Prerequisites: a grade C or better in CS 361 or ECE 348.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        MSIM 205
+            
+
+
+
+
+View full course description for 
+Discrete Event Simulation
+
+
+
+                  An introduction to the modeling and simulation of discrete-state, event-driven systems. Topics include: basic…
+              
+
+
+
+
+
+
+
+
+
+
+
+        MSIM 205
+            
+
+
+
+Discrete Event Simulation
+
+
+
+
+
+An introduction to the modeling and simulation of discrete-state, event-driven systems. Topics include: basic properties and terminology for discrete event systems (DES); models for DES including queuing models, Petri nets, and state automata; and methodologies for simulating DES models. Investigation of the steps of a DES simulation study including problem formulation, conceptual model design, simulation model development, input data modeling, output data analysis, verification and validation, and design of simulation experiments. Corequisite: MSIM 281. Prerequisites: MSIM 201. Pre- or corequisite: STAT 330.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        MSIM 331
+            
+
+
+
+
+View full course description for 
+Simulation Software Design
+
+
+
+                  Introduction to data structures, algorithms, programming methodologies, and software architectures in support of…
+              
+
+
+
+
+
+
+
+
+
+
+
+        MSIM 331
+            
+
+
+
+Simulation Software Design
+
+
+
+
+
+Introduction to data structures, algorithms, programming methodologies, and software architectures in support of computer simulation. Topics include lists, queues, sets, trees, searching, sorting, reusable code, and order of complexity. Simulation structures developed include event lists, time management, and queuing models. Software models are implemented and tested. Corequisite: MSIM 383. Prerequisites: MSIM 205, CS 330 and CS 381.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Cost
+            
+
+
+
+
+Estimated rates for the 2023-24 academic year. Rates are subject to change. Anyone that is not a current Virginia resident will be charged non-resident rates. That includes international students.
+
+
+
+
+
+
+Active Duty Military Rate
+
+Cost Per-Credit
+$250
+
+
+
+
+
+Virginia Resident
+
+Cost Per-Credit
+$393
+
+
+
+
+
+Technology Delivered Courses Outside Virginia and/or the United States
+
+Cost Per-Credit
+$407
+
+
+
+
+
+Non-Resident
+
+Cost Per-Credit
+$1,073
+
+
+
+
+
+
+
+Ways to Save
+Here are a few ways for you to save on the cost of attending ODU. For more information visit University Student Financial aid
+
+
+
+
+
+
+Cost Estimator
+
+
+
+
+
+
+
+
+
+
+
+        Next Steps
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Explore Community
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Request Information
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Virtual Tour
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Visit Campus
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Academic Advisor & Program Manager
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+
+
+
+Undergraduate Admissions
+
+
+
+ 
+          1004 Rollins Hall          
+        Norfolk,           VA 23529
+  
+
+
+
+
+
+
+
+
+757-683-3685
+                
+        office
+            
+      
+
+
+
+
+757-683-3255
+                
+        fax
+            
+      
+
+
+
+
+
+
+
+
+admissions@odu.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+
+
+
+International Admissions
+
+
+
+ 
+          2101 Dragas Hall          
+        Norfolk,           VA 23529
+  
+
+
+
+
+
+
+
+
+757-683-3701
+                
+        office
+            
+      
+
+
+
+
+757-683-3651
+                
+        fax
+            
+      
+
+
+
+
+
+
+
+
+intladm@odu.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Related Programs
+            
+
+
+
+Modeling & Simulation Engineering (B.S.COM.E.-MSE)
+
+
+Information Systems & Technology (B.S.B.A.)
+
+
+Computer Science (B.S.C.S.)
+
+
+Computer Science (Minor)
+
+
+Information Systems & Technology (Minor)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+          5115 Hampton Blvd          
+        Norfolk,           VA 23529
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resources
+
+
+Employment
+
+
+Directories
+
+
+University Libraries
+
+
+Alumni
+
+
+
+
+
+
+Legal
+
+
+Privacy
+
+
+Accessibility
+
+
+Consumer Information
+
+
+Health and Safety
+
+
+Emergency
+
+
+
+
+
+
+Visit
+
+
+Visit ODU
+
+
+Transportation & Parking
+
+
+Maps and Directions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © Old Dominion University • Updated 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mega Menu
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+
+myODU
+
+
+
+
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+        Academic Programs
+            
+
+
+
+
+
+            All Programs
+          
+
+
+
+            Undergraduate Programs
+          
+
+
+
+            Graduate Programs
+          
+
+
+
+            Continued Learning
+          
+
+
+
+            ODUGlobal
+          
+
+
+
+            Study Abroad
+          
+
+
+
+            Summer Studies
+          
+
+
+
+            Pre-College Programs
+          
+
+
+
+
+
+
+
+
+
+        Colleges & Schools
+            
+
+
+
+
+
+            All Colleges & Schools
+          
+
+
+
+            College of Arts & Letters
+          
+
+
+
+            Strome College of Business
+          
+
+
+
+            Darden College of Education
+          
+
+
+
+            Batten College of Engineering & Technology 
+          
+
+
+
+            College of Health Sciences
+          
+
+
+
+            College of Sciences
+          
+
+
+
+            Honors College
+          
+
+
+
+            School of Cyber Security
+          
+
+
+
+            Graduate School
+          
+
+
+
+            School of Continuing Education
+          
+
+
+
+
+
+
+
+
+
+        Academic Resources
+            
+
+
+
+
+
+            Academic Calendars
+          
+
+
+
+            University Libraries
+          
+
+
+
+            Academic Advising
+          
+
+
+
+            Tutoring
+          
+
+
+
+            Writing Center
+          
+
+
+
+            Academic Success
+          
+
+
+
+            University Catalogs
+          
+
+
+
+            Higher Education Regional Centers
+          
+
+
+
+
+
+
+
+
+
+Admission & Aid
+
+
+
+
+
+
+
+
+        Future Students
+            
+
+
+
+
+
+            Undergraduate Admissions
+          
+
+
+
+            Graduate Admissions
+          
+
+
+
+            International Admissions
+          
+
+
+
+            ODUGlobal
+          
+
+
+
+            Military & Veterans
+          
+
+
+
+
+
+
+
+
+
+        Admitted Students
+            
+
+
+
+
+
+            Undergraduate
+          
+
+
+
+            Graduate
+          
+
+
+
+            International
+          
+
+
+
+            English Proficiency
+          
+
+
+
+            Returning Students
+          
+
+
+
+
+
+
+
+
+
+        Cost & Aid
+            
+
+
+
+
+
+            Tuition & Fees
+          
+
+
+
+            Financial Aid
+          
+
+
+
+            Scholarships
+          
+
+
+
+            Housing
+          
+
+
+
+            Meal Plans
+          
+
+
+
+            Parking Permits
+          
+
+
+
+            Cost Estimator
+          
+
+
+
+            GI Bill Benefits
+          
+
+
+
+
+
+
+
+
+
+Life at ODU
+
+
+
+
+
+
+
+
+        Getting Involved
+            
+
+
+
+
+
+            Clubs & Organizations
+          
+
+
+
+            Office of Intercultural Relations
+          
+
+
+
+            Recreation & Wellness
+          
+
+
+
+            Student Engagement & Traditions
+          
+
+
+
+            Leadership & Learning
+          
+
+
+
+            Off-Campus University Life
+          
+
+
+
+            Service & Civic Engagement
+          
+
+
+
+
+
+
+
+
+
+        University Services
+            
+
+
+
+
+
+            University Village Bookstore
+          
+
+
+
+            Housing
+          
+
+
+
+            Dining
+          
+
+
+
+            Transportation & Parking
+          
+
+
+
+            Health & Safety
+          
+
+
+
+
+
+
+
+
+
+        Student Services
+            
+
+
+
+
+
+            Educational Accessibility
+          
+
+
+
+            Student Success Center
+          
+
+
+
+            Career Development Services
+          
+
+
+
+            International Student Resources
+          
+
+
+
+            Student Outreach & Support
+          
+
+
+
+            Counseling
+          
+
+
+
+            Women & Gender Equity Center
+          
+
+
+
+            LGBTQIA+ Initiatives
+          
+
+
+
+            Military Connection Center
+          
+
+
+
+
+
+
+
+
+
+Research
+
+
+
+
+
+
+
+
+        Research
+            
+
+
+
+
+
+            Research Centers
+          
+
+
+
+            ODU Research Foundation
+          
+
+
+
+            Office of Research
+          
+
+
+
+            Research Initiatives
+          
+
+
+
+            Grants & Funding
+          
+
+
+
+            Student Research
+          
+
+
+
+
+
+
+
+
+
+        Initiatives & Outreach
+            
+
+
+
+
+
+            Cybersecurity
+          
+
+
+
+            Global & Public Health
+          
+
+
+
+            Center for Social Mobility
+          
+
+
+
+            Economic Forecasting
+          
+
+
+
+            Maritime, Ports & Logistics
+          
+
+
+
+            Modeling & Simulation
+          
+
+
+
+            Spaceflight & Autonomous Systems
+          
+
+
+
+            Bioelectrics & Biomedical
+          
+
+
+
+            Coastal Adaptation & Resilience
+          
+
+
+
+
+
+
+
+
+
+        Innovation & Entrepreneurship
+            
+
+
+
+
+
+            Strome Entrepreneurial Center
+          
+
+
+
+
+
+
+
+
+
+Community
+
+
+
+
+
+
+
+
+        Programs & Partnerships
+            
+
+
+
+
+
+            Visitors Guide
+          
+
+
+
+            Sports & Recreation
+          
+
+
+
+            Community Partnerships
+          
+
+
+
+            Pre-College & Summer Programs
+          
+
+
+
+            Vendors
+          
+
+
+
+
+
+
+
+
+
+        Alumni
+            
+
+
+
+
+
+            Alumni Association 
+          
+
+
+
+            Lion's Den
+          
+
+
+
+            Alumni Directory
+          
+
+
+
+            Homecoming
+          
+
+
+
+            Donate
+          
+
+
+
+
+
+
+
+
+
+        Military & Veterans
+            
+
+
+
+
+
+            Army ROTC
+          
+
+
+
+            Navy ROTC
+          
+
+
+
+            Veterans Services
+          
+
+
+
+            Military Partnerships
+          
+
+
+
+
+
+
+
+
+
+About ODU
+
+
+
+
+
+
+
+
+        Our Story
+            
+
+
+
+
+
+            Accreditation
+          
+
+
+
+            Facts & Figures
+          
+
+
+
+            Coastal Virginia 
+          
+
+
+
+            History & Archives
+          
+
+
+
+            Employment
+          
+
+
+
+            Contact the University
+          
+
+
+
+
+
+
+
+
+
+        Leadership
+            
+
+
+
+
+
+            Office of the President
+          
+
+
+
+            Administration & Organization
+          
+
+
+
+            Strategic Planning & Initiatives
+          
+
+
+
+
+
+
+
+
+
+        News & Events
+            
+
+
+
+
+
+            News at ODU
+          
+
+
+
+            Media Center
+          
+
+
+
+            University Calendar
+          
+
+
+
+            Monarch Magazine
+          
+
+
+
+
+
+
+
+
+
+Arts & Culture
+
+
+
+
+
+
+
+
+        Arts & Culture
+            
+
+
+
+
+
+            Arts @ ODU
+          
+
+
+
+            Gordon Art Galleries
+          
+
+
+
+            Diehn Concert Series
+          
+
+
+
+            Literary Festival
+          
+
+
+
+            Barry Art Museum
+          
+
+
+
+
+
+
+
+
+
+Athletics
+
+
+
+
+
+
+
+
+
+
+Default / Quicklinks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Quick Links
+            
+
+
+
+
+
+            A to Z Index
+          
+
+
+
+            Directories
+          
+
+
+
+            University Libraries
+          
+
+
+
+            Bookstore
+          
+
+
+
+            Academic Calendar
+          
+
+
+
+            Campus Map
+          
+
+
+
+            University Calendar
+          
+
+
+
+
+
+
+
+
+
+        Current Students
+            
+
+
+
+
+
+            Student Resources
+          
+
+
+
+            Student Email
+          
+
+
+
+            Canvas
+          
+
+
+
+            Add, Drop, Withdraw 
+          
+
+
+
+            Dining
+          
+
+
+
+            Monarch Groups
+          
+
+
+
+            Tuition & Aid
+          
+
+
+
+            Parking & Transportation
+          
+
+
+
+
+
+
+
+
+
+        Faculty & Staff
+            
+
+
+
+
+
+            Faculty & Staff Resources
+          
+
+
+
+            Faculty/Staff Email
+          
+
+
+
+            LEO Online
+          
+
+
+
+            Academic Advisors
+          
+
+
+
+            Human Resources
+          
+
+
+
+            Technology Services
+          
+
+
+
+            Center for Faculty Development
+          
+
+
+
+            Center for Learning & Teaching
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Experience Guaranteed
+        
+
+
+
+Enhance your college career by gaining relevant experience with the skills and knowledge needed for your future career. Discover our experiential learning opportunities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Academic Days
+        
+
+
+
+Picture yourself in the classroom, speak with professors in your major, and meet current students.
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Upcoming Events
+        
+
+
+
+From sports games to concerts and lectures, join the ODU community at a variety of campus events. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
