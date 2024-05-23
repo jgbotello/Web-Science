@@ -41,7 +41,7 @@ $$ TF =  Occurrences in doc / Words in doc $$
 
 To calculate IDF: 
 
-$$ log2(total docs in corpus / docs with term) $$
+$$ \Log_2\left(\frac{\text{Total docs in corpus}}{\text{Docs with term}}\right) $$
 
 To calculate TF- IDF:
 
