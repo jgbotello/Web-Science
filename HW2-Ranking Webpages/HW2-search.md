@@ -22,7 +22,7 @@ To process the HTML content and remove boilerplate text, another script using th
 *Word Occurrence Counting:*
 Another script was developed to search HTML files for a specific word. The script counts the occurrences of the word 'student' in the documents. The script outputs the document names along with the count of the word's occurrences. This script also calculate the TF metric for the query word across the documents. The script was executed from the command line with the search word and the folder containing the HTML files as inputs. 
 
-<img src="Files/Images/Counting_words.PNG" height="500" alt="">
+<img src="Files/Images/Counting_word.PNG" height="500" alt="">
 
 
 *Q1-1: How many of your 500 URIs produced useful text?  If that number was less than 500, did that surprise you?* 
