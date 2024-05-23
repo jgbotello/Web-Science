@@ -14,7 +14,7 @@ A Python script ('collect-webpages_HW2') is used to collect URIs of web pages. T
 *Download HTML Content:*
 The 'Download_html' script downloads the HTML content of the collected URIs. Using the requests module, this script performs HTTP requests and saves the HTML content into individual files, named by hashing the URIs. Execution involves providing the text file with links, and the HTML files are saved in a 'html_files' folder. Additionally, a mapping file was created to link URIs with their respective HTML document names.
 
-<img src="Collected_HTMLs.png" height="200" alt="">
+<img src="Files/Images/Collected_HTMLs.PNG" height="500" alt="">
 
 *Removing Standard HTML Text:*
 To process the HTML content and remove boilerplate text, another script using the boilerpy3 library was employed. This script processes the HTML files in the 'html_files' folder to try to remove boilerplate text. However, the output resulted in 0B size files, indicating that the HTML files do not contained boilerplate text.
@@ -22,7 +22,7 @@ To process the HTML content and remove boilerplate text, another script using th
 *Word Occurrence Counting:*
 Another script was developed to search HTML files for a specific word. The script counts the occurrences of the word 'student' in the documents. The script outputs the document names along with the count of the word's occurrences. This script also calculate the TF metric for the query word across the documents. The script was executed from the command line with the search word and the folder containing the HTML files as inputs. 
 
-<img src="Counting_words.png" height="200" alt="">
+<img src="Files/Images/Counting_words.PNG" height="500" alt="">
 
 
 *Q1-1: How many of your 500 URIs produced useful text?  If that number was less than 500, did that surprise you?* 
