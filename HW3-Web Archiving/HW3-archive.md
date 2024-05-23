@@ -1,31 +1,27 @@
 # Homework 3 - Web Archiving, part 1 
 
+The purpose of this assignment is to introduce the concept of web archiving and mementos by obtaining TimeMaps through the installation and use of Memgator.
+
 ## Downloading Memgator
 
-Test out my installation of memgator
+To start, I tested the installation of Memgator in my computer using the specific command showed below.
+
+**Test out my installation of memgator**
 ./memgator-darwin-amd64 -a https://raw.githubusercontent.com/odu-cs432-websci/public/main/archives.json -F 2 -f JSON https://www.cs.odu.edu/~mweigle/ > mweigle-tm.jsonon
 
+The result showed a timemap for the website of Dr. Weigle.
+
 **What do the -F 2 and -f JSON options do?**
+According to the documentation provided by the creators of Memgator in their Github F an f have the following funtionalities:
 
--F 2: 
+-F 2: Sets the failure tolerance limit for each archive. This determines how many failures are acceptable before stopping the process. In this case two.
 
--f JSON: This option specifies the output format of the aggregated TimeMap. By setting -f JSON, you instruct memgator to output the TimeMap in JSON format, which is a widely used data format that is easy to parse and understand.
-
+-f JSON: This option specifies the output format of the aggregated TimeMap. By setting -f JSON, we instruct Memgator to output the TimeMap in JSON format.
 
 ## Q1. Get TimeMaps for Each URI.
 
-Obtain the [TimeMaps](http://www.mementoweb.org/guide/quick-intro/) for each of the unique URIs you collected in HW1 using the [MemGator Memento Aggregator](https://github.com/oduwsdl/MemGator).  
+In this part of the process, I obtained the [TimeMaps](http://www.mementoweb.org/guide/quick-intro/) for each of the unique URIs I collected in HW1 using the [MemGator Memento Aggregator](https://github.com/oduwsdl/MemGator). para esta tarea se realizo un script de python que luego fue ejecutado desde la linea de comando (See image of the script below).  
 
-*Do **not** use memgator.cs.odu.edu this assignment. You must download and install a local version of MemGator.*
-
-There are two options for running MemGator locally:
-* Install a stand-alone version of MemGator on your own machine, see <https://github.com/oduwsdl/MemGator/releases>
-  * This was described in [EC-memgator](https://github.com/odu-cs432-websci/public-spr24/blob/main/getting-started/EC-memgator.md)
-* Install [Docker Desktop](https://www.docker.com/products/docker-desktop) and run MemGator as a Docker Container, see notes at <https://github.com/oduwsdl/MemGator/blob/master/README.md>
-
-Here's an example:
-
-`./memgator-darwin-amd64 -c "ODU CS432/532 YOUR_EMAIL_ADDRESS" -a https://raw.githubusercontent.com/odu-cs432-websci/public/main/archives.json -F 2 -f JSON https://www.cs.odu.edu/~mweigle/ > mweigle-tm.json`
 
 Notes:
 * As described in [EC-memgator](https://github.com/odu-cs432-websci/public-spr24/blob/main/getting-started/EC-memgator.md), you **must** include the `-c` and `-a` options to specify your contact information and to use the alternate `archives.json` file.
