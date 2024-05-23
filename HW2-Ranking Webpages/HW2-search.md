@@ -79,7 +79,9 @@ I used 4 Billion as the total size of the corpus
 
 In this Step the 10 URIs from Q2 were ranked by their pagerank. For this process the free PR estimator https://dnschecker.org/pagerank.php was used.
 
-the values were normalized between 0 and 1  using Xnorm=(X-Min)/(Max-Min)
+the values were normalized between 0 and 1  using: 
+
+$$ X_{\text{norm}} = \frac{X - \text{Min}}{\text{Max} - \text{Min}} $$
 
 Table 2.  10 hits for the term "shadow", ranked by PageRank of domain.
 |PageRank|  PageRank Normalized  |URI
