@@ -11,6 +11,12 @@ To start, I tested the installation of Memgator in my computer using the specifi
 
 The result showed a timemap for the website of Dr. Weigle.
 
+
+
+test_install_memgator.PNG
+
+
+
 **What do the -F 2 and -f JSON options do?**
 According to the documentation provided by the creators of Memgator in their Github F an f have the following funtionalities:
 
