@@ -79,13 +79,3 @@ If you will end up with a very large table of memento counts, you can bin the nu
 *Q: What URI-Rs had the most mementos?  Did that surprise you?*
  
 
-## Submission
-
-You should be working in the private GitHub repo that I created for you in the [odu-cs432-websci organization](https://github.com/odu-cs432-websci/) (your repo URL should look something like https<nolink>://github.com/odu-cs432-websci/spr24-*username*/). 
-
-If you are working locally, make sure that you have committed and pushed your local repo, including `HW3-report.md` and any images you reference, to GitHub. 
-
-Submit the URL of your report (*not the URL of your repo*) in Canvas under HW3. This should be something like  
-https<nolink>://github.com/odu-cs432-websci/spr24-*username*/blob/main/HW3-report.md
-
-*If you make changes to your report after submitting in Canvas, I will use the last commit time in your repo as your assignment submission time.*
