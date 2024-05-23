@@ -1,0 +1,74 @@
+{
+  "original_uri": "https://www.ripta.com/public-records-request/",
+  "self": "http://localhost:1208/timemap/json/https://www.ripta.com/public-records-request/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-10-31T16:41:47Z",
+        "uri": "https://web.archive.org/web/20221031164147/https://www.ripta.com/public-records-request/"
+      },
+      {
+        "datetime": "2022-11-28T05:09:50Z",
+        "uri": "https://web.archive.org/web/20221128050950/https://www.ripta.com/public-records-request/"
+      },
+      {
+        "datetime": "2022-12-15T12:23:55Z",
+        "uri": "https://web.archive.org/web/20221215122355/https://www.ripta.com/public-records-request/"
+      },
+      {
+        "datetime": "2023-01-23T06:06:39Z",
+        "uri": "https://web.archive.org/web/20230123060639/https://www.ripta.com/public-records-request/"
+      },
+      {
+        "datetime": "2023-03-10T00:41:54Z",
+        "uri": "https://web.archive.org/web/20230310004154/https://www.ripta.com/public-records-request/"
+      },
+      {
+        "datetime": "2023-03-22T06:30:42Z",
+        "uri": "https://web.archive.org/web/20230322063042/https://www.ripta.com/public-records-request/"
+      },
+      {
+        "datetime": "2023-04-27T03:22:52Z",
+        "uri": "https://web.archive.org/web/20230427032252/https://www.ripta.com/public-records-request/"
+      },
+      {
+        "datetime": "2023-05-02T13:06:25Z",
+        "uri": "https://web.archive.org/web/20230502130625/https://www.ripta.com/public-records-request/"
+      },
+      {
+        "datetime": "2023-06-06T09:50:47Z",
+        "uri": "https://web.archive.org/web/20230606095047/https://www.ripta.com/public-records-request/"
+      },
+      {
+        "datetime": "2023-08-03T01:01:22Z",
+        "uri": "https://web.archive.org/web/20230803010122/https://www.ripta.com/public-records-request/"
+      },
+      {
+        "datetime": "2023-10-03T17:38:30Z",
+        "uri": "https://web.archive.org/web/20231003173830/https://www.ripta.com/public-records-request/"
+      },
+      {
+        "datetime": "2023-10-08T15:14:37Z",
+        "uri": "https://web.archive.org/web/20231008151437/https://www.ripta.com/public-records-request/"
+      },
+      {
+        "datetime": "2024-02-13T19:27:03Z",
+        "uri": "https://web.archive.org/web/20240213192703/https://www.ripta.com/public-records-request/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-10-31T16:41:47Z",
+      "uri": "https://web.archive.org/web/20221031164147/https://www.ripta.com/public-records-request/"
+    },
+    "last": {
+      "datetime": "2024-02-13T19:27:03Z",
+      "uri": "https://web.archive.org/web/20240213192703/https://www.ripta.com/public-records-request/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.ripta.com/public-records-request/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.ripta.com/public-records-request/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ripta.com/public-records-request/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.ripta.com/public-records-request/"
+}

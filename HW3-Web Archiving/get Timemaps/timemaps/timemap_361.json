@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://www.executivefunctionjournal.com/",
+  "self": "http://localhost:1208/timemap/json/https://www.executivefunctionjournal.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-12-01T14:48:54Z",
+        "uri": "https://web.archive.org/web/20211201144854/http://executivefunctionjournal.com/"
+      },
+      {
+        "datetime": "2022-01-13T15:15:06Z",
+        "uri": "https://web.archive.org/web/20220113151506/https://www.executivefunctionjournal.com/"
+      },
+      {
+        "datetime": "2023-01-19T19:39:32Z",
+        "uri": "https://web.archive.org/web/20230119193932/http://executivefunctionjournal.com/"
+      },
+      {
+        "datetime": "2023-03-16T09:49:23Z",
+        "uri": "https://web.archive.org/web/20230316094923/http://executivefunctionjournal.com/"
+      },
+      {
+        "datetime": "2024-03-21T09:28:34Z",
+        "uri": "https://web.archive.org/web/20240321092834/https://executivefunctionjournal.com/"
+      },
+      {
+        "datetime": "2024-03-21T09:28:42Z",
+        "uri": "https://web.archive.org/web/20240321092842/http://executivefunctionjournal.com/"
+      },
+      {
+        "datetime": "2024-03-21T09:36:56Z",
+        "uri": "https://web.archive.org/web/20240321093656/https://www.executivefunctionjournal.com/"
+      },
+      {
+        "datetime": "2024-03-21T09:37:02Z",
+        "uri": "https://web.archive.org/web/20240321093702/http://www.executivefunctionjournal.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-12-01T14:48:54Z",
+      "uri": "https://web.archive.org/web/20211201144854/http://executivefunctionjournal.com/"
+    },
+    "last": {
+      "datetime": "2024-03-21T09:37:02Z",
+      "uri": "https://web.archive.org/web/20240321093702/http://www.executivefunctionjournal.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.executivefunctionjournal.com/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.executivefunctionjournal.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.executivefunctionjournal.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.executivefunctionjournal.com/"
+}

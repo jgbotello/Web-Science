@@ -1,0 +1,510 @@
+{
+  "original_uri": "https://apps.apple.com/us/app/amazon-seller/id794141485",
+  "self": "http://localhost:1208/timemap/json/https://apps.apple.com/us/app/amazon-seller/id794141485",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-06-12T08:07:37Z",
+        "uri": "https://arquivo.pt/wayback/20190612080737mp_/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-06-14T18:03:41Z",
+        "uri": "https://wayback.archive-it.org/all/20190614180341/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-06-14T18:03:41Z",
+        "uri": "https://web.archive.org/web/20190614180341/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-06-21T17:58:44Z",
+        "uri": "https://wayback.archive-it.org/all/20190621175844/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-06-21T17:58:44Z",
+        "uri": "https://web.archive.org/web/20190621175844/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-06-28T18:01:31Z",
+        "uri": "https://wayback.archive-it.org/all/20190628180131/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-06-28T18:01:31Z",
+        "uri": "https://web.archive.org/web/20190628180131/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-07-05T17:47:06Z",
+        "uri": "https://wayback.archive-it.org/all/20190705174706/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-07-05T17:47:06Z",
+        "uri": "https://web.archive.org/web/20190705174706/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-07-12T19:10:01Z",
+        "uri": "https://wayback.archive-it.org/all/20190712191001/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-07-12T19:10:01Z",
+        "uri": "https://web.archive.org/web/20190712191001/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-07-19T17:50:01Z",
+        "uri": "https://wayback.archive-it.org/all/20190719175001/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-07-19T17:50:01Z",
+        "uri": "https://web.archive.org/web/20190719175001/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-07-26T17:50:16Z",
+        "uri": "https://wayback.archive-it.org/all/20190726175016/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-07-26T17:50:16Z",
+        "uri": "https://web.archive.org/web/20190726175016/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-08-02T17:55:54Z",
+        "uri": "https://wayback.archive-it.org/all/20190802175554/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-08-02T17:55:54Z",
+        "uri": "https://web.archive.org/web/20190802175554/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-08-09T18:33:06Z",
+        "uri": "https://wayback.archive-it.org/all/20190809183306/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-08-09T18:33:06Z",
+        "uri": "https://web.archive.org/web/20190809183306/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-08-10T14:07:31Z",
+        "uri": "https://web.archive.org/web/20190810140731/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-08-16T18:24:33Z",
+        "uri": "https://wayback.archive-it.org/all/20190816182433/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-08-16T18:24:33Z",
+        "uri": "https://web.archive.org/web/20190816182433/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-08-23T18:46:11Z",
+        "uri": "https://wayback.archive-it.org/all/20190823184611/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-08-23T18:46:11Z",
+        "uri": "https://web.archive.org/web/20190823184611/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-08-26T11:14:43Z",
+        "uri": "https://web.archive.org/web/20190826111443/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-08-30T19:00:12Z",
+        "uri": "https://wayback.archive-it.org/all/20190830190012/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-08-30T19:00:12Z",
+        "uri": "https://web.archive.org/web/20190830190012/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-09-06T19:02:18Z",
+        "uri": "https://wayback.archive-it.org/all/20190906190218/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-09-06T19:02:18Z",
+        "uri": "https://web.archive.org/web/20190906190218/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-09-09T08:37:41Z",
+        "uri": "https://web.archive.org/web/20190909083741/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-09-09T10:19:01Z",
+        "uri": "https://web.archive.org/web/20190909101901/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-09-13T19:07:31Z",
+        "uri": "https://wayback.archive-it.org/all/20190913190731/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-09-13T19:07:31Z",
+        "uri": "https://web.archive.org/web/20190913190731/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-09-16T11:21:48Z",
+        "uri": "https://web.archive.org/web/20190916112148/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-09-27T19:38:36Z",
+        "uri": "https://wayback.archive-it.org/all/20190927193836/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-09-27T19:38:36Z",
+        "uri": "https://web.archive.org/web/20190927193836/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-10-21T15:29:38Z",
+        "uri": "https://web.archive.org/web/20191021152938/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-10-21T21:09:35Z",
+        "uri": "https://web.archive.org/web/20191021210935/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-11-19T09:58:56Z",
+        "uri": "https://web.archive.org/web/20191119095856/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-11-26T06:21:05Z",
+        "uri": "https://web.archive.org/web/20191126062105/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-12-24T08:45:35Z",
+        "uri": "https://web.archive.org/web/20191224084535/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2019-12-31T12:07:12Z",
+        "uri": "https://web.archive.org/web/20191231120712/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-01-07T10:43:54Z",
+        "uri": "https://web.archive.org/web/20200107104354/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-01-21T17:15:26Z",
+        "uri": "https://web.archive.org/web/20200121171526/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-01-24T01:34:23Z",
+        "uri": "https://arquivo.pt/wayback/20200124013423mp_/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-02-04T11:41:01Z",
+        "uri": "https://web.archive.org/web/20200204114101/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-02-11T13:44:52Z",
+        "uri": "https://web.archive.org/web/20200211134452/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-02-18T17:27:34Z",
+        "uri": "https://web.archive.org/web/20200218172734/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-03-03T14:42:52Z",
+        "uri": "https://web.archive.org/web/20200303144252/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-03-10T14:24:15Z",
+        "uri": "https://web.archive.org/web/20200310142415/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-03-12T22:47:41Z",
+        "uri": "https://arquivo.pt/wayback/20200312224741mp_/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-03-17T15:29:46Z",
+        "uri": "https://web.archive.org/web/20200317152946/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-03-23T18:17:47Z",
+        "uri": "https://web.archive.org/web/20200323181747/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-03-24T14:50:52Z",
+        "uri": "https://web.archive.org/web/20200324145052/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-03-30T23:43:38Z",
+        "uri": "https://web.archive.org/web/20200330234338/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-03-31T14:33:33Z",
+        "uri": "https://web.archive.org/web/20200331143333/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-04-07T18:08:25Z",
+        "uri": "https://web.archive.org/web/20200407180825/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-04-14T15:58:38Z",
+        "uri": "https://web.archive.org/web/20200414155838/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-04-21T19:51:42Z",
+        "uri": "https://web.archive.org/web/20200421195142/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-04-28T21:27:37Z",
+        "uri": "https://web.archive.org/web/20200428212737/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-05-06T01:10:20Z",
+        "uri": "https://web.archive.org/web/20200506011020/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-05-07T12:28:11Z",
+        "uri": "https://web.archive.org/web/20200507122811/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-05-19T20:48:15Z",
+        "uri": "https://web.archive.org/web/20200519204815/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-05-27T00:17:10Z",
+        "uri": "https://web.archive.org/web/20200527001710/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-06-03T01:05:20Z",
+        "uri": "https://web.archive.org/web/20200603010520/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-06-09T07:49:18Z",
+        "uri": "https://web.archive.org/web/20200609074918/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-06-10T04:22:42Z",
+        "uri": "https://web.archive.org/web/20200610042242/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-06-24T07:10:41Z",
+        "uri": "https://web.archive.org/web/20200624071041/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-06-24T07:24:35Z",
+        "uri": "https://web.archive.org/web/20200624072435/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-06-28T11:47:02Z",
+        "uri": "https://web.archive.org/web/20200628114702/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-08-05T23:16:10Z",
+        "uri": "https://web.archive.org/web/20200805231610/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-09-02T20:09:54Z",
+        "uri": "https://web.archive.org/web/20200902200954/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-10-23T12:25:55Z",
+        "uri": "https://web.archive.org/web/20201023122555/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-11-27T03:37:51Z",
+        "uri": "https://web.archive.org/web/20201127033751/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2020-12-23T15:02:06Z",
+        "uri": "https://web.archive.org/web/20201223150206/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-01-11T19:16:19Z",
+        "uri": "https://web.archive.org/web/20210111191619/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-01-17T15:06:49Z",
+        "uri": "https://web.archive.org/web/20210117150649/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-02-22T20:10:49Z",
+        "uri": "https://web.archive.org/web/20210222201049/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-04-18T11:52:40Z",
+        "uri": "https://web.archive.org/web/20210418115240/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-04-20T21:55:33Z",
+        "uri": "https://web.archive.org/web/20210420215533/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-04-22T23:52:06Z",
+        "uri": "https://web.archive.org/web/20210422235206/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-07-22T21:39:42Z",
+        "uri": "https://web.archive.org/web/20210722213942/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-07-28T17:11:52Z",
+        "uri": "https://web.archive.org/web/20210728171152/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-08-08T07:14:59Z",
+        "uri": "https://web.archive.org/web/20210808071459/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-08-17T07:50:20Z",
+        "uri": "https://web.archive.org/web/20210817075020/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-08-17T07:54:02Z",
+        "uri": "https://web.archive.org/web/20210817075402/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-10-22T14:33:52Z",
+        "uri": "https://web.archive.org/web/20211022143352/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-10-29T11:34:09Z",
+        "uri": "https://web.archive.org/web/20211029113409/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-11-17T17:40:49Z",
+        "uri": "https://web.archive.org/web/20211117174049/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-11-24T21:38:11Z",
+        "uri": "https://web.archive.org/web/20211124213811/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-12-01T21:16:28Z",
+        "uri": "https://web.archive.org/web/20211201211628/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2021-12-16T14:10:11Z",
+        "uri": "https://web.archive.org/web/20211216141011/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2022-01-11T12:54:58Z",
+        "uri": "https://web.archive.org/web/20220111125458/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2022-01-23T12:20:41Z",
+        "uri": "http://archive.md/20220123122041/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2022-03-08T17:06:40Z",
+        "uri": "https://web.archive.org/web/20220308170640/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2022-03-15T20:04:08Z",
+        "uri": "https://web.archive.org/web/20220315200408/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2022-03-22T21:53:26Z",
+        "uri": "https://web.archive.org/web/20220322215326/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2022-03-25T15:08:43Z",
+        "uri": "https://web.archive.org/web/20220325150843/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2022-04-09T04:25:09Z",
+        "uri": "https://web.archive.org/web/20220409042509/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2022-04-12T21:00:48Z",
+        "uri": "https://web.archive.org/web/20220412210048/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2022-04-19T23:28:16Z",
+        "uri": "https://web.archive.org/web/20220419232816/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2022-04-28T09:58:17Z",
+        "uri": "https://web.archive.org/web/20220428095817/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2022-07-18T08:15:02Z",
+        "uri": "https://web.archive.org/web/20220718081502/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2022-10-26T14:39:55Z",
+        "uri": "https://web.archive.org/web/20221026143955/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2023-01-28T04:35:58Z",
+        "uri": "https://web.archive.org/web/20230128043558/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2023-03-05T22:16:35Z",
+        "uri": "https://web.archive.org/web/20230305221635/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2023-03-24T19:59:14Z",
+        "uri": "https://web.archive.org/web/20230324195914/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2023-05-05T01:05:22Z",
+        "uri": "https://web.archive.org/web/20230505010522/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2023-05-12T02:24:43Z",
+        "uri": "https://web.archive.org/web/20230512022443/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2023-05-19T01:51:15Z",
+        "uri": "https://web.archive.org/web/20230519015115/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2023-05-25T18:35:33Z",
+        "uri": "https://web.archive.org/web/20230525183533/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2023-05-28T12:05:20Z",
+        "uri": "https://web.archive.org/web/20230528120520/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2023-07-18T01:23:14Z",
+        "uri": "https://web.archive.org/web/20230718012314/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2023-08-25T06:04:41Z",
+        "uri": "https://web.archive.org/web/20230825060441/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2023-09-29T23:53:02Z",
+        "uri": "https://web.archive.org/web/20230929235302/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2023-10-02T00:31:31Z",
+        "uri": "https://web.archive.org/web/20231002003131/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2023-10-05T05:06:17Z",
+        "uri": "https://web.archive.org/web/20231005050617/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2023-11-10T15:00:00Z",
+        "uri": "https://web.archive.org/web/20231110150000/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2023-12-04T15:35:09Z",
+        "uri": "https://web.archive.org/web/20231204153509/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2024-01-13T00:53:34Z",
+        "uri": "https://web.archive.org/web/20240113005334/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2024-03-08T15:11:51Z",
+        "uri": "https://web.archive.org/web/20240308151151/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      },
+      {
+        "datetime": "2024-03-23T23:01:03Z",
+        "uri": "https://web.archive.org/web/20240323230103/https://apps.apple.com/us/app/amazon-seller/id794141485"
+      }
+    ],
+    "first": {
+      "datetime": "2019-06-12T08:07:37Z",
+      "uri": "https://arquivo.pt/wayback/20190612080737mp_/https://apps.apple.com/us/app/amazon-seller/id794141485"
+    },
+    "last": {
+      "datetime": "2024-03-23T23:01:03Z",
+      "uri": "https://web.archive.org/web/20240323230103/https://apps.apple.com/us/app/amazon-seller/id794141485"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://apps.apple.com/us/app/amazon-seller/id794141485",
+    "json_format": "http://localhost:1208/timemap/json/https://apps.apple.com/us/app/amazon-seller/id794141485",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://apps.apple.com/us/app/amazon-seller/id794141485"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://apps.apple.com/us/app/amazon-seller/id794141485"
+}

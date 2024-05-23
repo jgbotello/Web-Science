@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.ripta.com/projects-archive/planning-studies/",
+  "self": "http://localhost:1208/timemap/json/https://www.ripta.com/projects-archive/planning-studies/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-01-27T23:41:12Z",
+        "uri": "https://arquivo.pt/wayback/20220127234112mp_/https://www.ripta.com/projects-archive/planning-studies/"
+      },
+      {
+        "datetime": "2022-04-18T19:12:14Z",
+        "uri": "https://arquivo.pt/wayback/20220418191214mp_/https://www.ripta.com/projects-archive/planning-studies/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-01-27T23:41:12Z",
+      "uri": "https://arquivo.pt/wayback/20220127234112mp_/https://www.ripta.com/projects-archive/planning-studies/"
+    },
+    "last": {
+      "datetime": "2022-04-18T19:12:14Z",
+      "uri": "https://arquivo.pt/wayback/20220418191214mp_/https://www.ripta.com/projects-archive/planning-studies/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.ripta.com/projects-archive/planning-studies/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.ripta.com/projects-archive/planning-studies/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ripta.com/projects-archive/planning-studies/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.ripta.com/projects-archive/planning-studies/"
+}

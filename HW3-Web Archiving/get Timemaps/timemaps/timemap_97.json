@@ -1,0 +1,854 @@
+{
+  "original_uri": "https://guusto.com/",
+  "self": "http://localhost:1208/timemap/json/https://guusto.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2011-02-03T17:17:43Z",
+        "uri": "https://web.archive.org/web/20110203171743/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2011-02-03T17:17:43Z",
+        "uri": "https://web.archive.org/web/20110203171743/http://guusto.com/"
+      },
+      {
+        "datetime": "2011-05-02T15:35:05Z",
+        "uri": "https://web.archive.org/web/20110502153505/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2013-06-02T06:59:16Z",
+        "uri": "https://web.archive.org/web/20130602065916/http://guusto.com/"
+      },
+      {
+        "datetime": "2014-03-02T00:46:27Z",
+        "uri": "https://web.archive.org/web/20140302004627/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2014-04-10T00:07:21Z",
+        "uri": "https://web.archive.org/web/20140410000721/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2014-05-10T02:45:43Z",
+        "uri": "https://web.archive.org/web/20140510024543/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2014-05-17T09:19:03Z",
+        "uri": "https://web.archive.org/web/20140517091903/http://guusto.com/"
+      },
+      {
+        "datetime": "2014-06-10T08:08:56Z",
+        "uri": "https://web.archive.org/web/20140610080856/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2014-08-05T18:48:34Z",
+        "uri": "https://web.archive.org/web/20140805184834/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2014-09-27T01:12:23Z",
+        "uri": "https://web.archive.org/web/20140927011223/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2014-09-29T22:36:12Z",
+        "uri": "https://web.archive.org/web/20140929223612/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2014-12-13T00:56:37Z",
+        "uri": "https://web.archive.org/web/20141213005637/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2014-12-17T05:18:38Z",
+        "uri": "https://web.archive.org/web/20141217051838/http://guusto.com/"
+      },
+      {
+        "datetime": "2014-12-19T04:40:14Z",
+        "uri": "https://web.archive.org/web/20141219044014/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2014-12-23T06:58:48Z",
+        "uri": "https://web.archive.org/web/20141223065848/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2015-02-11T08:33:58Z",
+        "uri": "https://web.archive.org/web/20150211083358/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2015-03-13T19:59:46Z",
+        "uri": "https://web.archive.org/web/20150313195946/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2015-03-16T16:49:28Z",
+        "uri": "https://web.archive.org/web/20150316164928/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2015-04-26T07:56:40Z",
+        "uri": "https://web.archive.org/web/20150426075640/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2015-08-01T14:03:45Z",
+        "uri": "https://web.archive.org/web/20150801140345/http://guusto.com/"
+      },
+      {
+        "datetime": "2015-08-01T19:34:09Z",
+        "uri": "https://web.archive.org/web/20150801193409/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2015-09-01T06:06:48Z",
+        "uri": "https://web.archive.org/web/20150901060648/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2015-09-22T14:06:26Z",
+        "uri": "https://web.archive.org/web/20150922140626/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2015-09-26T08:33:57Z",
+        "uri": "https://web.archive.org/web/20150926083357/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2015-10-27T03:43:07Z",
+        "uri": "https://web.archive.org/web/20151027034307/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2015-11-26T22:56:19Z",
+        "uri": "https://web.archive.org/web/20151126225619/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2015-12-28T12:14:39Z",
+        "uri": "https://web.archive.org/web/20151228121439/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2016-01-09T18:53:21Z",
+        "uri": "https://web.archive.org/web/20160109185321/http://guusto.com/"
+      },
+      {
+        "datetime": "2016-01-14T10:17:16Z",
+        "uri": "https://web.archive.org/web/20160114101716/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2016-01-25T14:55:19Z",
+        "uri": "https://web.archive.org/web/20160125145519/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2016-02-10T11:18:39Z",
+        "uri": "https://web.archive.org/web/20160210111839/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2016-02-25T23:58:51Z",
+        "uri": "https://web.archive.org/web/20160225235851/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2016-03-07T02:01:12Z",
+        "uri": "https://web.archive.org/web/20160307020112/http://guusto.com/"
+      },
+      {
+        "datetime": "2016-03-25T04:11:10Z",
+        "uri": "https://web.archive.org/web/20160325041110/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2016-03-29T20:34:38Z",
+        "uri": "https://web.archive.org/web/20160329203438/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2016-04-05T04:36:26Z",
+        "uri": "https://web.archive.org/web/20160405043626/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2016-05-01T07:26:49Z",
+        "uri": "https://web.archive.org/web/20160501072649/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2016-06-01T09:38:32Z",
+        "uri": "https://web.archive.org/web/20160601093832/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2016-07-02T13:46:42Z",
+        "uri": "https://web.archive.org/web/20160702134642/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2016-08-03T02:28:26Z",
+        "uri": "https://web.archive.org/web/20160803022826/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2016-09-03T13:29:40Z",
+        "uri": "https://web.archive.org/web/20160903132940/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2016-09-04T11:28:12Z",
+        "uri": "https://web.archive.org/web/20160904112812/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2016-10-02T00:37:54Z",
+        "uri": "https://web.archive.org/web/20161002003754/http://guusto.com/"
+      },
+      {
+        "datetime": "2016-10-04T22:54:26Z",
+        "uri": "https://web.archive.org/web/20161004225426/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2016-10-16T17:42:56Z",
+        "uri": "https://web.archive.org/web/20161016174256/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2016-11-05T15:22:13Z",
+        "uri": "https://web.archive.org/web/20161105152213/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2016-11-07T04:12:23Z",
+        "uri": "https://web.archive.org/web/20161107041223/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2016-11-28T11:24:50Z",
+        "uri": "https://web.archive.org/web/20161128112450/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2017-03-23T12:18:43Z",
+        "uri": "https://web.archive.org/web/20170323121843/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2017-03-24T02:19:43Z",
+        "uri": "https://web.archive.org/web/20170324021943/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2017-05-28T18:08:53Z",
+        "uri": "https://web.archive.org/web/20170528180853/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2017-06-02T10:27:44Z",
+        "uri": "https://web.archive.org/web/20170602102744/http://guusto.com/"
+      },
+      {
+        "datetime": "2017-06-02T20:59:55Z",
+        "uri": "https://web.archive.org/web/20170602205955/http://guusto.com/"
+      },
+      {
+        "datetime": "2017-06-03T00:48:52Z",
+        "uri": "https://web.archive.org/web/20170603004852/http://guusto.com/"
+      },
+      {
+        "datetime": "2017-06-17T18:28:43Z",
+        "uri": "https://web.archive.org/web/20170617182843/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2017-06-18T23:41:55Z",
+        "uri": "https://web.archive.org/web/20170618234155/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2017-06-27T22:03:42Z",
+        "uri": "https://web.archive.org/web/20170627220342/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2017-06-28T15:51:43Z",
+        "uri": "https://web.archive.org/web/20170628155143/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2017-07-10T02:22:56Z",
+        "uri": "https://web.archive.org/web/20170710022256/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2017-07-29T10:11:03Z",
+        "uri": "https://web.archive.org/web/20170729101103/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2017-08-30T04:12:11Z",
+        "uri": "https://web.archive.org/web/20170830041211/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2017-08-30T04:37:06Z",
+        "uri": "https://web.archive.org/web/20170830043706/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2017-09-19T15:02:35Z",
+        "uri": "https://web.archive.org/web/20170919150235/http://guusto.com/"
+      },
+      {
+        "datetime": "2017-09-30T13:17:03Z",
+        "uri": "https://web.archive.org/web/20170930131703/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2017-09-30T14:07:44Z",
+        "uri": "https://web.archive.org/web/20170930140744/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2017-10-03T01:54:52Z",
+        "uri": "https://web.archive.org/web/20171003015452/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2017-11-01T10:08:24Z",
+        "uri": "https://web.archive.org/web/20171101100824/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2017-11-01T10:28:27Z",
+        "uri": "https://web.archive.org/web/20171101102827/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2017-11-02T12:50:32Z",
+        "uri": "https://web.archive.org/web/20171102125032/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2017-11-02T13:42:11Z",
+        "uri": "https://web.archive.org/web/20171102134211/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2017-12-05T18:35:30Z",
+        "uri": "https://web.archive.org/web/20171205183530/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2017-12-05T21:52:30Z",
+        "uri": "https://web.archive.org/web/20171205215230/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2018-01-09T10:15:17Z",
+        "uri": "https://web.archive.org/web/20180109101517/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2018-01-11T10:52:27Z",
+        "uri": "https://web.archive.org/web/20180111105227/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2018-02-10T12:24:23Z",
+        "uri": "https://web.archive.org/web/20180210122423/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2018-02-11T20:00:51Z",
+        "uri": "https://web.archive.org/web/20180211200051/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2018-02-11T21:57:55Z",
+        "uri": "https://web.archive.org/web/20180211215755/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2018-02-24T03:01:20Z",
+        "uri": "https://web.archive.org/web/20180224030120/http://guusto.com/"
+      },
+      {
+        "datetime": "2018-03-14T21:44:11Z",
+        "uri": "https://web.archive.org/web/20180314214411/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2018-03-14T23:38:48Z",
+        "uri": "https://web.archive.org/web/20180314233848/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2018-04-15T05:09:09Z",
+        "uri": "https://web.archive.org/web/20180415050909/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2018-04-15T05:09:15Z",
+        "uri": "https://web.archive.org/web/20180415050915/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2018-05-13T06:04:10Z",
+        "uri": "https://web.archive.org/web/20180513060410/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2018-05-13T17:58:45Z",
+        "uri": "https://web.archive.org/web/20180513175845/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2018-05-18T17:17:53Z",
+        "uri": "https://web.archive.org/web/20180518171753/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2018-06-16T17:59:52Z",
+        "uri": "https://web.archive.org/web/20180616175952/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2018-06-18T02:03:57Z",
+        "uri": "https://web.archive.org/web/20180618020357/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2018-06-20T11:59:00Z",
+        "uri": "https://web.archive.org/web/20180620115900/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2018-06-21T17:32:55Z",
+        "uri": "https://web.archive.org/web/20180621173255/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2018-07-20T02:32:58Z",
+        "uri": "https://web.archive.org/web/20180720023258/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2018-07-21T08:43:25Z",
+        "uri": "https://web.archive.org/web/20180721084325/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2018-07-24T00:57:20Z",
+        "uri": "https://web.archive.org/web/20180724005720/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2018-08-05T06:42:01Z",
+        "uri": "https://web.archive.org/web/20180805064201/http://guusto.com/"
+      },
+      {
+        "datetime": "2018-08-22T10:17:58Z",
+        "uri": "https://web.archive.org/web/20180822101758/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2018-08-24T07:17:18Z",
+        "uri": "https://web.archive.org/web/20180824071718/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2018-09-20T04:40:55Z",
+        "uri": "https://web.archive.org/web/20180920044055/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2018-09-22T21:21:22Z",
+        "uri": "https://web.archive.org/web/20180922212122/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2018-09-24T15:05:44Z",
+        "uri": "https://web.archive.org/web/20180924150544/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2018-10-24T13:28:22Z",
+        "uri": "https://web.archive.org/web/20181024132822/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2018-10-25T22:06:14Z",
+        "uri": "https://web.archive.org/web/20181025220614/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2018-11-24T22:11:23Z",
+        "uri": "https://web.archive.org/web/20181124221123/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2018-12-02T08:52:51Z",
+        "uri": "https://web.archive.org/web/20181202085251/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2018-12-27T06:48:20Z",
+        "uri": "https://web.archive.org/web/20181227064820/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2019-01-03T05:49:26Z",
+        "uri": "https://web.archive.org/web/20190103054926/http://guusto.com/"
+      },
+      {
+        "datetime": "2019-01-03T09:44:34Z",
+        "uri": "https://web.archive.org/web/20190103094434/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2019-01-04T12:56:20Z",
+        "uri": "https://web.archive.org/web/20190104125620/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2019-01-27T14:37:40Z",
+        "uri": "https://web.archive.org/web/20190127143740/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2019-02-05T04:21:52Z",
+        "uri": "https://web.archive.org/web/20190205042152/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2019-03-07T20:43:05Z",
+        "uri": "https://web.archive.org/web/20190307204305/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2019-03-08T20:09:34Z",
+        "uri": "https://web.archive.org/web/20190308200934/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2019-04-09T03:55:55Z",
+        "uri": "https://web.archive.org/web/20190409035555/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2019-04-09T05:33:00Z",
+        "uri": "https://web.archive.org/web/20190409053300/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2019-05-11T13:27:14Z",
+        "uri": "https://web.archive.org/web/20190511132714/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2019-05-11T13:45:32Z",
+        "uri": "https://web.archive.org/web/20190511134532/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2019-05-26T18:32:05Z",
+        "uri": "https://web.archive.org/web/20190526183205/http://guusto.com/"
+      },
+      {
+        "datetime": "2019-06-13T03:32:59Z",
+        "uri": "https://web.archive.org/web/20190613033259/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2019-06-14T15:12:35Z",
+        "uri": "https://web.archive.org/web/20190614151235/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2019-07-20T05:43:00Z",
+        "uri": "https://web.archive.org/web/20190720054300/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2019-08-02T19:02:31Z",
+        "uri": "https://web.archive.org/web/20190802190231/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2019-08-04T03:30:16Z",
+        "uri": "https://web.archive.org/web/20190804033016/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2019-08-22T18:20:09Z",
+        "uri": "https://web.archive.org/web/20190822182009/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2019-08-28T11:11:51Z",
+        "uri": "https://web.archive.org/web/20190828111151/http://guusto.com/"
+      },
+      {
+        "datetime": "2019-08-28T11:11:56Z",
+        "uri": "https://web.archive.org/web/20190828111156/https://guusto.com/"
+      },
+      {
+        "datetime": "2019-09-04T10:13:15Z",
+        "uri": "https://web.archive.org/web/20190904101315/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2019-09-23T22:55:45Z",
+        "uri": "https://web.archive.org/web/20190923225545/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2019-10-18T21:29:00Z",
+        "uri": "https://web.archive.org/web/20191018212900/http://www.guusto.com:80/"
+      },
+      {
+        "datetime": "2020-07-02T15:53:15Z",
+        "uri": "https://web.archive.org/web/20200702155315/http://guusto.com:80/"
+      },
+      {
+        "datetime": "2020-08-12T20:21:33Z",
+        "uri": "https://web.archive.org/web/20200812202133/https://guusto.com/"
+      },
+      {
+        "datetime": "2020-09-19T01:58:08Z",
+        "uri": "https://web.archive.org/web/20200919015808/https://guusto.com/"
+      },
+      {
+        "datetime": "2020-09-21T17:52:35Z",
+        "uri": "https://web.archive.org/web/20200921175235/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2020-10-19T15:03:43Z",
+        "uri": "https://web.archive.org/web/20201019150343/https://guusto.com/"
+      },
+      {
+        "datetime": "2020-10-29T19:03:39Z",
+        "uri": "https://web.archive.org/web/20201029190339/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2020-11-13T17:23:51Z",
+        "uri": "https://web.archive.org/web/20201113172351/https://guusto.com/"
+      },
+      {
+        "datetime": "2020-11-13T17:23:51Z",
+        "uri": "https://web.archive.org/web/20201113172351/http://guusto.com/"
+      },
+      {
+        "datetime": "2020-11-20T02:00:42Z",
+        "uri": "https://web.archive.org/web/20201120020042/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2020-11-20T02:00:42Z",
+        "uri": "https://web.archive.org/web/20201120020042/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2020-11-27T14:41:54Z",
+        "uri": "https://web.archive.org/web/20201127144154/https://guusto.com/"
+      },
+      {
+        "datetime": "2021-01-16T07:47:22Z",
+        "uri": "https://web.archive.org/web/20210116074722/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2021-01-24T21:07:51Z",
+        "uri": "https://web.archive.org/web/20210124210751/https://guusto.com/"
+      },
+      {
+        "datetime": "2021-03-02T10:15:29Z",
+        "uri": "https://web.archive.org/web/20210302101529/https://guusto.com/"
+      },
+      {
+        "datetime": "2021-03-04T19:10:52Z",
+        "uri": "https://web.archive.org/web/20210304191052/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2021-04-15T22:23:45Z",
+        "uri": "https://web.archive.org/web/20210415222345/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2021-04-16T01:53:52Z",
+        "uri": "https://web.archive.org/web/20210416015352/https://guusto.com/"
+      },
+      {
+        "datetime": "2021-05-07T12:43:50Z",
+        "uri": "https://web.archive.org/web/20210507124350/https://guusto.com/"
+      },
+      {
+        "datetime": "2021-06-22T22:11:15Z",
+        "uri": "https://web.archive.org/web/20210622221115/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2021-06-22T22:11:15Z",
+        "uri": "https://web.archive.org/web/20210622221115/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2021-06-25T03:10:33Z",
+        "uri": "https://web.archive.org/web/20210625031033/https://guusto.com/"
+      },
+      {
+        "datetime": "2021-06-25T03:10:33Z",
+        "uri": "https://web.archive.org/web/20210625031033/https://guusto.com/"
+      },
+      {
+        "datetime": "2021-07-07T15:03:33Z",
+        "uri": "https://web.archive.org/web/20210707150333/https://guusto.com/"
+      },
+      {
+        "datetime": "2021-07-31T01:45:31Z",
+        "uri": "https://web.archive.org/web/20210731014531/https://guusto.com/"
+      },
+      {
+        "datetime": "2021-09-21T04:14:19Z",
+        "uri": "https://web.archive.org/web/20210921041419/https://guusto.com/"
+      },
+      {
+        "datetime": "2021-09-24T20:47:08Z",
+        "uri": "https://web.archive.org/web/20210924204708/https://guusto.com/"
+      },
+      {
+        "datetime": "2021-10-26T20:36:20Z",
+        "uri": "https://web.archive.org/web/20211026203620/https://guusto.com/"
+      },
+      {
+        "datetime": "2021-12-02T00:39:07Z",
+        "uri": "https://web.archive.org/web/20211202003907/http://guusto.com/"
+      },
+      {
+        "datetime": "2022-01-10T04:54:56Z",
+        "uri": "https://web.archive.org/web/20220110045456/https://guusto.com/"
+      },
+      {
+        "datetime": "2022-01-16T00:09:58Z",
+        "uri": "https://web.archive.org/web/20220116000958/http://guusto.com/"
+      },
+      {
+        "datetime": "2022-01-19T14:57:32Z",
+        "uri": "https://web.archive.org/web/20220119145732/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2022-01-23T03:39:21Z",
+        "uri": "https://web.archive.org/web/20220123033921/https://guusto.com/"
+      },
+      {
+        "datetime": "2022-01-25T23:17:40Z",
+        "uri": "https://arquivo.pt/wayback/20220125231740mp_/http://guusto.com/"
+      },
+      {
+        "datetime": "2022-01-25T23:17:46Z",
+        "uri": "https://arquivo.pt/wayback/20220125231746mp_/https://guusto.com/"
+      },
+      {
+        "datetime": "2022-03-15T05:04:58Z",
+        "uri": "https://web.archive.org/web/20220315050458/https://guusto.com/"
+      },
+      {
+        "datetime": "2022-03-31T13:16:49Z",
+        "uri": "https://web.archive.org/web/20220331131649/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2022-04-22T01:06:53Z",
+        "uri": "https://web.archive.org/web/20220422010653/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2022-04-26T02:11:33Z",
+        "uri": "https://arquivo.pt/wayback/20220426021133mp_/https://guusto.com/"
+      },
+      {
+        "datetime": "2022-05-16T04:21:24Z",
+        "uri": "https://arquivo.pt/wayback/20220516042124mp_/https://guusto.com/"
+      },
+      {
+        "datetime": "2022-05-24T21:28:18Z",
+        "uri": "https://web.archive.org/web/20220524212818/https://guusto.com/"
+      },
+      {
+        "datetime": "2022-05-25T06:15:52Z",
+        "uri": "https://web.archive.org/web/20220525061552/https://guusto.com/"
+      },
+      {
+        "datetime": "2022-06-25T10:21:11Z",
+        "uri": "https://web.archive.org/web/20220625102111/https://guusto.com/"
+      },
+      {
+        "datetime": "2022-06-25T14:57:36Z",
+        "uri": "https://web.archive.org/web/20220625145736/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2022-06-25T15:00:42Z",
+        "uri": "https://web.archive.org/web/20220625150042/https://guusto.com/"
+      },
+      {
+        "datetime": "2022-07-01T06:50:54Z",
+        "uri": "https://web.archive.org/web/20220701065054/https://guusto.com/"
+      },
+      {
+        "datetime": "2022-08-26T01:40:23Z",
+        "uri": "https://arquivo.pt/wayback/20220826014023mp_/https://guusto.com/"
+      },
+      {
+        "datetime": "2022-10-04T08:02:40Z",
+        "uri": "https://web.archive.org/web/20221004080240/https://guusto.com/"
+      },
+      {
+        "datetime": "2023-02-06T15:18:36Z",
+        "uri": "https://web.archive.org/web/20230206151836/https://guusto.com/"
+      },
+      {
+        "datetime": "2023-02-09T02:39:02Z",
+        "uri": "https://arquivo.pt/wayback/20230209023902mp_/https://guusto.com/"
+      },
+      {
+        "datetime": "2023-03-01T15:15:40Z",
+        "uri": "https://web.archive.org/web/20230301151540/https://guusto.com/"
+      },
+      {
+        "datetime": "2023-03-02T14:54:18Z",
+        "uri": "https://web.archive.org/web/20230302145418/https://guusto.com/"
+      },
+      {
+        "datetime": "2023-03-04T21:03:44Z",
+        "uri": "https://web.archive.org/web/20230304210344/https://guusto.com/"
+      },
+      {
+        "datetime": "2023-03-07T23:30:21Z",
+        "uri": "https://web.archive.org/web/20230307233021/http://guusto.com/"
+      },
+      {
+        "datetime": "2023-03-31T02:33:11Z",
+        "uri": "https://web.archive.org/web/20230331023311/http://guusto.com/"
+      },
+      {
+        "datetime": "2023-03-31T12:10:35Z",
+        "uri": "https://web.archive.org/web/20230331121035/https://guusto.com/"
+      },
+      {
+        "datetime": "2023-04-04T00:52:28Z",
+        "uri": "https://web.archive.org/web/20230404005228/http://guusto.com/"
+      },
+      {
+        "datetime": "2023-04-04T15:29:20Z",
+        "uri": "https://web.archive.org/web/20230404152920/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2023-04-05T08:26:03Z",
+        "uri": "https://web.archive.org/web/20230405082603/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2023-04-05T08:44:56Z",
+        "uri": "https://web.archive.org/web/20230405084456/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2023-05-28T02:27:19Z",
+        "uri": "https://web.archive.org/web/20230528022719/https://guusto.com/"
+      },
+      {
+        "datetime": "2023-05-28T21:28:44Z",
+        "uri": "https://web.archive.org/web/20230528212844/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2023-05-31T00:14:04Z",
+        "uri": "https://web.archive.org/web/20230531001404/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2023-05-31T00:14:05Z",
+        "uri": "https://web.archive.org/web/20230531001405/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2023-06-15T08:56:54Z",
+        "uri": "https://web.archive.org/web/20230615085654/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2023-06-15T09:44:28Z",
+        "uri": "https://web.archive.org/web/20230615094428/https://guusto.com/"
+      },
+      {
+        "datetime": "2023-10-04T19:19:10Z",
+        "uri": "https://web.archive.org/web/20231004191910/https://guusto.com/"
+      },
+      {
+        "datetime": "2023-10-05T12:09:53Z",
+        "uri": "https://web.archive.org/web/20231005120953/https://guusto.com/"
+      },
+      {
+        "datetime": "2023-10-11T01:05:20Z",
+        "uri": "https://web.archive.org/web/20231011010520/https://guusto.com/"
+      },
+      {
+        "datetime": "2023-10-11T01:09:00Z",
+        "uri": "https://web.archive.org/web/20231011010900/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2023-12-04T02:36:48Z",
+        "uri": "https://web.archive.org/web/20231204023648/https://guusto.com/"
+      },
+      {
+        "datetime": "2024-01-21T04:48:20Z",
+        "uri": "https://web.archive.org/web/20240121044820/http://www.guusto.com/"
+      },
+      {
+        "datetime": "2024-01-21T04:48:23Z",
+        "uri": "https://web.archive.org/web/20240121044823/https://www.guusto.com/"
+      },
+      {
+        "datetime": "2024-01-24T01:33:18Z",
+        "uri": "https://web.archive.org/web/20240124013318/http://mailto:info@guusto.com/"
+      },
+      {
+        "datetime": "2024-01-24T01:33:25Z",
+        "uri": "https://web.archive.org/web/20240124013325/https://guusto.com/"
+      },
+      {
+        "datetime": "2024-01-31T05:45:53Z",
+        "uri": "https://web.archive.org/web/20240131054553/https://guusto.com/"
+      },
+      {
+        "datetime": "2024-02-22T02:01:09Z",
+        "uri": "https://web.archive.org/web/20240222020109/https://guusto.com/"
+      },
+      {
+        "datetime": "2024-03-18T17:40:24Z",
+        "uri": "https://web.archive.org/web/20240318174024/https://guusto.com/"
+      },
+      {
+        "datetime": "2024-04-20T12:36:32Z",
+        "uri": "https://web.archive.org/web/20240420123632/https://guusto.com/"
+      },
+      {
+        "datetime": "2024-05-11T06:56:14Z",
+        "uri": "https://web.archive.org/web/20240511065614/https://guusto.com/"
+      },
+      {
+        "datetime": "2024-05-11T06:57:33Z",
+        "uri": "https://web.archive.org/web/20240511065733/http://guusto.com/"
+      },
+      {
+        "datetime": "2024-05-11T20:27:42Z",
+        "uri": "https://web.archive.org/web/20240511202742/https://guusto.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2011-02-03T17:17:43Z",
+      "uri": "https://web.archive.org/web/20110203171743/http://www.guusto.com/"
+    },
+    "last": {
+      "datetime": "2024-05-11T20:27:42Z",
+      "uri": "https://web.archive.org/web/20240511202742/https://guusto.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://guusto.com/",
+    "json_format": "http://localhost:1208/timemap/json/https://guusto.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://guusto.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://guusto.com/"
+}

@@ -1,0 +1,202 @@
+{
+  "original_uri": "https://www.youtube.com/user/CommonSenseEducators",
+  "self": "http://localhost:1208/timemap/json/https://www.youtube.com/user/CommonSenseEducators",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-10-19T20:41:15Z",
+        "uri": "https://wayback.archive-it.org/all/20131019204115/http://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2013-10-19T21:43:01Z",
+        "uri": "https://wayback.archive-it.org/all/20131019214301/http://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2013-10-20T05:34:47Z",
+        "uri": "https://wayback.archive-it.org/all/20131020053447/http://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2014-07-30T06:05:01Z",
+        "uri": "https://wayback.archive-it.org/all/20140730060501/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2014-07-30T06:32:38Z",
+        "uri": "https://wayback.archive-it.org/all/20140730063238/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2014-07-30T06:32:40Z",
+        "uri": "https://wayback.archive-it.org/all/20140730063240/http://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2014-07-31T03:12:31Z",
+        "uri": "https://wayback.archive-it.org/all/20140731031231/http://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2014-08-03T00:21:06Z",
+        "uri": "https://wayback.archive-it.org/all/20140803002106/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2014-08-03T13:46:17Z",
+        "uri": "https://wayback.archive-it.org/all/20140803134617/http://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2014-08-06T19:14:13Z",
+        "uri": "https://wayback.archive-it.org/all/20140806191413/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2014-08-07T03:53:52Z",
+        "uri": "https://wayback.archive-it.org/all/20140807035352/http://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2014-08-13T08:23:10Z",
+        "uri": "https://wayback.archive-it.org/all/20140813082310/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2014-08-13T08:23:14Z",
+        "uri": "https://wayback.archive-it.org/all/20140813082314/http://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2014-09-11T06:36:20Z",
+        "uri": "https://wayback.archive-it.org/all/20140911063620/http://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2014-09-19T22:15:08Z",
+        "uri": "https://wayback.archive-it.org/all/20140919221508/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2014-09-25T06:05:11Z",
+        "uri": "https://wayback.archive-it.org/all/20140925060511/http://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2014-10-15T05:04:26Z",
+        "uri": "https://wayback.archive-it.org/all/20141015050426/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2014-10-29T13:10:02Z",
+        "uri": "https://wayback.archive-it.org/all/20141029131002/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2015-10-14T04:11:46Z",
+        "uri": "https://wayback.archive-it.org/all/20151014041146/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2019-04-17T17:57:40Z",
+        "uri": "https://wayback.archive-it.org/all/20190417175740/http://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2019-04-17T18:20:22Z",
+        "uri": "https://wayback.archive-it.org/all/20190417182022/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2019-08-30T18:49:19Z",
+        "uri": "https://wayback.archive-it.org/all/20190830184919/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2019-11-09T12:06:54Z",
+        "uri": "https://wayback.archive-it.org/all/20191109120654/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2019-12-10T21:22:29Z",
+        "uri": "https://wayback.archive-it.org/all/20191210212229/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2019-12-14T01:33:23Z",
+        "uri": "https://wayback.archive-it.org/all/20191214013323/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2019-12-14T04:09:37Z",
+        "uri": "https://wayback.archive-it.org/all/20191214040937/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2020-02-05T03:49:00Z",
+        "uri": "https://wayback.archive-it.org/all/20200205034900/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2020-02-10T16:59:27Z",
+        "uri": "https://wayback.archive-it.org/all/20200210165927/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2020-04-17T03:11:02Z",
+        "uri": "https://wayback.archive-it.org/all/20200417031102/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2020-05-22T16:18:09Z",
+        "uri": "https://wayback.archive-it.org/all/20200522161809/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2020-06-01T20:09:46Z",
+        "uri": "https://wayback.archive-it.org/all/20200601200946/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2020-06-07T00:16:52Z",
+        "uri": "https://wayback.archive-it.org/all/20200607001652/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2020-06-08T19:02:52Z",
+        "uri": "https://wayback.archive-it.org/all/20200608190252/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2020-08-01T12:36:23Z",
+        "uri": "https://wayback.archive-it.org/all/20200801123623/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2020-08-27T07:01:52Z",
+        "uri": "https://wayback.archive-it.org/all/20200827070152/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2020-11-25T06:44:00Z",
+        "uri": "https://wayback.archive-it.org/all/20201125064400/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2021-07-16T15:08:35Z",
+        "uri": "https://wayback.archive-it.org/all/20210716150835/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2021-12-16T06:03:41Z",
+        "uri": "https://wayback.archive-it.org/all/20211216060341/http://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2021-12-16T06:03:45Z",
+        "uri": "https://wayback.archive-it.org/all/20211216060345/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2022-05-28T01:04:16Z",
+        "uri": "https://wayback.archive-it.org/all/20220528010416/http://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2022-05-28T01:04:39Z",
+        "uri": "https://wayback.archive-it.org/all/20220528010439/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2023-06-05T08:59:47Z",
+        "uri": "https://wayback.archive-it.org/all/20230605085947/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2023-07-04T08:42:48Z",
+        "uri": "https://wayback.archive-it.org/all/20230704084248/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2023-09-02T16:53:48Z",
+        "uri": "https://wayback.archive-it.org/all/20230902165348/https://www.youtube.com/user/CommonSenseEducators"
+      },
+      {
+        "datetime": "2023-10-03T11:48:41Z",
+        "uri": "https://wayback.archive-it.org/all/20231003114841/https://www.youtube.com/user/CommonSenseEducators"
+      }
+    ],
+    "first": {
+      "datetime": "2013-10-19T20:41:15Z",
+      "uri": "https://wayback.archive-it.org/all/20131019204115/http://www.youtube.com/user/CommonSenseEducators"
+    },
+    "last": {
+      "datetime": "2023-10-03T11:48:41Z",
+      "uri": "https://wayback.archive-it.org/all/20231003114841/https://www.youtube.com/user/CommonSenseEducators"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.youtube.com/user/CommonSenseEducators",
+    "json_format": "http://localhost:1208/timemap/json/https://www.youtube.com/user/CommonSenseEducators",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.youtube.com/user/CommonSenseEducators"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.youtube.com/user/CommonSenseEducators"
+}

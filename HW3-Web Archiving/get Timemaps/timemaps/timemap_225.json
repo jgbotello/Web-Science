@@ -1,0 +1,166 @@
+{
+  "original_uri": "https://www.odu.edu/employment",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/employment",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-16T18:35:16Z",
+        "uri": "https://wayback.archive-it.org/all/20200416183516/https://odu.edu/employment"
+      },
+      {
+        "datetime": "2020-04-16T18:35:42Z",
+        "uri": "https://wayback.archive-it.org/all/20200416183542/https://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2020-04-16T18:36:06Z",
+        "uri": "https://wayback.archive-it.org/all/20200416183606/http://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2020-09-10T20:29:14Z",
+        "uri": "https://wayback.archive-it.org/all/20200910202914/https://odu.edu/employment"
+      },
+      {
+        "datetime": "2020-09-10T21:47:22Z",
+        "uri": "https://wayback.archive-it.org/all/20200910214722/https://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2020-09-10T21:47:34Z",
+        "uri": "https://wayback.archive-it.org/all/20200910214734/http://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2021-05-26T19:42:27Z",
+        "uri": "https://wayback.archive-it.org/all/20210526194227/https://odu.edu/employment"
+      },
+      {
+        "datetime": "2021-05-26T19:42:33Z",
+        "uri": "https://wayback.archive-it.org/all/20210526194233/https://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2021-05-26T19:42:38Z",
+        "uri": "https://wayback.archive-it.org/all/20210526194238/http://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2021-09-10T15:33:46Z",
+        "uri": "https://arquivo.pt/wayback/20210910153346mp_/https://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2021-11-03T11:12:37Z",
+        "uri": "https://arquivo.pt/wayback/20211103111237mp_/https://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2021-11-03T11:12:41Z",
+        "uri": "https://arquivo.pt/wayback/20211103111241mp_/http://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2022-01-22T10:13:17Z",
+        "uri": "https://arquivo.pt/wayback/20220122101317mp_/https://odu.edu/employment"
+      },
+      {
+        "datetime": "2022-01-26T05:31:56Z",
+        "uri": "https://arquivo.pt/wayback/20220126053156mp_/http://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2022-04-17T05:18:46Z",
+        "uri": "https://arquivo.pt/wayback/20220417051846mp_/https://odu.edu/employment"
+      },
+      {
+        "datetime": "2022-04-22T17:12:33Z",
+        "uri": "https://arquivo.pt/wayback/20220422171233mp_/https://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2022-04-22T17:12:38Z",
+        "uri": "https://arquivo.pt/wayback/20220422171238mp_/http://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2022-04-24T18:49:35Z",
+        "uri": "https://arquivo.pt/wayback/20220424184935mp_/http://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2022-07-30T14:29:40Z",
+        "uri": "https://arquivo.pt/wayback/20220730142940mp_/https://odu.edu/employment"
+      },
+      {
+        "datetime": "2022-08-10T19:47:55Z",
+        "uri": "https://wayback.archive-it.org/all/20220810194755/https://odu.edu/employment"
+      },
+      {
+        "datetime": "2022-08-10T19:48:12Z",
+        "uri": "https://wayback.archive-it.org/all/20220810194812/https://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2022-08-10T19:48:32Z",
+        "uri": "https://wayback.archive-it.org/all/20220810194832/http://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2022-10-11T02:03:54Z",
+        "uri": "https://arquivo.pt/wayback/20221011020354mp_/https://odu.edu/employment"
+      },
+      {
+        "datetime": "2022-11-07T04:38:33Z",
+        "uri": "https://wayback.archive-it.org/all/20221107043833/https://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2022-11-07T10:19:45Z",
+        "uri": "https://wayback.archive-it.org/all/20221107101945/http://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2022-12-07T06:58:22Z",
+        "uri": "https://wayback.archive-it.org/all/20221207065822/https://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2022-12-08T09:12:01Z",
+        "uri": "https://wayback.archive-it.org/all/20221208091201/http://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2023-01-07T06:38:34Z",
+        "uri": "https://wayback.archive-it.org/all/20230107063834/https://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2023-01-08T05:54:32Z",
+        "uri": "https://wayback.archive-it.org/all/20230108055432/http://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2023-01-24T19:41:24Z",
+        "uri": "https://arquivo.pt/wayback/20230124194124mp_/https://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2023-02-07T05:51:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230207055156/https://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2023-02-08T16:40:57Z",
+        "uri": "https://wayback.archive-it.org/all/20230208164057/http://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2023-03-07T04:21:47Z",
+        "uri": "https://wayback.archive-it.org/all/20230307042147/https://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2023-03-07T07:15:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230307071516/http://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2023-08-25T17:31:35Z",
+        "uri": "https://wayback.archive-it.org/all/20230825173135/https://www.odu.edu/employment"
+      },
+      {
+        "datetime": "2023-08-26T09:44:24Z",
+        "uri": "https://wayback.archive-it.org/all/20230826094424/http://www.odu.edu/employment"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-16T18:35:16Z",
+      "uri": "https://wayback.archive-it.org/all/20200416183516/https://odu.edu/employment"
+    },
+    "last": {
+      "datetime": "2023-08-26T09:44:24Z",
+      "uri": "https://wayback.archive-it.org/all/20230826094424/http://www.odu.edu/employment"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/employment",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/employment",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/employment"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/employment"
+}

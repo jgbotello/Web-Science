@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.linkedin.com/company/64702308/",
+  "self": "http://localhost:1208/timemap/json/https://www.linkedin.com/company/64702308/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-08-12T08:15:46Z",
+        "uri": "https://web.archive.org/web/20210812081546/https://www.linkedin.com/company/64702308/"
+      },
+      {
+        "datetime": "2024-04-16T11:01:16Z",
+        "uri": "https://web.archive.org/web/20240416110116/https://www.linkedin.com/company/64702308/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-08-12T08:15:46Z",
+      "uri": "https://web.archive.org/web/20210812081546/https://www.linkedin.com/company/64702308/"
+    },
+    "last": {
+      "datetime": "2024-04-16T11:01:16Z",
+      "uri": "https://web.archive.org/web/20240416110116/https://www.linkedin.com/company/64702308/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.linkedin.com/company/64702308/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.linkedin.com/company/64702308/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.linkedin.com/company/64702308/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.linkedin.com/company/64702308/"
+}

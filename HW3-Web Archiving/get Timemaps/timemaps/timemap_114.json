@@ -1,0 +1,106 @@
+{
+  "original_uri": "https://www.odu.edu/al/resources",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/al/resources",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-05-27T18:39:03Z",
+        "uri": "https://wayback.archive-it.org/all/20210527183903/https://odu.edu/al/resources"
+      },
+      {
+        "datetime": "2021-05-27T18:39:09Z",
+        "uri": "https://wayback.archive-it.org/all/20210527183909/https://www.odu.edu/al/resources"
+      },
+      {
+        "datetime": "2021-05-27T18:39:15Z",
+        "uri": "https://wayback.archive-it.org/all/20210527183915/http://www.odu.edu/al/resources"
+      },
+      {
+        "datetime": "2021-10-21T06:45:49Z",
+        "uri": "https://arquivo.pt/wayback/20211021064549mp_/https://odu.edu/al/resources"
+      },
+      {
+        "datetime": "2021-11-03T13:00:53Z",
+        "uri": "https://arquivo.pt/wayback/20211103130053mp_/http://www.odu.edu/al/resources"
+      },
+      {
+        "datetime": "2022-04-20T17:44:57Z",
+        "uri": "https://arquivo.pt/wayback/20220420174457mp_/https://odu.edu/al/resources"
+      },
+      {
+        "datetime": "2022-04-22T19:13:33Z",
+        "uri": "https://arquivo.pt/wayback/20220422191333mp_/http://www.odu.edu/al/resources"
+      },
+      {
+        "datetime": "2022-05-16T03:41:34Z",
+        "uri": "https://arquivo.pt/wayback/20220516034134mp_/http://www.odu.edu/al/resources"
+      },
+      {
+        "datetime": "2022-08-11T19:56:09Z",
+        "uri": "https://wayback.archive-it.org/all/20220811195609/https://odu.edu/al/resources"
+      },
+      {
+        "datetime": "2022-08-11T19:56:16Z",
+        "uri": "https://wayback.archive-it.org/all/20220811195616/https://www.odu.edu/al/resources"
+      },
+      {
+        "datetime": "2022-08-11T19:56:22Z",
+        "uri": "https://wayback.archive-it.org/all/20220811195622/http://www.odu.edu/al/resources"
+      },
+      {
+        "datetime": "2022-11-07T11:36:35Z",
+        "uri": "https://wayback.archive-it.org/all/20221107113635/https://www.odu.edu/al/resources"
+      },
+      {
+        "datetime": "2022-11-09T01:16:09Z",
+        "uri": "https://wayback.archive-it.org/all/20221109011609/http://www.odu.edu/al/resources"
+      },
+      {
+        "datetime": "2022-12-09T02:27:44Z",
+        "uri": "https://wayback.archive-it.org/all/20221209022744/https://www.odu.edu/al/resources"
+      },
+      {
+        "datetime": "2022-12-21T01:01:54Z",
+        "uri": "https://wayback.archive-it.org/all/20221221010154/http://www.odu.edu/al/resources"
+      },
+      {
+        "datetime": "2023-01-08T16:35:48Z",
+        "uri": "https://wayback.archive-it.org/all/20230108163548/https://www.odu.edu/al/resources"
+      },
+      {
+        "datetime": "2023-02-09T11:31:51Z",
+        "uri": "https://wayback.archive-it.org/all/20230209113151/https://www.odu.edu/al/resources"
+      },
+      {
+        "datetime": "2023-03-07T09:27:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230307092729/https://www.odu.edu/al/resources"
+      },
+      {
+        "datetime": "2023-03-09T06:47:00Z",
+        "uri": "https://wayback.archive-it.org/all/20230309064700/http://www.odu.edu/al/resources"
+      },
+      {
+        "datetime": "2023-08-25T23:38:39Z",
+        "uri": "https://wayback.archive-it.org/all/20230825233839/https://www.odu.edu/al/resources"
+      },
+      {
+        "datetime": "2023-08-27T05:06:49Z",
+        "uri": "https://wayback.archive-it.org/all/20230827050649/http://www.odu.edu/al/resources"
+      }
+    ],
+    "first": {
+      "datetime": "2021-05-27T18:39:03Z",
+      "uri": "https://wayback.archive-it.org/all/20210527183903/https://odu.edu/al/resources"
+    },
+    "last": {
+      "datetime": "2023-08-27T05:06:49Z",
+      "uri": "https://wayback.archive-it.org/all/20230827050649/http://www.odu.edu/al/resources"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/al/resources",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/al/resources",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/al/resources"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/al/resources"
+}

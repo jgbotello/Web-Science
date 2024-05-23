@@ -1,0 +1,1814 @@
+{
+  "original_uri": "https://alumni.risd.edu",
+  "self": "http://localhost:1208/timemap/json/https://alumni.risd.edu",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2011-03-18T11:33:18Z",
+        "uri": "https://web.archive.org/web/20110318113318/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2011-05-18T03:45:48Z",
+        "uri": "https://web.archive.org/web/20110518034548/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2011-05-19T07:34:21Z",
+        "uri": "https://web.archive.org/web/20110519073421/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2011-06-11T10:02:06Z",
+        "uri": "https://web.archive.org/web/20110611100206/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2011-07-17T09:12:28Z",
+        "uri": "https://web.archive.org/web/20110717091228/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2011-07-20T03:51:49Z",
+        "uri": "https://web.archive.org/web/20110720035149/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2011-07-20T03:52:30Z",
+        "uri": "https://web.archive.org/web/20110720035230/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2011-07-24T22:04:20Z",
+        "uri": "https://web.archive.org/web/20110724220420/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2011-07-24T22:11:14Z",
+        "uri": "https://web.archive.org/web/20110724221114/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2011-08-11T03:59:42Z",
+        "uri": "https://web.archive.org/web/20110811035942/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2011-10-08T04:52:35Z",
+        "uri": "https://web.archive.org/web/20111008045235/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2011-12-10T02:23:48Z",
+        "uri": "https://web.archive.org/web/20111210022348/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2012-01-21T09:38:39Z",
+        "uri": "https://web.archive.org/web/20120121093839/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-01-22T03:18:08Z",
+        "uri": "https://web.archive.org/web/20120122031808/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-01-22T21:29:10Z",
+        "uri": "https://web.archive.org/web/20120122212910/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-01-23T05:49:12Z",
+        "uri": "https://web.archive.org/web/20120123054912/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-01-23T23:50:54Z",
+        "uri": "https://web.archive.org/web/20120123235054/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-01-24T05:49:06Z",
+        "uri": "https://web.archive.org/web/20120124054906/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-01-25T00:52:02Z",
+        "uri": "https://web.archive.org/web/20120125005202/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-01-25T03:13:01Z",
+        "uri": "https://web.archive.org/web/20120125031301/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-02-08T20:18:37Z",
+        "uri": "https://web.archive.org/web/20120208201837/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2012-04-09T08:02:53Z",
+        "uri": "https://web.archive.org/web/20120409080253/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2012-05-01T14:42:27Z",
+        "uri": "https://web.archive.org/web/20120501144227/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-06-08T23:28:24Z",
+        "uri": "https://web.archive.org/web/20120608232824/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2012-08-08T07:15:42Z",
+        "uri": "https://web.archive.org/web/20120808071542/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2012-09-19T23:56:31Z",
+        "uri": "https://web.archive.org/web/20120919235631/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-20T03:15:01Z",
+        "uri": "https://web.archive.org/web/20120920031501/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-20T07:01:31Z",
+        "uri": "https://web.archive.org/web/20120920070131/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-21T06:52:03Z",
+        "uri": "https://web.archive.org/web/20120921065203/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-21T23:32:49Z",
+        "uri": "https://web.archive.org/web/20120921233249/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-23T00:00:01Z",
+        "uri": "https://web.archive.org/web/20120923000001/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-23T03:10:54Z",
+        "uri": "https://web.archive.org/web/20120923031054/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-23T07:24:20Z",
+        "uri": "https://web.archive.org/web/20120923072420/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-23T10:07:34Z",
+        "uri": "https://web.archive.org/web/20120923100734/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-23T16:15:08Z",
+        "uri": "https://web.archive.org/web/20120923161508/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-23T18:59:12Z",
+        "uri": "https://web.archive.org/web/20120923185912/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-24T04:32:20Z",
+        "uri": "https://web.archive.org/web/20120924043220/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-24T07:58:20Z",
+        "uri": "https://web.archive.org/web/20120924075820/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-24T11:36:30Z",
+        "uri": "https://web.archive.org/web/20120924113630/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-24T18:52:17Z",
+        "uri": "https://web.archive.org/web/20120924185217/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-25T06:52:07Z",
+        "uri": "https://web.archive.org/web/20120925065207/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-25T15:31:57Z",
+        "uri": "https://web.archive.org/web/20120925153157/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-25T20:24:40Z",
+        "uri": "https://web.archive.org/web/20120925202440/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-26T16:51:32Z",
+        "uri": "https://web.archive.org/web/20120926165132/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-26T22:53:32Z",
+        "uri": "https://web.archive.org/web/20120926225332/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-28T23:32:16Z",
+        "uri": "https://web.archive.org/web/20120928233216/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-29T04:13:28Z",
+        "uri": "https://web.archive.org/web/20120929041328/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-29T11:47:53Z",
+        "uri": "https://web.archive.org/web/20120929114753/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-29T16:18:09Z",
+        "uri": "https://web.archive.org/web/20120929161809/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-29T21:45:06Z",
+        "uri": "https://web.archive.org/web/20120929214506/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-30T04:27:09Z",
+        "uri": "https://web.archive.org/web/20120930042709/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-30T13:29:33Z",
+        "uri": "https://web.archive.org/web/20120930132933/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-09-30T21:06:36Z",
+        "uri": "https://web.archive.org/web/20120930210636/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-10-01T11:20:54Z",
+        "uri": "https://web.archive.org/web/20121001112054/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-10-01T22:44:09Z",
+        "uri": "https://web.archive.org/web/20121001224409/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-10-02T03:08:51Z",
+        "uri": "https://web.archive.org/web/20121002030851/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-10-02T12:54:38Z",
+        "uri": "https://web.archive.org/web/20121002125438/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-10-02T22:15:18Z",
+        "uri": "https://web.archive.org/web/20121002221518/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-10-07T20:38:28Z",
+        "uri": "https://web.archive.org/web/20121007203828/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2012-12-07T09:01:13Z",
+        "uri": "https://web.archive.org/web/20121207090113/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2012-12-14T14:06:02Z",
+        "uri": "https://web.archive.org/web/20121214140602/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2012-12-21T08:47:43Z",
+        "uri": "https://web.archive.org/web/20121221084743/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2013-01-15T01:29:43Z",
+        "uri": "https://web.archive.org/web/20130115012943/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2013-01-21T02:50:56Z",
+        "uri": "https://web.archive.org/web/20130121025056/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2013-02-05T19:49:20Z",
+        "uri": "https://web.archive.org/web/20130205194920/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2013-04-03T20:05:11Z",
+        "uri": "https://web.archive.org/web/20130403200511/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2013-04-07T16:21:19Z",
+        "uri": "https://web.archive.org/web/20130407162119/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2013-04-08T05:48:30Z",
+        "uri": "https://web.archive.org/web/20130408054830/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2013-04-20T16:51:16Z",
+        "uri": "https://web.archive.org/web/20130420165116/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2013-04-23T23:26:14Z",
+        "uri": "https://web.archive.org/web/20130423232614/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2013-05-30T13:45:19Z",
+        "uri": "https://web.archive.org/web/20130530134519/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2013-06-07T23:51:29Z",
+        "uri": "https://web.archive.org/web/20130607235129/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2013-06-10T06:26:25Z",
+        "uri": "https://web.archive.org/web/20130610062625/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2013-08-06T06:12:48Z",
+        "uri": "https://web.archive.org/web/20130806061248/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2013-08-10T07:14:22Z",
+        "uri": "https://web.archive.org/web/20130810071422/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2013-10-10T00:08:40Z",
+        "uri": "https://web.archive.org/web/20131010000840/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2013-10-27T15:06:19Z",
+        "uri": "https://web.archive.org/web/20131027150619/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2013-10-30T11:10:51Z",
+        "uri": "https://web.archive.org/web/20131030111051/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2013-12-09T19:29:12Z",
+        "uri": "https://web.archive.org/web/20131209192912/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2014-02-08T06:01:13Z",
+        "uri": "https://web.archive.org/web/20140208060113/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2014-02-08T13:24:48Z",
+        "uri": "https://web.archive.org/web/20140208132448/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2014-04-10T13:21:02Z",
+        "uri": "https://web.archive.org/web/20140410132102/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2014-06-09T23:29:34Z",
+        "uri": "https://web.archive.org/web/20140609232934/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2014-06-25T10:51:37Z",
+        "uri": "https://web.archive.org/web/20140625105137/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2014-08-09T14:06:43Z",
+        "uri": "https://web.archive.org/web/20140809140643/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2014-09-20T23:45:39Z",
+        "uri": "https://web.archive.org/web/20140920234539/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2014-10-06T22:55:21Z",
+        "uri": "https://web.archive.org/web/20141006225521/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2014-11-20T11:17:12Z",
+        "uri": "https://web.archive.org/web/20141120111712/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2015-01-20T01:42:48Z",
+        "uri": "https://web.archive.org/web/20150120014248/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2015-02-06T05:01:10Z",
+        "uri": "https://web.archive.org/web/20150206050110/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2015-02-20T02:55:42Z",
+        "uri": "https://web.archive.org/web/20150220025542/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2015-03-15T02:18:32Z",
+        "uri": "https://web.archive.org/web/20150315021832/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2015-03-20T23:25:40Z",
+        "uri": "https://web.archive.org/web/20150320232540/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2015-03-22T00:40:33Z",
+        "uri": "https://web.archive.org/web/20150322004033/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2015-04-29T16:00:47Z",
+        "uri": "http://archive.md/20150429160047/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2015-07-21T23:45:37Z",
+        "uri": "https://web.archive.org/web/20150721234537/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2015-09-05T05:24:25Z",
+        "uri": "https://web.archive.org/web/20150905052425/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2015-09-05T07:09:44Z",
+        "uri": "https://web.archive.org/web/20150905070944/http://www.alumni.risd.edu/"
+      },
+      {
+        "datetime": "2015-09-19T09:50:28Z",
+        "uri": "https://web.archive.org/web/20150919095028/http://www.alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2015-09-19T09:50:28Z",
+        "uri": "https://web.archive.org/web/20150919095028/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2015-11-18T17:41:07Z",
+        "uri": "https://web.archive.org/web/20151118174107/http://www.alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2015-11-18T17:41:07Z",
+        "uri": "https://web.archive.org/web/20151118174107/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2016-01-08T07:49:48Z",
+        "uri": "https://web.archive.org/web/20160108074948/http://gduan@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2016-01-08T07:49:50Z",
+        "uri": "https://web.archive.org/web/20160108074950/http://www.alumni.risd.edu/"
+      },
+      {
+        "datetime": "2016-01-18T08:11:32Z",
+        "uri": "https://web.archive.org/web/20160118081132/http://www.alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2016-01-18T08:11:32Z",
+        "uri": "https://web.archive.org/web/20160118081132/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2016-02-05T03:47:28Z",
+        "uri": "https://web.archive.org/web/20160205034728/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2016-03-05T17:44:02Z",
+        "uri": "https://web.archive.org/web/20160305174402/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2016-03-08T08:15:58Z",
+        "uri": "https://web.archive.org/web/20160308081558/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2016-03-17T09:50:55Z",
+        "uri": "https://web.archive.org/web/20160317095055/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2016-03-18T23:22:40Z",
+        "uri": "https://web.archive.org/web/20160318232240/http://www.alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2016-03-18T23:22:40Z",
+        "uri": "https://web.archive.org/web/20160318232240/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2016-04-05T05:30:23Z",
+        "uri": "https://web.archive.org/web/20160405053023/http://www.alumni.risd.edu/"
+      },
+      {
+        "datetime": "2016-04-28T09:34:40Z",
+        "uri": "https://web.archive.org/web/20160428093440/http://www.alumni.risd.edu/"
+      },
+      {
+        "datetime": "2016-07-18T06:54:08Z",
+        "uri": "https://web.archive.org/web/20160718065408/http://www.alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2016-07-18T06:54:08Z",
+        "uri": "https://web.archive.org/web/20160718065408/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2016-09-12T04:03:43Z",
+        "uri": "https://web.archive.org/web/20160912040343/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2016-10-28T07:50:33Z",
+        "uri": "https://web.archive.org/web/20161028075033/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2016-11-19T22:48:23Z",
+        "uri": "https://web.archive.org/web/20161119224823/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2016-11-25T17:28:14Z",
+        "uri": "https://web.archive.org/web/20161125172814/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2017-01-23T10:34:38Z",
+        "uri": "https://web.archive.org/web/20170123103438/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2017-01-29T15:16:11Z",
+        "uri": "https://web.archive.org/web/20170129151611/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2017-05-25T15:35:19Z",
+        "uri": "https://web.archive.org/web/20170525153519/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2017-06-06T13:10:30Z",
+        "uri": "https://web.archive.org/web/20170606131030/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2017-06-09T21:57:12Z",
+        "uri": "https://web.archive.org/web/20170609215712/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2017-06-25T18:41:55Z",
+        "uri": "https://web.archive.org/web/20170625184155/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2017-07-26T20:15:46Z",
+        "uri": "https://web.archive.org/web/20170726201546/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2017-09-23T00:28:25Z",
+        "uri": "https://web.archive.org/web/20170923002825/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2017-10-23T18:59:04Z",
+        "uri": "https://web.archive.org/web/20171023185904/http://rcurley@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2017-10-25T02:19:26Z",
+        "uri": "https://web.archive.org/web/20171025021926/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2017-10-26T03:01:02Z",
+        "uri": "https://web.archive.org/web/20171026030102/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2017-11-30T08:30:55Z",
+        "uri": "https://web.archive.org/web/20171130083055/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2017-12-14T02:40:03Z",
+        "uri": "https://web.archive.org/web/20171214024003/http://alumni.risd.edu:80/?"
+      },
+      {
+        "datetime": "2017-12-31T07:00:12Z",
+        "uri": "https://web.archive.org/web/20171231070012/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2018-01-14T04:30:22Z",
+        "uri": "https://web.archive.org/web/20180114043022/http://alumni.risd.edu:80/?"
+      },
+      {
+        "datetime": "2018-01-31T08:40:16Z",
+        "uri": "https://web.archive.org/web/20180131084016/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2018-02-15T14:42:48Z",
+        "uri": "https://web.archive.org/web/20180215144248/http://alumni.risd.edu:80/?"
+      },
+      {
+        "datetime": "2018-03-12T13:21:05Z",
+        "uri": "https://web.archive.org/web/20180312132105/http://rcurley@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2018-03-19T13:28:49Z",
+        "uri": "https://web.archive.org/web/20180319132849/http://rcurley@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2018-03-21T09:40:21Z",
+        "uri": "https://web.archive.org/web/20180321094021/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2018-03-21T17:24:05Z",
+        "uri": "https://web.archive.org/web/20180321172405/http://alumni.risd.edu:80/?"
+      },
+      {
+        "datetime": "2018-03-26T13:21:15Z",
+        "uri": "https://web.archive.org/web/20180326132115/http://rcurley@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2018-04-02T15:28:48Z",
+        "uri": "https://web.archive.org/web/20180402152848/http://rcurley@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2018-04-23T15:07:54Z",
+        "uri": "https://web.archive.org/web/20180423150754/http://alumni.risd.edu:80/?"
+      },
+      {
+        "datetime": "2018-04-23T18:05:33Z",
+        "uri": "https://web.archive.org/web/20180423180533/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2018-05-29T16:58:37Z",
+        "uri": "https://web.archive.org/web/20180529165837/http://alumni.risd.edu:80/?"
+      },
+      {
+        "datetime": "2018-05-29T17:38:29Z",
+        "uri": "https://web.archive.org/web/20180529173829/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2018-05-30T23:53:54Z",
+        "uri": "https://web.archive.org/web/20180530235354/http://alumni.risd.edu:80/?"
+      },
+      {
+        "datetime": "2018-05-31T04:21:04Z",
+        "uri": "https://web.archive.org/web/20180531042104/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2019-11-15T01:38:44Z",
+        "uri": "https://web.archive.org/web/20191115013844/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-02-18T21:29:47Z",
+        "uri": "https://web.archive.org/web/20200218212947/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-02-18T23:26:35Z",
+        "uri": "https://web.archive.org/web/20200218232635/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-02-28T04:58:30Z",
+        "uri": "https://web.archive.org/web/20200228045830/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2020-03-23T17:09:20Z",
+        "uri": "https://web.archive.org/web/20200323170920/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-03-30T15:58:59Z",
+        "uri": "https://web.archive.org/web/20200330155859/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-04-07T22:52:35Z",
+        "uri": "https://web.archive.org/web/20200407225235/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-04-24T07:17:40Z",
+        "uri": "https://web.archive.org/web/20200424071740/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-04-25T04:00:53Z",
+        "uri": "https://wayback.archive-it.org/all/20200425040053/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-04-25T04:00:53Z",
+        "uri": "https://web.archive.org/web/20200425040053/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-04-27T13:58:44Z",
+        "uri": "https://web.archive.org/web/20200427135844/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-04-28T18:23:43Z",
+        "uri": "https://web.archive.org/web/20200428182343/http://alumni.risd.edu:80/"
+      },
+      {
+        "datetime": "2020-05-01T21:04:56Z",
+        "uri": "https://web.archive.org/web/20200501210456/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-05-02T00:00:29Z",
+        "uri": "https://wayback.archive-it.org/all/20200502000029/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-05-02T00:00:29Z",
+        "uri": "https://web.archive.org/web/20200502000029/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-05-08T23:16:28Z",
+        "uri": "https://wayback.archive-it.org/all/20200508231628/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-05-08T23:16:28Z",
+        "uri": "https://web.archive.org/web/20200508231628/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-05-16T00:23:39Z",
+        "uri": "https://wayback.archive-it.org/all/20200516002339/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-05-16T00:23:39Z",
+        "uri": "https://web.archive.org/web/20200516002339/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-05-16T00:23:43Z",
+        "uri": "https://wayback.archive-it.org/all/20200516002343/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-05-16T00:23:43Z",
+        "uri": "https://web.archive.org/web/20200516002343/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-06-05T22:14:29Z",
+        "uri": "https://wayback.archive-it.org/all/20200605221429/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-06-05T22:14:29Z",
+        "uri": "https://web.archive.org/web/20200605221429/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-06-05T22:14:33Z",
+        "uri": "https://wayback.archive-it.org/all/20200605221433/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-06-05T22:14:33Z",
+        "uri": "https://web.archive.org/web/20200605221433/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-06-12T21:59:13Z",
+        "uri": "https://wayback.archive-it.org/all/20200612215913/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-06-12T21:59:13Z",
+        "uri": "https://web.archive.org/web/20200612215913/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-06-12T21:59:15Z",
+        "uri": "https://wayback.archive-it.org/all/20200612215915/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-06-12T21:59:15Z",
+        "uri": "https://web.archive.org/web/20200612215915/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-06-14T19:42:37Z",
+        "uri": "https://web.archive.org/web/20200614194237/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-06-21T21:48:28Z",
+        "uri": "https://web.archive.org/web/20200621214828/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-08-07T03:49:04Z",
+        "uri": "https://web.archive.org/web/20200807034904/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-08-22T14:19:30Z",
+        "uri": "https://web.archive.org/web/20200822141930/https://www.alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-09-19T19:01:53Z",
+        "uri": "https://web.archive.org/web/20200919190153/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-09-25T20:27:41Z",
+        "uri": "https://web.archive.org/web/20200925202741/https://www.alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-10-01T07:14:11Z",
+        "uri": "https://web.archive.org/web/20201001071411/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-10-11T08:49:46Z",
+        "uri": "https://web.archive.org/web/20201011084946/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-10-17T09:34:53Z",
+        "uri": "https://web.archive.org/web/20201017093453/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-10-17T18:39:02Z",
+        "uri": "https://web.archive.org/web/20201017183902/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-10-27T23:42:08Z",
+        "uri": "https://web.archive.org/web/20201027234208/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-10-28T10:38:15Z",
+        "uri": "https://web.archive.org/web/20201028103815/https://www.alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-11-19T00:06:30Z",
+        "uri": "https://web.archive.org/web/20201119000630/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-11-19T01:01:56Z",
+        "uri": "https://web.archive.org/web/20201119010156/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-11-27T14:11:55Z",
+        "uri": "https://web.archive.org/web/20201127141155/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2020-12-22T16:05:28Z",
+        "uri": "https://web.archive.org/web/20201222160528/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-01-25T10:44:10Z",
+        "uri": "https://web.archive.org/web/20210125104410/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-01-27T00:46:52Z",
+        "uri": "https://web.archive.org/web/20210127004652/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-02-02T22:22:59Z",
+        "uri": "https://web.archive.org/web/20210202222259/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-02-25T16:25:01Z",
+        "uri": "https://web.archive.org/web/20210225162501/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-03-24T05:29:05Z",
+        "uri": "https://web.archive.org/web/20210324052905/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-04-10T11:48:26Z",
+        "uri": "https://web.archive.org/web/20210410114826/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-04-13T06:36:31Z",
+        "uri": "https://web.archive.org/web/20210413063631/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-04-29T16:46:28Z",
+        "uri": "https://web.archive.org/web/20210429164628/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-04-30T15:08:53Z",
+        "uri": "https://web.archive.org/web/20210430150853/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-05-18T11:05:51Z",
+        "uri": "https://web.archive.org/web/20210518110551/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-06-14T05:55:42Z",
+        "uri": "https://web.archive.org/web/20210614055542/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-06-14T05:55:42Z",
+        "uri": "https://web.archive.org/web/20210614055542/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-07-05T08:06:24Z",
+        "uri": "https://web.archive.org/web/20210705080624/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-07-22T18:21:16Z",
+        "uri": "https://web.archive.org/web/20210722182116/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-08-01T23:28:48Z",
+        "uri": "https://web.archive.org/web/20210801232848/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-08-02T16:43:25Z",
+        "uri": "https://web.archive.org/web/20210802164325/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-08-02T16:43:26Z",
+        "uri": "https://web.archive.org/web/20210802164326/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-08-09T09:25:07Z",
+        "uri": "https://web.archive.org/web/20210809092507/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-08-12T07:41:47Z",
+        "uri": "https://web.archive.org/web/20210812074147/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-08-16T00:51:29Z",
+        "uri": "https://web.archive.org/web/20210816005129/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-08-16T10:10:54Z",
+        "uri": "https://web.archive.org/web/20210816101054/http://akhosrav@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-09-24T15:13:46Z",
+        "uri": "https://arquivo.pt/wayback/20210924151346mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-09-27T16:30:03Z",
+        "uri": "https://web.archive.org/web/20210927163003/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-10-19T01:44:14Z",
+        "uri": "https://web.archive.org/web/20211019014414/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-10-21T00:26:03Z",
+        "uri": "https://wayback.archive-it.org/all/20211021002603/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-10-21T00:26:03Z",
+        "uri": "https://web.archive.org/web/20211021002603/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-10-31T11:35:59Z",
+        "uri": "https://web.archive.org/web/20211031113559/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-11-05T16:48:02Z",
+        "uri": "https://web.archive.org/web/20211105164802/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-11-30T21:27:30Z",
+        "uri": "https://web.archive.org/web/20211130212730/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-12-02T06:12:48Z",
+        "uri": "https://web.archive.org/web/20211202061248/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-12-04T11:34:34Z",
+        "uri": "https://web.archive.org/web/20211204113434/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2021-12-10T11:11:01Z",
+        "uri": "https://web.archive.org/web/20211210111101/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-01-20T11:14:18Z",
+        "uri": "https://web.archive.org/web/20220120111418/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-01-20T21:53:46Z",
+        "uri": "https://web.archive.org/web/20220120215346/http://eleichtu@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-02-11T08:46:25Z",
+        "uri": "https://web.archive.org/web/20220211084625/http://mailto:lxie@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-03-01T18:56:47Z",
+        "uri": "https://web.archive.org/web/20220301185647/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-03-01T19:00:05Z",
+        "uri": "https://web.archive.org/web/20220301190005/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-03-01T19:00:06Z",
+        "uri": "https://web.archive.org/web/20220301190006/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-03-04T07:19:55Z",
+        "uri": "https://web.archive.org/web/20220304071955/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-03-17T23:57:28Z",
+        "uri": "https://arquivo.pt/wayback/20220317235728mp_/http://jpark17@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-03-18T00:54:28Z",
+        "uri": "https://arquivo.pt/wayback/20220318005428mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-03-18T22:33:36Z",
+        "uri": "https://web.archive.org/web/20220318223336/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-03-19T00:35:18Z",
+        "uri": "https://arquivo.pt/wayback/20220319003518mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-03-25T00:43:25Z",
+        "uri": "https://arquivo.pt/wayback/20220325004325mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-03-26T01:09:41Z",
+        "uri": "https://arquivo.pt/wayback/20220326010941mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-03-28T23:43:50Z",
+        "uri": "https://arquivo.pt/wayback/20220328234350mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-03-30T00:02:55Z",
+        "uri": "https://arquivo.pt/wayback/20220330000255mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-03-31T00:20:09Z",
+        "uri": "https://arquivo.pt/wayback/20220331002009mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-01T22:49:04Z",
+        "uri": "https://arquivo.pt/wayback/20220401224904mp_/http://jpark17@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-01T23:37:51Z",
+        "uri": "https://arquivo.pt/wayback/20220401233751mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-08T00:33:24Z",
+        "uri": "https://arquivo.pt/wayback/20220408003324mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-09T00:24:25Z",
+        "uri": "https://arquivo.pt/wayback/20220409002425mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-12T00:47:20Z",
+        "uri": "https://arquivo.pt/wayback/20220412004720mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-13T01:19:36Z",
+        "uri": "https://arquivo.pt/wayback/20220413011936mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-14T00:40:53Z",
+        "uri": "https://arquivo.pt/wayback/20220414004053mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-15T00:51:45Z",
+        "uri": "https://arquivo.pt/wayback/20220415005145mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-17T00:10:56Z",
+        "uri": "https://arquivo.pt/wayback/20220417001056mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-18T01:12:06Z",
+        "uri": "https://web.archive.org/web/20220418011206/http://www.alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-18T03:16:03Z",
+        "uri": "https://web.archive.org/web/20220418031603/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-18T03:26:28Z",
+        "uri": "https://web.archive.org/web/20220418032628/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-18T03:28:50Z",
+        "uri": "https://web.archive.org/web/20220418032850/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-19T00:39:46Z",
+        "uri": "https://arquivo.pt/wayback/20220419003946mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-22T00:51:03Z",
+        "uri": "https://arquivo.pt/wayback/20220422005103mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-23T00:56:24Z",
+        "uri": "https://arquivo.pt/wayback/20220423005624mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-25T10:28:06Z",
+        "uri": "https://arquivo.pt/wayback/20220425102806mp_/http://yhan02@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-26T01:20:43Z",
+        "uri": "https://arquivo.pt/wayback/20220426012043mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-28T01:41:23Z",
+        "uri": "https://arquivo.pt/wayback/20220428014123mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-28T01:41:23Z",
+        "uri": "https://arquivo.pt/wayback/20220428014123mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-29T01:00:17Z",
+        "uri": "https://arquivo.pt/wayback/20220429010017mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-29T01:00:17Z",
+        "uri": "https://arquivo.pt/wayback/20220429010017mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-04-30T18:06:39Z",
+        "uri": "https://arquivo.pt/wayback/20220430180639mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-05-01T01:40:23Z",
+        "uri": "https://arquivo.pt/wayback/20220501014023mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-05-07T00:51:25Z",
+        "uri": "https://arquivo.pt/wayback/20220507005125mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-05-10T00:56:02Z",
+        "uri": "https://arquivo.pt/wayback/20220510005602mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-05-11T00:31:51Z",
+        "uri": "https://arquivo.pt/wayback/20220511003151mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-05-17T01:28:27Z",
+        "uri": "https://arquivo.pt/wayback/20220517012827mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-05-21T18:37:54Z",
+        "uri": "https://web.archive.org/web/20220521183754/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-05-22T14:04:52Z",
+        "uri": "https://web.archive.org/web/20220522140452/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-05-25T01:54:29Z",
+        "uri": "https://arquivo.pt/wayback/20220525015429mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-05-26T01:41:23Z",
+        "uri": "https://arquivo.pt/wayback/20220526014123mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-05-27T04:01:13Z",
+        "uri": "https://web.archive.org/web/20220527040113/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-06-01T01:25:35Z",
+        "uri": "https://arquivo.pt/wayback/20220601012535mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-06-06T21:47:36Z",
+        "uri": "https://web.archive.org/web/20220606214736/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-06-08T01:37:56Z",
+        "uri": "https://arquivo.pt/wayback/20220608013756mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-06-15T03:09:01Z",
+        "uri": "https://arquivo.pt/wayback/20220615030901mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-06-16T22:34:51Z",
+        "uri": "https://web.archive.org/web/20220616223451/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-06-23T07:08:01Z",
+        "uri": "https://arquivo.pt/wayback/20220623070801mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-06-25T09:58:52Z",
+        "uri": "https://arquivo.pt/wayback/20220625095852mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-06-26T03:07:03Z",
+        "uri": "https://web.archive.org/web/20220626030703/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-06-27T10:15:39Z",
+        "uri": "https://arquivo.pt/wayback/20220627101539mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-06-28T20:02:03Z",
+        "uri": "https://web.archive.org/web/20220628200203/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-01T11:03:50Z",
+        "uri": "https://web.archive.org/web/20220701110350/http://tng01@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-02T10:14:04Z",
+        "uri": "https://arquivo.pt/wayback/20220702101404mp_/http://jpark17@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-02T11:18:26Z",
+        "uri": "https://arquivo.pt/wayback/20220702111826mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-05T15:19:50Z",
+        "uri": "https://arquivo.pt/wayback/20220705151950mp_/http://jpark17@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-05T16:24:40Z",
+        "uri": "https://arquivo.pt/wayback/20220705162440mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-06T12:52:55Z",
+        "uri": "https://arquivo.pt/wayback/20220706125255mp_/http://jpark17@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-06T13:53:14Z",
+        "uri": "https://arquivo.pt/wayback/20220706135314mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-07T01:53:20Z",
+        "uri": "https://web.archive.org/web/20220707015320/https://alumni.risd.edu"
+      },
+      {
+        "datetime": "2022-07-07T11:19:07Z",
+        "uri": "https://arquivo.pt/wayback/20220707111907mp_/http://jpark17@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-07T12:20:40Z",
+        "uri": "https://arquivo.pt/wayback/20220707122040mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-08T12:57:09Z",
+        "uri": "https://arquivo.pt/wayback/20220708125709mp_/http://jpark17@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-08T14:02:59Z",
+        "uri": "https://arquivo.pt/wayback/20220708140259mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-09T11:20:23Z",
+        "uri": "https://arquivo.pt/wayback/20220709112023mp_/http://jpark17@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-09T13:32:44Z",
+        "uri": "https://arquivo.pt/wayback/20220709133244mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-10T10:29:44Z",
+        "uri": "https://arquivo.pt/wayback/20220710102944mp_/http://jpark17@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-10T12:06:10Z",
+        "uri": "https://arquivo.pt/wayback/20220710120610mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-12T11:27:34Z",
+        "uri": "https://arquivo.pt/wayback/20220712112734mp_/http://jpark17@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-12T13:08:38Z",
+        "uri": "https://arquivo.pt/wayback/20220712130838mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-19T13:14:19Z",
+        "uri": "https://arquivo.pt/wayback/20220719131419mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-19T20:49:29Z",
+        "uri": "https://web.archive.org/web/20220719204929/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-19T20:49:33Z",
+        "uri": "https://web.archive.org/web/20220719204933/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-27T23:14:19Z",
+        "uri": "https://arquivo.pt/wayback/20220727231419mp_/http://jpark17@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-28T00:08:13Z",
+        "uri": "https://arquivo.pt/wayback/20220728000813mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-28T16:11:24Z",
+        "uri": "https://arquivo.pt/wayback/20220728161124mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-07-28T23:48:37Z",
+        "uri": "https://arquivo.pt/wayback/20220728234837mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-08-03T23:56:15Z",
+        "uri": "https://arquivo.pt/wayback/20220803235615mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-08-09T10:20:45Z",
+        "uri": "https://web.archive.org/web/20220809102045/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-08-11T00:20:37Z",
+        "uri": "https://arquivo.pt/wayback/20220811002037mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-08-11T20:54:56Z",
+        "uri": "https://web.archive.org/web/20220811205456/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-08-18T00:59:11Z",
+        "uri": "https://arquivo.pt/wayback/20220818005911mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-08-23T00:02:45Z",
+        "uri": "https://arquivo.pt/wayback/20220823000245mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-08-24T22:27:58Z",
+        "uri": "https://arquivo.pt/wayback/20220824222758mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-09-06T22:27:42Z",
+        "uri": "https://arquivo.pt/wayback/20220906222742mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-09-07T22:47:25Z",
+        "uri": "https://arquivo.pt/wayback/20220907224725mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-09-09T22:39:03Z",
+        "uri": "https://arquivo.pt/wayback/20220909223903mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-09-12T23:46:58Z",
+        "uri": "https://web.archive.org/web/20220912234658/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-09-16T22:24:00Z",
+        "uri": "https://arquivo.pt/wayback/20220916222400mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-09-19T22:57:22Z",
+        "uri": "https://arquivo.pt/wayback/20220919225722mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-09-23T22:26:46Z",
+        "uri": "https://arquivo.pt/wayback/20220923222646mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-09-27T22:48:52Z",
+        "uri": "https://arquivo.pt/wayback/20220927224852mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-09-29T23:01:33Z",
+        "uri": "https://arquivo.pt/wayback/20220929230133mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-10-01T21:51:48Z",
+        "uri": "https://arquivo.pt/wayback/20221001215148mp_/http://jpark17@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-10-01T22:39:03Z",
+        "uri": "https://arquivo.pt/wayback/20221001223903mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-10-04T23:15:29Z",
+        "uri": "https://web.archive.org/web/20221004231529/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-10-05T00:39:10Z",
+        "uri": "https://arquivo.pt/wayback/20221005003910mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-10-06T23:05:42Z",
+        "uri": "https://arquivo.pt/wayback/20221006230542mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-10-07T22:41:17Z",
+        "uri": "https://arquivo.pt/wayback/20221007224117mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-10-10T23:52:55Z",
+        "uri": "https://web.archive.org/web/20221010235255/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-10-11T23:25:07Z",
+        "uri": "https://web.archive.org/web/20221011232507/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-10-14T00:00:34Z",
+        "uri": "https://arquivo.pt/wayback/20221014000034mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-10-18T00:45:26Z",
+        "uri": "https://arquivo.pt/wayback/20221018004526mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-10-19T00:09:23Z",
+        "uri": "https://arquivo.pt/wayback/20221019000923mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-10-24T23:28:52Z",
+        "uri": "https://arquivo.pt/wayback/20221024232852mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-10-31T23:45:30Z",
+        "uri": "https://arquivo.pt/wayback/20221031234530mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-11-02T00:24:41Z",
+        "uri": "https://arquivo.pt/wayback/20221102002441mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-11-03T00:37:25Z",
+        "uri": "https://arquivo.pt/wayback/20221103003725mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-11-03T23:58:31Z",
+        "uri": "https://arquivo.pt/wayback/20221103235831mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-11-11T00:45:39Z",
+        "uri": "https://arquivo.pt/wayback/20221111004539mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-11-12T00:21:51Z",
+        "uri": "https://arquivo.pt/wayback/20221112002151mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-11-16T00:19:54Z",
+        "uri": "https://arquivo.pt/wayback/20221116001954mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-11-18T00:22:19Z",
+        "uri": "https://arquivo.pt/wayback/20221118002219mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-11-22T00:47:10Z",
+        "uri": "https://arquivo.pt/wayback/20221122004710mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-11-23T00:27:34Z",
+        "uri": "https://arquivo.pt/wayback/20221123002734mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-11-24T00:54:38Z",
+        "uri": "https://arquivo.pt/wayback/20221124005438mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-11-29T00:44:51Z",
+        "uri": "https://arquivo.pt/wayback/20221129004451mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-11-30T00:52:04Z",
+        "uri": "https://arquivo.pt/wayback/20221130005204mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-12-02T00:30:55Z",
+        "uri": "https://arquivo.pt/wayback/20221202003055mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-12-02T11:02:08Z",
+        "uri": "https://web.archive.org/web/20221202110208/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-12-07T01:12:11Z",
+        "uri": "https://arquivo.pt/wayback/20221207011211mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-12-09T00:48:13Z",
+        "uri": "https://arquivo.pt/wayback/20221209004813mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-12-10T01:08:43Z",
+        "uri": "https://arquivo.pt/wayback/20221210010843mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-12-14T01:20:20Z",
+        "uri": "https://arquivo.pt/wayback/20221214012020mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-12-16T01:02:49Z",
+        "uri": "https://arquivo.pt/wayback/20221216010249mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-12-17T01:12:35Z",
+        "uri": "https://arquivo.pt/wayback/20221217011235mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-12-20T00:33:59Z",
+        "uri": "https://arquivo.pt/wayback/20221220003359mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-12-20T19:09:18Z",
+        "uri": "https://web.archive.org/web/20221220190918/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2022-12-21T00:45:11Z",
+        "uri": "https://arquivo.pt/wayback/20221221004511mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-01T22:56:41Z",
+        "uri": "https://arquivo.pt/wayback/20230101225641mp_/http://jpark17@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-02T00:19:43Z",
+        "uri": "https://arquivo.pt/wayback/20230102001943mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-04T00:51:17Z",
+        "uri": "https://arquivo.pt/wayback/20230104005117mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-05T03:04:59Z",
+        "uri": "https://arquivo.pt/wayback/20230105030459mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-07T01:51:01Z",
+        "uri": "https://arquivo.pt/wayback/20230107015101mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-11T01:20:29Z",
+        "uri": "https://arquivo.pt/wayback/20230111012029mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-12T01:37:54Z",
+        "uri": "https://arquivo.pt/wayback/20230112013754mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-14T01:14:52Z",
+        "uri": "https://arquivo.pt/wayback/20230114011452mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-19T00:36:43Z",
+        "uri": "https://web.archive.org/web/20230119003643/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-19T01:21:41Z",
+        "uri": "https://arquivo.pt/wayback/20230119012141mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-20T01:38:43Z",
+        "uri": "https://arquivo.pt/wayback/20230120013843mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-21T01:26:35Z",
+        "uri": "https://arquivo.pt/wayback/20230121012635mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-25T01:16:18Z",
+        "uri": "https://arquivo.pt/wayback/20230125011618mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-27T01:44:16Z",
+        "uri": "https://arquivo.pt/wayback/20230127014416mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-28T01:06:14Z",
+        "uri": "https://arquivo.pt/wayback/20230128010614mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-30T05:00:51Z",
+        "uri": "https://web.archive.org/web/20230130050051/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-01-31T01:35:38Z",
+        "uri": "https://arquivo.pt/wayback/20230131013538mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-01T00:49:54Z",
+        "uri": "https://arquivo.pt/wayback/20230201004954mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-01T17:23:00Z",
+        "uri": "https://web.archive.org/web/20230201172300/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-03T01:29:52Z",
+        "uri": "https://arquivo.pt/wayback/20230203012952mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-03T05:58:40Z",
+        "uri": "https://web.archive.org/web/20230203055840/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-03T15:58:00Z",
+        "uri": "https://web.archive.org/web/20230203155800/https://alumni.risd.edu"
+      },
+      {
+        "datetime": "2023-02-04T01:45:37Z",
+        "uri": "https://arquivo.pt/wayback/20230204014537mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-08T01:52:23Z",
+        "uri": "https://arquivo.pt/wayback/20230208015223mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-08T15:54:38Z",
+        "uri": "https://web.archive.org/web/20230208155438/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-09T02:30:57Z",
+        "uri": "https://arquivo.pt/wayback/20230209023057mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-14T01:27:53Z",
+        "uri": "https://arquivo.pt/wayback/20230214012753mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-15T01:28:38Z",
+        "uri": "https://arquivo.pt/wayback/20230215012838mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-16T01:50:00Z",
+        "uri": "https://arquivo.pt/wayback/20230216015000mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-18T00:54:55Z",
+        "uri": "https://arquivo.pt/wayback/20230218005455mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-20T23:56:40Z",
+        "uri": "https://arquivo.pt/wayback/20230220235640mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-24T00:16:39Z",
+        "uri": "https://arquivo.pt/wayback/20230224001639mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-24T02:26:44Z",
+        "uri": "https://web.archive.org/web/20230224022644/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-24T16:10:50Z",
+        "uri": "https://web.archive.org/web/20230224161050/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-25T01:22:23Z",
+        "uri": "https://arquivo.pt/wayback/20230225012223mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-02-26T09:25:47Z",
+        "uri": "https://web.archive.org/web/20230226092547/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-01T00:03:21Z",
+        "uri": "https://arquivo.pt/wayback/20230301000321mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-01T08:03:05Z",
+        "uri": "https://web.archive.org/web/20230301080305/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-03T00:08:42Z",
+        "uri": "https://arquivo.pt/wayback/20230303000842mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-03T23:54:09Z",
+        "uri": "https://arquivo.pt/wayback/20230303235409mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-07T00:23:37Z",
+        "uri": "https://arquivo.pt/wayback/20230307002337mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-07T04:49:36Z",
+        "uri": "https://web.archive.org/web/20230307044936/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-09T00:36:00Z",
+        "uri": "https://arquivo.pt/wayback/20230309003600mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-11T23:06:12Z",
+        "uri": "https://web.archive.org/web/20230311230612/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-13T16:48:26Z",
+        "uri": "https://web.archive.org/web/20230313164826/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-14T00:30:11Z",
+        "uri": "https://arquivo.pt/wayback/20230314003011mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-15T00:41:25Z",
+        "uri": "https://arquivo.pt/wayback/20230315004125mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-16T01:01:45Z",
+        "uri": "https://arquivo.pt/wayback/20230316010145mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-18T01:39:48Z",
+        "uri": "https://arquivo.pt/wayback/20230318013948mp_/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-22T14:38:18Z",
+        "uri": "https://web.archive.org/web/20230322143818/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-22T14:38:19Z",
+        "uri": "https://web.archive.org/web/20230322143819/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-25T00:16:36Z",
+        "uri": "https://web.archive.org/web/20230325001636/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-03-25T08:48:42Z",
+        "uri": "https://web.archive.org/web/20230325084842/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-04-05T22:56:26Z",
+        "uri": "https://web.archive.org/web/20230405225626/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-04-06T20:40:27Z",
+        "uri": "https://web.archive.org/web/20230406204027/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-04-17T14:52:19Z",
+        "uri": "https://web.archive.org/web/20230417145219/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-05-17T20:00:30Z",
+        "uri": "https://web.archive.org/web/20230517200030/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-05-31T19:40:23Z",
+        "uri": "https://web.archive.org/web/20230531194023/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-06-01T17:56:11Z",
+        "uri": "https://web.archive.org/web/20230601175611/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-06-05T23:22:52Z",
+        "uri": "https://web.archive.org/web/20230605232252/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-06-05T23:31:14Z",
+        "uri": "https://web.archive.org/web/20230605233114/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-06-06T08:02:12Z",
+        "uri": "https://web.archive.org/web/20230606080212/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-06-06T08:02:13Z",
+        "uri": "https://web.archive.org/web/20230606080213/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-06-08T08:39:54Z",
+        "uri": "https://web.archive.org/web/20230608083954/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-06-28T00:35:16Z",
+        "uri": "https://web.archive.org/web/20230628003516/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-08-16T21:26:54Z",
+        "uri": "https://web.archive.org/web/20230816212654/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-08-22T00:57:12Z",
+        "uri": "https://web.archive.org/web/20230822005712/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-08-22T15:02:33Z",
+        "uri": "https://web.archive.org/web/20230822150233/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-08-29T10:22:03Z",
+        "uri": "https://web.archive.org/web/20230829102203/http://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-08-29T12:33:02Z",
+        "uri": "https://web.archive.org/web/20230829123302/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-09-28T11:31:48Z",
+        "uri": "https://web.archive.org/web/20230928113148/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-10-01T21:50:01Z",
+        "uri": "https://wayback.archive-it.org/all/20231001215001/http://mailto:Oswergol@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-10-01T21:52:14Z",
+        "uri": "https://wayback.archive-it.org/all/20231001215214/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-10-21T10:57:58Z",
+        "uri": "https://web.archive.org/web/20231021105758/https://www.alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-10-22T15:05:51Z",
+        "uri": "https://web.archive.org/web/20231022150551/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-11-11T11:38:55Z",
+        "uri": "https://web.archive.org/web/20231111113855/http://asoiseth@alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-11-11T22:32:44Z",
+        "uri": "https://web.archive.org/web/20231111223244/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-12-08T15:40:36Z",
+        "uri": "https://web.archive.org/web/20231208154036/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2023-12-08T19:41:41Z",
+        "uri": "https://web.archive.org/web/20231208194141/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2024-02-26T04:08:40Z",
+        "uri": "https://web.archive.org/web/20240226040840/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2024-03-05T23:16:52Z",
+        "uri": "https://web.archive.org/web/20240305231652/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2024-04-02T05:45:25Z",
+        "uri": "https://web.archive.org/web/20240402054525/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2024-04-07T16:54:21Z",
+        "uri": "https://web.archive.org/web/20240407165421/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2024-04-16T09:01:33Z",
+        "uri": "https://web.archive.org/web/20240416090133/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2024-04-16T15:11:58Z",
+        "uri": "https://web.archive.org/web/20240416151158/https://alumni.risd.edu/"
+      },
+      {
+        "datetime": "2024-05-02T01:13:44Z",
+        "uri": "https://web.archive.org/web/20240502011344/https://alumni.risd.edu/"
+      }
+    ],
+    "first": {
+      "datetime": "2011-03-18T11:33:18Z",
+      "uri": "https://web.archive.org/web/20110318113318/http://alumni.risd.edu:80/"
+    },
+    "last": {
+      "datetime": "2024-05-02T01:13:44Z",
+      "uri": "https://web.archive.org/web/20240502011344/https://alumni.risd.edu/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://alumni.risd.edu",
+    "json_format": "http://localhost:1208/timemap/json/https://alumni.risd.edu",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://alumni.risd.edu"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://alumni.risd.edu"
+}

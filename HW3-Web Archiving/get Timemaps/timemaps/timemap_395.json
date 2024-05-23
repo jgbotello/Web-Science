@@ -1,0 +1,326 @@
+{
+  "original_uri": "https://ischool.sjsu.edu/istudent-blog",
+  "self": "http://localhost:1208/timemap/json/https://ischool.sjsu.edu/istudent-blog",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-09-20T03:33:10Z",
+        "uri": "https://web.archive.org/web/20150920033310/http://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2015-10-18T13:41:17Z",
+        "uri": "https://web.archive.org/web/20151018134117/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2015-10-23T19:29:02Z",
+        "uri": "https://web.archive.org/web/20151023192902/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2015-11-24T07:42:43Z",
+        "uri": "https://web.archive.org/web/20151124074243/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2015-12-25T02:51:43Z",
+        "uri": "https://web.archive.org/web/20151225025143/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2016-01-24T16:47:44Z",
+        "uri": "https://web.archive.org/web/20160124164744/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2016-02-01T14:40:41Z",
+        "uri": "https://web.archive.org/web/20160201144041/http://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2016-02-24T23:47:35Z",
+        "uri": "https://web.archive.org/web/20160224234735/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2016-03-13T21:13:26Z",
+        "uri": "https://web.archive.org/web/20160313211326/http://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2016-03-15T05:22:32Z",
+        "uri": "https://web.archive.org/web/20160315052232/http://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2016-03-16T13:37:25Z",
+        "uri": "https://web.archive.org/web/20160316133725/http://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2016-03-27T03:10:01Z",
+        "uri": "https://web.archive.org/web/20160327031001/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2016-04-27T00:43:48Z",
+        "uri": "https://web.archive.org/web/20160427004348/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2016-05-28T23:37:56Z",
+        "uri": "https://web.archive.org/web/20160528233756/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2016-06-28T15:20:40Z",
+        "uri": "https://web.archive.org/web/20160628152040/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2016-07-29T15:17:08Z",
+        "uri": "https://web.archive.org/web/20160729151708/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2016-08-27T06:24:11Z",
+        "uri": "https://web.archive.org/web/20160827062411/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2016-09-27T18:46:18Z",
+        "uri": "https://web.archive.org/web/20160927184618/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2016-10-29T19:30:48Z",
+        "uri": "https://web.archive.org/web/20161029193048/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2016-12-10T10:40:47Z",
+        "uri": "https://web.archive.org/web/20161210104047/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2017-02-04T18:50:37Z",
+        "uri": "https://web.archive.org/web/20170204185037/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2017-05-05T09:37:00Z",
+        "uri": "https://web.archive.org/web/20170505093700/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2017-06-06T00:38:02Z",
+        "uri": "https://web.archive.org/web/20170606003802/http://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2017-06-08T04:42:16Z",
+        "uri": "https://web.archive.org/web/20170608044216/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2017-07-11T10:12:14Z",
+        "uri": "https://web.archive.org/web/20170711101214/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2017-08-07T22:39:04Z",
+        "uri": "https://web.archive.org/web/20170807223904/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2017-10-08T12:39:33Z",
+        "uri": "https://web.archive.org/web/20171008123933/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2017-12-08T12:46:19Z",
+        "uri": "https://web.archive.org/web/20171208124619/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2018-01-29T06:40:35Z",
+        "uri": "https://web.archive.org/web/20180129064035/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2018-03-02T18:31:39Z",
+        "uri": "https://web.archive.org/web/20180302183139/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2018-04-02T08:36:37Z",
+        "uri": "https://web.archive.org/web/20180402083637/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2018-05-04T01:38:25Z",
+        "uri": "https://web.archive.org/web/20180504013825/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2018-06-04T20:47:32Z",
+        "uri": "https://web.archive.org/web/20180604204732/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2018-07-07T02:33:30Z",
+        "uri": "https://web.archive.org/web/20180707023330/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2018-09-05T16:47:53Z",
+        "uri": "https://web.archive.org/web/20180905164753/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2018-09-12T06:25:40Z",
+        "uri": "https://web.archive.org/web/20180912062540/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2018-10-13T13:07:48Z",
+        "uri": "https://web.archive.org/web/20181013130748/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2018-11-14T15:45:16Z",
+        "uri": "https://web.archive.org/web/20181114154516/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2018-12-15T15:24:58Z",
+        "uri": "https://web.archive.org/web/20181215152458/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2019-01-15T16:11:51Z",
+        "uri": "https://web.archive.org/web/20190115161151/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2019-02-16T15:44:12Z",
+        "uri": "https://web.archive.org/web/20190216154412/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2019-03-20T00:34:46Z",
+        "uri": "https://web.archive.org/web/20190320003446/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2019-04-20T12:02:49Z",
+        "uri": "https://web.archive.org/web/20190420120249/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2019-05-21T09:30:19Z",
+        "uri": "https://web.archive.org/web/20190521093019/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2019-06-21T07:32:06Z",
+        "uri": "https://web.archive.org/web/20190621073206/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2019-07-23T22:39:21Z",
+        "uri": "https://web.archive.org/web/20190723223921/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2019-08-23T22:53:31Z",
+        "uri": "https://web.archive.org/web/20190823225331/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2019-09-23T19:26:45Z",
+        "uri": "https://web.archive.org/web/20190923192645/http://ischool.sjsu.edu:80/istudent-blog"
+      },
+      {
+        "datetime": "2020-06-08T16:11:45Z",
+        "uri": "https://web.archive.org/web/20200608161145/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2020-08-03T09:52:38Z",
+        "uri": "https://web.archive.org/web/20200803095238/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2020-09-26T05:29:00Z",
+        "uri": "https://web.archive.org/web/20200926052900/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2020-11-28T02:42:26Z",
+        "uri": "https://web.archive.org/web/20201128024226/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2021-03-05T23:39:01Z",
+        "uri": "https://web.archive.org/web/20210305233901/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2021-04-13T01:24:27Z",
+        "uri": "https://web.archive.org/web/20210413012427/http://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2021-04-13T19:03:33Z",
+        "uri": "https://web.archive.org/web/20210413190333/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2021-04-23T09:07:26Z",
+        "uri": "https://web.archive.org/web/20210423090726/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2021-05-18T03:40:01Z",
+        "uri": "https://web.archive.org/web/20210518034001/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2021-07-30T07:38:28Z",
+        "uri": "https://web.archive.org/web/20210730073828/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2021-09-07T17:44:13Z",
+        "uri": "https://web.archive.org/web/20210907174413/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2021-10-18T17:16:27Z",
+        "uri": "https://web.archive.org/web/20211018171627/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2022-01-18T01:31:56Z",
+        "uri": "https://web.archive.org/web/20220118013156/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2022-05-16T21:30:59Z",
+        "uri": "https://web.archive.org/web/20220516213059/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2022-07-07T15:40:55Z",
+        "uri": "https://web.archive.org/web/20220707154055/https://ischool.sjsu.edu/istudent-blog/"
+      },
+      {
+        "datetime": "2022-07-07T19:40:25Z",
+        "uri": "https://web.archive.org/web/20220707194025/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2022-07-10T19:20:25Z",
+        "uri": "https://web.archive.org/web/20220710192025/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2022-09-27T05:01:33Z",
+        "uri": "https://web.archive.org/web/20220927050133/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2022-12-06T23:01:50Z",
+        "uri": "https://web.archive.org/web/20221206230150/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2023-01-16T17:44:25Z",
+        "uri": "https://web.archive.org/web/20230116174425/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2023-03-29T19:15:42Z",
+        "uri": "https://web.archive.org/web/20230329191542/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2023-03-30T21:06:05Z",
+        "uri": "https://web.archive.org/web/20230330210605/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2023-06-01T18:47:13Z",
+        "uri": "https://web.archive.org/web/20230601184713/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2023-10-04T04:06:48Z",
+        "uri": "https://web.archive.org/web/20231004040648/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2023-10-04T23:31:23Z",
+        "uri": "https://web.archive.org/web/20231004233123/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2023-12-27T00:14:29Z",
+        "uri": "https://web.archive.org/web/20231227001429/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2024-04-20T00:37:45Z",
+        "uri": "https://web.archive.org/web/20240420003745/https://ischool.sjsu.edu/istudent-blog"
+      },
+      {
+        "datetime": "2024-04-20T00:38:34Z",
+        "uri": "https://web.archive.org/web/20240420003834/http://ischool.sjsu.edu/istudent-blog"
+      }
+    ],
+    "first": {
+      "datetime": "2015-09-20T03:33:10Z",
+      "uri": "https://web.archive.org/web/20150920033310/http://ischool.sjsu.edu/istudent-blog"
+    },
+    "last": {
+      "datetime": "2024-04-20T00:38:34Z",
+      "uri": "https://web.archive.org/web/20240420003834/http://ischool.sjsu.edu/istudent-blog"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://ischool.sjsu.edu/istudent-blog",
+    "json_format": "http://localhost:1208/timemap/json/https://ischool.sjsu.edu/istudent-blog",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ischool.sjsu.edu/istudent-blog"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://ischool.sjsu.edu/istudent-blog"
+}

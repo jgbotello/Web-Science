@@ -1,0 +1,82 @@
+{
+  "original_uri": "https://www.allassignmenthelp.com/dissertation-proofreading-service.html",
+  "self": "http://localhost:1208/timemap/json/https://www.allassignmenthelp.com/dissertation-proofreading-service.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-03-27T07:21:17Z",
+        "uri": "https://web.archive.org/web/20190327072117/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+      },
+      {
+        "datetime": "2019-07-08T01:36:53Z",
+        "uri": "https://web.archive.org/web/20190708013653/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+      },
+      {
+        "datetime": "2020-02-10T08:58:11Z",
+        "uri": "https://web.archive.org/web/20200210085811/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+      },
+      {
+        "datetime": "2020-04-21T17:41:36Z",
+        "uri": "https://web.archive.org/web/20200421174136/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+      },
+      {
+        "datetime": "2020-09-19T00:12:52Z",
+        "uri": "https://web.archive.org/web/20200919001252/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+      },
+      {
+        "datetime": "2020-11-25T00:05:15Z",
+        "uri": "https://web.archive.org/web/20201125000515/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+      },
+      {
+        "datetime": "2021-03-01T14:11:04Z",
+        "uri": "https://web.archive.org/web/20210301141104/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+      },
+      {
+        "datetime": "2021-06-19T04:07:58Z",
+        "uri": "https://web.archive.org/web/20210619040758/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+      },
+      {
+        "datetime": "2021-06-19T04:07:58Z",
+        "uri": "https://web.archive.org/web/20210619040758/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+      },
+      {
+        "datetime": "2021-08-11T23:51:41Z",
+        "uri": "https://web.archive.org/web/20210811235141/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+      },
+      {
+        "datetime": "2021-09-18T20:54:43Z",
+        "uri": "https://web.archive.org/web/20210918205443/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+      },
+      {
+        "datetime": "2023-01-30T03:53:17Z",
+        "uri": "https://web.archive.org/web/20230130035317/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+      },
+      {
+        "datetime": "2023-02-16T16:00:09Z",
+        "uri": "https://web.archive.org/web/20230216160009/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+      },
+      {
+        "datetime": "2023-05-14T13:23:23Z",
+        "uri": "https://web.archive.org/web/20230514132323/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+      },
+      {
+        "datetime": "2024-05-16T09:55:56Z",
+        "uri": "https://web.archive.org/web/20240516095556/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-03-27T07:21:17Z",
+      "uri": "https://web.archive.org/web/20190327072117/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+    },
+    "last": {
+      "datetime": "2024-05-16T09:55:56Z",
+      "uri": "https://web.archive.org/web/20240516095556/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.allassignmenthelp.com/dissertation-proofreading-service.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.allassignmenthelp.com/dissertation-proofreading-service.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.allassignmenthelp.com/dissertation-proofreading-service.html"
+}

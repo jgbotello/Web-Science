@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.odu.edu/al/about/advisory-board",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/al/about/advisory-board",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-02-14T16:09:03Z",
+        "uri": "https://web.archive.org/web/20240214160903/https://www.odu.edu/al/about/advisory-board"
+      },
+      {
+        "datetime": "2024-04-04T07:26:41Z",
+        "uri": "https://web.archive.org/web/20240404072641/https://www.odu.edu/al/about/advisory-board"
+      }
+    ],
+    "first": {
+      "datetime": "2024-02-14T16:09:03Z",
+      "uri": "https://web.archive.org/web/20240214160903/https://www.odu.edu/al/about/advisory-board"
+    },
+    "last": {
+      "datetime": "2024-04-04T07:26:41Z",
+      "uri": "https://web.archive.org/web/20240404072641/https://www.odu.edu/al/about/advisory-board"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/al/about/advisory-board",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/al/about/advisory-board",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/al/about/advisory-board"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/al/about/advisory-board"
+}

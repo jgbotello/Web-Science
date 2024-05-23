@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://students.risd.edu?utm_source=www-footer",
+  "self": "http://localhost:1208/timemap/json/https://students.risd.edu?utm_source=www-footer",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-14T11:32:29Z",
+        "uri": "https://web.archive.org/web/20230914113229/https://students.risd.edu/?utm_source=www-footer"
+      },
+      {
+        "datetime": "2023-09-30T05:34:07Z",
+        "uri": "https://web.archive.org/web/20230930053407/https://students.risd.edu/?utm_source=www-footer"
+      },
+      {
+        "datetime": "2023-10-14T03:24:53Z",
+        "uri": "https://web.archive.org/web/20231014032453/https://students.risd.edu/?utm_source=www-footer"
+      },
+      {
+        "datetime": "2023-10-15T00:20:22Z",
+        "uri": "https://web.archive.org/web/20231015002022/https://students.risd.edu/?utm_source=www-footer"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-14T11:32:29Z",
+      "uri": "https://web.archive.org/web/20230914113229/https://students.risd.edu/?utm_source=www-footer"
+    },
+    "last": {
+      "datetime": "2023-10-15T00:20:22Z",
+      "uri": "https://web.archive.org/web/20231015002022/https://students.risd.edu/?utm_source=www-footer"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://students.risd.edu?utm_source=www-footer",
+    "json_format": "http://localhost:1208/timemap/json/https://students.risd.edu?utm_source=www-footer",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://students.risd.edu?utm_source=www-footer"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://students.risd.edu?utm_source=www-footer"
+}

@@ -1,0 +1,66 @@
+{
+  "original_uri": "https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm",
+  "self": "http://localhost:1208/timemap/json/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-05-26T18:48:01Z",
+        "uri": "https://web.archive.org/web/20200526184801/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm"
+      },
+      {
+        "datetime": "2020-06-09T19:35:33Z",
+        "uri": "https://web.archive.org/web/20200609193533/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm"
+      },
+      {
+        "datetime": "2020-11-13T10:01:48Z",
+        "uri": "https://web.archive.org/web/20201113100148/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm"
+      },
+      {
+        "datetime": "2021-03-10T14:48:24Z",
+        "uri": "https://web.archive.org/web/20210310144824/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm"
+      },
+      {
+        "datetime": "2021-05-07T13:09:37Z",
+        "uri": "https://web.archive.org/web/20210507130937/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm"
+      },
+      {
+        "datetime": "2021-08-14T10:41:57Z",
+        "uri": "https://web.archive.org/web/20210814104157/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm"
+      },
+      {
+        "datetime": "2022-05-25T16:31:16Z",
+        "uri": "https://web.archive.org/web/20220525163116/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm"
+      },
+      {
+        "datetime": "2023-03-23T20:03:48Z",
+        "uri": "https://web.archive.org/web/20230323200348/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm"
+      },
+      {
+        "datetime": "2023-05-28T03:11:08Z",
+        "uri": "https://web.archive.org/web/20230528031108/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm"
+      },
+      {
+        "datetime": "2023-11-27T17:21:48Z",
+        "uri": "https://web.archive.org/web/20231127172148/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm"
+      },
+      {
+        "datetime": "2023-11-29T06:30:30Z",
+        "uri": "https://web.archive.org/web/20231129063030/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm"
+      }
+    ],
+    "first": {
+      "datetime": "2020-05-26T18:48:01Z",
+      "uri": "https://web.archive.org/web/20200526184801/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm"
+    },
+    "last": {
+      "datetime": "2023-11-29T06:30:30Z",
+      "uri": "https://web.archive.org/web/20231129063030/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm",
+    "json_format": "http://localhost:1208/timemap/json/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm"
+}

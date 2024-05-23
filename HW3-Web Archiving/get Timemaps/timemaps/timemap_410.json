@@ -1,0 +1,94 @@
+{
+  "original_uri": "https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg",
+  "self": "http://localhost:1208/timemap/json/https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-05-16T15:16:57Z",
+        "uri": "https://wayback.archive-it.org/all/20190516151657/http://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2019-05-16T15:17:07Z",
+        "uri": "https://wayback.archive-it.org/all/20190516151707/https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2019-06-16T03:41:35Z",
+        "uri": "https://wayback.archive-it.org/all/20190616034135/http://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2019-06-16T03:41:42Z",
+        "uri": "https://wayback.archive-it.org/all/20190616034142/https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2019-07-16T06:18:12Z",
+        "uri": "https://wayback.archive-it.org/all/20190716061812/http://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2019-07-16T06:18:19Z",
+        "uri": "https://wayback.archive-it.org/all/20190716061819/https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2019-08-16T06:26:31Z",
+        "uri": "https://wayback.archive-it.org/all/20190816062631/http://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2019-08-16T06:26:38Z",
+        "uri": "https://wayback.archive-it.org/all/20190816062638/https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2019-09-16T07:54:02Z",
+        "uri": "https://wayback.archive-it.org/all/20190916075402/http://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2019-09-16T07:54:03Z",
+        "uri": "https://wayback.archive-it.org/all/20190916075403/https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2019-10-16T03:23:11Z",
+        "uri": "https://wayback.archive-it.org/all/20191016032311/http://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2019-10-16T03:23:13Z",
+        "uri": "https://wayback.archive-it.org/all/20191016032313/https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2019-11-16T06:45:01Z",
+        "uri": "https://wayback.archive-it.org/all/20191116064501/http://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2019-11-16T06:45:04Z",
+        "uri": "https://wayback.archive-it.org/all/20191116064504/https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2019-12-16T06:34:30Z",
+        "uri": "https://wayback.archive-it.org/all/20191216063430/http://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2019-12-16T06:34:32Z",
+        "uri": "https://wayback.archive-it.org/all/20191216063432/https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2020-01-16T03:38:46Z",
+        "uri": "https://wayback.archive-it.org/all/20200116033846/http://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      },
+      {
+        "datetime": "2020-01-16T03:38:48Z",
+        "uri": "https://wayback.archive-it.org/all/20200116033848/https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+      }
+    ],
+    "first": {
+      "datetime": "2019-05-16T15:16:57Z",
+      "uri": "https://wayback.archive-it.org/all/20190516151657/http://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+    },
+    "last": {
+      "datetime": "2020-01-16T03:38:48Z",
+      "uri": "https://wayback.archive-it.org/all/20200116033848/https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg",
+    "json_format": "http://localhost:1208/timemap/json/https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg"
+}

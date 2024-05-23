@@ -1,0 +1,142 @@
+{
+  "original_uri": "https://www.odu.edu/life/culture",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/life/culture",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-16T19:41:18Z",
+        "uri": "https://wayback.archive-it.org/all/20200416194118/https://odu.edu/life/culture"
+      },
+      {
+        "datetime": "2020-04-16T19:41:45Z",
+        "uri": "https://wayback.archive-it.org/all/20200416194145/https://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2020-04-16T19:42:11Z",
+        "uri": "https://wayback.archive-it.org/all/20200416194211/http://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2021-05-26T20:05:39Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200539/https://odu.edu/life/culture"
+      },
+      {
+        "datetime": "2021-05-26T20:05:44Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200544/https://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2021-05-26T20:05:48Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200548/http://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2021-09-10T15:38:14Z",
+        "uri": "https://arquivo.pt/wayback/20210910153814mp_/https://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2021-11-03T11:19:09Z",
+        "uri": "https://arquivo.pt/wayback/20211103111909mp_/https://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2021-11-03T11:19:13Z",
+        "uri": "https://arquivo.pt/wayback/20211103111913mp_/http://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2022-01-22T10:38:59Z",
+        "uri": "https://arquivo.pt/wayback/20220122103859mp_/https://odu.edu/life/culture"
+      },
+      {
+        "datetime": "2022-01-26T05:37:03Z",
+        "uri": "https://arquivo.pt/wayback/20220126053703mp_/http://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2022-04-17T05:46:57Z",
+        "uri": "https://arquivo.pt/wayback/20220417054657mp_/https://odu.edu/life/culture"
+      },
+      {
+        "datetime": "2022-04-22T17:19:14Z",
+        "uri": "https://arquivo.pt/wayback/20220422171914mp_/https://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2022-04-22T17:19:19Z",
+        "uri": "https://arquivo.pt/wayback/20220422171919mp_/http://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2022-04-24T18:53:45Z",
+        "uri": "https://arquivo.pt/wayback/20220424185345mp_/http://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2022-07-30T14:54:31Z",
+        "uri": "https://arquivo.pt/wayback/20220730145431mp_/https://odu.edu/life/culture"
+      },
+      {
+        "datetime": "2022-08-10T20:14:25Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201425/https://odu.edu/life/culture"
+      },
+      {
+        "datetime": "2022-08-10T20:14:47Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201447/https://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2022-08-10T20:15:05Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201505/http://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2022-11-07T06:38:18Z",
+        "uri": "https://wayback.archive-it.org/all/20221107063818/https://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2022-11-09T00:57:18Z",
+        "uri": "https://wayback.archive-it.org/all/20221109005718/http://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2022-12-07T14:17:57Z",
+        "uri": "https://wayback.archive-it.org/all/20221207141757/https://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2022-12-14T02:58:06Z",
+        "uri": "https://wayback.archive-it.org/all/20221214025806/http://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2023-01-07T14:10:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230107141017/https://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2023-01-24T20:45:50Z",
+        "uri": "https://arquivo.pt/wayback/20230124204550mp_/https://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2023-02-07T12:55:30Z",
+        "uri": "https://wayback.archive-it.org/all/20230207125530/https://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2023-03-07T05:09:03Z",
+        "uri": "https://wayback.archive-it.org/all/20230307050903/https://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2023-03-09T04:17:28Z",
+        "uri": "https://wayback.archive-it.org/all/20230309041728/http://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2023-08-25T19:10:04Z",
+        "uri": "https://wayback.archive-it.org/all/20230825191004/https://www.odu.edu/life/culture"
+      },
+      {
+        "datetime": "2023-08-27T02:22:39Z",
+        "uri": "https://wayback.archive-it.org/all/20230827022239/http://www.odu.edu/life/culture"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-16T19:41:18Z",
+      "uri": "https://wayback.archive-it.org/all/20200416194118/https://odu.edu/life/culture"
+    },
+    "last": {
+      "datetime": "2023-08-27T02:22:39Z",
+      "uri": "https://wayback.archive-it.org/all/20230827022239/http://www.odu.edu/life/culture"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/life/culture",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/life/culture",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/life/culture"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/life/culture"
+}

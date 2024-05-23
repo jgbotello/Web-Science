@@ -1,0 +1,146 @@
+{
+  "original_uri": "https://www.odu.edu/set/fsl/facts-figures",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/set/fsl/facts-figures",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-08-11T22:24:17Z",
+        "uri": "https://wayback.archive-it.org/all/20220811222417/https://odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-08-11T22:24:17Z",
+        "uri": "https://web.archive.org/web/20220811222417/https://odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-08-11T22:24:25Z",
+        "uri": "https://wayback.archive-it.org/all/20220811222425/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-08-11T22:24:25Z",
+        "uri": "https://web.archive.org/web/20220811222425/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-08-11T22:24:30Z",
+        "uri": "https://wayback.archive-it.org/all/20220811222430/http://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-08-11T22:24:30Z",
+        "uri": "https://web.archive.org/web/20220811222430/http://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-09-21T00:00:35Z",
+        "uri": "https://web.archive.org/web/20220921000035/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-10-07T03:04:17Z",
+        "uri": "https://web.archive.org/web/20221007030417/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-11-07T07:13:25Z",
+        "uri": "https://wayback.archive-it.org/all/20221107071325/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-11-07T07:13:25Z",
+        "uri": "https://web.archive.org/web/20221107071325/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-11-08T04:48:26Z",
+        "uri": "https://wayback.archive-it.org/all/20221108044826/http://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-11-08T04:48:26Z",
+        "uri": "https://web.archive.org/web/20221108044826/http://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-11-18T19:13:56Z",
+        "uri": "https://web.archive.org/web/20221118191356/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-11-25T18:41:32Z",
+        "uri": "https://web.archive.org/web/20221125184132/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-12-08T00:54:15Z",
+        "uri": "https://wayback.archive-it.org/all/20221208005415/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-12-08T00:54:15Z",
+        "uri": "https://web.archive.org/web/20221208005415/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-12-08T06:57:20Z",
+        "uri": "https://web.archive.org/web/20221208065720/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-12-11T09:52:35Z",
+        "uri": "https://wayback.archive-it.org/all/20221211095235/http://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2022-12-11T09:52:35Z",
+        "uri": "https://web.archive.org/web/20221211095235/http://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2023-01-07T21:28:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230107212833/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2023-01-07T21:28:33Z",
+        "uri": "https://web.archive.org/web/20230107212833/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2023-02-07T21:17:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230207211715/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2023-02-07T21:17:15Z",
+        "uri": "https://web.archive.org/web/20230207211715/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2023-03-07T05:36:07Z",
+        "uri": "https://wayback.archive-it.org/all/20230307053607/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2023-03-07T05:36:07Z",
+        "uri": "https://web.archive.org/web/20230307053607/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2023-03-27T16:12:14Z",
+        "uri": "https://web.archive.org/web/20230327161214/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2023-08-25T19:45:42Z",
+        "uri": "https://wayback.archive-it.org/all/20230825194542/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2023-08-25T19:45:42Z",
+        "uri": "https://web.archive.org/web/20230825194542/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2024-01-17T00:35:37Z",
+        "uri": "https://web.archive.org/web/20240117003537/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2024-04-04T07:26:53Z",
+        "uri": "https://web.archive.org/web/20240404072653/https://www.odu.edu/set/fsl/facts-figures"
+      },
+      {
+        "datetime": "2024-04-27T16:12:36Z",
+        "uri": "https://web.archive.org/web/20240427161236/https://www.odu.edu/set/fsl/facts-figures"
+      }
+    ],
+    "first": {
+      "datetime": "2022-08-11T22:24:17Z",
+      "uri": "https://wayback.archive-it.org/all/20220811222417/https://odu.edu/set/fsl/facts-figures"
+    },
+    "last": {
+      "datetime": "2024-04-27T16:12:36Z",
+      "uri": "https://web.archive.org/web/20240427161236/https://www.odu.edu/set/fsl/facts-figures"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/set/fsl/facts-figures",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/set/fsl/facts-figures",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/set/fsl/facts-figures"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/set/fsl/facts-figures"
+}

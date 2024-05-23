@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://workday.risd.edu/student-workers/",
+  "self": "http://localhost:1208/timemap/json/https://workday.risd.edu/student-workers/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-03-01T18:57:26Z",
+        "uri": "https://web.archive.org/web/20220301185726/https://workday.risd.edu/student-workers/"
+      },
+      {
+        "datetime": "2022-05-17T11:52:50Z",
+        "uri": "https://web.archive.org/web/20220517115250/https://workday.risd.edu/student-workers/"
+      },
+      {
+        "datetime": "2023-01-25T23:29:14Z",
+        "uri": "https://web.archive.org/web/20230125232914/https://workday.risd.edu/student-workers/"
+      },
+      {
+        "datetime": "2023-01-25T23:29:42Z",
+        "uri": "https://web.archive.org/web/20230125232942/http://workday.risd.edu/student-workers/"
+      },
+      {
+        "datetime": "2023-04-01T21:14:27Z",
+        "uri": "https://web.archive.org/web/20230401211427/https://workday.risd.edu/student-workers/"
+      },
+      {
+        "datetime": "2023-05-28T18:03:11Z",
+        "uri": "https://web.archive.org/web/20230528180311/https://workday.risd.edu/student-workers/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-03-01T18:57:26Z",
+      "uri": "https://web.archive.org/web/20220301185726/https://workday.risd.edu/student-workers/"
+    },
+    "last": {
+      "datetime": "2023-05-28T18:03:11Z",
+      "uri": "https://web.archive.org/web/20230528180311/https://workday.risd.edu/student-workers/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://workday.risd.edu/student-workers/",
+    "json_format": "http://localhost:1208/timemap/json/https://workday.risd.edu/student-workers/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://workday.risd.edu/student-workers/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://workday.risd.edu/student-workers/"
+}

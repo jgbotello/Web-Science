@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://compliance.springworks.in/",
+  "self": "http://localhost:1208/timemap/json/https://compliance.springworks.in/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-08-31T02:25:45Z",
+        "uri": "https://web.archive.org/web/20230831022545/http://compliance.springworks.in/"
+      },
+      {
+        "datetime": "2023-10-03T21:37:32Z",
+        "uri": "https://web.archive.org/web/20231003213732/https://compliance.springworks.in/"
+      },
+      {
+        "datetime": "2023-12-08T09:14:10Z",
+        "uri": "https://web.archive.org/web/20231208091410/https://compliance.springworks.in/"
+      },
+      {
+        "datetime": "2023-12-08T10:06:55Z",
+        "uri": "https://web.archive.org/web/20231208100655/https://compliance.springworks.in/"
+      },
+      {
+        "datetime": "2024-02-24T06:55:01Z",
+        "uri": "https://web.archive.org/web/20240224065501/https://compliance.springworks.in/"
+      },
+      {
+        "datetime": "2024-03-24T05:40:23Z",
+        "uri": "https://web.archive.org/web/20240324054023/https://compliance.springworks.in/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-08-31T02:25:45Z",
+      "uri": "https://web.archive.org/web/20230831022545/http://compliance.springworks.in/"
+    },
+    "last": {
+      "datetime": "2024-03-24T05:40:23Z",
+      "uri": "https://web.archive.org/web/20240324054023/https://compliance.springworks.in/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://compliance.springworks.in/",
+    "json_format": "http://localhost:1208/timemap/json/https://compliance.springworks.in/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://compliance.springworks.in/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://compliance.springworks.in/"
+}

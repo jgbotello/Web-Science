@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.ripta.com/ride-paratransit-program/",
+  "self": "http://localhost:1208/timemap/json/https://www.ripta.com/ride-paratransit-program/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-01-27T23:08:07Z",
+        "uri": "https://arquivo.pt/wayback/20220127230807mp_/https://www.ripta.com/ride-paratransit-program/"
+      },
+      {
+        "datetime": "2022-04-18T18:33:44Z",
+        "uri": "https://arquivo.pt/wayback/20220418183344mp_/https://www.ripta.com/ride-paratransit-program/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-01-27T23:08:07Z",
+      "uri": "https://arquivo.pt/wayback/20220127230807mp_/https://www.ripta.com/ride-paratransit-program/"
+    },
+    "last": {
+      "datetime": "2022-04-18T18:33:44Z",
+      "uri": "https://arquivo.pt/wayback/20220418183344mp_/https://www.ripta.com/ride-paratransit-program/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.ripta.com/ride-paratransit-program/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.ripta.com/ride-paratransit-program/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ripta.com/ride-paratransit-program/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.ripta.com/ride-paratransit-program/"
+}

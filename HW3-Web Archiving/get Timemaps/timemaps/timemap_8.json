@@ -1,0 +1,194 @@
+{
+  "original_uri": "https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign",
+  "self": "http://localhost:1208/timemap/json/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-06-10T20:36:11Z",
+        "uri": "https://web.archive.org/web/20180610203611/http://news.uchicago.edu:80/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2019-01-04T00:39:40Z",
+        "uri": "https://wayback.archive-it.org/all/20190104003940/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2019-01-04T00:39:40Z",
+        "uri": "https://web.archive.org/web/20190104003940/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2019-05-03T05:56:05Z",
+        "uri": "https://wayback.archive-it.org/all/20190503055605/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2019-05-03T05:56:05Z",
+        "uri": "https://web.archive.org/web/20190503055605/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2019-07-03T10:44:02Z",
+        "uri": "https://wayback.archive-it.org/all/20190703104402/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2019-07-03T10:44:02Z",
+        "uri": "https://web.archive.org/web/20190703104402/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2019-09-04T01:22:47Z",
+        "uri": "https://wayback.archive-it.org/all/20190904012247/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2019-09-04T01:22:47Z",
+        "uri": "https://web.archive.org/web/20190904012247/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2019-11-03T07:30:28Z",
+        "uri": "https://wayback.archive-it.org/all/20191103073028/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2019-11-03T07:30:28Z",
+        "uri": "https://web.archive.org/web/20191103073028/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2019-11-03T18:32:44Z",
+        "uri": "https://wayback.archive-it.org/all/20191103183244/http://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2019-11-03T18:32:44Z",
+        "uri": "https://web.archive.org/web/20191103183244/http://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2020-01-03T06:47:11Z",
+        "uri": "https://wayback.archive-it.org/all/20200103064711/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2020-01-03T06:47:11Z",
+        "uri": "https://web.archive.org/web/20200103064711/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2020-01-03T12:02:21Z",
+        "uri": "https://wayback.archive-it.org/all/20200103120221/http://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2020-01-03T12:02:21Z",
+        "uri": "https://web.archive.org/web/20200103120221/http://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2020-05-04T19:26:52Z",
+        "uri": "https://wayback.archive-it.org/all/20200504192652/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2020-05-04T19:26:52Z",
+        "uri": "https://web.archive.org/web/20200504192652/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2020-09-08T20:03:31Z",
+        "uri": "https://wayback.archive-it.org/all/20200908200331/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2020-09-08T20:03:31Z",
+        "uri": "https://web.archive.org/web/20200908200331/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2020-11-04T19:22:45Z",
+        "uri": "https://wayback.archive-it.org/all/20201104192245/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2020-11-04T19:22:45Z",
+        "uri": "https://web.archive.org/web/20201104192245/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2021-01-03T17:29:30Z",
+        "uri": "https://wayback.archive-it.org/all/20210103172930/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2021-01-03T17:29:30Z",
+        "uri": "https://web.archive.org/web/20210103172930/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2021-05-04T15:35:08Z",
+        "uri": "https://wayback.archive-it.org/all/20210504153508/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2021-05-04T15:35:08Z",
+        "uri": "https://web.archive.org/web/20210504153508/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2021-06-18T03:32:58Z",
+        "uri": "https://web.archive.org/web/20210618033258/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2021-06-18T03:32:58Z",
+        "uri": "https://web.archive.org/web/20210618033258/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2021-06-29T03:05:42Z",
+        "uri": "https://wayback.archive-it.org/all/20210629030542/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2021-06-29T03:05:42Z",
+        "uri": "https://web.archive.org/web/20210629030542/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2021-07-05T12:08:08Z",
+        "uri": "https://wayback.archive-it.org/all/20210705120808/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2021-07-05T12:08:08Z",
+        "uri": "https://web.archive.org/web/20210705120808/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2021-09-05T03:23:41Z",
+        "uri": "https://wayback.archive-it.org/all/20210905032341/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2021-09-05T03:23:41Z",
+        "uri": "https://web.archive.org/web/20210905032341/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2021-11-05T01:00:32Z",
+        "uri": "https://wayback.archive-it.org/all/20211105010032/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2021-11-05T01:00:32Z",
+        "uri": "https://web.archive.org/web/20211105010032/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2021-12-07T14:48:24Z",
+        "uri": "https://web.archive.org/web/20211207144824/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2022-09-04T16:26:45Z",
+        "uri": "https://wayback.archive-it.org/all/20220904162645/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2022-09-04T16:26:45Z",
+        "uri": "https://web.archive.org/web/20220904162645/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2022-09-28T20:06:03Z",
+        "uri": "https://web.archive.org/web/20220928200603/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2023-08-10T16:39:55Z",
+        "uri": "https://web.archive.org/web/20230810163955/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      },
+      {
+        "datetime": "2023-10-03T18:14:32Z",
+        "uri": "https://web.archive.org/web/20231003181432/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+      }
+    ],
+    "first": {
+      "datetime": "2018-06-10T20:36:11Z",
+      "uri": "https://web.archive.org/web/20180610203611/http://news.uchicago.edu:80/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+    },
+    "last": {
+      "datetime": "2023-10-03T18:14:32Z",
+      "uri": "https://web.archive.org/web/20231003181432/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign",
+    "json_format": "http://localhost:1208/timemap/json/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign"
+}

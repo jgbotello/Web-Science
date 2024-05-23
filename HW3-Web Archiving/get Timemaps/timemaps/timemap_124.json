@@ -1,0 +1,146 @@
+{
+  "original_uri": "https://www.odu.edu/sci",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/sci",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-05-27T00:48:31Z",
+        "uri": "https://wayback.archive-it.org/all/20210527004831/https://odu.edu/sci"
+      },
+      {
+        "datetime": "2021-05-27T00:48:48Z",
+        "uri": "https://wayback.archive-it.org/all/20210527004848/https://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2021-05-27T00:48:55Z",
+        "uri": "https://wayback.archive-it.org/all/20210527004855/http://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2021-05-30T04:17:33Z",
+        "uri": "https://wayback.archive-it.org/all/20210530041733/http://odu.edu/sci"
+      },
+      {
+        "datetime": "2021-09-10T15:46:43Z",
+        "uri": "https://arquivo.pt/wayback/20210910154643mp_/https://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2021-10-11T15:00:06Z",
+        "uri": "https://arquivo.pt/wayback/20211011150006mp_/https://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2021-10-11T15:00:10Z",
+        "uri": "https://arquivo.pt/wayback/20211011150010mp_/http://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2022-01-22T12:16:22Z",
+        "uri": "https://arquivo.pt/wayback/20220122121622mp_/https://odu.edu/sci"
+      },
+      {
+        "datetime": "2022-01-26T05:59:27Z",
+        "uri": "https://arquivo.pt/wayback/20220126055927mp_/http://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2022-04-17T07:36:21Z",
+        "uri": "https://arquivo.pt/wayback/20220417073621mp_/https://odu.edu/sci"
+      },
+      {
+        "datetime": "2022-04-20T16:37:09Z",
+        "uri": "https://arquivo.pt/wayback/20220420163709mp_/https://odu.edu/sci"
+      },
+      {
+        "datetime": "2022-04-22T18:52:56Z",
+        "uri": "https://arquivo.pt/wayback/20220422185256mp_/http://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2022-04-24T19:12:46Z",
+        "uri": "https://arquivo.pt/wayback/20220424191246mp_/http://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2022-07-30T15:18:58Z",
+        "uri": "https://arquivo.pt/wayback/20220730151858mp_/https://odu.edu/sci"
+      },
+      {
+        "datetime": "2022-08-11T02:19:19Z",
+        "uri": "https://wayback.archive-it.org/all/20220811021919/https://odu.edu/sci"
+      },
+      {
+        "datetime": "2022-08-11T02:19:26Z",
+        "uri": "https://wayback.archive-it.org/all/20220811021926/https://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2022-08-11T02:19:32Z",
+        "uri": "https://wayback.archive-it.org/all/20220811021932/http://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2022-08-13T22:00:33Z",
+        "uri": "https://wayback.archive-it.org/all/20220813220033/http://odu.edu/sci"
+      },
+      {
+        "datetime": "2022-10-11T02:56:29Z",
+        "uri": "https://arquivo.pt/wayback/20221011025629mp_/https://odu.edu/sci"
+      },
+      {
+        "datetime": "2022-11-07T05:27:02Z",
+        "uri": "https://wayback.archive-it.org/all/20221107052702/https://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2022-11-09T05:05:11Z",
+        "uri": "https://wayback.archive-it.org/all/20221109050511/https://www.odu.edu/sci/"
+      },
+      {
+        "datetime": "2022-12-07T08:04:48Z",
+        "uri": "https://wayback.archive-it.org/all/20221207080448/https://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2022-12-21T05:47:44Z",
+        "uri": "https://wayback.archive-it.org/all/20221221054744/https://www.odu.edu/sci/"
+      },
+      {
+        "datetime": "2023-01-07T07:56:01Z",
+        "uri": "https://wayback.archive-it.org/all/20230107075601/https://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2023-01-24T18:36:37Z",
+        "uri": "https://arquivo.pt/wayback/20230124183637mp_/https://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2023-02-07T06:37:30Z",
+        "uri": "https://wayback.archive-it.org/all/20230207063730/https://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2023-03-07T04:31:44Z",
+        "uri": "https://wayback.archive-it.org/all/20230307043144/https://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2023-03-09T09:24:47Z",
+        "uri": "https://wayback.archive-it.org/all/20230309092447/https://www.odu.edu/sci/"
+      },
+      {
+        "datetime": "2023-08-25T17:14:46Z",
+        "uri": "https://wayback.archive-it.org/all/20230825171446/https://odu.edu/sci"
+      },
+      {
+        "datetime": "2023-08-25T17:41:14Z",
+        "uri": "https://wayback.archive-it.org/all/20230825174114/https://www.odu.edu/sci"
+      },
+      {
+        "datetime": "2023-08-28T09:20:53Z",
+        "uri": "https://wayback.archive-it.org/all/20230828092053/https://www.odu.edu/sci/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-05-27T00:48:31Z",
+      "uri": "https://wayback.archive-it.org/all/20210527004831/https://odu.edu/sci"
+    },
+    "last": {
+      "datetime": "2023-08-28T09:20:53Z",
+      "uri": "https://wayback.archive-it.org/all/20230828092053/https://www.odu.edu/sci/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/sci",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/sci",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/sci"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/sci"
+}

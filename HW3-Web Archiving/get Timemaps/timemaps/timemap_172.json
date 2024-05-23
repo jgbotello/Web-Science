@@ -1,0 +1,794 @@
+{
+  "original_uri": "https://www.odu.edu/life/diversity",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/life/diversity",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-08-31T20:29:09Z",
+        "uri": "https://web.archive.org/web/20120831202909/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2012-11-05T17:44:19Z",
+        "uri": "https://web.archive.org/web/20121105174419/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2012-12-09T20:46:50Z",
+        "uri": "https://web.archive.org/web/20121209204650/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2013-01-05T03:50:02Z",
+        "uri": "https://web.archive.org/web/20130105035002/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2013-01-17T18:32:21Z",
+        "uri": "https://web.archive.org/web/20130117183221/http://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2013-03-08T14:05:48Z",
+        "uri": "https://web.archive.org/web/20130308140548/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2013-04-25T00:21:04Z",
+        "uri": "https://web.archive.org/web/20130425002104/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2013-05-02T06:23:10Z",
+        "uri": "https://web.archive.org/web/20130502062310/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2013-05-26T05:00:15Z",
+        "uri": "https://web.archive.org/web/20130526050015/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2013-08-16T14:21:40Z",
+        "uri": "https://web.archive.org/web/20130816142140/http://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2014-03-28T05:25:24Z",
+        "uri": "https://web.archive.org/web/20140328052524/http://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2014-06-26T05:43:07Z",
+        "uri": "https://web.archive.org/web/20140626054307/http://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2015-10-02T03:04:34Z",
+        "uri": "https://web.archive.org/web/20151002030434/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2015-11-01T17:36:06Z",
+        "uri": "https://web.archive.org/web/20151101173606/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2015-12-02T07:58:39Z",
+        "uri": "https://web.archive.org/web/20151202075839/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2016-01-01T22:34:40Z",
+        "uri": "https://web.archive.org/web/20160101223440/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2016-02-06T09:28:03Z",
+        "uri": "https://web.archive.org/web/20160206092803/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2016-03-05T11:28:58Z",
+        "uri": "https://web.archive.org/web/20160305112858/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2016-04-05T05:46:26Z",
+        "uri": "https://web.archive.org/web/20160405054626/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2016-05-06T08:47:51Z",
+        "uri": "https://web.archive.org/web/20160506084751/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2016-06-07T09:47:49Z",
+        "uri": "https://web.archive.org/web/20160607094749/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2016-07-08T00:15:17Z",
+        "uri": "https://web.archive.org/web/20160708001517/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2016-08-08T00:36:53Z",
+        "uri": "https://web.archive.org/web/20160808003653/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2016-09-08T01:28:15Z",
+        "uri": "https://web.archive.org/web/20160908012815/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2016-10-09T07:12:56Z",
+        "uri": "https://web.archive.org/web/20161009071256/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2016-10-10T08:00:48Z",
+        "uri": "https://web.archive.org/web/20161010080048/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2017-05-09T09:17:16Z",
+        "uri": "https://web.archive.org/web/20170509091716/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2017-05-15T08:46:04Z",
+        "uri": "https://web.archive.org/web/20170515084604/http://odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2017-06-19T12:23:59Z",
+        "uri": "https://web.archive.org/web/20170619122359/http://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2017-07-05T15:36:52Z",
+        "uri": "https://web.archive.org/web/20170705153652/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2017-08-21T14:48:18Z",
+        "uri": "https://web.archive.org/web/20170821144818/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2017-09-30T06:40:32Z",
+        "uri": "https://web.archive.org/web/20170930064032/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2017-11-29T19:10:43Z",
+        "uri": "https://web.archive.org/web/20171129191043/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2017-11-30T20:50:36Z",
+        "uri": "https://web.archive.org/web/20171130205036/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2018-02-02T07:20:08Z",
+        "uri": "https://web.archive.org/web/20180202072008/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2018-05-06T07:29:44Z",
+        "uri": "https://web.archive.org/web/20180506072944/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2018-07-08T08:48:04Z",
+        "uri": "https://web.archive.org/web/20180708084804/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2018-09-07T03:07:40Z",
+        "uri": "https://web.archive.org/web/20180907030740/http://www.odu.edu:80/life/diversity"
+      },
+      {
+        "datetime": "2020-03-01T22:46:26Z",
+        "uri": "https://web.archive.org/web/20200301224626/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2020-07-15T00:40:21Z",
+        "uri": "https://web.archive.org/web/20200715004021/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2020-07-15T00:40:30Z",
+        "uri": "https://web.archive.org/web/20200715004030/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2020-12-22T06:09:41Z",
+        "uri": "https://web.archive.org/web/20201222060941/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2020-12-22T06:10:32Z",
+        "uri": "https://web.archive.org/web/20201222061032/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2020-12-22T06:10:43Z",
+        "uri": "https://web.archive.org/web/20201222061043/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-02-08T10:31:14Z",
+        "uri": "https://web.archive.org/web/20210208103114/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-03-21T15:31:26Z",
+        "uri": "https://web.archive.org/web/20210321153126/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-04-13T17:34:49Z",
+        "uri": "https://web.archive.org/web/20210413173449/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-04-14T03:46:33Z",
+        "uri": "https://web.archive.org/web/20210414034633/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-04-14T10:46:11Z",
+        "uri": "https://web.archive.org/web/20210414104611/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-04-19T09:06:59Z",
+        "uri": "https://web.archive.org/web/20210419090659/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-04-25T18:22:11Z",
+        "uri": "https://web.archive.org/web/20210425182211/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-04-30T20:12:15Z",
+        "uri": "https://web.archive.org/web/20210430201215/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-05-20T15:08:23Z",
+        "uri": "https://web.archive.org/web/20210520150823/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-05-26T20:05:54Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200554/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-05-26T20:05:54Z",
+        "uri": "https://web.archive.org/web/20210526200554/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-05-26T20:05:58Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200558/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-05-26T20:05:58Z",
+        "uri": "https://web.archive.org/web/20210526200558/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-05-26T20:06:04Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200604/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-05-26T20:06:04Z",
+        "uri": "https://web.archive.org/web/20210526200604/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-06-02T02:00:00Z",
+        "uri": "https://web.archive.org/web/20210602020000/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-08-11T19:22:27Z",
+        "uri": "https://web.archive.org/web/20210811192227/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-08-13T09:22:22Z",
+        "uri": "https://web.archive.org/web/20210813092222/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-08-13T10:05:50Z",
+        "uri": "https://web.archive.org/web/20210813100550/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-09-10T15:38:19Z",
+        "uri": "https://arquivo.pt/wayback/20210910153819mp_/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-10-20T03:56:39Z",
+        "uri": "https://web.archive.org/web/20211020035639/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-11-03T11:19:20Z",
+        "uri": "https://arquivo.pt/wayback/20211103111920mp_/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-11-03T11:19:20Z",
+        "uri": "https://web.archive.org/web/20211103111920/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-11-03T11:19:24Z",
+        "uri": "https://arquivo.pt/wayback/20211103111924mp_/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-11-03T11:19:24Z",
+        "uri": "https://web.archive.org/web/20211103111924/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-11-26T00:53:56Z",
+        "uri": "https://web.archive.org/web/20211126005356/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2021-12-14T06:12:03Z",
+        "uri": "https://web.archive.org/web/20211214061203/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-04T02:34:47Z",
+        "uri": "https://web.archive.org/web/20220104023447/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-07T22:27:05Z",
+        "uri": "https://web.archive.org/web/20220107222705/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-08T16:38:55Z",
+        "uri": "https://web.archive.org/web/20220108163855/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-10T17:07:06Z",
+        "uri": "https://web.archive.org/web/20220110170706/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-11T20:15:29Z",
+        "uri": "https://web.archive.org/web/20220111201529/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-12T16:58:26Z",
+        "uri": "https://web.archive.org/web/20220112165826/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-12T21:56:22Z",
+        "uri": "https://web.archive.org/web/20220112215622/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-13T00:59:20Z",
+        "uri": "https://web.archive.org/web/20220113005920/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-13T19:31:23Z",
+        "uri": "https://web.archive.org/web/20220113193123/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-16T23:36:12Z",
+        "uri": "https://web.archive.org/web/20220116233612/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-21T21:46:38Z",
+        "uri": "https://web.archive.org/web/20220121214638/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-22T10:39:29Z",
+        "uri": "https://arquivo.pt/wayback/20220122103929mp_/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-24T20:26:47Z",
+        "uri": "https://web.archive.org/web/20220124202647/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-26T02:01:36Z",
+        "uri": "https://web.archive.org/web/20220126020136/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-26T05:37:11Z",
+        "uri": "https://arquivo.pt/wayback/20220126053711mp_/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-27T21:28:15Z",
+        "uri": "https://web.archive.org/web/20220127212815/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-27T21:31:02Z",
+        "uri": "https://web.archive.org/web/20220127213102/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-01-31T22:14:55Z",
+        "uri": "https://web.archive.org/web/20220131221455/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-02-01T22:29:48Z",
+        "uri": "https://web.archive.org/web/20220201222948/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-02-03T18:59:44Z",
+        "uri": "https://web.archive.org/web/20220203185944/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-02-17T22:12:22Z",
+        "uri": "https://web.archive.org/web/20220217221222/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-03-10T16:18:19Z",
+        "uri": "https://web.archive.org/web/20220310161819/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-04-17T00:53:25Z",
+        "uri": "https://web.archive.org/web/20220417005325/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-04-17T05:47:32Z",
+        "uri": "https://arquivo.pt/wayback/20220417054732mp_/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-04-20T02:22:12Z",
+        "uri": "https://web.archive.org/web/20220420022212/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-04-22T17:19:27Z",
+        "uri": "https://arquivo.pt/wayback/20220422171927mp_/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-04-22T17:19:31Z",
+        "uri": "https://arquivo.pt/wayback/20220422171931mp_/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-04-24T18:53:53Z",
+        "uri": "https://arquivo.pt/wayback/20220424185353mp_/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-05-14T05:09:41Z",
+        "uri": "https://web.archive.org/web/20220514050941/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-05-25T10:30:44Z",
+        "uri": "https://web.archive.org/web/20220525103044/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-05-28T22:47:04Z",
+        "uri": "https://web.archive.org/web/20220528224704/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-06-08T14:59:29Z",
+        "uri": "https://web.archive.org/web/20220608145929/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-06-15T05:41:01Z",
+        "uri": "https://web.archive.org/web/20220615054101/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-06-15T05:42:54Z",
+        "uri": "https://web.archive.org/web/20220615054254/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-06-18T23:37:37Z",
+        "uri": "https://web.archive.org/web/20220618233737/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-06-19T00:21:22Z",
+        "uri": "https://web.archive.org/web/20220619002122/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-06-19T11:22:35Z",
+        "uri": "https://web.archive.org/web/20220619112235/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-06-19T11:30:09Z",
+        "uri": "https://web.archive.org/web/20220619113009/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-06-19T23:24:56Z",
+        "uri": "https://web.archive.org/web/20220619232456/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-06-19T23:31:11Z",
+        "uri": "https://web.archive.org/web/20220619233111/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-06-25T13:31:38Z",
+        "uri": "https://web.archive.org/web/20220625133138/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-07-30T14:55:07Z",
+        "uri": "https://arquivo.pt/wayback/20220730145507mp_/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-02T18:42:45Z",
+        "uri": "https://web.archive.org/web/20220802184245/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-02T23:07:56Z",
+        "uri": "https://web.archive.org/web/20220802230756/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-02T23:18:28Z",
+        "uri": "https://web.archive.org/web/20220802231828/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-03T19:41:31Z",
+        "uri": "https://web.archive.org/web/20220803194131/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-04T10:25:10Z",
+        "uri": "https://web.archive.org/web/20220804102510/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-04T17:47:47Z",
+        "uri": "https://web.archive.org/web/20220804174747/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-07T04:37:25Z",
+        "uri": "https://web.archive.org/web/20220807043725/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-07T09:03:44Z",
+        "uri": "https://web.archive.org/web/20220807090344/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-08T05:44:43Z",
+        "uri": "https://web.archive.org/web/20220808054443/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-08T06:24:03Z",
+        "uri": "https://web.archive.org/web/20220808062403/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-08T11:37:19Z",
+        "uri": "https://web.archive.org/web/20220808113719/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-08T15:52:25Z",
+        "uri": "https://web.archive.org/web/20220808155225/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-08T20:02:40Z",
+        "uri": "https://web.archive.org/web/20220808200240/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-09T09:59:55Z",
+        "uri": "https://web.archive.org/web/20220809095955/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-09T13:27:18Z",
+        "uri": "https://web.archive.org/web/20220809132718/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-10T06:37:32Z",
+        "uri": "https://web.archive.org/web/20220810063732/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-10T20:14:54Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201454/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-10T20:14:54Z",
+        "uri": "https://web.archive.org/web/20220810201454/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-10T20:15:18Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201518/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-10T20:15:18Z",
+        "uri": "https://web.archive.org/web/20220810201518/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-10T20:15:32Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201532/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-10T20:15:32Z",
+        "uri": "https://web.archive.org/web/20220810201532/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-10T23:51:32Z",
+        "uri": "https://web.archive.org/web/20220810235132/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-11T09:19:05Z",
+        "uri": "https://web.archive.org/web/20220811091905/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-14T09:08:23Z",
+        "uri": "https://web.archive.org/web/20220814090823/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-14T16:29:49Z",
+        "uri": "https://web.archive.org/web/20220814162949/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-08-19T13:04:57Z",
+        "uri": "https://web.archive.org/web/20220819130457/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-09-22T10:07:39Z",
+        "uri": "https://web.archive.org/web/20220922100739/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-09-30T02:56:56Z",
+        "uri": "https://web.archive.org/web/20220930025656/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-10-01T01:52:02Z",
+        "uri": "https://web.archive.org/web/20221001015202/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-10-02T18:56:23Z",
+        "uri": "https://web.archive.org/web/20221002185623/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-10-03T12:10:16Z",
+        "uri": "https://web.archive.org/web/20221003121016/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-10-04T04:19:00Z",
+        "uri": "https://web.archive.org/web/20221004041900/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-10-04T16:10:08Z",
+        "uri": "https://web.archive.org/web/20221004161008/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-10-11T02:29:04Z",
+        "uri": "https://arquivo.pt/wayback/20221011022904mp_/https://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-10-14T05:15:53Z",
+        "uri": "https://web.archive.org/web/20221014051553/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-10-24T16:29:39Z",
+        "uri": "https://web.archive.org/web/20221024162939/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-11-06T02:14:02Z",
+        "uri": "https://web.archive.org/web/20221106021402/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-11-07T00:52:14Z",
+        "uri": "https://web.archive.org/web/20221107005214/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-11-07T06:36:27Z",
+        "uri": "https://wayback.archive-it.org/all/20221107063627/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-11-07T06:36:27Z",
+        "uri": "https://web.archive.org/web/20221107063627/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-11-07T22:20:34Z",
+        "uri": "https://wayback.archive-it.org/all/20221107222034/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-11-07T22:20:34Z",
+        "uri": "https://web.archive.org/web/20221107222034/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-11-08T02:04:36Z",
+        "uri": "https://web.archive.org/web/20221108020436/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-11-10T04:58:31Z",
+        "uri": "https://web.archive.org/web/20221110045831/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-11-11T04:16:06Z",
+        "uri": "https://web.archive.org/web/20221111041606/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-11-13T05:02:57Z",
+        "uri": "https://web.archive.org/web/20221113050257/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-11-14T03:01:42Z",
+        "uri": "https://web.archive.org/web/20221114030142/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-11-17T05:47:08Z",
+        "uri": "https://web.archive.org/web/20221117054708/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-12-07T14:11:24Z",
+        "uri": "https://wayback.archive-it.org/all/20221207141124/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-12-07T14:11:24Z",
+        "uri": "https://web.archive.org/web/20221207141124/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-12-08T06:57:32Z",
+        "uri": "https://web.archive.org/web/20221208065732/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-12-11T00:24:55Z",
+        "uri": "https://wayback.archive-it.org/all/20221211002455/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2022-12-11T00:24:55Z",
+        "uri": "https://web.archive.org/web/20221211002455/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-01-07T13:47:20Z",
+        "uri": "https://wayback.archive-it.org/all/20230107134720/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-01-07T13:47:20Z",
+        "uri": "https://web.archive.org/web/20230107134720/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-01-10T20:20:44Z",
+        "uri": "https://wayback.archive-it.org/all/20230110202044/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-01-10T20:20:44Z",
+        "uri": "https://web.archive.org/web/20230110202044/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-01-24T20:43:19Z",
+        "uri": "https://arquivo.pt/wayback/20230124204319mp_/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-02-07T12:27:26Z",
+        "uri": "https://wayback.archive-it.org/all/20230207122726/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-02-07T12:27:26Z",
+        "uri": "https://web.archive.org/web/20230207122726/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-02-10T12:11:03Z",
+        "uri": "https://wayback.archive-it.org/all/20230210121103/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-02-10T12:11:03Z",
+        "uri": "https://web.archive.org/web/20230210121103/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-02-20T01:08:40Z",
+        "uri": "https://web.archive.org/web/20230220010840/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-03-07T05:07:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230307050710/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-03-07T05:07:10Z",
+        "uri": "https://web.archive.org/web/20230307050710/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-03-07T18:15:04Z",
+        "uri": "https://wayback.archive-it.org/all/20230307181504/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-03-07T18:15:04Z",
+        "uri": "https://web.archive.org/web/20230307181504/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-03-27T22:36:27Z",
+        "uri": "https://web.archive.org/web/20230327223627/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-08-25T19:08:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230825190816/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-08-25T19:08:16Z",
+        "uri": "https://web.archive.org/web/20230825190816/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-08-26T14:47:55Z",
+        "uri": "https://wayback.archive-it.org/all/20230826144755/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2023-08-26T14:47:55Z",
+        "uri": "https://web.archive.org/web/20230826144755/http://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2024-02-14T16:08:35Z",
+        "uri": "https://web.archive.org/web/20240214160835/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2024-02-18T11:12:48Z",
+        "uri": "https://web.archive.org/web/20240218111248/http://odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2024-02-21T20:15:59Z",
+        "uri": "https://web.archive.org/web/20240221201559/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2024-02-28T21:33:14Z",
+        "uri": "https://web.archive.org/web/20240228213314/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2024-03-06T15:29:01Z",
+        "uri": "https://web.archive.org/web/20240306152901/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2024-04-04T07:26:58Z",
+        "uri": "https://web.archive.org/web/20240404072658/https://www.odu.edu/life/diversity"
+      },
+      {
+        "datetime": "2024-04-27T16:09:57Z",
+        "uri": "https://web.archive.org/web/20240427160957/https://www.odu.edu/life/diversity"
+      }
+    ],
+    "first": {
+      "datetime": "2012-08-31T20:29:09Z",
+      "uri": "https://web.archive.org/web/20120831202909/http://www.odu.edu:80/life/diversity"
+    },
+    "last": {
+      "datetime": "2024-04-27T16:09:57Z",
+      "uri": "https://web.archive.org/web/20240427160957/https://www.odu.edu/life/diversity"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/life/diversity",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/life/diversity",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/life/diversity"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/life/diversity"
+}

@@ -1,0 +1,442 @@
+{
+  "original_uri": "https://www.odu.edu/about/president/directory",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/about/president/directory",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-10-01T01:27:55Z",
+        "uri": "https://web.archive.org/web/20121001012755/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2012-11-30T16:35:58Z",
+        "uri": "https://web.archive.org/web/20121130163558/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2012-12-14T13:36:59Z",
+        "uri": "https://web.archive.org/web/20121214133659/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2012-12-16T06:52:27Z",
+        "uri": "https://web.archive.org/web/20121216065227/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2012-12-19T07:47:51Z",
+        "uri": "https://web.archive.org/web/20121219074751/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2013-01-17T19:04:25Z",
+        "uri": "https://web.archive.org/web/20130117190425/http://odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2013-01-30T02:26:18Z",
+        "uri": "https://web.archive.org/web/20130130022618/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2013-03-31T23:34:47Z",
+        "uri": "https://web.archive.org/web/20130331233447/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2013-05-02T08:58:27Z",
+        "uri": "https://web.archive.org/web/20130502085827/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2013-05-31T08:08:06Z",
+        "uri": "https://web.archive.org/web/20130531080806/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2013-07-16T04:52:13Z",
+        "uri": "https://web.archive.org/web/20130716045213/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2013-09-01T23:02:17Z",
+        "uri": "https://web.archive.org/web/20130901230217/http://odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2013-10-30T15:18:42Z",
+        "uri": "https://web.archive.org/web/20131030151842/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2014-03-22T08:10:22Z",
+        "uri": "https://web.archive.org/web/20140322081022/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2014-03-29T03:14:14Z",
+        "uri": "https://web.archive.org/web/20140329031414/http://odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2014-04-22T20:24:16Z",
+        "uri": "https://web.archive.org/web/20140422202416/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2014-05-24T01:23:06Z",
+        "uri": "https://web.archive.org/web/20140524012306/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2014-07-02T10:39:33Z",
+        "uri": "https://web.archive.org/web/20140702103933/http://odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2014-08-23T02:56:36Z",
+        "uri": "https://web.archive.org/web/20140823025636/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2016-12-09T06:39:02Z",
+        "uri": "https://web.archive.org/web/20161209063902/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2017-02-07T15:14:04Z",
+        "uri": "https://web.archive.org/web/20170207151404/http://odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2017-02-21T05:58:39Z",
+        "uri": "https://web.archive.org/web/20170221055839/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2017-04-23T07:50:31Z",
+        "uri": "https://web.archive.org/web/20170423075031/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2017-05-19T17:09:10Z",
+        "uri": "https://web.archive.org/web/20170519170910/http://odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2017-06-02T23:07:02Z",
+        "uri": "https://web.archive.org/web/20170602230702/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2017-06-22T21:58:53Z",
+        "uri": "https://web.archive.org/web/20170622215853/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2017-06-28T09:16:39Z",
+        "uri": "https://web.archive.org/web/20170628091639/http://odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2017-06-30T15:19:32Z",
+        "uri": "https://web.archive.org/web/20170630151932/http://odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2017-07-05T11:22:37Z",
+        "uri": "https://web.archive.org/web/20170705112237/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2017-08-23T06:48:37Z",
+        "uri": "https://web.archive.org/web/20170823064837/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2017-08-30T18:45:46Z",
+        "uri": "https://web.archive.org/web/20170830184546/http://odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2017-10-23T01:25:40Z",
+        "uri": "https://web.archive.org/web/20171023012540/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2017-11-14T06:42:27Z",
+        "uri": "https://web.archive.org/web/20171114064227/http://odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2017-12-23T03:38:10Z",
+        "uri": "https://web.archive.org/web/20171223033810/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2018-01-14T15:44:19Z",
+        "uri": "https://web.archive.org/web/20180114154419/http://odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2018-02-21T17:08:43Z",
+        "uri": "https://web.archive.org/web/20180221170843/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2018-03-16T20:37:27Z",
+        "uri": "https://web.archive.org/web/20180316203727/http://odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2018-04-24T11:10:41Z",
+        "uri": "https://web.archive.org/web/20180424111041/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2018-05-18T19:58:53Z",
+        "uri": "https://web.archive.org/web/20180518195853/http://odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2018-06-24T09:06:31Z",
+        "uri": "https://web.archive.org/web/20180624090631/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2018-07-18T14:09:37Z",
+        "uri": "https://web.archive.org/web/20180718140937/http://odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2018-08-24T03:54:58Z",
+        "uri": "https://web.archive.org/web/20180824035458/http://www.odu.edu:80/about/president/directory"
+      },
+      {
+        "datetime": "2018-10-04T12:16:46Z",
+        "uri": "https://web.archive.org/web/20181004121646/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2019-07-31T23:35:30Z",
+        "uri": "https://web.archive.org/web/20190731233530/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2020-07-22T16:14:58Z",
+        "uri": "https://web.archive.org/web/20200722161458/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2020-07-22T16:15:21Z",
+        "uri": "https://web.archive.org/web/20200722161521/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2021-04-17T19:33:50Z",
+        "uri": "https://web.archive.org/web/20210417193350/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2021-05-27T01:27:30Z",
+        "uri": "https://wayback.archive-it.org/all/20210527012730/https://odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2021-05-27T01:27:30Z",
+        "uri": "https://web.archive.org/web/20210527012730/https://odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2021-05-27T01:27:38Z",
+        "uri": "https://wayback.archive-it.org/all/20210527012738/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2021-05-27T01:27:38Z",
+        "uri": "https://web.archive.org/web/20210527012738/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2021-05-27T01:27:44Z",
+        "uri": "https://wayback.archive-it.org/all/20210527012744/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2021-05-27T01:27:44Z",
+        "uri": "https://web.archive.org/web/20210527012744/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2021-07-21T13:34:06Z",
+        "uri": "https://web.archive.org/web/20210721133406/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2021-08-12T16:43:07Z",
+        "uri": "https://web.archive.org/web/20210812164307/https://odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2021-11-11T02:18:51Z",
+        "uri": "https://arquivo.pt/wayback/20211111021851mp_/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2021-11-12T09:32:32Z",
+        "uri": "https://arquivo.pt/wayback/20211112093232mp_/https://odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2021-11-25T16:59:13Z",
+        "uri": "https://web.archive.org/web/20211125165913/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2021-12-09T08:55:36Z",
+        "uri": "https://web.archive.org/web/20211209085536/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-04-22T19:30:24Z",
+        "uri": "https://arquivo.pt/wayback/20220422193024mp_/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-04-22T19:30:27Z",
+        "uri": "https://arquivo.pt/wayback/20220422193027mp_/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-04-24T19:45:08Z",
+        "uri": "https://arquivo.pt/wayback/20220424194508mp_/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-05-07T22:21:39Z",
+        "uri": "https://arquivo.pt/wayback/20220507222139mp_/https://odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-05-26T18:19:45Z",
+        "uri": "https://web.archive.org/web/20220526181945/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-05-27T18:21:31Z",
+        "uri": "https://web.archive.org/web/20220527182131/https://odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-08-10T19:57:49Z",
+        "uri": "https://wayback.archive-it.org/all/20220810195749/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-08-10T19:57:49Z",
+        "uri": "https://web.archive.org/web/20220810195749/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-08-10T19:58:38Z",
+        "uri": "https://wayback.archive-it.org/all/20220810195838/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-08-10T19:58:38Z",
+        "uri": "https://web.archive.org/web/20220810195838/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-08-11T03:10:08Z",
+        "uri": "https://wayback.archive-it.org/all/20220811031008/https://odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-08-11T03:10:08Z",
+        "uri": "https://web.archive.org/web/20220811031008/https://odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-08-18T08:17:18Z",
+        "uri": "https://arquivo.pt/wayback/20220818081718mp_/https://odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-09-28T11:47:04Z",
+        "uri": "https://web.archive.org/web/20220928114704/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-10-02T20:04:33Z",
+        "uri": "https://web.archive.org/web/20221002200433/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-10-28T21:17:16Z",
+        "uri": "https://web.archive.org/web/20221028211716/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-11-07T21:49:11Z",
+        "uri": "https://wayback.archive-it.org/all/20221107214911/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-11-07T21:49:11Z",
+        "uri": "https://web.archive.org/web/20221107214911/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-11-07T23:52:18Z",
+        "uri": "https://wayback.archive-it.org/all/20221107235218/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-11-07T23:52:18Z",
+        "uri": "https://web.archive.org/web/20221107235218/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-11-16T04:06:37Z",
+        "uri": "https://arquivo.pt/wayback/20221116040637mp_/https://odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-12-10T23:24:35Z",
+        "uri": "https://wayback.archive-it.org/all/20221210232435/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-12-10T23:24:35Z",
+        "uri": "https://web.archive.org/web/20221210232435/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-12-11T01:53:18Z",
+        "uri": "https://wayback.archive-it.org/all/20221211015318/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2022-12-11T01:53:18Z",
+        "uri": "https://web.archive.org/web/20221211015318/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-01-10T18:56:41Z",
+        "uri": "https://wayback.archive-it.org/all/20230110185641/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-01-10T18:56:41Z",
+        "uri": "https://web.archive.org/web/20230110185641/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-01-11T01:01:14Z",
+        "uri": "https://wayback.archive-it.org/all/20230111010114/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-01-11T01:01:14Z",
+        "uri": "https://web.archive.org/web/20230111010114/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-02-10T13:22:59Z",
+        "uri": "https://wayback.archive-it.org/all/20230210132259/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-02-10T13:22:59Z",
+        "uri": "https://web.archive.org/web/20230210132259/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-02-10T13:23:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230210132316/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-02-10T13:23:16Z",
+        "uri": "https://web.archive.org/web/20230210132316/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-03-07T18:31:48Z",
+        "uri": "https://wayback.archive-it.org/all/20230307183148/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-03-07T18:31:48Z",
+        "uri": "https://web.archive.org/web/20230307183148/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-03-07T18:56:59Z",
+        "uri": "https://wayback.archive-it.org/all/20230307185659/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-03-07T18:56:59Z",
+        "uri": "https://web.archive.org/web/20230307185659/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-05-19T04:16:28Z",
+        "uri": "https://web.archive.org/web/20230519041628/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-08-02T14:47:11Z",
+        "uri": "https://wayback.archive-it.org/all/20230802144711/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-08-02T14:47:11Z",
+        "uri": "https://web.archive.org/web/20230802144711/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-08-26T04:04:36Z",
+        "uri": "https://wayback.archive-it.org/all/20230826040436/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-08-26T04:04:36Z",
+        "uri": "https://web.archive.org/web/20230826040436/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-08-26T17:13:04Z",
+        "uri": "https://wayback.archive-it.org/all/20230826171304/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2023-08-26T17:13:04Z",
+        "uri": "https://web.archive.org/web/20230826171304/http://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2024-02-24T09:30:57Z",
+        "uri": "https://web.archive.org/web/20240224093057/https://www.odu.edu/about/president/directory"
+      },
+      {
+        "datetime": "2024-04-04T07:25:58Z",
+        "uri": "https://web.archive.org/web/20240404072558/https://www.odu.edu/about/president/directory"
+      }
+    ],
+    "first": {
+      "datetime": "2012-10-01T01:27:55Z",
+      "uri": "https://web.archive.org/web/20121001012755/http://www.odu.edu:80/about/president/directory"
+    },
+    "last": {
+      "datetime": "2024-04-04T07:25:58Z",
+      "uri": "https://web.archive.org/web/20240404072558/https://www.odu.edu/about/president/directory"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/about/president/directory",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/about/president/directory",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/about/president/directory"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/about/president/directory"
+}

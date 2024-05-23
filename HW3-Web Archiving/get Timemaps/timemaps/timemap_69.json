@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.ripta.com/schedules/",
+  "self": "http://localhost:1208/timemap/json/https://www.ripta.com/schedules/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-01-27T22:47:36Z",
+        "uri": "https://arquivo.pt/wayback/20220127224736mp_/https://www.ripta.com/schedules/"
+      },
+      {
+        "datetime": "2022-04-18T18:09:02Z",
+        "uri": "https://arquivo.pt/wayback/20220418180902mp_/https://www.ripta.com/schedules/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-01-27T22:47:36Z",
+      "uri": "https://arquivo.pt/wayback/20220127224736mp_/https://www.ripta.com/schedules/"
+    },
+    "last": {
+      "datetime": "2022-04-18T18:09:02Z",
+      "uri": "https://arquivo.pt/wayback/20220418180902mp_/https://www.ripta.com/schedules/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.ripta.com/schedules/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.ripta.com/schedules/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ripta.com/schedules/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.ripta.com/schedules/"
+}

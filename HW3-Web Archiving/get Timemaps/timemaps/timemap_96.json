@@ -1,0 +1,654 @@
+{
+  "original_uri": "https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw",
+  "self": "http://localhost:1208/timemap/json/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-07-30T14:42:53Z",
+        "uri": "https://wayback.archive-it.org/all/20200730144253/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-08-28T12:00:23Z",
+        "uri": "https://wayback.archive-it.org/all/20200828120023/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-09-04T12:00:27Z",
+        "uri": "https://wayback.archive-it.org/all/20200904120027/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-09-11T12:00:45Z",
+        "uri": "https://wayback.archive-it.org/all/20200911120045/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-09-18T12:00:35Z",
+        "uri": "https://wayback.archive-it.org/all/20200918120035/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-09-25T12:00:38Z",
+        "uri": "https://wayback.archive-it.org/all/20200925120038/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-10-02T12:01:11Z",
+        "uri": "https://wayback.archive-it.org/all/20201002120111/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-10-09T12:01:06Z",
+        "uri": "https://wayback.archive-it.org/all/20201009120106/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-10-16T12:01:00Z",
+        "uri": "https://wayback.archive-it.org/all/20201016120100/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-10-23T12:02:17Z",
+        "uri": "https://wayback.archive-it.org/all/20201023120217/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-10-30T12:00:36Z",
+        "uri": "https://wayback.archive-it.org/all/20201030120036/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-11-06T12:00:23Z",
+        "uri": "https://wayback.archive-it.org/all/20201106120023/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-11-13T12:00:24Z",
+        "uri": "https://wayback.archive-it.org/all/20201113120024/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-11-20T12:00:41Z",
+        "uri": "https://wayback.archive-it.org/all/20201120120041/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-11-27T12:00:17Z",
+        "uri": "https://wayback.archive-it.org/all/20201127120017/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-12-04T12:01:16Z",
+        "uri": "https://wayback.archive-it.org/all/20201204120116/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-12-11T12:00:57Z",
+        "uri": "https://wayback.archive-it.org/all/20201211120057/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-12-18T12:00:33Z",
+        "uri": "https://wayback.archive-it.org/all/20201218120033/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2020-12-25T12:00:35Z",
+        "uri": "https://wayback.archive-it.org/all/20201225120035/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-01-01T12:01:15Z",
+        "uri": "https://wayback.archive-it.org/all/20210101120115/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-01-08T12:01:04Z",
+        "uri": "https://wayback.archive-it.org/all/20210108120104/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-01-15T12:01:09Z",
+        "uri": "https://wayback.archive-it.org/all/20210115120109/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-01-22T12:00:22Z",
+        "uri": "https://wayback.archive-it.org/all/20210122120022/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-01-29T12:00:43Z",
+        "uri": "https://wayback.archive-it.org/all/20210129120043/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-02-05T12:03:42Z",
+        "uri": "https://wayback.archive-it.org/all/20210205120342/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-02-12T12:00:37Z",
+        "uri": "https://wayback.archive-it.org/all/20210212120037/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-02-19T12:01:13Z",
+        "uri": "https://wayback.archive-it.org/all/20210219120113/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-02-26T12:00:34Z",
+        "uri": "https://wayback.archive-it.org/all/20210226120034/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-03-05T12:00:37Z",
+        "uri": "https://wayback.archive-it.org/all/20210305120037/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-03-12T12:01:00Z",
+        "uri": "https://wayback.archive-it.org/all/20210312120100/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-03-19T12:00:35Z",
+        "uri": "https://wayback.archive-it.org/all/20210319120035/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-03-26T12:00:38Z",
+        "uri": "https://wayback.archive-it.org/all/20210326120038/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-04-02T12:00:38Z",
+        "uri": "https://wayback.archive-it.org/all/20210402120038/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-04-09T12:00:31Z",
+        "uri": "https://wayback.archive-it.org/all/20210409120031/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-04-16T12:02:23Z",
+        "uri": "https://wayback.archive-it.org/all/20210416120223/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-04-23T12:00:43Z",
+        "uri": "https://wayback.archive-it.org/all/20210423120043/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-04-30T12:00:41Z",
+        "uri": "https://wayback.archive-it.org/all/20210430120041/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-05-07T12:00:36Z",
+        "uri": "https://wayback.archive-it.org/all/20210507120036/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-05-14T12:00:20Z",
+        "uri": "https://wayback.archive-it.org/all/20210514120020/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-05-21T12:00:19Z",
+        "uri": "https://wayback.archive-it.org/all/20210521120019/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-05-28T12:00:48Z",
+        "uri": "https://wayback.archive-it.org/all/20210528120048/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-06-04T12:00:47Z",
+        "uri": "https://wayback.archive-it.org/all/20210604120047/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-06-11T12:01:17Z",
+        "uri": "https://wayback.archive-it.org/all/20210611120117/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-06-18T12:00:32Z",
+        "uri": "https://wayback.archive-it.org/all/20210618120032/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-06-25T12:00:24Z",
+        "uri": "https://wayback.archive-it.org/all/20210625120024/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-07-02T12:00:47Z",
+        "uri": "https://wayback.archive-it.org/all/20210702120047/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-07-09T12:00:31Z",
+        "uri": "https://wayback.archive-it.org/all/20210709120031/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-07-16T12:00:33Z",
+        "uri": "https://wayback.archive-it.org/all/20210716120033/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-07-23T12:00:16Z",
+        "uri": "https://wayback.archive-it.org/all/20210723120016/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-07-30T12:00:37Z",
+        "uri": "https://wayback.archive-it.org/all/20210730120037/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-08-06T12:00:20Z",
+        "uri": "https://wayback.archive-it.org/all/20210806120020/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-08-13T12:00:55Z",
+        "uri": "https://wayback.archive-it.org/all/20210813120055/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-08-20T12:00:31Z",
+        "uri": "https://wayback.archive-it.org/all/20210820120031/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-08-27T12:00:22Z",
+        "uri": "https://wayback.archive-it.org/all/20210827120022/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-09-03T12:00:40Z",
+        "uri": "https://wayback.archive-it.org/all/20210903120040/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-09-10T12:00:29Z",
+        "uri": "https://wayback.archive-it.org/all/20210910120029/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-09-17T12:08:17Z",
+        "uri": "https://wayback.archive-it.org/all/20210917120817/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-09-24T12:00:40Z",
+        "uri": "https://wayback.archive-it.org/all/20210924120040/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-10-01T12:00:59Z",
+        "uri": "https://wayback.archive-it.org/all/20211001120059/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-10-08T12:00:37Z",
+        "uri": "https://wayback.archive-it.org/all/20211008120037/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-10-15T12:01:34Z",
+        "uri": "https://wayback.archive-it.org/all/20211015120134/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-10-22T12:01:07Z",
+        "uri": "https://wayback.archive-it.org/all/20211022120107/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-10-29T12:00:59Z",
+        "uri": "https://wayback.archive-it.org/all/20211029120059/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-11-05T12:00:20Z",
+        "uri": "https://wayback.archive-it.org/all/20211105120020/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-11-12T12:00:33Z",
+        "uri": "https://wayback.archive-it.org/all/20211112120033/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-11-19T12:00:42Z",
+        "uri": "https://wayback.archive-it.org/all/20211119120042/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-11-26T12:00:25Z",
+        "uri": "https://wayback.archive-it.org/all/20211126120025/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-12-03T12:00:32Z",
+        "uri": "https://wayback.archive-it.org/all/20211203120032/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-12-10T12:01:05Z",
+        "uri": "https://wayback.archive-it.org/all/20211210120105/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-12-17T12:00:44Z",
+        "uri": "https://wayback.archive-it.org/all/20211217120044/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-12-24T12:00:56Z",
+        "uri": "https://wayback.archive-it.org/all/20211224120056/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2021-12-31T12:00:22Z",
+        "uri": "https://wayback.archive-it.org/all/20211231120022/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-01-07T12:00:35Z",
+        "uri": "https://wayback.archive-it.org/all/20220107120035/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-01-14T12:01:01Z",
+        "uri": "https://wayback.archive-it.org/all/20220114120101/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-01-21T12:00:33Z",
+        "uri": "https://wayback.archive-it.org/all/20220121120033/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-01-28T12:04:12Z",
+        "uri": "https://wayback.archive-it.org/all/20220128120412/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-02-04T12:00:49Z",
+        "uri": "https://wayback.archive-it.org/all/20220204120049/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-02-11T12:00:28Z",
+        "uri": "https://wayback.archive-it.org/all/20220211120028/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-02-18T12:00:25Z",
+        "uri": "https://wayback.archive-it.org/all/20220218120025/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-02-25T12:01:16Z",
+        "uri": "https://wayback.archive-it.org/all/20220225120116/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-03-04T12:02:23Z",
+        "uri": "https://wayback.archive-it.org/all/20220304120223/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-03-11T12:01:36Z",
+        "uri": "https://wayback.archive-it.org/all/20220311120136/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-03-18T12:00:38Z",
+        "uri": "https://wayback.archive-it.org/all/20220318120038/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-03-25T12:00:36Z",
+        "uri": "https://wayback.archive-it.org/all/20220325120036/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-04-01T12:01:09Z",
+        "uri": "https://wayback.archive-it.org/all/20220401120109/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-04-08T12:00:28Z",
+        "uri": "https://wayback.archive-it.org/all/20220408120028/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-04-15T12:00:52Z",
+        "uri": "https://wayback.archive-it.org/all/20220415120052/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-04-22T12:02:10Z",
+        "uri": "https://wayback.archive-it.org/all/20220422120210/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-04-29T12:00:54Z",
+        "uri": "https://wayback.archive-it.org/all/20220429120054/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-05-06T12:00:36Z",
+        "uri": "https://wayback.archive-it.org/all/20220506120036/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-05-13T12:00:51Z",
+        "uri": "https://wayback.archive-it.org/all/20220513120051/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-05-20T12:01:21Z",
+        "uri": "https://wayback.archive-it.org/all/20220520120121/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-05-27T12:00:46Z",
+        "uri": "https://wayback.archive-it.org/all/20220527120046/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-06-03T12:00:43Z",
+        "uri": "https://wayback.archive-it.org/all/20220603120043/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-06-10T12:53:15Z",
+        "uri": "https://wayback.archive-it.org/all/20220610125315/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-06-17T12:01:36Z",
+        "uri": "https://wayback.archive-it.org/all/20220617120136/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-06-24T12:02:53Z",
+        "uri": "https://wayback.archive-it.org/all/20220624120253/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-07-01T12:03:51Z",
+        "uri": "https://wayback.archive-it.org/all/20220701120351/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-07-08T12:00:52Z",
+        "uri": "https://wayback.archive-it.org/all/20220708120052/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-07-15T12:02:03Z",
+        "uri": "https://wayback.archive-it.org/all/20220715120203/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-07-22T12:17:55Z",
+        "uri": "https://wayback.archive-it.org/all/20220722121755/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-07-29T12:01:48Z",
+        "uri": "https://wayback.archive-it.org/all/20220729120148/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-08-05T12:00:39Z",
+        "uri": "https://wayback.archive-it.org/all/20220805120039/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-08-12T12:00:47Z",
+        "uri": "https://wayback.archive-it.org/all/20220812120047/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-08-19T12:00:43Z",
+        "uri": "https://wayback.archive-it.org/all/20220819120043/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-08-26T12:00:52Z",
+        "uri": "https://wayback.archive-it.org/all/20220826120052/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-09-02T12:03:54Z",
+        "uri": "https://wayback.archive-it.org/all/20220902120354/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-09-09T12:53:01Z",
+        "uri": "https://wayback.archive-it.org/all/20220909125301/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-09-16T12:01:01Z",
+        "uri": "https://wayback.archive-it.org/all/20220916120101/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-09-23T12:14:53Z",
+        "uri": "https://wayback.archive-it.org/all/20220923121453/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-09-30T12:02:02Z",
+        "uri": "https://wayback.archive-it.org/all/20220930120202/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-10-07T12:00:37Z",
+        "uri": "https://wayback.archive-it.org/all/20221007120037/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-10-14T12:01:09Z",
+        "uri": "https://wayback.archive-it.org/all/20221014120109/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-10-21T12:01:39Z",
+        "uri": "https://wayback.archive-it.org/all/20221021120139/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-10-28T12:03:38Z",
+        "uri": "https://wayback.archive-it.org/all/20221028120338/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-11-04T12:07:49Z",
+        "uri": "https://wayback.archive-it.org/all/20221104120749/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-11-11T12:00:43Z",
+        "uri": "https://wayback.archive-it.org/all/20221111120043/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-11-18T12:04:56Z",
+        "uri": "https://wayback.archive-it.org/all/20221118120456/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-11-25T12:00:40Z",
+        "uri": "https://wayback.archive-it.org/all/20221125120040/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-12-02T12:00:59Z",
+        "uri": "https://wayback.archive-it.org/all/20221202120059/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-12-09T12:02:47Z",
+        "uri": "https://wayback.archive-it.org/all/20221209120247/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-12-16T12:06:24Z",
+        "uri": "https://wayback.archive-it.org/all/20221216120624/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-12-23T12:00:36Z",
+        "uri": "https://wayback.archive-it.org/all/20221223120036/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2022-12-30T12:02:45Z",
+        "uri": "https://wayback.archive-it.org/all/20221230120245/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-01-06T12:01:26Z",
+        "uri": "https://wayback.archive-it.org/all/20230106120126/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-01-13T12:35:46Z",
+        "uri": "https://wayback.archive-it.org/all/20230113123546/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-01-20T12:01:11Z",
+        "uri": "https://wayback.archive-it.org/all/20230120120111/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-01-27T12:02:23Z",
+        "uri": "https://wayback.archive-it.org/all/20230127120223/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-02-03T12:10:18Z",
+        "uri": "https://wayback.archive-it.org/all/20230203121018/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-02-10T12:01:25Z",
+        "uri": "https://wayback.archive-it.org/all/20230210120125/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-02-17T12:02:32Z",
+        "uri": "https://wayback.archive-it.org/all/20230217120232/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-02-24T12:55:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230224125510/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-03-03T12:01:04Z",
+        "uri": "https://wayback.archive-it.org/all/20230303120104/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-03-10T12:06:39Z",
+        "uri": "https://wayback.archive-it.org/all/20230310120639/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-03-17T12:14:52Z",
+        "uri": "https://wayback.archive-it.org/all/20230317121452/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-03-24T12:01:20Z",
+        "uri": "https://wayback.archive-it.org/all/20230324120120/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-03-31T12:01:05Z",
+        "uri": "https://wayback.archive-it.org/all/20230331120105/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-04-07T12:00:38Z",
+        "uri": "https://wayback.archive-it.org/all/20230407120038/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-04-14T12:00:38Z",
+        "uri": "https://wayback.archive-it.org/all/20230414120038/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-04-21T12:00:36Z",
+        "uri": "https://wayback.archive-it.org/all/20230421120036/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-04-28T12:00:41Z",
+        "uri": "https://wayback.archive-it.org/all/20230428120041/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-05-05T12:00:49Z",
+        "uri": "https://wayback.archive-it.org/all/20230505120049/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-05-12T12:01:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230512120156/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-05-19T12:02:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230519120233/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-05-26T13:47:43Z",
+        "uri": "https://wayback.archive-it.org/all/20230526134743/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-06-02T12:02:50Z",
+        "uri": "https://wayback.archive-it.org/all/20230602120250/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-06-09T12:00:57Z",
+        "uri": "https://wayback.archive-it.org/all/20230609120057/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-06-16T12:01:58Z",
+        "uri": "https://wayback.archive-it.org/all/20230616120158/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-06-23T12:00:52Z",
+        "uri": "https://wayback.archive-it.org/all/20230623120052/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-06-30T12:02:51Z",
+        "uri": "https://wayback.archive-it.org/all/20230630120251/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-07-07T12:08:32Z",
+        "uri": "https://wayback.archive-it.org/all/20230707120832/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-07-14T12:03:07Z",
+        "uri": "https://wayback.archive-it.org/all/20230714120307/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-07-21T12:12:32Z",
+        "uri": "https://wayback.archive-it.org/all/20230721121232/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-07-28T12:03:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230728120329/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-08-04T12:04:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230804120417/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-08-11T12:00:50Z",
+        "uri": "https://wayback.archive-it.org/all/20230811120050/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-08-18T12:03:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230818120310/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      },
+      {
+        "datetime": "2023-08-25T12:00:57Z",
+        "uri": "https://wayback.archive-it.org/all/20230825120057/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+      }
+    ],
+    "first": {
+      "datetime": "2020-07-30T14:42:53Z",
+      "uri": "https://wayback.archive-it.org/all/20200730144253/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+    },
+    "last": {
+      "datetime": "2023-08-25T12:00:57Z",
+      "uri": "https://wayback.archive-it.org/all/20230825120057/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw",
+    "json_format": "http://localhost:1208/timemap/json/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw"
+}

@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.ripta.com/fares/",
+  "self": "http://localhost:1208/timemap/json/https://www.ripta.com/fares/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-01-27T23:00:55Z",
+        "uri": "https://arquivo.pt/wayback/20220127230055mp_/https://www.ripta.com/fares/"
+      },
+      {
+        "datetime": "2022-04-18T18:26:26Z",
+        "uri": "https://arquivo.pt/wayback/20220418182626mp_/https://www.ripta.com/fares/"
+      },
+      {
+        "datetime": "2022-04-18T21:31:17Z",
+        "uri": "https://arquivo.pt/wayback/20220418213117mp_/https://www.ripta.com/fares"
+      }
+    ],
+    "first": {
+      "datetime": "2022-01-27T23:00:55Z",
+      "uri": "https://arquivo.pt/wayback/20220127230055mp_/https://www.ripta.com/fares/"
+    },
+    "last": {
+      "datetime": "2022-04-18T21:31:17Z",
+      "uri": "https://arquivo.pt/wayback/20220418213117mp_/https://www.ripta.com/fares"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.ripta.com/fares/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.ripta.com/fares/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ripta.com/fares/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.ripta.com/fares/"
+}

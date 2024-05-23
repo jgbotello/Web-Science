@@ -1,0 +1,490 @@
+{
+  "original_uri": "http://www.myucdblog.com/",
+  "self": "http://localhost:1208/timemap/json/http://www.myucdblog.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2014-12-18T03:51:26Z",
+        "uri": "https://web.archive.org/web/20141218035126/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2015-01-07T09:38:03Z",
+        "uri": "https://web.archive.org/web/20150107093803/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2015-03-04T07:27:40Z",
+        "uri": "https://web.archive.org/web/20150304072740/http://myucdblog.com:80/"
+      },
+      {
+        "datetime": "2015-03-06T08:35:03Z",
+        "uri": "https://web.archive.org/web/20150306083503/http://myucdblog.com:80/"
+      },
+      {
+        "datetime": "2015-04-06T06:12:18Z",
+        "uri": "https://web.archive.org/web/20150406061218/http://myucdblog.com:80/"
+      },
+      {
+        "datetime": "2015-05-07T03:29:03Z",
+        "uri": "https://web.archive.org/web/20150507032903/http://myucdblog.com:80/"
+      },
+      {
+        "datetime": "2015-06-07T19:05:55Z",
+        "uri": "https://web.archive.org/web/20150607190555/http://myucdblog.com:80/"
+      },
+      {
+        "datetime": "2015-07-08T05:45:35Z",
+        "uri": "https://web.archive.org/web/20150708054535/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2015-07-08T05:45:35Z",
+        "uri": "https://web.archive.org/web/20150708054535/http://myucdblog.com:80/"
+      },
+      {
+        "datetime": "2015-08-01T21:51:30Z",
+        "uri": "https://web.archive.org/web/20150801215130/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2015-08-22T06:09:44Z",
+        "uri": "https://web.archive.org/web/20150822060944/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2015-11-25T06:06:51Z",
+        "uri": "https://web.archive.org/web/20151125060651/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2016-01-11T02:15:32Z",
+        "uri": "https://web.archive.org/web/20160111021532/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2016-02-05T10:41:27Z",
+        "uri": "https://web.archive.org/web/20160205104127/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2016-02-19T06:50:45Z",
+        "uri": "https://web.archive.org/web/20160219065045/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2016-03-05T22:13:34Z",
+        "uri": "https://web.archive.org/web/20160305221334/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2016-03-20T23:02:44Z",
+        "uri": "https://web.archive.org/web/20160320230244/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2016-03-22T02:17:31Z",
+        "uri": "https://web.archive.org/web/20160322021731/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2016-04-20T18:52:49Z",
+        "uri": "https://web.archive.org/web/20160420185249/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2016-05-22T03:35:11Z",
+        "uri": "https://web.archive.org/web/20160522033511/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2016-05-22T13:55:19Z",
+        "uri": "https://arquivo.pt/wayback/20160522135519mp_/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2016-05-24T18:20:16Z",
+        "uri": "https://arquivo.pt/wayback/20160524182016mp_/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2016-05-24T18:21:12Z",
+        "uri": "https://arquivo.pt/wayback/20160524182112mp_/http://www.myucdblog.com//"
+      },
+      {
+        "datetime": "2016-06-22T00:50:07Z",
+        "uri": "https://web.archive.org/web/20160622005007/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2016-07-22T19:40:00Z",
+        "uri": "https://web.archive.org/web/20160722194000/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2016-08-22T23:08:16Z",
+        "uri": "https://web.archive.org/web/20160822230816/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2016-09-23T02:12:02Z",
+        "uri": "https://web.archive.org/web/20160923021202/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2016-10-11T15:03:00Z",
+        "uri": "https://web.archive.org/web/20161011150300/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2016-10-24T03:39:23Z",
+        "uri": "https://web.archive.org/web/20161024033923/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2017-02-20T08:27:58Z",
+        "uri": "https://web.archive.org/web/20170220082758/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2017-03-17T18:16:30Z",
+        "uri": "https://web.archive.org/web/20170317181630/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2017-03-21T09:47:56Z",
+        "uri": "https://web.archive.org/web/20170321094756/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2017-05-14T06:54:33Z",
+        "uri": "https://web.archive.org/web/20170514065433/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2017-05-27T11:19:14Z",
+        "uri": "https://web.archive.org/web/20170527111914/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2017-06-14T11:44:47Z",
+        "uri": "https://web.archive.org/web/20170614114447/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2017-07-11T04:43:47Z",
+        "uri": "https://web.archive.org/web/20170711044347/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2017-07-16T00:31:52Z",
+        "uri": "https://web.archive.org/web/20170716003152/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2017-08-15T15:03:57Z",
+        "uri": "https://web.archive.org/web/20170815150357/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2017-09-15T16:07:12Z",
+        "uri": "https://web.archive.org/web/20170915160712/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2017-09-17T04:59:52Z",
+        "uri": "https://web.archive.org/web/20170917045952/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2017-10-07T12:33:01Z",
+        "uri": "https://web.archive.org/web/20171007123301/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2017-10-16T15:49:49Z",
+        "uri": "https://web.archive.org/web/20171016154949/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2017-11-16T19:53:57Z",
+        "uri": "https://web.archive.org/web/20171116195357/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2017-11-17T20:06:26Z",
+        "uri": "https://web.archive.org/web/20171117200626/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2017-12-18T19:59:36Z",
+        "uri": "https://web.archive.org/web/20171218195936/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2018-01-18T15:30:23Z",
+        "uri": "https://web.archive.org/web/20180118153023/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2018-02-19T04:50:41Z",
+        "uri": "https://web.archive.org/web/20180219045041/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2018-03-19T08:26:55Z",
+        "uri": "https://web.archive.org/web/20180319082655/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2018-03-22T01:39:00Z",
+        "uri": "https://web.archive.org/web/20180322013900/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2018-04-12T09:54:09Z",
+        "uri": "https://web.archive.org/web/20180412095409/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2018-04-13T12:35:32Z",
+        "uri": "https://web.archive.org/web/20180413123532/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2018-04-24T09:08:42Z",
+        "uri": "https://web.archive.org/web/20180424090842/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2018-05-25T08:51:01Z",
+        "uri": "https://web.archive.org/web/20180525085101/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2018-06-25T20:33:07Z",
+        "uri": "https://web.archive.org/web/20180625203307/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2018-07-27T04:59:06Z",
+        "uri": "https://web.archive.org/web/20180727045906/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2018-08-06T19:17:40Z",
+        "uri": "https://web.archive.org/web/20180806191740/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2018-08-24T21:01:22Z",
+        "uri": "https://web.archive.org/web/20180824210122/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2018-08-28T11:31:31Z",
+        "uri": "https://web.archive.org/web/20180828113131/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2018-09-29T10:18:41Z",
+        "uri": "https://web.archive.org/web/20180929101841/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2018-10-30T11:34:58Z",
+        "uri": "https://web.archive.org/web/20181030113458/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2018-12-01T05:01:58Z",
+        "uri": "https://web.archive.org/web/20181201050158/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2018-12-31T03:59:01Z",
+        "uri": "https://web.archive.org/web/20181231035901/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2019-01-01T13:42:21Z",
+        "uri": "https://web.archive.org/web/20190101134221/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2019-01-24T14:10:06Z",
+        "uri": "https://web.archive.org/web/20190124141006/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2019-02-01T15:50:37Z",
+        "uri": "https://web.archive.org/web/20190201155037/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2019-03-04T20:06:07Z",
+        "uri": "https://web.archive.org/web/20190304200607/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2019-04-05T21:42:19Z",
+        "uri": "https://web.archive.org/web/20190405214219/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2019-05-06T18:49:22Z",
+        "uri": "https://web.archive.org/web/20190506184922/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2019-06-06T20:50:28Z",
+        "uri": "https://web.archive.org/web/20190606205028/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2019-06-22T03:33:48Z",
+        "uri": "https://web.archive.org/web/20190622033348/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2019-07-07T17:34:00Z",
+        "uri": "https://web.archive.org/web/20190707173400/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2019-08-07T06:21:45Z",
+        "uri": "https://web.archive.org/web/20190807062145/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2019-09-07T05:42:37Z",
+        "uri": "https://web.archive.org/web/20190907054237/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2019-10-23T06:18:36Z",
+        "uri": "https://web.archive.org/web/20191023061836/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2019-11-22T11:54:12Z",
+        "uri": "https://web.archive.org/web/20191122115412/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2019-12-22T16:19:00Z",
+        "uri": "https://web.archive.org/web/20191222161900/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2020-01-22T03:44:10Z",
+        "uri": "https://web.archive.org/web/20200122034410/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2020-02-21T08:25:20Z",
+        "uri": "https://web.archive.org/web/20200221082520/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2020-04-28T03:40:33Z",
+        "uri": "https://web.archive.org/web/20200428034033/http://www.myucdblog.com:80/"
+      },
+      {
+        "datetime": "2020-08-08T14:36:14Z",
+        "uri": "https://web.archive.org/web/20200808143614/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2020-09-26T14:36:48Z",
+        "uri": "https://web.archive.org/web/20200926143648/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2020-10-27T11:49:30Z",
+        "uri": "https://web.archive.org/web/20201027114930/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2020-11-26T06:37:18Z",
+        "uri": "https://web.archive.org/web/20201126063718/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2021-01-17T03:12:06Z",
+        "uri": "https://web.archive.org/web/20210117031206/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2021-01-20T09:41:12Z",
+        "uri": "https://web.archive.org/web/20210120094112/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2021-03-03T20:45:19Z",
+        "uri": "https://web.archive.org/web/20210303204519/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2021-04-15T02:09:46Z",
+        "uri": "https://web.archive.org/web/20210415020946/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2021-04-19T01:45:15Z",
+        "uri": "https://web.archive.org/web/20210419014515/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2021-05-13T09:09:18Z",
+        "uri": "https://web.archive.org/web/20210513090918/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2021-06-18T02:29:33Z",
+        "uri": "https://web.archive.org/web/20210618022933/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2021-06-18T02:29:33Z",
+        "uri": "https://web.archive.org/web/20210618022933/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2021-07-30T07:01:28Z",
+        "uri": "https://web.archive.org/web/20210730070128/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2021-09-26T03:18:00Z",
+        "uri": "https://web.archive.org/web/20210926031800/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2021-10-19T21:13:53Z",
+        "uri": "https://web.archive.org/web/20211019211353/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2021-12-01T15:16:23Z",
+        "uri": "https://web.archive.org/web/20211201151623/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2021-12-17T04:38:16Z",
+        "uri": "https://web.archive.org/web/20211217043816/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2022-01-18T19:11:39Z",
+        "uri": "https://web.archive.org/web/20220118191139/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2022-01-26T05:15:39Z",
+        "uri": "https://web.archive.org/web/20220126051539/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2022-02-26T14:12:42Z",
+        "uri": "https://web.archive.org/web/20220226141242/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2022-02-26T14:12:45Z",
+        "uri": "https://web.archive.org/web/20220226141245/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2022-02-26T14:13:31Z",
+        "uri": "https://web.archive.org/web/20220226141331/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2022-03-13T10:54:50Z",
+        "uri": "https://web.archive.org/web/20220313105450/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2022-03-26T19:29:26Z",
+        "uri": "https://web.archive.org/web/20220326192926/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2022-03-31T10:51:42Z",
+        "uri": "https://web.archive.org/web/20220331105142/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2022-05-22T22:57:13Z",
+        "uri": "https://web.archive.org/web/20220522225713/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2022-07-06T00:54:13Z",
+        "uri": "https://web.archive.org/web/20220706005413/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2022-08-10T04:55:24Z",
+        "uri": "https://web.archive.org/web/20220810045524/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2022-10-06T01:22:32Z",
+        "uri": "https://web.archive.org/web/20221006012232/http://myucdblog.com/"
+      },
+      {
+        "datetime": "2022-10-06T01:30:18Z",
+        "uri": "https://web.archive.org/web/20221006013018/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2022-10-06T23:19:54Z",
+        "uri": "https://web.archive.org/web/20221006231954/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2022-11-10T20:52:19Z",
+        "uri": "https://web.archive.org/web/20221110205219/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2022-12-02T16:06:00Z",
+        "uri": "https://web.archive.org/web/20221202160600/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2023-02-08T00:23:08Z",
+        "uri": "https://web.archive.org/web/20230208002308/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2023-03-19T15:46:55Z",
+        "uri": "https://web.archive.org/web/20230319154655/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2023-06-06T02:34:04Z",
+        "uri": "https://web.archive.org/web/20230606023404/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2023-09-22T18:03:38Z",
+        "uri": "https://web.archive.org/web/20230922180338/http://www.myucdblog.com/"
+      },
+      {
+        "datetime": "2023-11-30T07:26:06Z",
+        "uri": "https://web.archive.org/web/20231130072606/http://www.myucdblog.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2014-12-18T03:51:26Z",
+      "uri": "https://web.archive.org/web/20141218035126/http://myucdblog.com/"
+    },
+    "last": {
+      "datetime": "2023-11-30T07:26:06Z",
+      "uri": "https://web.archive.org/web/20231130072606/http://www.myucdblog.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://www.myucdblog.com/",
+    "json_format": "http://localhost:1208/timemap/json/http://www.myucdblog.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.myucdblog.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://www.myucdblog.com/"
+}

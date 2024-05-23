@@ -1,0 +1,826 @@
+{
+  "original_uri": "https://www.ripta.com",
+  "self": "http://localhost:1208/timemap/json/https://www.ripta.com",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2008-10-24T07:34:53Z",
+        "uri": "https://arquivo.pt/wayback/20081024073453mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2009-05-20T12:36:15Z",
+        "uri": "https://arquivo.pt/wayback/20090520123615mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2009-12-26T15:00:37Z",
+        "uri": "https://arquivo.pt/wayback/20091226150037mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2011-12-15T22:27:13Z",
+        "uri": "https://wayback.archive-it.org/all/20111215222713/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2011-12-22T22:15:57Z",
+        "uri": "https://wayback.archive-it.org/all/20111222221557/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2011-12-29T22:20:17Z",
+        "uri": "https://wayback.archive-it.org/all/20111229222017/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-01-06T13:55:30Z",
+        "uri": "https://wayback.archive-it.org/all/20120106135530/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-01-13T12:27:08Z",
+        "uri": "https://wayback.archive-it.org/all/20120113122708/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-01-29T14:47:46Z",
+        "uri": "https://wayback.archive-it.org/all/20120129144746/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-02-05T08:07:42Z",
+        "uri": "https://wayback.archive-it.org/all/20120205080742/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-02-11T22:56:25Z",
+        "uri": "https://wayback.archive-it.org/all/20120211225625/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-02-18T16:42:48Z",
+        "uri": "https://wayback.archive-it.org/all/20120218164248/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-02-26T20:24:03Z",
+        "uri": "https://wayback.archive-it.org/all/20120226202403/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-04-01T03:44:27Z",
+        "uri": "https://wayback.archive-it.org/all/20120401034427/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-04-08T03:48:48Z",
+        "uri": "https://wayback.archive-it.org/all/20120408034848/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-04-14T19:56:36Z",
+        "uri": "https://wayback.archive-it.org/all/20120414195636/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-04-21T21:02:45Z",
+        "uri": "https://wayback.archive-it.org/all/20120421210245/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-04-29T17:11:13Z",
+        "uri": "https://wayback.archive-it.org/all/20120429171113/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-07-07T23:10:23Z",
+        "uri": "https://wayback.archive-it.org/all/20120707231023/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-07-15T07:11:35Z",
+        "uri": "https://wayback.archive-it.org/all/20120715071135/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-08-12T15:21:15Z",
+        "uri": "https://wayback.archive-it.org/all/20120812152115/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-08-19T12:32:41Z",
+        "uri": "https://wayback.archive-it.org/all/20120819123241/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-09-02T20:14:05Z",
+        "uri": "https://wayback.archive-it.org/all/20120902201405/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-09-09T02:16:36Z",
+        "uri": "https://wayback.archive-it.org/all/20120909021636/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-09-16T01:34:46Z",
+        "uri": "https://wayback.archive-it.org/all/20120916013446/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-09-19T01:09:30Z",
+        "uri": "http://archive.md/20120919010930/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-09-23T03:29:27Z",
+        "uri": "https://wayback.archive-it.org/all/20120923032927/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-09-30T06:21:35Z",
+        "uri": "https://wayback.archive-it.org/all/20120930062135/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2012-10-07T14:28:35Z",
+        "uri": "https://wayback.archive-it.org/all/20121007142835/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2013-10-16T17:55:51Z",
+        "uri": "https://wayback.archive-it.org/all/20131016175551/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-02-17T03:51:04Z",
+        "uri": "https://wayback.archive-it.org/all/20140217035104/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-02-22T00:44:20Z",
+        "uri": "https://wayback.archive-it.org/all/20140222004420/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-02-28T11:19:42Z",
+        "uri": "https://wayback.archive-it.org/all/20140228111942/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-03-07T12:46:02Z",
+        "uri": "https://wayback.archive-it.org/all/20140307124602/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-03-14T07:00:58Z",
+        "uri": "https://wayback.archive-it.org/all/20140314070058/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-03-21T07:53:51Z",
+        "uri": "https://wayback.archive-it.org/all/20140321075351/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-03-28T06:57:01Z",
+        "uri": "https://wayback.archive-it.org/all/20140328065701/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-04-04T01:13:29Z",
+        "uri": "https://wayback.archive-it.org/all/20140404011329/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-04-11T00:57:44Z",
+        "uri": "https://wayback.archive-it.org/all/20140411005744/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-04-18T02:22:23Z",
+        "uri": "https://wayback.archive-it.org/all/20140418022223/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-04-25T00:46:36Z",
+        "uri": "https://wayback.archive-it.org/all/20140425004636/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-05-02T00:47:13Z",
+        "uri": "https://wayback.archive-it.org/all/20140502004713/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-05-06T19:02:35Z",
+        "uri": "https://wayback.archive-it.org/all/20140506190235/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-05-09T03:03:02Z",
+        "uri": "https://wayback.archive-it.org/all/20140509030302/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-05-16T04:04:04Z",
+        "uri": "https://wayback.archive-it.org/all/20140516040404/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-05-23T01:13:32Z",
+        "uri": "https://wayback.archive-it.org/all/20140523011332/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-05-30T00:57:53Z",
+        "uri": "https://wayback.archive-it.org/all/20140530005753/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-06-06T03:49:35Z",
+        "uri": "https://wayback.archive-it.org/all/20140606034935/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-06-13T02:12:55Z",
+        "uri": "https://wayback.archive-it.org/all/20140613021255/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-06-20T01:54:31Z",
+        "uri": "https://wayback.archive-it.org/all/20140620015431/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-06-27T03:59:37Z",
+        "uri": "https://wayback.archive-it.org/all/20140627035937/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-07-04T01:47:12Z",
+        "uri": "https://wayback.archive-it.org/all/20140704014712/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-07-11T00:40:19Z",
+        "uri": "https://wayback.archive-it.org/all/20140711004019/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-07-18T00:47:41Z",
+        "uri": "https://wayback.archive-it.org/all/20140718004741/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-07-25T00:35:43Z",
+        "uri": "https://wayback.archive-it.org/all/20140725003543/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-08-01T00:50:17Z",
+        "uri": "https://wayback.archive-it.org/all/20140801005017/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-08-08T00:36:55Z",
+        "uri": "https://wayback.archive-it.org/all/20140808003655/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-08-15T00:13:48Z",
+        "uri": "https://wayback.archive-it.org/all/20140815001348/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-08-22T00:16:25Z",
+        "uri": "https://wayback.archive-it.org/all/20140822001625/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-08-29T00:16:40Z",
+        "uri": "https://wayback.archive-it.org/all/20140829001640/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-09-12T00:21:44Z",
+        "uri": "https://wayback.archive-it.org/all/20140912002144/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-09-19T04:35:21Z",
+        "uri": "https://wayback.archive-it.org/all/20140919043521/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-10-02T23:15:51Z",
+        "uri": "https://wayback.archive-it.org/all/20141002231551/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-10-10T00:00:41Z",
+        "uri": "https://wayback.archive-it.org/all/20141010000041/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-10-17T00:26:05Z",
+        "uri": "https://wayback.archive-it.org/all/20141017002605/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-10-24T00:20:11Z",
+        "uri": "https://wayback.archive-it.org/all/20141024002011/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-10-26T18:50:29Z",
+        "uri": "https://wayback.archive-it.org/all/20141026185029/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-10-27T22:55:04Z",
+        "uri": "https://wayback.archive-it.org/all/20141027225504/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-10-28T20:13:20Z",
+        "uri": "https://wayback.archive-it.org/all/20141028201320/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-10-29T19:02:33Z",
+        "uri": "https://wayback.archive-it.org/all/20141029190233/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-11-02T19:12:13Z",
+        "uri": "https://wayback.archive-it.org/all/20141102191213/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-11-03T20:38:10Z",
+        "uri": "https://wayback.archive-it.org/all/20141103203810/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-11-04T18:58:56Z",
+        "uri": "https://wayback.archive-it.org/all/20141104185856/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-11-05T18:56:54Z",
+        "uri": "https://wayback.archive-it.org/all/20141105185654/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-11-06T19:23:25Z",
+        "uri": "https://wayback.archive-it.org/all/20141106192325/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-11-07T19:14:31Z",
+        "uri": "https://wayback.archive-it.org/all/20141107191431/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-11-11T19:12:24Z",
+        "uri": "https://wayback.archive-it.org/all/20141111191224/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-11-13T19:31:22Z",
+        "uri": "https://wayback.archive-it.org/all/20141113193122/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-11-14T19:21:39Z",
+        "uri": "https://wayback.archive-it.org/all/20141114192139/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2014-12-31T02:06:44Z",
+        "uri": "https://wayback.archive-it.org/all/20141231020644/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2015-04-02T22:54:33Z",
+        "uri": "https://wayback.archive-it.org/all/20150402225433/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2015-10-03T00:05:58Z",
+        "uri": "https://wayback.archive-it.org/all/20151003000558/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2016-03-28T20:05:43Z",
+        "uri": "https://wayback.archive-it.org/all/20160328200543/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2016-04-03T00:12:53Z",
+        "uri": "https://wayback.archive-it.org/all/20160403001253/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2016-05-18T16:08:47Z",
+        "uri": "https://arquivo.pt/wayback/20160518160847mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2017-04-11T20:47:52Z",
+        "uri": "https://wayback.archive-it.org/all/20170411204752/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2017-10-19T19:47:16Z",
+        "uri": "https://wayback.archive-it.org/all/20171019194716/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2017-10-19T19:47:17Z",
+        "uri": "https://wayback.archive-it.org/all/20171019194717/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2019-04-01T05:02:23Z",
+        "uri": "https://arquivo.pt/wayback/20190401050223mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2019-04-01T05:02:28Z",
+        "uri": "https://arquivo.pt/wayback/20190401050228mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2019-09-11T19:51:14Z",
+        "uri": "https://arquivo.pt/wayback/20190911195114mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2019-09-18T22:37:42Z",
+        "uri": "https://arquivo.pt/wayback/20190918223742mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2019-10-04T08:48:28Z",
+        "uri": "https://arquivo.pt/wayback/20191004084828mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2019-10-04T08:48:32Z",
+        "uri": "https://arquivo.pt/wayback/20191004084832mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2019-12-17T12:51:16Z",
+        "uri": "https://arquivo.pt/wayback/20191217125116mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-02-11T01:40:23Z",
+        "uri": "https://arquivo.pt/wayback/20200211014023mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-02-11T01:40:38Z",
+        "uri": "https://arquivo.pt/wayback/20200211014038mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-02-26T03:04:20Z",
+        "uri": "https://arquivo.pt/wayback/20200226030420mp_/http://ripta.com/"
+      },
+      {
+        "datetime": "2020-03-11T10:53:41Z",
+        "uri": "https://arquivo.pt/wayback/20200311105341mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-03-11T10:53:47Z",
+        "uri": "https://arquivo.pt/wayback/20200311105347mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-04-09T02:01:40Z",
+        "uri": "https://wayback.archive-it.org/all/20200409020140/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-04-09T02:03:04Z",
+        "uri": "https://wayback.archive-it.org/all/20200409020304/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-04-16T02:40:37Z",
+        "uri": "https://wayback.archive-it.org/all/20200416024037/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-04-16T03:41:07Z",
+        "uri": "https://wayback.archive-it.org/all/20200416034107/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-04-18T13:40:58Z",
+        "uri": "https://wayback.archive-it.org/all/20200418134058/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-04-18T16:31:48Z",
+        "uri": "https://wayback.archive-it.org/all/20200418163148/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-04-25T06:37:34Z",
+        "uri": "https://wayback.archive-it.org/all/20200425063734/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-04-25T10:04:27Z",
+        "uri": "https://wayback.archive-it.org/all/20200425100427/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-04-27T20:06:22Z",
+        "uri": "https://wayback.archive-it.org/all/20200427200622/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-05-02T05:05:19Z",
+        "uri": "https://wayback.archive-it.org/all/20200502050519/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-05-02T09:39:18Z",
+        "uri": "https://wayback.archive-it.org/all/20200502093918/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-05-09T04:10:56Z",
+        "uri": "https://wayback.archive-it.org/all/20200509041056/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-05-09T14:03:56Z",
+        "uri": "https://wayback.archive-it.org/all/20200509140356/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-05-22T20:52:52Z",
+        "uri": "https://wayback.archive-it.org/all/20200522205252/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-05-22T20:52:53Z",
+        "uri": "https://wayback.archive-it.org/all/20200522205253/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-05-22T20:52:55Z",
+        "uri": "https://wayback.archive-it.org/all/20200522205255/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-05-22T20:52:56Z",
+        "uri": "https://wayback.archive-it.org/all/20200522205256/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-05-22T23:06:21Z",
+        "uri": "https://wayback.archive-it.org/all/20200522230621/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-05-23T00:19:46Z",
+        "uri": "https://wayback.archive-it.org/all/20200523001946/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-05-23T00:20:10Z",
+        "uri": "https://wayback.archive-it.org/all/20200523002010/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-05-29T21:45:34Z",
+        "uri": "https://wayback.archive-it.org/all/20200529214534/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-05-29T21:45:36Z",
+        "uri": "https://wayback.archive-it.org/all/20200529214536/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-05-29T21:45:40Z",
+        "uri": "https://wayback.archive-it.org/all/20200529214540/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-05-29T21:45:41Z",
+        "uri": "https://wayback.archive-it.org/all/20200529214541/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-06-06T02:55:04Z",
+        "uri": "https://wayback.archive-it.org/all/20200606025504/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-06-06T02:55:07Z",
+        "uri": "https://wayback.archive-it.org/all/20200606025507/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-06-06T05:08:23Z",
+        "uri": "https://wayback.archive-it.org/all/20200606050823/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-06-06T05:08:26Z",
+        "uri": "https://wayback.archive-it.org/all/20200606050826/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-06-06T05:08:33Z",
+        "uri": "https://wayback.archive-it.org/all/20200606050833/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-06-06T05:08:34Z",
+        "uri": "https://wayback.archive-it.org/all/20200606050834/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-06-09T13:06:26Z",
+        "uri": "https://arquivo.pt/wayback/20200609130626mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-06-09T13:06:33Z",
+        "uri": "https://arquivo.pt/wayback/20200609130633mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-06-13T00:06:47Z",
+        "uri": "https://wayback.archive-it.org/all/20200613000647/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-06-13T00:06:48Z",
+        "uri": "https://wayback.archive-it.org/all/20200613000648/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-06-13T00:06:49Z",
+        "uri": "https://wayback.archive-it.org/all/20200613000649/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-06-13T00:06:50Z",
+        "uri": "https://wayback.archive-it.org/all/20200613000650/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-06-20T01:01:21Z",
+        "uri": "https://wayback.archive-it.org/all/20200620010121/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-06-20T01:01:22Z",
+        "uri": "https://wayback.archive-it.org/all/20200620010122/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-06-20T01:01:23Z",
+        "uri": "https://wayback.archive-it.org/all/20200620010123/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-09-08T07:05:23Z",
+        "uri": "https://arquivo.pt/wayback/20200908070523mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-09-08T07:05:27Z",
+        "uri": "https://arquivo.pt/wayback/20200908070527mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2020-12-09T11:22:53Z",
+        "uri": "https://arquivo.pt/wayback/20201209112253mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-01-04T16:31:00Z",
+        "uri": "https://wayback.archive-it.org/all/20210104163100/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-03-07T20:14:34Z",
+        "uri": "https://arquivo.pt/wayback/20210307201434mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-03-07T20:14:42Z",
+        "uri": "https://arquivo.pt/wayback/20210307201442mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-04-12T20:58:46Z",
+        "uri": "https://wayback.archive-it.org/all/20210412205846/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-04-13T00:18:16Z",
+        "uri": "https://wayback.archive-it.org/all/20210413001816/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-04-21T09:56:00Z",
+        "uri": "https://wayback.archive-it.org/all/20210421095600/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-05-17T15:17:12Z",
+        "uri": "https://wayback.archive-it.org/all/20210517151712/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-05-17T15:29:24Z",
+        "uri": "https://wayback.archive-it.org/all/20210517152924/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-05-20T17:40:01Z",
+        "uri": "https://wayback.archive-it.org/all/20210520174001/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-05-20T17:53:22Z",
+        "uri": "https://wayback.archive-it.org/all/20210520175322/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-06-09T08:01:32Z",
+        "uri": "https://arquivo.pt/wayback/20210609080132mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-06-21T21:14:44Z",
+        "uri": "https://wayback.archive-it.org/all/20210621211444/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-06-21T21:14:50Z",
+        "uri": "https://wayback.archive-it.org/all/20210621211450/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-07-21T22:57:19Z",
+        "uri": "https://wayback.archive-it.org/all/20210721225719/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-07-21T22:57:22Z",
+        "uri": "https://wayback.archive-it.org/all/20210721225722/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-08-21T12:28:53Z",
+        "uri": "https://wayback.archive-it.org/all/20210821122853/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-08-21T12:28:57Z",
+        "uri": "https://wayback.archive-it.org/all/20210821122857/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-09-20T18:51:43Z",
+        "uri": "https://arquivo.pt/wayback/20210920185143mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-09-20T18:51:52Z",
+        "uri": "https://arquivo.pt/wayback/20210920185152mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-09-22T12:35:11Z",
+        "uri": "https://wayback.archive-it.org/all/20210922123511/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-09-22T12:35:13Z",
+        "uri": "https://wayback.archive-it.org/all/20210922123513/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-10-14T18:51:10Z",
+        "uri": "https://arquivo.pt/wayback/20211014185110mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-10-21T17:56:57Z",
+        "uri": "https://wayback.archive-it.org/all/20211021175657/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-10-21T17:57:10Z",
+        "uri": "https://wayback.archive-it.org/all/20211021175710/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-11-21T06:49:21Z",
+        "uri": "https://wayback.archive-it.org/all/20211121064921/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-11-21T06:49:23Z",
+        "uri": "https://wayback.archive-it.org/all/20211121064923/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-12-21T10:20:05Z",
+        "uri": "https://wayback.archive-it.org/all/20211221102005/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2021-12-21T11:17:44Z",
+        "uri": "https://wayback.archive-it.org/all/20211221111744/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2022-01-21T12:11:30Z",
+        "uri": "https://wayback.archive-it.org/all/20220121121130/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2022-01-21T12:11:35Z",
+        "uri": "https://wayback.archive-it.org/all/20220121121135/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2022-01-22T22:36:00Z",
+        "uri": "https://arquivo.pt/wayback/20220122223600mp_/http://ripta.com/"
+      },
+      {
+        "datetime": "2022-01-22T22:36:08Z",
+        "uri": "https://arquivo.pt/wayback/20220122223608mp_/https://ripta.com/"
+      },
+      {
+        "datetime": "2022-01-27T22:40:59Z",
+        "uri": "https://arquivo.pt/wayback/20220127224059mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2022-01-27T22:41:08Z",
+        "uri": "https://arquivo.pt/wayback/20220127224108mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2022-01-28T21:33:41Z",
+        "uri": "https://arquivo.pt/wayback/20220128213341mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2022-01-28T21:33:45Z",
+        "uri": "https://arquivo.pt/wayback/20220128213345mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2022-02-25T13:15:59Z",
+        "uri": "https://wayback.archive-it.org/all/20220225131559/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2022-02-25T13:16:00Z",
+        "uri": "https://wayback.archive-it.org/all/20220225131600/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2022-04-15T01:12:05Z",
+        "uri": "https://arquivo.pt/wayback/20220415011205mp_/https://ripta.com/"
+      },
+      {
+        "datetime": "2022-04-15T01:12:15Z",
+        "uri": "https://arquivo.pt/wayback/20220415011215mp_/http://ripta.com/"
+      },
+      {
+        "datetime": "2022-04-15T01:12:19Z",
+        "uri": "https://arquivo.pt/wayback/20220415011219mp_/https://ripta.com/"
+      },
+      {
+        "datetime": "2022-04-18T17:56:56Z",
+        "uri": "https://arquivo.pt/wayback/20220418175656mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2022-04-18T17:57:08Z",
+        "uri": "https://arquivo.pt/wayback/20220418175708mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2022-04-18T17:57:14Z",
+        "uri": "https://arquivo.pt/wayback/20220418175714mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2022-04-18T18:07:16Z",
+        "uri": "https://arquivo.pt/wayback/20220418180716mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2022-04-28T04:01:20Z",
+        "uri": "https://arquivo.pt/wayback/20220428040120mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2022-04-28T04:01:24Z",
+        "uri": "https://arquivo.pt/wayback/20220428040124mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2022-08-09T03:21:10Z",
+        "uri": "https://arquivo.pt/wayback/20220809032110mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2022-10-20T13:28:01Z",
+        "uri": "https://arquivo.pt/wayback/20221020132801mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2023-01-20T09:52:44Z",
+        "uri": "https://wayback.archive-it.org/all/20230120095244/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2023-01-20T09:52:51Z",
+        "uri": "https://wayback.archive-it.org/all/20230120095251/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2023-01-27T22:00:59Z",
+        "uri": "https://arquivo.pt/wayback/20230127220059mp_/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2023-01-27T22:01:03Z",
+        "uri": "https://arquivo.pt/wayback/20230127220103mp_/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2023-03-20T12:10:32Z",
+        "uri": "https://wayback.archive-it.org/all/20230320121032/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2023-07-06T13:36:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230706133610/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2023-07-08T22:35:47Z",
+        "uri": "https://wayback.archive-it.org/all/20230708223547/http://www.ripta.com/"
+      },
+      {
+        "datetime": "2023-07-09T11:48:25Z",
+        "uri": "https://wayback.archive-it.org/all/20230709114825/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2024-03-20T15:01:27Z",
+        "uri": "https://wayback.archive-it.org/all/20240320150127/https://www.ripta.com/"
+      },
+      {
+        "datetime": "2024-05-13T21:05:15Z",
+        "uri": "https://wayback.archive-it.org/all/20240513210515/https://www.ripta.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2008-10-24T07:34:53Z",
+      "uri": "https://arquivo.pt/wayback/20081024073453mp_/http://www.ripta.com/"
+    },
+    "last": {
+      "datetime": "2024-05-13T21:05:15Z",
+      "uri": "https://wayback.archive-it.org/all/20240513210515/https://www.ripta.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.ripta.com",
+    "json_format": "http://localhost:1208/timemap/json/https://www.ripta.com",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ripta.com"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.ripta.com"
+}

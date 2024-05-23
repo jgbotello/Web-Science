@@ -1,0 +1,66 @@
+{
+  "original_uri": "https://www.allassignmenthelp.com/essay-writing-service.html",
+  "self": "http://localhost:1208/timemap/json/https://www.allassignmenthelp.com/essay-writing-service.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-10-20T02:58:54Z",
+        "uri": "https://arquivo.pt/wayback/20191020025854mp_/https://www.allassignmenthelp.com/essay-writing-service.html"
+      },
+      {
+        "datetime": "2019-12-11T01:30:07Z",
+        "uri": "https://arquivo.pt/wayback/20191211013007mp_/https://www.allassignmenthelp.com/essay-writing-service.html"
+      },
+      {
+        "datetime": "2020-03-12T17:00:59Z",
+        "uri": "https://arquivo.pt/wayback/20200312170059mp_/https://www.allassignmenthelp.com/essay-writing-service.html"
+      },
+      {
+        "datetime": "2020-06-11T01:22:55Z",
+        "uri": "https://arquivo.pt/wayback/20200611012255mp_/https://www.allassignmenthelp.com/essay-writing-service.html"
+      },
+      {
+        "datetime": "2020-09-09T01:56:26Z",
+        "uri": "https://arquivo.pt/wayback/20200909015626mp_/https://www.allassignmenthelp.com/essay-writing-service.html"
+      },
+      {
+        "datetime": "2020-12-10T11:58:03Z",
+        "uri": "https://arquivo.pt/wayback/20201210115803mp_/https://www.allassignmenthelp.com/essay-writing-service.html"
+      },
+      {
+        "datetime": "2021-03-08T16:57:39Z",
+        "uri": "https://arquivo.pt/wayback/20210308165739mp_/https://www.allassignmenthelp.com/essay-writing-service.html"
+      },
+      {
+        "datetime": "2021-06-10T09:05:15Z",
+        "uri": "https://arquivo.pt/wayback/20210610090515mp_/https://www.allassignmenthelp.com/essay-writing-service.html"
+      },
+      {
+        "datetime": "2021-09-14T22:40:53Z",
+        "uri": "https://arquivo.pt/wayback/20210914224053mp_/https://www.allassignmenthelp.com/essay-writing-service.html"
+      },
+      {
+        "datetime": "2021-10-18T09:17:33Z",
+        "uri": "https://arquivo.pt/wayback/20211018091733mp_/https://www.allassignmenthelp.com/essay-writing-service.html"
+      },
+      {
+        "datetime": "2022-02-06T07:00:48Z",
+        "uri": "https://arquivo.pt/wayback/20220206070048mp_/https://www.allassignmenthelp.com/essay-writing-service.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-10-20T02:58:54Z",
+      "uri": "https://arquivo.pt/wayback/20191020025854mp_/https://www.allassignmenthelp.com/essay-writing-service.html"
+    },
+    "last": {
+      "datetime": "2022-02-06T07:00:48Z",
+      "uri": "https://arquivo.pt/wayback/20220206070048mp_/https://www.allassignmenthelp.com/essay-writing-service.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.allassignmenthelp.com/essay-writing-service.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.allassignmenthelp.com/essay-writing-service.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.allassignmenthelp.com/essay-writing-service.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.allassignmenthelp.com/essay-writing-service.html"
+}

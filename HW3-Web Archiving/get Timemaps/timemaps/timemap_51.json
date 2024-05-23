@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.linkedin.com/company/morweb-cms/",
+  "self": "http://localhost:1208/timemap/json/https://www.linkedin.com/company/morweb-cms/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-02-15T07:44:49Z",
+        "uri": "https://web.archive.org/web/20150215074449/http://www.linkedin.com:80/company/morweb-cms"
+      },
+      {
+        "datetime": "2015-02-24T08:14:20Z",
+        "uri": "https://web.archive.org/web/20150224081420/http://www.linkedin.com/company/morweb-cms"
+      },
+      {
+        "datetime": "2016-03-30T17:24:49Z",
+        "uri": "https://web.archive.org/web/20160330172449/http://www.linkedin.com/company/morweb-cms"
+      },
+      {
+        "datetime": "2017-02-14T03:59:39Z",
+        "uri": "https://web.archive.org/web/20170214035939/http://www.linkedin.com/company/morweb-cms"
+      }
+    ],
+    "first": {
+      "datetime": "2015-02-15T07:44:49Z",
+      "uri": "https://web.archive.org/web/20150215074449/http://www.linkedin.com:80/company/morweb-cms"
+    },
+    "last": {
+      "datetime": "2017-02-14T03:59:39Z",
+      "uri": "https://web.archive.org/web/20170214035939/http://www.linkedin.com/company/morweb-cms"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.linkedin.com/company/morweb-cms/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.linkedin.com/company/morweb-cms/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.linkedin.com/company/morweb-cms/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.linkedin.com/company/morweb-cms/"
+}

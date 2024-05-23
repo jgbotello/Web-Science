@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.linkedin.com/company/feedspot",
+  "self": "http://localhost:1208/timemap/json/https://www.linkedin.com/company/feedspot",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-06-26T20:27:19Z",
+        "uri": "https://wayback.archive-it.org/all/20180626202719/https://www.linkedin.com/company/feedspot"
+      },
+      {
+        "datetime": "2018-06-27T15:25:47Z",
+        "uri": "https://wayback.archive-it.org/all/20180627152547/https://www.linkedin.com/company/feedspot"
+      },
+      {
+        "datetime": "2019-01-22T23:08:27Z",
+        "uri": "https://wayback.archive-it.org/all/20190122230827/https://www.linkedin.com/company/feedspot"
+      },
+      {
+        "datetime": "2024-02-28T05:53:56Z",
+        "uri": "https://wayback.archive-it.org/all/20240228055356/https://www.linkedin.com/company/feedspot"
+      }
+    ],
+    "first": {
+      "datetime": "2018-06-26T20:27:19Z",
+      "uri": "https://wayback.archive-it.org/all/20180626202719/https://www.linkedin.com/company/feedspot"
+    },
+    "last": {
+      "datetime": "2024-02-28T05:53:56Z",
+      "uri": "https://wayback.archive-it.org/all/20240228055356/https://www.linkedin.com/company/feedspot"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.linkedin.com/company/feedspot",
+    "json_format": "http://localhost:1208/timemap/json/https://www.linkedin.com/company/feedspot",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.linkedin.com/company/feedspot"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.linkedin.com/company/feedspot"
+}

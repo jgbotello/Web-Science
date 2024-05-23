@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.indeed.com/salaries/Virtual-Assistant-Salaries",
+  "self": "http://localhost:1208/timemap/json/https://www.indeed.com/salaries/Virtual-Assistant-Salaries",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-02-08T18:02:40Z",
+        "uri": "https://arquivo.pt/wayback/20200208180240mp_/https://www.indeed.com/salaries/Virtual-Assistant-Salaries"
+      },
+      {
+        "datetime": "2022-01-24T12:29:20Z",
+        "uri": "https://arquivo.pt/wayback/20220124122920mp_/https://www.indeed.com/salaries/virtual-assistant-Salaries"
+      }
+    ],
+    "first": {
+      "datetime": "2020-02-08T18:02:40Z",
+      "uri": "https://arquivo.pt/wayback/20200208180240mp_/https://www.indeed.com/salaries/Virtual-Assistant-Salaries"
+    },
+    "last": {
+      "datetime": "2022-01-24T12:29:20Z",
+      "uri": "https://arquivo.pt/wayback/20220124122920mp_/https://www.indeed.com/salaries/virtual-assistant-Salaries"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.indeed.com/salaries/Virtual-Assistant-Salaries",
+    "json_format": "http://localhost:1208/timemap/json/https://www.indeed.com/salaries/Virtual-Assistant-Salaries",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.indeed.com/salaries/Virtual-Assistant-Salaries"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.indeed.com/salaries/Virtual-Assistant-Salaries"
+}

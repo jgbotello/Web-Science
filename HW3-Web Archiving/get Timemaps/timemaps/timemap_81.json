@@ -1,0 +1,850 @@
+{
+  "original_uri": "https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx",
+  "self": "http://localhost:1208/timemap/json/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-10-27T11:37:41Z",
+        "uri": "https://wayback.archive-it.org/all/20181027113741/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-10-27T11:37:41Z",
+        "uri": "https://web.archive.org/web/20181027113741/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-10-30T16:04:19Z",
+        "uri": "https://wayback.archive-it.org/all/20181030160419/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-10-30T16:04:19Z",
+        "uri": "https://web.archive.org/web/20181030160419/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-10-31T03:38:08Z",
+        "uri": "https://wayback.archive-it.org/all/20181031033808/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-10-31T03:38:08Z",
+        "uri": "https://web.archive.org/web/20181031033808/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-01T13:08:37Z",
+        "uri": "https://wayback.archive-it.org/all/20181101130837/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-01T13:08:37Z",
+        "uri": "https://web.archive.org/web/20181101130837/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-08T03:52:43Z",
+        "uri": "https://wayback.archive-it.org/all/20181108035243/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-08T03:52:43Z",
+        "uri": "https://web.archive.org/web/20181108035243/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-10T23:19:07Z",
+        "uri": "https://wayback.archive-it.org/all/20181110231907/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-10T23:19:07Z",
+        "uri": "https://web.archive.org/web/20181110231907/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-13T01:56:24Z",
+        "uri": "https://wayback.archive-it.org/all/20181113015624/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-13T01:56:24Z",
+        "uri": "https://web.archive.org/web/20181113015624/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-13T23:50:27Z",
+        "uri": "https://wayback.archive-it.org/all/20181113235027/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-13T23:50:27Z",
+        "uri": "https://web.archive.org/web/20181113235027/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-14T22:12:52Z",
+        "uri": "https://wayback.archive-it.org/all/20181114221252/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-14T22:12:52Z",
+        "uri": "https://web.archive.org/web/20181114221252/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-15T23:24:39Z",
+        "uri": "https://wayback.archive-it.org/all/20181115232439/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-15T23:24:39Z",
+        "uri": "https://web.archive.org/web/20181115232439/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-16T22:42:18Z",
+        "uri": "https://wayback.archive-it.org/all/20181116224218/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-16T22:42:18Z",
+        "uri": "https://web.archive.org/web/20181116224218/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-17T22:50:54Z",
+        "uri": "https://wayback.archive-it.org/all/20181117225054/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-17T22:50:54Z",
+        "uri": "https://web.archive.org/web/20181117225054/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-19T01:06:57Z",
+        "uri": "https://wayback.archive-it.org/all/20181119010657/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-19T01:06:57Z",
+        "uri": "https://web.archive.org/web/20181119010657/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-19T23:06:32Z",
+        "uri": "https://wayback.archive-it.org/all/20181119230632/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-19T23:06:32Z",
+        "uri": "https://web.archive.org/web/20181119230632/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-20T21:56:35Z",
+        "uri": "https://wayback.archive-it.org/all/20181120215635/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-20T21:56:35Z",
+        "uri": "https://web.archive.org/web/20181120215635/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-29T09:15:20Z",
+        "uri": "https://web.archive.org/web/20181129091520/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-30T11:04:55Z",
+        "uri": "https://wayback.archive-it.org/all/20181130110455/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-11-30T11:04:55Z",
+        "uri": "https://web.archive.org/web/20181130110455/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2018-12-21T01:00:48Z",
+        "uri": "https://web.archive.org/web/20181221010048/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-01-22T01:33:07Z",
+        "uri": "https://web.archive.org/web/20190122013307/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-01-25T07:43:43Z",
+        "uri": "https://web.archive.org/web/20190125074343/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-03-06T13:40:50Z",
+        "uri": "https://web.archive.org/web/20190306134050/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-03-13T20:38:19Z",
+        "uri": "https://wayback.archive-it.org/all/20190313203819/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-03-13T20:38:19Z",
+        "uri": "https://web.archive.org/web/20190313203819/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-01T15:02:38Z",
+        "uri": "https://wayback.archive-it.org/all/20190401150238/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-01T15:02:38Z",
+        "uri": "https://web.archive.org/web/20190401150238/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-02T07:34:16Z",
+        "uri": "https://wayback.archive-it.org/all/20190402073416/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-02T07:34:16Z",
+        "uri": "https://web.archive.org/web/20190402073416/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-03T06:28:37Z",
+        "uri": "https://wayback.archive-it.org/all/20190403062837/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-03T06:28:37Z",
+        "uri": "https://web.archive.org/web/20190403062837/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-10T14:17:21Z",
+        "uri": "https://web.archive.org/web/20190410141721/http://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-10T14:17:27Z",
+        "uri": "https://web.archive.org/web/20190410141727/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-12T06:30:54Z",
+        "uri": "https://wayback.archive-it.org/all/20190412063054/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-12T06:30:54Z",
+        "uri": "https://web.archive.org/web/20190412063054/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-17T10:05:23Z",
+        "uri": "https://web.archive.org/web/20190417100523/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-17T12:39:07Z",
+        "uri": "https://wayback.archive-it.org/all/20190417123907/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-17T12:39:07Z",
+        "uri": "https://web.archive.org/web/20190417123907/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-18T13:50:26Z",
+        "uri": "https://wayback.archive-it.org/all/20190418135026/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-18T13:50:26Z",
+        "uri": "https://web.archive.org/web/20190418135026/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-22T06:43:36Z",
+        "uri": "https://wayback.archive-it.org/all/20190422064336/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-22T06:43:36Z",
+        "uri": "https://web.archive.org/web/20190422064336/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-23T12:21:08Z",
+        "uri": "https://wayback.archive-it.org/all/20190423122108/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-23T12:21:08Z",
+        "uri": "https://web.archive.org/web/20190423122108/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-24T10:33:38Z",
+        "uri": "https://wayback.archive-it.org/all/20190424103338/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-24T10:33:38Z",
+        "uri": "https://web.archive.org/web/20190424103338/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-25T09:57:03Z",
+        "uri": "https://wayback.archive-it.org/all/20190425095703/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-25T09:57:03Z",
+        "uri": "https://web.archive.org/web/20190425095703/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-26T13:48:15Z",
+        "uri": "https://wayback.archive-it.org/all/20190426134815/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-04-26T13:48:15Z",
+        "uri": "https://web.archive.org/web/20190426134815/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-05-04T17:06:49Z",
+        "uri": "https://wayback.archive-it.org/all/20190504170649/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-05-04T17:06:49Z",
+        "uri": "https://web.archive.org/web/20190504170649/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-05-20T22:53:43Z",
+        "uri": "https://wayback.archive-it.org/all/20190520225343/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-05-20T22:53:43Z",
+        "uri": "https://web.archive.org/web/20190520225343/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-05-23T12:53:39Z",
+        "uri": "https://wayback.archive-it.org/all/20190523125339/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-05-23T12:53:39Z",
+        "uri": "https://web.archive.org/web/20190523125339/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-06-03T01:17:46Z",
+        "uri": "https://web.archive.org/web/20190603011746/http://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-07-05T11:33:37Z",
+        "uri": "https://wayback.archive-it.org/all/20190705113337/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-07-05T11:33:37Z",
+        "uri": "https://web.archive.org/web/20190705113337/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-07-06T08:39:37Z",
+        "uri": "https://wayback.archive-it.org/all/20190706083937/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-07-06T08:39:37Z",
+        "uri": "https://web.archive.org/web/20190706083937/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-07-10T20:07:57Z",
+        "uri": "https://web.archive.org/web/20190710200757/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-07-24T21:27:44Z",
+        "uri": "https://wayback.archive-it.org/all/20190724212744/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-07-24T21:27:44Z",
+        "uri": "https://web.archive.org/web/20190724212744/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-07-26T14:47:54Z",
+        "uri": "https://wayback.archive-it.org/all/20190726144754/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-07-26T14:47:54Z",
+        "uri": "https://web.archive.org/web/20190726144754/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-07-28T15:15:07Z",
+        "uri": "https://wayback.archive-it.org/all/20190728151507/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-07-28T15:15:07Z",
+        "uri": "https://web.archive.org/web/20190728151507/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-08-05T18:55:38Z",
+        "uri": "https://web.archive.org/web/20190805185538/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-08-05T19:14:06Z",
+        "uri": "https://web.archive.org/web/20190805191406/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-08-06T09:14:53Z",
+        "uri": "https://wayback.archive-it.org/all/20190806091453/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-08-06T09:14:53Z",
+        "uri": "https://web.archive.org/web/20190806091453/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-08-06T19:13:34Z",
+        "uri": "https://wayback.archive-it.org/all/20190806191334/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-08-06T19:13:34Z",
+        "uri": "https://web.archive.org/web/20190806191334/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-08-07T19:18:53Z",
+        "uri": "https://wayback.archive-it.org/all/20190807191853/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-08-07T19:18:53Z",
+        "uri": "https://web.archive.org/web/20190807191853/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-08-28T11:34:31Z",
+        "uri": "https://web.archive.org/web/20190828113431/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-10-01T09:19:43Z",
+        "uri": "https://web.archive.org/web/20191001091943/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-10-09T02:27:17Z",
+        "uri": "https://web.archive.org/web/20191009022717/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-10-18T10:22:27Z",
+        "uri": "https://arquivo.pt/wayback/20191018102227mp_/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-10-18T10:22:27Z",
+        "uri": "https://web.archive.org/web/20191018102227/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-12-01T11:36:17Z",
+        "uri": "https://web.archive.org/web/20191201113617/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-12-17T15:42:35Z",
+        "uri": "https://wayback.archive-it.org/all/20191217154235/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2019-12-17T15:42:35Z",
+        "uri": "https://web.archive.org/web/20191217154235/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-01-06T07:34:21Z",
+        "uri": "https://arquivo.pt/wayback/20200106073421mp_/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-01-06T07:34:21Z",
+        "uri": "https://web.archive.org/web/20200106073421/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-03-04T20:49:02Z",
+        "uri": "https://web.archive.org/web/20200304204902/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-03-06T22:28:19Z",
+        "uri": "https://web.archive.org/web/20200306222819/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-04-01T05:46:53Z",
+        "uri": "https://web.archive.org/web/20200401054653/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-04-04T00:51:45Z",
+        "uri": "https://web.archive.org/web/20200404005145/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-04-20T22:34:24Z",
+        "uri": "https://web.archive.org/web/20200420223424/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-05-26T12:11:46Z",
+        "uri": "https://web.archive.org/web/20200526121146/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-08-01T04:52:05Z",
+        "uri": "https://web.archive.org/web/20200801045205/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-08-01T14:44:54Z",
+        "uri": "https://web.archive.org/web/20200801144454/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-09-20T12:13:34Z",
+        "uri": "https://wayback.archive-it.org/all/20200920121334/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-09-20T12:13:34Z",
+        "uri": "https://web.archive.org/web/20200920121334/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-09-20T19:36:52Z",
+        "uri": "https://wayback.archive-it.org/all/20200920193652/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-09-20T19:36:52Z",
+        "uri": "https://web.archive.org/web/20200920193652/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-10-16T17:32:44Z",
+        "uri": "https://wayback.archive-it.org/all/20201016173244/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-10-16T17:32:44Z",
+        "uri": "https://web.archive.org/web/20201016173244/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-10-17T05:42:16Z",
+        "uri": "https://wayback.archive-it.org/all/20201017054216/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-10-17T05:42:16Z",
+        "uri": "https://web.archive.org/web/20201017054216/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-10-19T16:11:50Z",
+        "uri": "https://wayback.archive-it.org/all/20201019161150/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-10-19T16:11:50Z",
+        "uri": "https://web.archive.org/web/20201019161150/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-10-19T20:37:26Z",
+        "uri": "https://wayback.archive-it.org/all/20201019203726/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-10-19T20:37:26Z",
+        "uri": "https://web.archive.org/web/20201019203726/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-10-19T23:06:58Z",
+        "uri": "https://wayback.archive-it.org/all/20201019230658/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-10-19T23:06:58Z",
+        "uri": "https://web.archive.org/web/20201019230658/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-10-20T21:46:28Z",
+        "uri": "https://wayback.archive-it.org/all/20201020214628/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-10-20T21:46:28Z",
+        "uri": "https://web.archive.org/web/20201020214628/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-10-23T18:23:07Z",
+        "uri": "https://web.archive.org/web/20201023182307/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-11-11T14:29:02Z",
+        "uri": "https://wayback.archive-it.org/all/20201111142902/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-11-11T14:29:02Z",
+        "uri": "https://swap.stanford.edu/was/20201111142902mp_/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-11-11T14:29:02Z",
+        "uri": "https://web.archive.org/web/20201111142902/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-11-14T22:58:37Z",
+        "uri": "https://web.archive.org/web/20201114225837/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-12-25T04:00:52Z",
+        "uri": "https://arquivo.pt/wayback/20201225040052mp_/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2020-12-25T04:00:52Z",
+        "uri": "https://web.archive.org/web/20201225040052/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-01-20T02:07:14Z",
+        "uri": "https://web.archive.org/web/20210120020714/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-02-17T00:09:20Z",
+        "uri": "https://web.archive.org/web/20210217000920/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-03-12T01:52:46Z",
+        "uri": "https://web.archive.org/web/20210312015246/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-03-16T11:35:53Z",
+        "uri": "https://web.archive.org/web/20210316113553/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-04-04T08:49:29Z",
+        "uri": "https://web.archive.org/web/20210404084929/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-04-09T02:08:37Z",
+        "uri": "https://web.archive.org/web/20210409020837/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-05-16T14:07:13Z",
+        "uri": "https://web.archive.org/web/20210516140713/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-05-17T23:39:54Z",
+        "uri": "https://web.archive.org/web/20210517233954/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx/"
+      },
+      {
+        "datetime": "2021-05-21T11:50:28Z",
+        "uri": "https://web.archive.org/web/20210521115028/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-06-03T21:53:52Z",
+        "uri": "https://web.archive.org/web/20210603215352/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-06-19T02:01:35Z",
+        "uri": "https://arquivo.pt/wayback/20210619020135mp_/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-06-19T02:01:35Z",
+        "uri": "https://web.archive.org/web/20210619020135/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-06-27T09:05:55Z",
+        "uri": "https://web.archive.org/web/20210627090555/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-07-21T09:29:19Z",
+        "uri": "https://web.archive.org/web/20210721092919/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-09-12T04:06:47Z",
+        "uri": "https://arquivo.pt/wayback/20210912040647mp_/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-09-16T10:40:05Z",
+        "uri": "https://web.archive.org/web/20210916104005/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx?"
+      },
+      {
+        "datetime": "2021-09-23T05:37:39Z",
+        "uri": "https://web.archive.org/web/20210923053739/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-10-08T15:29:58Z",
+        "uri": "https://web.archive.org/web/20211008152958/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-10-11T20:40:50Z",
+        "uri": "https://web.archive.org/web/20211011204050/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-10-27T02:52:44Z",
+        "uri": "https://web.archive.org/web/20211027025244/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-11-29T23:08:43Z",
+        "uri": "https://web.archive.org/web/20211129230843/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-11-30T02:36:25Z",
+        "uri": "https://web.archive.org/web/20211130023625/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2021-12-05T09:21:38Z",
+        "uri": "https://web.archive.org/web/20211205092138/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx/"
+      },
+      {
+        "datetime": "2021-12-06T09:20:06Z",
+        "uri": "https://web.archive.org/web/20211206092006/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-01-19T17:09:32Z",
+        "uri": "https://web.archive.org/web/20220119170932/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-01-24T10:09:39Z",
+        "uri": "https://arquivo.pt/wayback/20220124100939mp_/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-01-24T12:54:18Z",
+        "uri": "https://web.archive.org/web/20220124125418/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-03-29T01:27:51Z",
+        "uri": "https://web.archive.org/web/20220329012751/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-04-04T03:27:01Z",
+        "uri": "https://web.archive.org/web/20220404032701/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-04-12T02:11:12Z",
+        "uri": "https://web.archive.org/web/20220412021112/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-04-17T07:55:42Z",
+        "uri": "https://arquivo.pt/wayback/20220417075542mp_/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-04-23T20:09:41Z",
+        "uri": "https://web.archive.org/web/20220423200941/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-05-23T07:40:35Z",
+        "uri": "https://web.archive.org/web/20220523074035/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-05-23T16:56:52Z",
+        "uri": "https://web.archive.org/web/20220523165652/http://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-05-27T21:00:31Z",
+        "uri": "https://web.archive.org/web/20220527210031/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-06-03T13:53:25Z",
+        "uri": "https://web.archive.org/web/20220603135325/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-06-08T20:20:20Z",
+        "uri": "https://web.archive.org/web/20220608202020/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-06-08T20:26:01Z",
+        "uri": "https://web.archive.org/web/20220608202601/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-06-10T03:50:00Z",
+        "uri": "https://web.archive.org/web/20220610035000/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-06-20T10:52:43Z",
+        "uri": "https://web.archive.org/web/20220620105243/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-07-05T01:14:27Z",
+        "uri": "https://web.archive.org/web/20220705011427/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx/"
+      },
+      {
+        "datetime": "2022-07-21T03:55:38Z",
+        "uri": "https://web.archive.org/web/20220721035538/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-07-24T10:46:20Z",
+        "uri": "https://web.archive.org/web/20220724104620/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-08-12T14:07:58Z",
+        "uri": "https://web.archive.org/web/20220812140758/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-09-14T20:45:23Z",
+        "uri": "https://web.archive.org/web/20220914204523/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-09-17T06:40:10Z",
+        "uri": "https://web.archive.org/web/20220917064010/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-09-22T19:50:35Z",
+        "uri": "https://web.archive.org/web/20220922195035/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-10-01T17:40:33Z",
+        "uri": "https://web.archive.org/web/20221001174033/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx?"
+      },
+      {
+        "datetime": "2022-10-06T02:32:48Z",
+        "uri": "https://web.archive.org/web/20221006023248/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-10-12T05:59:04Z",
+        "uri": "https://web.archive.org/web/20221012055904/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-10-23T17:47:38Z",
+        "uri": "https://web.archive.org/web/20221023174738/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-10-24T18:32:24Z",
+        "uri": "https://web.archive.org/web/20221024183224/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-11-07T05:57:04Z",
+        "uri": "https://web.archive.org/web/20221107055704/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-11-12T05:32:28Z",
+        "uri": "https://web.archive.org/web/20221112053228/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2022-12-01T09:01:24Z",
+        "uri": "https://web.archive.org/web/20221201090124/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2023-02-14T12:21:34Z",
+        "uri": "https://web.archive.org/web/20230214122134/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2023-03-09T01:42:49Z",
+        "uri": "https://web.archive.org/web/20230309014249/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2023-03-12T02:29:35Z",
+        "uri": "https://web.archive.org/web/20230312022935/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2023-03-30T13:31:32Z",
+        "uri": "https://web.archive.org/web/20230330133132/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2023-06-06T21:46:46Z",
+        "uri": "https://web.archive.org/web/20230606214646/http://gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2023-06-06T21:50:07Z",
+        "uri": "https://web.archive.org/web/20230606215007/https://gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2023-06-09T09:18:08Z",
+        "uri": "https://web.archive.org/web/20230609091808/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2023-06-15T11:10:37Z",
+        "uri": "https://web.archive.org/web/20230615111037/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2023-08-02T09:08:43Z",
+        "uri": "https://web.archive.org/web/20230802090843/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2023-08-23T21:16:58Z",
+        "uri": "https://web.archive.org/web/20230823211658/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2023-09-08T09:14:48Z",
+        "uri": "http://archive.md/20230908091448/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2023-09-25T22:02:53Z",
+        "uri": "https://web.archive.org/web/20230925220253/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2023-10-12T20:13:07Z",
+        "uri": "https://web.archive.org/web/20231012201307/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2023-11-08T04:09:35Z",
+        "uri": "https://web.archive.org/web/20231108040935/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2024-01-11T03:56:11Z",
+        "uri": "https://web.archive.org/web/20240111035611/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2024-01-18T20:42:38Z",
+        "uri": "https://web.archive.org/web/20240118204238/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2024-01-23T14:16:29Z",
+        "uri": "https://web.archive.org/web/20240123141629/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2024-02-02T23:11:40Z",
+        "uri": "https://web.archive.org/web/20240202231140/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2024-04-28T09:27:46Z",
+        "uri": "https://web.archive.org/web/20240428092746/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2024-05-14T20:57:44Z",
+        "uri": "https://web.archive.org/web/20240514205744/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      },
+      {
+        "datetime": "2024-05-15T00:19:05Z",
+        "uri": "https://web.archive.org/web/20240515001905/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+      }
+    ],
+    "first": {
+      "datetime": "2018-10-27T11:37:41Z",
+      "uri": "https://wayback.archive-it.org/all/20181027113741/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+    },
+    "last": {
+      "datetime": "2024-05-15T00:19:05Z",
+      "uri": "https://web.archive.org/web/20240515001905/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx",
+    "json_format": "http://localhost:1208/timemap/json/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx"
+}

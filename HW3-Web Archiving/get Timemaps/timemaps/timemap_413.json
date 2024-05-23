@@ -1,0 +1,1274 @@
+{
+  "original_uri": "https://developers.google.com/youtube/code_samples",
+  "self": "http://localhost:1208/timemap/json/https://developers.google.com/youtube/code_samples",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-09-26T03:27:21Z",
+        "uri": "https://web.archive.org/web/20130926032721/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2014-03-10T21:57:11Z",
+        "uri": "https://wayback.archive-it.org/all/20140310215711/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2014-03-10T21:57:11Z",
+        "uri": "https://web.archive.org/web/20140310215711/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2014-03-29T03:44:21Z",
+        "uri": "https://web.archive.org/web/20140329034421/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2014-07-05T01:14:30Z",
+        "uri": "https://web.archive.org/web/20140705011430/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2014-07-07T13:04:27Z",
+        "uri": "https://web.archive.org/web/20140707130427/http://developers.google.com:80/youtube/code_samples"
+      },
+      {
+        "datetime": "2014-12-29T09:27:46Z",
+        "uri": "https://web.archive.org/web/20141229092746/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2015-01-09T05:11:24Z",
+        "uri": "http://archive.md/20150109051124/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2015-02-19T09:31:12Z",
+        "uri": "https://web.archive.org/web/20150219093112/http://developers.google.com:80/youtube/code_samples"
+      },
+      {
+        "datetime": "2015-03-16T10:09:16Z",
+        "uri": "https://web.archive.org/web/20150316100916/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2015-05-01T16:06:45Z",
+        "uri": "https://web.archive.org/web/20150501160645/http://developers.google.com:80/youtube/code_samples"
+      },
+      {
+        "datetime": "2015-06-23T00:48:48Z",
+        "uri": "https://web.archive.org/web/20150623004848/http://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2015-06-24T06:59:42Z",
+        "uri": "https://web.archive.org/web/20150624065942/http://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2015-07-21T21:46:21Z",
+        "uri": "https://wayback.archive-it.org/all/20150721214621/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2015-07-21T21:46:21Z",
+        "uri": "https://web.archive.org/web/20150721214621/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2015-09-08T01:41:23Z",
+        "uri": "https://web.archive.org/web/20150908014123/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2016-01-29T19:41:45Z",
+        "uri": "https://web.archive.org/web/20160129194145/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2016-04-19T08:24:04Z",
+        "uri": "https://web.archive.org/web/20160419082404/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2016-04-27T23:48:09Z",
+        "uri": "https://wayback.archive-it.org/all/20160427234809/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2016-04-27T23:48:09Z",
+        "uri": "https://web.archive.org/web/20160427234809/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2016-08-28T00:43:14Z",
+        "uri": "https://web.archive.org/web/20160828004314/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2016-09-15T19:57:16Z",
+        "uri": "https://wayback.archive-it.org/all/20160915195716/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2016-09-15T19:57:16Z",
+        "uri": "https://web.archive.org/web/20160915195716/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2016-09-30T22:29:09Z",
+        "uri": "https://web.archive.org/web/20160930222909/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2016-10-24T11:31:30Z",
+        "uri": "https://web.archive.org/web/20161024113130/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2016-12-29T00:11:50Z",
+        "uri": "https://web.archive.org/web/20161229001150/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2017-10-23T16:58:46Z",
+        "uri": "https://web.archive.org/web/20171023165846/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2017-12-18T09:10:06Z",
+        "uri": "https://web.archive.org/web/20171218091006/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2018-04-21T07:07:03Z",
+        "uri": "https://web.archive.org/web/20180421070703/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2018-04-21T07:35:05Z",
+        "uri": "https://web.archive.org/web/20180421073505/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2018-05-16T18:15:42Z",
+        "uri": "https://wayback.archive-it.org/all/20180516181542/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2018-05-16T18:15:42Z",
+        "uri": "https://web.archive.org/web/20180516181542/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2018-08-21T10:58:39Z",
+        "uri": "https://web.archive.org/web/20180821105839/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2018-11-15T14:26:50Z",
+        "uri": "https://web.archive.org/web/20181115142650/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2019-01-22T01:54:45Z",
+        "uri": "https://web.archive.org/web/20190122015445/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2019-02-03T03:07:30Z",
+        "uri": "https://web.archive.org/web/20190203030730/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2019-03-13T05:30:10Z",
+        "uri": "https://web.archive.org/web/20190313053010/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2019-03-26T07:15:32Z",
+        "uri": "https://web.archive.org/web/20190326071532/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2019-05-08T01:13:03Z",
+        "uri": "https://web.archive.org/web/20190508011303/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2019-05-09T18:57:36Z",
+        "uri": "https://wayback.archive-it.org/all/20190509185736/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2019-05-09T18:57:36Z",
+        "uri": "https://web.archive.org/web/20190509185736/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2019-06-17T08:54:47Z",
+        "uri": "https://web.archive.org/web/20190617085447/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2019-11-22T19:03:24Z",
+        "uri": "https://arquivo.pt/wayback/20191122190324mp_/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-04-13T13:03:01Z",
+        "uri": "https://web.archive.org/web/20200413130301/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-07-03T18:46:54Z",
+        "uri": "https://web.archive.org/web/20200703184654/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-07-04T18:14:53Z",
+        "uri": "https://web.archive.org/web/20200704181453/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-07-06T20:15:58Z",
+        "uri": "https://web.archive.org/web/20200706201558/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-07-08T21:54:12Z",
+        "uri": "https://web.archive.org/web/20200708215412/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-07-09T21:09:32Z",
+        "uri": "https://web.archive.org/web/20200709210932/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-07-10T18:38:09Z",
+        "uri": "https://web.archive.org/web/20200710183809/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-07-13T22:35:53Z",
+        "uri": "https://web.archive.org/web/20200713223553/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-07-14T20:17:49Z",
+        "uri": "https://web.archive.org/web/20200714201749/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-07-15T17:57:46Z",
+        "uri": "https://web.archive.org/web/20200715175746/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-07-17T18:23:25Z",
+        "uri": "https://web.archive.org/web/20200717182325/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-07-18T19:07:26Z",
+        "uri": "https://web.archive.org/web/20200718190726/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-07-19T18:41:35Z",
+        "uri": "https://web.archive.org/web/20200719184135/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-07-20T17:41:26Z",
+        "uri": "https://web.archive.org/web/20200720174126/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-08-03T05:51:36Z",
+        "uri": "https://web.archive.org/web/20200803055136/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-08-30T06:08:17Z",
+        "uri": "https://web.archive.org/web/20200830060817/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-09-03T07:09:53Z",
+        "uri": "https://web.archive.org/web/20200903070953/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-09-11T13:34:30Z",
+        "uri": "https://web.archive.org/web/20200911133430/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-10-03T07:36:48Z",
+        "uri": "https://web.archive.org/web/20201003073648/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-11-03T05:13:26Z",
+        "uri": "https://web.archive.org/web/20201103051326/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-12-15T23:49:00Z",
+        "uri": "https://wayback.archive-it.org/all/20201215234900/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2020-12-15T23:49:00Z",
+        "uri": "https://web.archive.org/web/20201215234900/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-01-03T06:25:11Z",
+        "uri": "https://web.archive.org/web/20210103062511/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-02-03T09:01:19Z",
+        "uri": "https://web.archive.org/web/20210203090119/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-02-03T20:43:36Z",
+        "uri": "https://web.archive.org/web/20210203204336/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-03-03T08:37:33Z",
+        "uri": "https://web.archive.org/web/20210303083733/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-05-01T10:31:50Z",
+        "uri": "https://web.archive.org/web/20210501103150/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-05-06T19:53:41Z",
+        "uri": "https://web.archive.org/web/20210506195341/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-06-11T19:54:07Z",
+        "uri": "https://web.archive.org/web/20210611195407/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-07-23T06:08:33Z",
+        "uri": "https://wayback.archive-it.org/all/20210723060833/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-07-23T06:08:33Z",
+        "uri": "https://web.archive.org/web/20210723060833/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-08-10T17:10:11Z",
+        "uri": "https://wayback.archive-it.org/all/20210810171011/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-08-10T17:10:11Z",
+        "uri": "https://web.archive.org/web/20210810171011/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-08-12T06:15:34Z",
+        "uri": "https://wayback.archive-it.org/all/20210812061534/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-08-12T06:15:34Z",
+        "uri": "https://web.archive.org/web/20210812061534/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-08-17T00:08:51Z",
+        "uri": "https://web.archive.org/web/20210817000851/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-08-25T00:36:31Z",
+        "uri": "https://web.archive.org/web/20210825003631/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-10-06T04:31:40Z",
+        "uri": "https://web.archive.org/web/20211006043140/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-11-10T14:07:53Z",
+        "uri": "https://web.archive.org/web/20211110140753/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-12-02T09:49:45Z",
+        "uri": "https://web.archive.org/web/20211202094945/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2021-12-14T09:44:26Z",
+        "uri": "https://web.archive.org/web/20211214094426/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-01-03T05:55:10Z",
+        "uri": "https://web.archive.org/web/20220103055510/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-01-18T00:28:50Z",
+        "uri": "https://wayback.archive-it.org/all/20220118002850/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-01-18T00:28:50Z",
+        "uri": "https://web.archive.org/web/20220118002850/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-01-25T05:51:35Z",
+        "uri": "https://wayback.archive-it.org/all/20220125055135/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-01-25T05:51:35Z",
+        "uri": "https://web.archive.org/web/20220125055135/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-01-27T00:43:11Z",
+        "uri": "https://wayback.archive-it.org/all/20220127004311/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-01-27T00:43:11Z",
+        "uri": "https://web.archive.org/web/20220127004311/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-02-02T20:58:31Z",
+        "uri": "https://wayback.archive-it.org/all/20220202205831/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-02-02T20:58:31Z",
+        "uri": "https://web.archive.org/web/20220202205831/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-02-15T05:19:05Z",
+        "uri": "https://wayback.archive-it.org/all/20220215051905/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-02-15T05:19:05Z",
+        "uri": "https://web.archive.org/web/20220215051905/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-03-01T07:08:29Z",
+        "uri": "https://wayback.archive-it.org/all/20220301070829/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-03-01T07:08:29Z",
+        "uri": "https://web.archive.org/web/20220301070829/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-03-04T01:04:09Z",
+        "uri": "https://web.archive.org/web/20220304010409/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-03-06T22:05:12Z",
+        "uri": "https://web.archive.org/web/20220306220512/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-03-06T22:20:18Z",
+        "uri": "https://web.archive.org/web/20220306222018/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-03-08T04:57:30Z",
+        "uri": "https://wayback.archive-it.org/all/20220308045730/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-03-08T04:57:30Z",
+        "uri": "https://web.archive.org/web/20220308045730/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-03-15T04:08:51Z",
+        "uri": "https://wayback.archive-it.org/all/20220315040851/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-03-15T04:08:51Z",
+        "uri": "https://web.archive.org/web/20220315040851/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-03-22T08:13:51Z",
+        "uri": "https://web.archive.org/web/20220322081351/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-03-22T15:46:57Z",
+        "uri": "https://wayback.archive-it.org/all/20220322154657/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-03-22T15:46:57Z",
+        "uri": "https://web.archive.org/web/20220322154657/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-03-27T01:53:49Z",
+        "uri": "https://wayback.archive-it.org/all/20220327015349/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-03-27T01:53:49Z",
+        "uri": "https://web.archive.org/web/20220327015349/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-04-02T15:46:57Z",
+        "uri": "https://wayback.archive-it.org/all/20220402154657/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-04-02T15:46:57Z",
+        "uri": "https://web.archive.org/web/20220402154657/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-04-05T04:16:58Z",
+        "uri": "https://wayback.archive-it.org/all/20220405041658/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-04-05T04:16:58Z",
+        "uri": "https://web.archive.org/web/20220405041658/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-04-05T19:45:09Z",
+        "uri": "https://web.archive.org/web/20220405194509/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-04-08T14:00:00Z",
+        "uri": "https://web.archive.org.au/awa/20220408140000mp_/http://pandora.nla.gov.au/pan/167246/20220409-0000/developers.google.com/youtube/code_samples.html"
+      },
+      {
+        "datetime": "2022-04-12T21:57:14Z",
+        "uri": "https://wayback.archive-it.org/all/20220412215714/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-04-12T21:57:14Z",
+        "uri": "https://web.archive.org/web/20220412215714/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-04-19T12:10:52Z",
+        "uri": "https://wayback.archive-it.org/all/20220419121052/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-04-19T12:10:52Z",
+        "uri": "https://web.archive.org/web/20220419121052/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-04-27T03:48:18Z",
+        "uri": "https://wayback.archive-it.org/all/20220427034818/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-04-27T03:48:18Z",
+        "uri": "https://web.archive.org/web/20220427034818/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-05-03T05:08:38Z",
+        "uri": "https://wayback.archive-it.org/all/20220503050838/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-05-03T05:08:38Z",
+        "uri": "https://web.archive.org/web/20220503050838/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-05-24T12:38:56Z",
+        "uri": "https://wayback.archive-it.org/all/20220524123856/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-05-24T12:38:56Z",
+        "uri": "https://web.archive.org/web/20220524123856/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-05-27T03:28:44Z",
+        "uri": "https://wayback.archive-it.org/all/20220527032844/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-05-27T03:28:44Z",
+        "uri": "https://web.archive.org/web/20220527032844/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-05-31T02:05:37Z",
+        "uri": "https://wayback.archive-it.org/all/20220531020537/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-05-31T02:05:37Z",
+        "uri": "https://web.archive.org/web/20220531020537/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-06-07T02:52:29Z",
+        "uri": "https://wayback.archive-it.org/all/20220607025229/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-06-07T02:52:29Z",
+        "uri": "https://web.archive.org/web/20220607025229/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-06-15T07:10:02Z",
+        "uri": "https://wayback.archive-it.org/all/20220615071002/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-06-15T07:10:02Z",
+        "uri": "https://web.archive.org/web/20220615071002/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-06-18T04:40:14Z",
+        "uri": "https://web.archive.org/web/20220618044014/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-06-20T17:53:01Z",
+        "uri": "https://web.archive.org/web/20220620175301/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-06-21T09:11:47Z",
+        "uri": "https://wayback.archive-it.org/all/20220621091147/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-06-21T09:11:47Z",
+        "uri": "https://web.archive.org/web/20220621091147/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-06-24T12:00:13Z",
+        "uri": "https://wayback.archive-it.org/all/20220624120013/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-06-24T12:00:13Z",
+        "uri": "https://web.archive.org/web/20220624120013/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-07-05T07:51:41Z",
+        "uri": "https://wayback.archive-it.org/all/20220705075141/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-07-05T07:51:41Z",
+        "uri": "https://web.archive.org/web/20220705075141/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-07-12T13:53:48Z",
+        "uri": "https://wayback.archive-it.org/all/20220712135348/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-07-12T13:53:48Z",
+        "uri": "https://web.archive.org/web/20220712135348/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-07-19T13:08:28Z",
+        "uri": "https://wayback.archive-it.org/all/20220719130828/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-07-19T13:08:28Z",
+        "uri": "https://web.archive.org/web/20220719130828/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-07-26T08:06:39Z",
+        "uri": "https://wayback.archive-it.org/all/20220726080639/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-07-26T08:06:39Z",
+        "uri": "https://web.archive.org/web/20220726080639/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-07-26T18:17:27Z",
+        "uri": "https://wayback.archive-it.org/all/20220726181727/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-07-26T18:17:27Z",
+        "uri": "https://web.archive.org/web/20220726181727/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-08-02T06:55:13Z",
+        "uri": "https://wayback.archive-it.org/all/20220802065513/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-08-02T06:55:13Z",
+        "uri": "https://web.archive.org/web/20220802065513/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-08-03T06:30:52Z",
+        "uri": "https://wayback.archive-it.org/all/20220803063052/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-08-03T06:30:52Z",
+        "uri": "https://web.archive.org/web/20220803063052/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-08-16T03:24:34Z",
+        "uri": "https://wayback.archive-it.org/all/20220816032434/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-08-16T03:24:34Z",
+        "uri": "https://web.archive.org/web/20220816032434/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-08-23T04:43:55Z",
+        "uri": "https://wayback.archive-it.org/all/20220823044355/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-08-23T04:43:55Z",
+        "uri": "https://web.archive.org/web/20220823044355/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-08-24T04:36:22Z",
+        "uri": "https://wayback.archive-it.org/all/20220824043622/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-08-24T04:36:22Z",
+        "uri": "https://web.archive.org/web/20220824043622/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-09-06T05:35:09Z",
+        "uri": "https://wayback.archive-it.org/all/20220906053509/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-09-06T05:35:09Z",
+        "uri": "https://web.archive.org/web/20220906053509/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-09-13T03:26:10Z",
+        "uri": "https://wayback.archive-it.org/all/20220913032610/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-09-13T03:26:10Z",
+        "uri": "https://web.archive.org/web/20220913032610/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-09-26T19:31:20Z",
+        "uri": "https://wayback.archive-it.org/all/20220926193120/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-09-26T19:31:20Z",
+        "uri": "https://web.archive.org/web/20220926193120/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-09-27T03:31:40Z",
+        "uri": "https://wayback.archive-it.org/all/20220927033140/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-09-27T03:31:40Z",
+        "uri": "https://web.archive.org/web/20220927033140/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-10-02T21:04:48Z",
+        "uri": "https://wayback.archive-it.org/all/20221002210448/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-10-02T21:04:48Z",
+        "uri": "https://web.archive.org/web/20221002210448/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-10-04T04:59:47Z",
+        "uri": "https://wayback.archive-it.org/all/20221004045947/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-10-04T04:59:47Z",
+        "uri": "https://web.archive.org/web/20221004045947/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-10-11T03:48:45Z",
+        "uri": "https://wayback.archive-it.org/all/20221011034845/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-10-11T03:48:45Z",
+        "uri": "https://web.archive.org/web/20221011034845/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-10-12T19:35:04Z",
+        "uri": "https://web.archive.org/web/20221012193504/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-10-18T03:29:41Z",
+        "uri": "https://wayback.archive-it.org/all/20221018032941/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-10-18T03:29:41Z",
+        "uri": "https://web.archive.org/web/20221018032941/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-10-20T22:47:00Z",
+        "uri": "https://web.archive.org/web/20221020224700/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-10-24T04:07:45Z",
+        "uri": "https://wayback.archive-it.org/all/20221024040745/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-10-24T04:07:45Z",
+        "uri": "https://web.archive.org/web/20221024040745/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-11-08T05:02:57Z",
+        "uri": "https://wayback.archive-it.org/all/20221108050257/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-11-08T05:02:57Z",
+        "uri": "https://web.archive.org/web/20221108050257/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-11-24T17:47:50Z",
+        "uri": "https://web.archive.org/web/20221124174750/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-11-27T22:55:44Z",
+        "uri": "https://wayback.archive-it.org/all/20221127225544/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-11-27T22:55:44Z",
+        "uri": "https://web.archive.org/web/20221127225544/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-11-28T23:35:45Z",
+        "uri": "https://wayback.archive-it.org/all/20221128233545/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-11-28T23:35:45Z",
+        "uri": "https://web.archive.org/web/20221128233545/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-12-06T08:22:52Z",
+        "uri": "https://wayback.archive-it.org/all/20221206082252/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-12-06T08:22:52Z",
+        "uri": "https://web.archive.org/web/20221206082252/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-12-13T04:59:30Z",
+        "uri": "https://wayback.archive-it.org/all/20221213045930/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2022-12-13T04:59:30Z",
+        "uri": "https://web.archive.org/web/20221213045930/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-01-03T03:53:13Z",
+        "uri": "https://wayback.archive-it.org/all/20230103035313/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-01-03T03:53:13Z",
+        "uri": "https://web.archive.org/web/20230103035313/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-01-17T06:18:06Z",
+        "uri": "https://wayback.archive-it.org/all/20230117061806/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-01-17T06:18:06Z",
+        "uri": "https://web.archive.org/web/20230117061806/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-01-24T03:32:27Z",
+        "uri": "https://wayback.archive-it.org/all/20230124033227/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-01-24T03:32:27Z",
+        "uri": "https://web.archive.org/web/20230124033227/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-01-26T18:59:27Z",
+        "uri": "https://wayback.archive-it.org/all/20230126185927/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-01-26T18:59:27Z",
+        "uri": "https://web.archive.org/web/20230126185927/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-01-27T14:59:43Z",
+        "uri": "https://web.archive.org/web/20230127145943/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-01-29T09:15:54Z",
+        "uri": "https://web.archive.org/web/20230129091554/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-01-31T02:46:07Z",
+        "uri": "https://wayback.archive-it.org/all/20230131024607/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-01-31T02:46:07Z",
+        "uri": "https://web.archive.org/web/20230131024607/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-02-01T08:24:51Z",
+        "uri": "https://web.archive.org/web/20230201082451/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-02-02T22:19:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230202221912/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-02-02T22:19:12Z",
+        "uri": "https://web.archive.org/web/20230202221912/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-02-03T08:17:20Z",
+        "uri": "https://web.archive.org/web/20230203081720/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-02-04T03:06:16Z",
+        "uri": "https://web.archive.org/web/20230204030616/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-02-07T02:03:11Z",
+        "uri": "https://web.archive.org/web/20230207020311/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-02-07T02:12:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230207021216/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-02-07T02:12:16Z",
+        "uri": "https://web.archive.org/web/20230207021216/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-02-08T15:34:24Z",
+        "uri": "https://web.archive.org/web/20230208153424/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-02-08T15:39:36Z",
+        "uri": "https://web.archive.org/web/20230208153936/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-02-14T02:14:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230214021429/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-02-14T02:14:29Z",
+        "uri": "https://web.archive.org/web/20230214021429/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-02-21T02:56:20Z",
+        "uri": "https://wayback.archive-it.org/all/20230221025620/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-02-21T02:56:20Z",
+        "uri": "https://web.archive.org/web/20230221025620/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-02-28T03:00:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230228030010/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-02-28T03:00:10Z",
+        "uri": "https://web.archive.org/web/20230228030010/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-03-05T21:19:07Z",
+        "uri": "https://web.archive.org/web/20230305211907/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-03-14T18:17:48Z",
+        "uri": "https://web.archive.org/web/20230314181748/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-03-21T02:27:00Z",
+        "uri": "https://wayback.archive-it.org/all/20230321022700/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-03-21T02:27:00Z",
+        "uri": "https://web.archive.org/web/20230321022700/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-03-24T04:03:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230324040312/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-03-24T04:03:12Z",
+        "uri": "https://web.archive.org/web/20230324040312/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-04-01T07:57:05Z",
+        "uri": "https://wayback.archive-it.org/all/20230401075705/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-04-01T07:57:05Z",
+        "uri": "https://web.archive.org/web/20230401075705/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-04-03T07:40:19Z",
+        "uri": "https://wayback.archive-it.org/all/20230403074019/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-04-03T07:40:19Z",
+        "uri": "https://web.archive.org/web/20230403074019/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-04-04T02:05:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230404020510/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-04-04T02:05:10Z",
+        "uri": "https://web.archive.org/web/20230404020510/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-04-18T04:39:52Z",
+        "uri": "https://wayback.archive-it.org/all/20230418043952/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-04-18T04:39:52Z",
+        "uri": "https://web.archive.org/web/20230418043952/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-04-24T05:46:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230424054615/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-04-24T05:46:15Z",
+        "uri": "https://web.archive.org/web/20230424054615/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-04-25T10:16:08Z",
+        "uri": "https://wayback.archive-it.org/all/20230425101608/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-04-25T10:16:08Z",
+        "uri": "https://web.archive.org/web/20230425101608/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-01T07:29:58Z",
+        "uri": "https://wayback.archive-it.org/all/20230501072958/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-01T07:29:58Z",
+        "uri": "https://web.archive.org/web/20230501072958/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-09T16:24:59Z",
+        "uri": "https://wayback.archive-it.org/all/20230509162459/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-09T16:24:59Z",
+        "uri": "https://web.archive.org/web/20230509162459/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-14T22:58:33Z",
+        "uri": "https://web.archive.org/web/20230514225833/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-16T02:36:32Z",
+        "uri": "https://wayback.archive-it.org/all/20230516023632/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-16T02:36:32Z",
+        "uri": "https://web.archive.org/web/20230516023632/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-22T02:06:58Z",
+        "uri": "https://wayback.archive-it.org/all/20230522020658/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-22T02:06:58Z",
+        "uri": "https://web.archive.org/web/20230522020658/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-23T03:02:02Z",
+        "uri": "https://wayback.archive-it.org/all/20230523030202/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-23T03:02:02Z",
+        "uri": "https://web.archive.org/web/20230523030202/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-24T06:42:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230524064233/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-24T06:42:33Z",
+        "uri": "https://web.archive.org/web/20230524064233/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-26T21:59:55Z",
+        "uri": "https://wayback.archive-it.org/all/20230526215955/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-26T21:59:55Z",
+        "uri": "https://web.archive.org/web/20230526215955/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-30T02:14:03Z",
+        "uri": "https://wayback.archive-it.org/all/20230530021403/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-05-30T02:14:03Z",
+        "uri": "https://web.archive.org/web/20230530021403/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-06-01T07:36:21Z",
+        "uri": "https://wayback.archive-it.org/all/20230601073621/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-06-01T07:36:21Z",
+        "uri": "https://web.archive.org/web/20230601073621/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-06-10T02:07:31Z",
+        "uri": "https://web.archive.org/web/20230610020731/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-06-13T00:30:49Z",
+        "uri": "https://wayback.archive-it.org/all/20230613003049/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-06-13T00:30:49Z",
+        "uri": "https://web.archive.org/web/20230613003049/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-06-25T03:04:49Z",
+        "uri": "https://wayback.archive-it.org/all/20230625030449/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-06-25T03:04:49Z",
+        "uri": "https://web.archive.org/web/20230625030449/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-07-11T10:20:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230711102010/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-07-11T10:20:10Z",
+        "uri": "https://web.archive.org/web/20230711102010/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-07-17T23:57:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230717235710/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-07-17T23:57:10Z",
+        "uri": "https://web.archive.org/web/20230717235710/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-07-24T17:01:13Z",
+        "uri": "https://wayback.archive-it.org/all/20230724170113/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-07-24T17:01:13Z",
+        "uri": "https://web.archive.org/web/20230724170113/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-07-25T00:09:03Z",
+        "uri": "https://wayback.archive-it.org/all/20230725000903/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-07-25T00:09:03Z",
+        "uri": "https://web.archive.org/web/20230725000903/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-07-26T17:56:21Z",
+        "uri": "https://wayback.archive-it.org/all/20230726175621/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-07-26T17:56:21Z",
+        "uri": "https://web.archive.org/web/20230726175621/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-07-31T23:52:08Z",
+        "uri": "https://wayback.archive-it.org/all/20230731235208/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-07-31T23:52:08Z",
+        "uri": "https://web.archive.org/web/20230731235208/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-08-01T07:13:52Z",
+        "uri": "https://web.archive.org/web/20230801071352/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-08-02T22:35:51Z",
+        "uri": "https://wayback.archive-it.org/all/20230802223551/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-08-02T22:35:51Z",
+        "uri": "https://web.archive.org/web/20230802223551/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-08-07T23:45:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230807234516/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-08-07T23:45:16Z",
+        "uri": "https://web.archive.org/web/20230807234516/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-08-14T23:39:39Z",
+        "uri": "https://wayback.archive-it.org/all/20230814233939/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-08-14T23:39:39Z",
+        "uri": "https://web.archive.org/web/20230814233939/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-09-18T23:37:31Z",
+        "uri": "https://wayback.archive-it.org/all/20230918233731/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-09-18T23:37:31Z",
+        "uri": "https://web.archive.org/web/20230918233731/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-09-24T07:26:21Z",
+        "uri": "https://wayback.archive-it.org/all/20230924072621/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-09-24T07:26:21Z",
+        "uri": "https://web.archive.org/web/20230924072621/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-09-25T23:27:08Z",
+        "uri": "https://wayback.archive-it.org/all/20230925232708/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-09-25T23:27:08Z",
+        "uri": "https://web.archive.org/web/20230925232708/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-10-03T00:01:12Z",
+        "uri": "https://wayback.archive-it.org/all/20231003000112/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-10-10T09:19:59Z",
+        "uri": "https://wayback.archive-it.org/all/20231010091959/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-10-17T02:04:21Z",
+        "uri": "https://wayback.archive-it.org/all/20231017020421/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-10-24T08:09:07Z",
+        "uri": "https://wayback.archive-it.org/all/20231024080907/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-10-31T00:50:50Z",
+        "uri": "https://wayback.archive-it.org/all/20231031005050/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-11-01T21:39:11Z",
+        "uri": "https://wayback.archive-it.org/all/20231101213911/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-11-01T21:39:11Z",
+        "uri": "https://web.archive.org/web/20231101213911/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-11-07T03:21:56Z",
+        "uri": "https://wayback.archive-it.org/all/20231107032156/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-11-13T23:49:47Z",
+        "uri": "https://wayback.archive-it.org/all/20231113234947/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-11-21T00:31:27Z",
+        "uri": "https://wayback.archive-it.org/all/20231121003127/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-11-24T10:50:29Z",
+        "uri": "https://wayback.archive-it.org/all/20231124105029/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-11-27T02:51:01Z",
+        "uri": "https://wayback.archive-it.org/all/20231127025101/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-11-27T23:55:19Z",
+        "uri": "https://wayback.archive-it.org/all/20231127235519/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-12-07T01:43:44Z",
+        "uri": "https://web.archive.org/web/20231207014344/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2023-12-24T04:11:55Z",
+        "uri": "https://wayback.archive-it.org/all/20231224041155/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2024-01-04T09:37:25Z",
+        "uri": "https://web.archive.org/web/20240104093725/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2024-01-09T15:09:40Z",
+        "uri": "https://wayback.archive-it.org/all/20240109150940/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2024-01-24T03:33:47Z",
+        "uri": "https://wayback.archive-it.org/all/20240124033347/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2024-01-30T03:42:35Z",
+        "uri": "https://wayback.archive-it.org/all/20240130034235/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2024-02-02T22:29:55Z",
+        "uri": "https://wayback.archive-it.org/all/20240202222955/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2024-02-06T10:09:40Z",
+        "uri": "https://wayback.archive-it.org/all/20240206100940/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2024-02-07T17:17:18Z",
+        "uri": "https://wayback.archive-it.org/all/20240207171718/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2024-02-19T23:34:26Z",
+        "uri": "https://wayback.archive-it.org/all/20240219233426/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2024-03-24T08:13:47Z",
+        "uri": "https://web.archive.org/web/20240324081347/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2024-03-24T15:04:47Z",
+        "uri": "https://wayback.archive-it.org/all/20240324150447/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2024-03-26T22:11:16Z",
+        "uri": "https://wayback.archive-it.org/all/20240326221116/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2024-04-24T04:52:16Z",
+        "uri": "https://wayback.archive-it.org/all/20240424045216/https://developers.google.com/youtube/code_samples"
+      },
+      {
+        "datetime": "2024-04-24T23:44:29Z",
+        "uri": "https://web.archive.org/web/20240424234429/https://developers.google.com/youtube/code_samples"
+      }
+    ],
+    "first": {
+      "datetime": "2013-09-26T03:27:21Z",
+      "uri": "https://web.archive.org/web/20130926032721/https://developers.google.com/youtube/code_samples"
+    },
+    "last": {
+      "datetime": "2024-04-24T23:44:29Z",
+      "uri": "https://web.archive.org/web/20240424234429/https://developers.google.com/youtube/code_samples"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://developers.google.com/youtube/code_samples",
+    "json_format": "http://localhost:1208/timemap/json/https://developers.google.com/youtube/code_samples",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://developers.google.com/youtube/code_samples"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://developers.google.com/youtube/code_samples"
+}

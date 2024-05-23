@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://online.campuscommerce.com/register/4P77T/instlogin/reg-message",
+  "self": "http://localhost:1208/timemap/json/https://online.campuscommerce.com/register/4P77T/instlogin/reg-message",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-03-14T20:03:56Z",
+        "uri": "https://web.archive.org/web/20230314200356/https://online.campuscommerce.com/register/4P77T/instlogin/reg-message"
+      },
+      {
+        "datetime": "2023-04-05T02:29:39Z",
+        "uri": "https://web.archive.org/web/20230405022939/https://online.campuscommerce.com/register/4P77T/instlogin/reg-message"
+      },
+      {
+        "datetime": "2023-04-07T10:04:39Z",
+        "uri": "https://web.archive.org/web/20230407100439/https://online.campuscommerce.com/register/4P77T/instlogin/reg-message"
+      },
+      {
+        "datetime": "2024-03-19T21:59:32Z",
+        "uri": "https://web.archive.org/web/20240319215932/https://online.campuscommerce.com/register/4P77T/instlogin/reg-message"
+      }
+    ],
+    "first": {
+      "datetime": "2023-03-14T20:03:56Z",
+      "uri": "https://web.archive.org/web/20230314200356/https://online.campuscommerce.com/register/4P77T/instlogin/reg-message"
+    },
+    "last": {
+      "datetime": "2024-03-19T21:59:32Z",
+      "uri": "https://web.archive.org/web/20240319215932/https://online.campuscommerce.com/register/4P77T/instlogin/reg-message"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.campuscommerce.com/register/4P77T/instlogin/reg-message",
+    "json_format": "http://localhost:1208/timemap/json/https://online.campuscommerce.com/register/4P77T/instlogin/reg-message",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.campuscommerce.com/register/4P77T/instlogin/reg-message"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.campuscommerce.com/register/4P77T/instlogin/reg-message"
+}

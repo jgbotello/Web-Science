@@ -1,0 +1,3530 @@
+{
+  "original_uri": "https://developers.google.com/youtube/terms/api-services-terms-of-service",
+  "self": "http://localhost:1208/timemap/json/https://developers.google.com/youtube/terms/api-services-terms-of-service",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-08-19T19:04:11Z",
+        "uri": "https://web.archive.org/web/20160819190411/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2016-09-07T13:53:35Z",
+        "uri": "https://wayback.archive-it.org/all/20160907135335/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2016-09-07T13:53:35Z",
+        "uri": "https://web.archive.org/web/20160907135335/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2016-09-15T19:47:45Z",
+        "uri": "https://wayback.archive-it.org/all/20160915194745/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2016-09-15T19:47:45Z",
+        "uri": "https://web.archive.org/web/20160915194745/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2016-09-24T09:45:44Z",
+        "uri": "https://web.archive.org/web/20160924094544/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2016-09-30T22:29:03Z",
+        "uri": "https://web.archive.org/web/20160930222903/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2016-10-20T22:23:51Z",
+        "uri": "https://wayback.archive-it.org/all/20161020222351/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2016-10-20T22:23:51Z",
+        "uri": "https://web.archive.org/web/20161020222351/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2016-12-23T19:49:32Z",
+        "uri": "https://wayback.archive-it.org/all/20161223194932/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2016-12-23T19:49:32Z",
+        "uri": "https://web.archive.org/web/20161223194932/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2016-12-29T03:38:51Z",
+        "uri": "https://web.archive.org/web/20161229033851/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-01-06T23:44:26Z",
+        "uri": "https://wayback.archive-it.org/all/20170106234426/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-01-06T23:44:26Z",
+        "uri": "https://web.archive.org/web/20170106234426/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-01-14T20:25:46Z",
+        "uri": "https://web.archive.org/web/20170114202546/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-01-24T21:21:58Z",
+        "uri": "https://wayback.archive-it.org/all/20170124212158/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-01-24T21:21:58Z",
+        "uri": "https://web.archive.org/web/20170124212158/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-02-03T14:17:30Z",
+        "uri": "https://wayback.archive-it.org/all/20170203141730/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-02-03T14:17:30Z",
+        "uri": "https://web.archive.org/web/20170203141730/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-02-22T16:09:19Z",
+        "uri": "https://wayback.archive-it.org/all/20170222160919/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-02-22T16:09:19Z",
+        "uri": "https://web.archive.org/web/20170222160919/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-03-07T14:28:55Z",
+        "uri": "https://wayback.archive-it.org/all/20170307142855/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-03-07T14:28:55Z",
+        "uri": "https://web.archive.org/web/20170307142855/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-03-13T17:52:12Z",
+        "uri": "https://wayback.archive-it.org/all/20170313175212/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-03-13T17:52:12Z",
+        "uri": "https://web.archive.org/web/20170313175212/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-03-29T17:33:38Z",
+        "uri": "https://wayback.archive-it.org/all/20170329173338/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-03-29T17:33:38Z",
+        "uri": "https://web.archive.org/web/20170329173338/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-04-25T19:45:08Z",
+        "uri": "https://web.archive.org/web/20170425194508/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-05-01T12:42:22Z",
+        "uri": "https://wayback.archive-it.org/all/20170501124222/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-05-01T12:42:22Z",
+        "uri": "https://web.archive.org/web/20170501124222/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-05-08T13:16:09Z",
+        "uri": "https://wayback.archive-it.org/all/20170508131609/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-05-08T13:16:09Z",
+        "uri": "https://web.archive.org/web/20170508131609/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-05-18T19:10:00Z",
+        "uri": "https://web.archive.org/web/20170518191000/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-06-06T08:38:05Z",
+        "uri": "https://arquivo.pt/wayback/20170606083805mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-06-06T08:38:05Z",
+        "uri": "https://web.archive.org/web/20170606083805/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-06-10T22:14:49Z",
+        "uri": "https://web.archive.org/web/20170610221449/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-06-27T19:58:49Z",
+        "uri": "https://wayback.archive-it.org/all/20170627195849/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-06-27T19:58:49Z",
+        "uri": "https://web.archive.org/web/20170627195849/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-07-06T17:19:42Z",
+        "uri": "https://wayback.archive-it.org/all/20170706171942/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-07-06T17:19:42Z",
+        "uri": "https://web.archive.org/web/20170706171942/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-07-06T18:08:50Z",
+        "uri": "https://wayback.archive-it.org/all/20170706180850/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-07-06T18:08:50Z",
+        "uri": "https://web.archive.org/web/20170706180850/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-07-13T20:51:51Z",
+        "uri": "https://web.archive.org/web/20170713205151/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-07-15T02:14:30Z",
+        "uri": "https://wayback.archive-it.org/all/20170715021430/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-07-15T02:14:30Z",
+        "uri": "https://web.archive.org/web/20170715021430/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-08-05T00:36:33Z",
+        "uri": "https://wayback.archive-it.org/all/20170805003633/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-08-05T00:36:33Z",
+        "uri": "https://web.archive.org/web/20170805003633/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-08-17T17:32:42Z",
+        "uri": "https://wayback.archive-it.org/all/20170817173242/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-08-17T17:32:42Z",
+        "uri": "https://web.archive.org/web/20170817173242/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-08-22T15:48:48Z",
+        "uri": "https://web.archive.org/web/20170822154848/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-08-23T11:27:37Z",
+        "uri": "https://web.archive.org/web/20170823112737/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-08-24T15:14:37Z",
+        "uri": "https://wayback.archive-it.org/all/20170824151437/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-08-24T15:14:37Z",
+        "uri": "https://web.archive.org/web/20170824151437/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-08-31T18:26:59Z",
+        "uri": "https://wayback.archive-it.org/all/20170831182659/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-08-31T18:26:59Z",
+        "uri": "https://web.archive.org/web/20170831182659/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-08-31T18:27:25Z",
+        "uri": "https://wayback.archive-it.org/all/20170831182725/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-08-31T18:27:25Z",
+        "uri": "https://web.archive.org/web/20170831182725/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-08-31T18:27:49Z",
+        "uri": "https://wayback.archive-it.org/all/20170831182749/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-08-31T18:27:49Z",
+        "uri": "https://web.archive.org/web/20170831182749/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-03T00:57:14Z",
+        "uri": "https://web.archive.org/web/20170903005714/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-09T02:41:26Z",
+        "uri": "https://wayback.archive-it.org/all/20170909024126/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-09T02:41:26Z",
+        "uri": "https://web.archive.org/web/20170909024126/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-09T22:14:50Z",
+        "uri": "https://web.archive.org/web/20170909221450/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-16T22:54:44Z",
+        "uri": "https://web.archive.org/web/20170916225444/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-20T02:41:31Z",
+        "uri": "https://wayback.archive-it.org/all/20170920024131/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-20T02:41:31Z",
+        "uri": "https://web.archive.org/web/20170920024131/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-22T18:56:08Z",
+        "uri": "https://wayback.archive-it.org/all/20170922185608/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-22T18:56:08Z",
+        "uri": "https://web.archive.org/web/20170922185608/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-23T03:52:28Z",
+        "uri": "https://wayback.archive-it.org/all/20170923035228/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-23T03:52:28Z",
+        "uri": "https://web.archive.org/web/20170923035228/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-23T03:52:39Z",
+        "uri": "https://wayback.archive-it.org/all/20170923035239/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-23T03:52:39Z",
+        "uri": "https://web.archive.org/web/20170923035239/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-23T03:54:34Z",
+        "uri": "https://wayback.archive-it.org/all/20170923035434/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-23T03:54:34Z",
+        "uri": "https://web.archive.org/web/20170923035434/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-23T03:55:16Z",
+        "uri": "https://wayback.archive-it.org/all/20170923035516/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-23T03:55:16Z",
+        "uri": "https://web.archive.org/web/20170923035516/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-23T22:16:00Z",
+        "uri": "https://web.archive.org/web/20170923221600/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-28T14:10:08Z",
+        "uri": "https://web.archive.org/web/20170928141008/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-28T15:51:44Z",
+        "uri": "https://web.archive.org/web/20170928155144/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-29T16:25:45Z",
+        "uri": "https://web.archive.org/web/20170929162545/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-09-30T22:15:14Z",
+        "uri": "https://web.archive.org/web/20170930221514/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-10-07T22:14:34Z",
+        "uri": "https://web.archive.org/web/20171007221434/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-10-13T01:13:19Z",
+        "uri": "https://wayback.archive-it.org/all/20171013011319/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-10-13T01:13:19Z",
+        "uri": "https://web.archive.org/web/20171013011319/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-10-14T22:15:27Z",
+        "uri": "https://web.archive.org/web/20171014221527/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-10-21T03:48:14Z",
+        "uri": "https://wayback.archive-it.org/all/20171021034814/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-10-21T03:48:14Z",
+        "uri": "https://web.archive.org/web/20171021034814/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-10-21T22:15:24Z",
+        "uri": "https://web.archive.org/web/20171021221524/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-10-23T01:49:49Z",
+        "uri": "https://web.archive.org/web/20171023014949/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-10-28T22:14:35Z",
+        "uri": "https://web.archive.org/web/20171028221435/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-04T22:14:45Z",
+        "uri": "https://web.archive.org/web/20171104221445/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T22:53:30Z",
+        "uri": "https://wayback.archive-it.org/all/20171106225330/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T22:53:30Z",
+        "uri": "https://web.archive.org/web/20171106225330/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T22:54:19Z",
+        "uri": "https://wayback.archive-it.org/all/20171106225419/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T22:54:19Z",
+        "uri": "https://web.archive.org/web/20171106225419/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T22:56:06Z",
+        "uri": "https://wayback.archive-it.org/all/20171106225606/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T22:56:06Z",
+        "uri": "https://web.archive.org/web/20171106225606/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T22:57:04Z",
+        "uri": "https://wayback.archive-it.org/all/20171106225704/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T22:57:04Z",
+        "uri": "https://web.archive.org/web/20171106225704/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T22:58:21Z",
+        "uri": "https://wayback.archive-it.org/all/20171106225821/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T22:58:21Z",
+        "uri": "https://web.archive.org/web/20171106225821/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T22:58:47Z",
+        "uri": "https://wayback.archive-it.org/all/20171106225847/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T22:58:47Z",
+        "uri": "https://web.archive.org/web/20171106225847/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T23:12:57Z",
+        "uri": "https://wayback.archive-it.org/all/20171106231257/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T23:12:57Z",
+        "uri": "https://web.archive.org/web/20171106231257/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T23:13:34Z",
+        "uri": "https://wayback.archive-it.org/all/20171106231334/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T23:13:34Z",
+        "uri": "https://web.archive.org/web/20171106231334/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T23:15:03Z",
+        "uri": "https://wayback.archive-it.org/all/20171106231503/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T23:15:03Z",
+        "uri": "https://web.archive.org/web/20171106231503/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T23:15:59Z",
+        "uri": "https://wayback.archive-it.org/all/20171106231559/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T23:15:59Z",
+        "uri": "https://web.archive.org/web/20171106231559/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T23:18:44Z",
+        "uri": "https://wayback.archive-it.org/all/20171106231844/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T23:18:44Z",
+        "uri": "https://web.archive.org/web/20171106231844/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T23:19:19Z",
+        "uri": "https://wayback.archive-it.org/all/20171106231919/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T23:19:19Z",
+        "uri": "https://web.archive.org/web/20171106231919/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T23:20:35Z",
+        "uri": "https://wayback.archive-it.org/all/20171106232035/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-06T23:20:35Z",
+        "uri": "https://web.archive.org/web/20171106232035/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-07T19:24:16Z",
+        "uri": "https://wayback.archive-it.org/all/20171107192416/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-07T19:24:16Z",
+        "uri": "https://web.archive.org/web/20171107192416/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-11T22:14:28Z",
+        "uri": "https://web.archive.org/web/20171111221428/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-17T23:28:44Z",
+        "uri": "https://wayback.archive-it.org/all/20171117232844/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-17T23:28:44Z",
+        "uri": "https://web.archive.org/web/20171117232844/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-11-18T22:14:59Z",
+        "uri": "https://web.archive.org/web/20171118221459/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-01T19:42:45Z",
+        "uri": "https://web.archive.org/web/20171201194245/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-02T22:15:36Z",
+        "uri": "https://web.archive.org/web/20171202221536/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-04T20:45:43Z",
+        "uri": "https://wayback.archive-it.org/all/20171204204543/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-04T20:45:43Z",
+        "uri": "https://web.archive.org/web/20171204204543/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-06T02:49:48Z",
+        "uri": "https://wayback.archive-it.org/all/20171206024948/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-06T02:49:48Z",
+        "uri": "https://web.archive.org/web/20171206024948/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-14T03:34:14Z",
+        "uri": "https://wayback.archive-it.org/all/20171214033414/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-14T03:34:14Z",
+        "uri": "https://web.archive.org/web/20171214033414/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-14T03:35:22Z",
+        "uri": "https://wayback.archive-it.org/all/20171214033522/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-14T03:35:22Z",
+        "uri": "https://web.archive.org/web/20171214033522/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-14T03:35:38Z",
+        "uri": "https://wayback.archive-it.org/all/20171214033538/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-14T03:35:38Z",
+        "uri": "https://web.archive.org/web/20171214033538/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-14T03:35:46Z",
+        "uri": "https://wayback.archive-it.org/all/20171214033546/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-14T03:35:46Z",
+        "uri": "https://web.archive.org/web/20171214033546/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-16T22:14:47Z",
+        "uri": "https://web.archive.org/web/20171216221447/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-24T00:19:02Z",
+        "uri": "https://web.archive.org/web/20171224001902/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2017-12-30T22:14:26Z",
+        "uri": "https://web.archive.org/web/20171230221426/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-01-03T17:48:19Z",
+        "uri": "https://web.archive.org/web/20180103174819/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-01-06T22:17:23Z",
+        "uri": "https://web.archive.org/web/20180106221723/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-01-12T01:44:11Z",
+        "uri": "https://wayback.archive-it.org/all/20180112014411/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-01-12T01:44:11Z",
+        "uri": "https://web.archive.org/web/20180112014411/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-01-13T22:14:22Z",
+        "uri": "https://web.archive.org/web/20180113221422/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-01-20T22:15:04Z",
+        "uri": "https://web.archive.org/web/20180120221504/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-01-22T17:24:23Z",
+        "uri": "https://wayback.archive-it.org/all/20180122172423/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-01-22T17:24:23Z",
+        "uri": "https://web.archive.org/web/20180122172423/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-01-27T22:15:02Z",
+        "uri": "https://web.archive.org/web/20180127221502/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-02-02T15:05:57Z",
+        "uri": "https://wayback.archive-it.org/all/20180202150557/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-02-02T15:05:57Z",
+        "uri": "https://web.archive.org/web/20180202150557/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-02-02T16:48:23Z",
+        "uri": "https://web.archive.org/web/20180202164823/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-02-03T22:15:28Z",
+        "uri": "https://web.archive.org/web/20180203221528/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-02-10T22:15:23Z",
+        "uri": "https://web.archive.org/web/20180210221523/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-02-17T22:14:24Z",
+        "uri": "https://web.archive.org/web/20180217221424/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-02-21T01:03:06Z",
+        "uri": "https://wayback.archive-it.org/all/20180221010306/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-02-21T01:03:06Z",
+        "uri": "https://web.archive.org/web/20180221010306/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-02-24T05:58:58Z",
+        "uri": "https://web.archive.org/web/20180224055858/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-02-24T22:14:45Z",
+        "uri": "https://web.archive.org/web/20180224221445/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-03-06T16:11:42Z",
+        "uri": "https://web.archive.org/web/20180306161142/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-03-15T20:37:40Z",
+        "uri": "https://wayback.archive-it.org/all/20180315203740/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-03-15T20:37:40Z",
+        "uri": "https://web.archive.org/web/20180315203740/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-03-22T14:22:57Z",
+        "uri": "https://web.archive.org/web/20180322142257/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-03-22T16:24:01Z",
+        "uri": "https://web.archive.org/web/20180322162401/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-03-23T17:29:19Z",
+        "uri": "https://web.archive.org/web/20180323172919/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-03-24T21:37:03Z",
+        "uri": "https://wayback.archive-it.org/all/20180324213703/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-03-24T21:37:03Z",
+        "uri": "https://web.archive.org/web/20180324213703/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-03-27T13:36:48Z",
+        "uri": "https://web.archive.org/web/20180327133648/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-03-27T17:37:59Z",
+        "uri": "https://web.archive.org/web/20180327173759/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-03-28T16:33:28Z",
+        "uri": "https://web.archive.org/web/20180328163328/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-03-28T20:36:51Z",
+        "uri": "https://web.archive.org/web/20180328203651/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-03-30T14:55:06Z",
+        "uri": "https://web.archive.org/web/20180330145506/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-04-12T00:15:25Z",
+        "uri": "https://wayback.archive-it.org/all/20180412001525/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-04-12T00:15:25Z",
+        "uri": "https://web.archive.org/web/20180412001525/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-04-19T14:05:16Z",
+        "uri": "https://wayback.archive-it.org/all/20180419140516/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-04-19T14:05:16Z",
+        "uri": "https://web.archive.org/web/20180419140516/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-04-21T07:06:59Z",
+        "uri": "https://web.archive.org/web/20180421070659/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-04-21T07:29:50Z",
+        "uri": "https://web.archive.org/web/20180421072950/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-05-02T19:13:11Z",
+        "uri": "https://wayback.archive-it.org/all/20180502191311/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-05-02T19:13:11Z",
+        "uri": "https://web.archive.org/web/20180502191311/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-05-14T13:36:34Z",
+        "uri": "https://web.archive.org/web/20180514133634/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-05-16T17:59:50Z",
+        "uri": "https://wayback.archive-it.org/all/20180516175950/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-05-16T17:59:50Z",
+        "uri": "https://web.archive.org/web/20180516175950/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-05-16T23:04:24Z",
+        "uri": "https://wayback.archive-it.org/all/20180516230424/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-05-16T23:04:24Z",
+        "uri": "https://web.archive.org/web/20180516230424/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-06-06T16:06:11Z",
+        "uri": "https://wayback.archive-it.org/all/20180606160611/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-06-06T16:06:11Z",
+        "uri": "https://web.archive.org/web/20180606160611/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-06-14T20:26:18Z",
+        "uri": "https://web.archive.org/web/20180614202618/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-06-16T08:29:14Z",
+        "uri": "https://web.archive.org/web/20180616082914/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-07-19T04:03:45Z",
+        "uri": "https://arquivo.pt/wayback/20180719040345mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-07-19T04:03:45Z",
+        "uri": "https://web.archive.org/web/20180719040345/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-08-21T10:58:40Z",
+        "uri": "https://web.archive.org/web/20180821105840/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-08-21T11:50:04Z",
+        "uri": "https://web.archive.org/web/20180821115004/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-09-04T08:22:15Z",
+        "uri": "https://web.archive.org/web/20180904082215/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-09-29T11:55:12Z",
+        "uri": "https://web.archive.org/web/20180929115512/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-10-26T11:34:18Z",
+        "uri": "https://web.archive.org/web/20181026113418/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-11-15T14:23:09Z",
+        "uri": "https://web.archive.org/web/20181115142309/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-11-15T14:35:56Z",
+        "uri": "https://web.archive.org/web/20181115143556/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-11-15T14:50:32Z",
+        "uri": "https://web.archive.org/web/20181115145032/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-11-15T15:10:20Z",
+        "uri": "https://web.archive.org/web/20181115151020/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-11-15T16:13:12Z",
+        "uri": "https://web.archive.org/web/20181115161312/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-11-15T17:00:51Z",
+        "uri": "https://web.archive.org/web/20181115170051/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-11-15T17:00:52Z",
+        "uri": "https://web.archive.org/web/20181115170052/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-11-15T19:56:24Z",
+        "uri": "https://web.archive.org/web/20181115195624/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2018-12-15T14:58:26Z",
+        "uri": "https://web.archive.org/web/20181215145826/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-01-09T08:36:15Z",
+        "uri": "https://web.archive.org/web/20190109083615/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-01-12T07:07:51Z",
+        "uri": "https://web.archive.org/web/20190112070751/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-01-19T18:26:36Z",
+        "uri": "https://web.archive.org/web/20190119182636/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-01-22T01:54:41Z",
+        "uri": "https://web.archive.org/web/20190122015441/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-02-03T03:07:31Z",
+        "uri": "https://web.archive.org/web/20190203030731/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-02-03T03:44:18Z",
+        "uri": "https://web.archive.org/web/20190203034418/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-03-26T07:15:44Z",
+        "uri": "https://web.archive.org/web/20190326071544/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-03-28T09:59:43Z",
+        "uri": "https://arquivo.pt/wayback/20190328095943mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-03-28T09:59:43Z",
+        "uri": "https://web.archive.org/web/20190328095943/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-04-02T18:28:29Z",
+        "uri": "https://web.archive.org/web/20190402182829/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-04-04T15:09:10Z",
+        "uri": "https://web.archive.org/web/20190404150910/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-04-17T19:24:32Z",
+        "uri": "https://web.archive.org/web/20190417192432/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-04-17T19:24:46Z",
+        "uri": "https://web.archive.org/web/20190417192446/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-04-25T21:56:32Z",
+        "uri": "https://arquivo.pt/wayback/20190425215632mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-04-25T21:56:32Z",
+        "uri": "https://web.archive.org/web/20190425215632/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-04-30T08:53:45Z",
+        "uri": "https://web.archive.org/web/20190430085345/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-05-09T18:57:37Z",
+        "uri": "https://wayback.archive-it.org/all/20190509185737/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-05-09T18:57:37Z",
+        "uri": "https://web.archive.org/web/20190509185737/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-06-01T07:27:49Z",
+        "uri": "https://web.archive.org/web/20190601072749/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-07-11T05:12:44Z",
+        "uri": "https://web.archive.org/web/20190711051244/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-07-11T05:12:48Z",
+        "uri": "https://web.archive.org/web/20190711051248/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-07-13T23:23:53Z",
+        "uri": "https://web.archive.org/web/20190713232353/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-07-22T08:43:49Z",
+        "uri": "http://archive.md/20190722084349/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-08-13T16:26:41Z",
+        "uri": "https://web.archive.org/web/20190813162641/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-08-28T22:37:29Z",
+        "uri": "https://web.archive.org/web/20190828223729/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-09-11T09:54:36Z",
+        "uri": "https://web.archive.org/web/20190911095436/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-09-23T01:47:46Z",
+        "uri": "https://arquivo.pt/wayback/20190923014746mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-09-23T01:47:46Z",
+        "uri": "https://web.archive.org/web/20190923014746/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-11-03T10:18:26Z",
+        "uri": "https://web.archive.org/web/20191103101826/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-11-03T11:27:09Z",
+        "uri": "https://web.archive.org/web/20191103112709/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-11-11T22:17:55Z",
+        "uri": "https://wayback.archive-it.org/all/20191111221755/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-11-11T22:17:55Z",
+        "uri": "https://web.archive.org/web/20191111221755/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-11-22T19:03:45Z",
+        "uri": "https://arquivo.pt/wayback/20191122190345mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-12-20T17:58:14Z",
+        "uri": "https://arquivo.pt/wayback/20191220175814mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2019-12-20T17:58:14Z",
+        "uri": "https://web.archive.org/web/20191220175814/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-02-05T05:26:19Z",
+        "uri": "https://web.archive.org/web/20200205052619/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-02-05T15:29:13Z",
+        "uri": "https://web.archive.org/web/20200205152913/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-02-19T11:19:46Z",
+        "uri": "https://arquivo.pt/wayback/20200219111946mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-03-16T23:50:14Z",
+        "uri": "https://arquivo.pt/wayback/20200316235014mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-03-16T23:50:14Z",
+        "uri": "https://web.archive.org/web/20200316235014/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-03-28T10:16:33Z",
+        "uri": "https://web.archive.org/web/20200328101633/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-03-28T20:04:59Z",
+        "uri": "https://web.archive.org/web/20200328200459/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-03-28T21:09:48Z",
+        "uri": "https://web.archive.org/web/20200328210948/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-04-13T13:03:01Z",
+        "uri": "https://web.archive.org/web/20200413130301/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-04-17T19:43:27Z",
+        "uri": "https://web.archive.org/web/20200417194327/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-04-17T19:49:08Z",
+        "uri": "https://web.archive.org/web/20200417194908/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-04-18T18:16:22Z",
+        "uri": "https://web.archive.org/web/20200418181622/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-04-18T19:13:06Z",
+        "uri": "https://web.archive.org/web/20200418191306/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-04-18T20:06:07Z",
+        "uri": "https://web.archive.org/web/20200418200607/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-04-18T20:06:08Z",
+        "uri": "https://web.archive.org/web/20200418200608/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-04-19T15:36:51Z",
+        "uri": "https://web.archive.org/web/20200419153651/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-04-27T23:57:54Z",
+        "uri": "https://web.archive.org/web/20200427235754/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-04-28T05:06:43Z",
+        "uri": "https://web.archive.org/web/20200428050643/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-04-28T05:42:04Z",
+        "uri": "https://web.archive.org/web/20200428054204/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-05-06T01:03:28Z",
+        "uri": "https://web.archive.org/web/20200506010328/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-05-13T16:31:20Z",
+        "uri": "https://web.archive.org/web/20200513163120/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-05-21T10:12:58Z",
+        "uri": "https://web.archive.org/web/20200521101258/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-05-21T19:44:49Z",
+        "uri": "https://web.archive.org/web/20200521194449/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-05-22T06:51:26Z",
+        "uri": "https://web.archive.org/web/20200522065126/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-05-22T08:08:25Z",
+        "uri": "https://web.archive.org/web/20200522080825/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-06-02T10:43:51Z",
+        "uri": "https://arquivo.pt/wayback/20200602104351mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-06-02T10:43:51Z",
+        "uri": "https://web.archive.org/web/20200602104351/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-06-02T10:43:51Z",
+        "uri": "https://web.archive.org/web/20200602104351/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-06-06T13:22:22Z",
+        "uri": "https://web.archive.org/web/20200606132222/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-06-16T18:34:27Z",
+        "uri": "https://arquivo.pt/wayback/20200616183427mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-06-16T18:34:27Z",
+        "uri": "https://web.archive.org/web/20200616183427/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-06-24T07:32:46Z",
+        "uri": "https://web.archive.org/web/20200624073246/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-06-29T11:59:25Z",
+        "uri": "https://arquivo.pt/wayback/20200629115925mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-06-29T11:59:25Z",
+        "uri": "https://web.archive.org/web/20200629115925/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-01T17:20:51Z",
+        "uri": "https://wayback.archive-it.org/all/20200701172051/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-01T17:20:51Z",
+        "uri": "https://web.archive.org/web/20200701172051/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-02T16:30:09Z",
+        "uri": "https://wayback.archive-it.org/all/20200702163009/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-02T16:30:09Z",
+        "uri": "https://web.archive.org/web/20200702163009/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-03T18:47:25Z",
+        "uri": "https://web.archive.org/web/20200703184725/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-03T23:35:46Z",
+        "uri": "https://wayback.archive-it.org/all/20200703233546/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-03T23:35:46Z",
+        "uri": "https://web.archive.org/web/20200703233546/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-04T18:49:53Z",
+        "uri": "https://web.archive.org/web/20200704184953/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-06T20:16:29Z",
+        "uri": "https://web.archive.org/web/20200706201629/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-08T09:42:14Z",
+        "uri": "https://wayback.archive-it.org/all/20200708094214/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-08T09:42:14Z",
+        "uri": "https://web.archive.org/web/20200708094214/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-08T19:12:41Z",
+        "uri": "https://wayback.archive-it.org/all/20200708191241/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-08T19:12:41Z",
+        "uri": "https://web.archive.org/web/20200708191241/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-08T21:54:58Z",
+        "uri": "https://web.archive.org/web/20200708215458/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-09T21:11:09Z",
+        "uri": "https://web.archive.org/web/20200709211109/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-10T18:38:38Z",
+        "uri": "https://web.archive.org/web/20200710183838/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-13T22:36:37Z",
+        "uri": "https://web.archive.org/web/20200713223637/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-14T20:18:08Z",
+        "uri": "https://web.archive.org/web/20200714201808/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-15T16:10:39Z",
+        "uri": "https://web.archive.org/web/20200715161039/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-15T17:58:36Z",
+        "uri": "https://web.archive.org/web/20200715175836/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-17T18:23:40Z",
+        "uri": "https://web.archive.org/web/20200717182340/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-18T19:07:39Z",
+        "uri": "https://web.archive.org/web/20200718190739/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-19T18:41:42Z",
+        "uri": "https://web.archive.org/web/20200719184142/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-20T17:41:38Z",
+        "uri": "https://web.archive.org/web/20200720174138/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-23T09:56:04Z",
+        "uri": "https://wayback.archive-it.org/all/20200723095604/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-07-23T09:56:04Z",
+        "uri": "https://web.archive.org/web/20200723095604/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-08-03T05:51:48Z",
+        "uri": "https://web.archive.org/web/20200803055148/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-08-04T04:14:16Z",
+        "uri": "https://web.archive.org/web/20200804041416/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-08-12T01:48:54Z",
+        "uri": "https://web.archive.org/web/20200812014854/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-08-12T20:27:48Z",
+        "uri": "https://web.archive.org/web/20200812202748/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-08-13T05:15:09Z",
+        "uri": "https://web.archive.org/web/20200813051509/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-08-13T06:14:51Z",
+        "uri": "https://web.archive.org/web/20200813061451/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-08-16T19:28:16Z",
+        "uri": "https://web.archive.org/web/20200816192816/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-08-21T13:49:59Z",
+        "uri": "https://web.archive.org/web/20200821134959/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-08-30T06:08:42Z",
+        "uri": "https://web.archive.org/web/20200830060842/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-09-03T07:10:23Z",
+        "uri": "https://web.archive.org/web/20200903071023/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-09-11T13:40:07Z",
+        "uri": "https://web.archive.org/web/20200911134007/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-09-11T20:29:50Z",
+        "uri": "https://web.archive.org/web/20200911202950/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-09-11T23:11:16Z",
+        "uri": "https://web.archive.org/web/20200911231116/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-09-13T11:41:46Z",
+        "uri": "https://arquivo.pt/wayback/20200913114146mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-09-13T11:41:46Z",
+        "uri": "https://web.archive.org/web/20200913114146/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-10-03T07:37:13Z",
+        "uri": "https://web.archive.org/web/20201003073713/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-10-06T09:06:55Z",
+        "uri": "https://web.archive.org/web/20201006090655/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-10-09T12:47:26Z",
+        "uri": "https://wayback.archive-it.org/all/20201009124726/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-10-09T12:47:26Z",
+        "uri": "https://web.archive.org/web/20201009124726/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-10-09T15:13:39Z",
+        "uri": "https://web.archive.org/web/20201009151339/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-10-31T08:56:14Z",
+        "uri": "https://web.archive.org/web/20201031085614/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-11-01T01:51:30Z",
+        "uri": "https://web.archive.org/web/20201101015130/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-11-03T03:26:00Z",
+        "uri": "https://web.archive.org/web/20201103032600/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-11-03T05:13:36Z",
+        "uri": "https://web.archive.org/web/20201103051336/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-11-03T14:19:16Z",
+        "uri": "https://web.archive.org/web/20201103141916/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-11-05T17:06:10Z",
+        "uri": "https://web.archive.org/web/20201105170610/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-11-12T02:24:33Z",
+        "uri": "https://web.archive.org/web/20201112022433/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-11-14T00:58:35Z",
+        "uri": "https://web.archive.org/web/20201114005835/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-11-18T22:41:24Z",
+        "uri": "http://archive.md/20201118224124/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-11-18T22:41:24Z",
+        "uri": "https://web.archive.org/web/20201118224124/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-11-21T18:53:03Z",
+        "uri": "https://wayback.archive-it.org/all/20201121185303/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-11-21T18:53:03Z",
+        "uri": "https://web.archive.org/web/20201121185303/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-11-27T10:35:54Z",
+        "uri": "https://web.archive.org/web/20201127103554/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-12-02T11:53:39Z",
+        "uri": "https://wayback.archive-it.org/all/20201202115339/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-12-02T11:53:39Z",
+        "uri": "https://web.archive.org/web/20201202115339/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-12-14T22:36:51Z",
+        "uri": "https://arquivo.pt/wayback/20201214223651mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-12-14T22:36:51Z",
+        "uri": "https://web.archive.org/web/20201214223651/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-12-15T23:49:53Z",
+        "uri": "https://wayback.archive-it.org/all/20201215234953/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-12-15T23:49:53Z",
+        "uri": "https://web.archive.org/web/20201215234953/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-12-31T07:51:45Z",
+        "uri": "https://wayback.archive-it.org/all/20201231075145/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-12-31T07:51:45Z",
+        "uri": "https://web.archive.org/web/20201231075145/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-12-31T13:02:08Z",
+        "uri": "https://wayback.archive-it.org/all/20201231130208/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2020-12-31T13:02:08Z",
+        "uri": "https://web.archive.org/web/20201231130208/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-01-03T06:25:29Z",
+        "uri": "https://web.archive.org/web/20210103062529/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-01-04T17:40:43Z",
+        "uri": "https://wayback.archive-it.org/all/20210104174043/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-01-04T17:40:43Z",
+        "uri": "https://web.archive.org/web/20210104174043/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-01-07T06:54:44Z",
+        "uri": "https://wayback.archive-it.org/all/20210107065444/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-01-07T06:54:44Z",
+        "uri": "https://web.archive.org/web/20210107065444/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-01-26T12:24:37Z",
+        "uri": "https://web.archive.org/web/20210126122437/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-01-27T06:05:10Z",
+        "uri": "https://web.archive.org/web/20210127060510/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-01-30T22:06:18Z",
+        "uri": "https://wayback.archive-it.org/all/20210130220618/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-01-30T22:06:18Z",
+        "uri": "https://web.archive.org/web/20210130220618/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-01-31T15:58:08Z",
+        "uri": "https://wayback.archive-it.org/all/20210131155808/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-01-31T15:58:08Z",
+        "uri": "https://web.archive.org/web/20210131155808/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-02-03T09:01:38Z",
+        "uri": "https://web.archive.org/web/20210203090138/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-02-11T04:37:36Z",
+        "uri": "https://web.archive.org/web/20210211043736/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-02-11T07:09:53Z",
+        "uri": "https://web.archive.org/web/20210211070953/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-02-25T07:40:54Z",
+        "uri": "https://web.archive.org/web/20210225074054/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-03-03T08:37:55Z",
+        "uri": "https://web.archive.org/web/20210303083755/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-03-04T07:20:54Z",
+        "uri": "https://wayback.archive-it.org/all/20210304072054/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-03-04T07:20:54Z",
+        "uri": "https://web.archive.org/web/20210304072054/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-03-09T15:38:00Z",
+        "uri": "https://web.archive.org/web/20210309153800/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-03-16T03:21:44Z",
+        "uri": "https://arquivo.pt/wayback/20210316032144mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-03-16T03:21:44Z",
+        "uri": "https://web.archive.org/web/20210316032144/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-03-22T12:29:18Z",
+        "uri": "https://wayback.archive-it.org/all/20210322122918/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-03-22T12:29:18Z",
+        "uri": "https://web.archive.org/web/20210322122918/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-03-26T17:42:00Z",
+        "uri": "https://wayback.archive-it.org/all/20210326174200/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-03-26T17:42:00Z",
+        "uri": "https://web.archive.org/web/20210326174200/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-04-02T16:17:51Z",
+        "uri": "https://wayback.archive-it.org/all/20210402161751/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-04-02T16:17:51Z",
+        "uri": "https://web.archive.org/web/20210402161751/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-04-15T05:51:23Z",
+        "uri": "https://wayback.archive-it.org/all/20210415055123/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-04-15T05:51:23Z",
+        "uri": "https://web.archive.org/web/20210415055123/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-04-22T12:50:35Z",
+        "uri": "https://web.archive.org/web/20210422125035/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-05-01T10:31:44Z",
+        "uri": "https://web.archive.org/web/20210501103144/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-05-02T03:54:28Z",
+        "uri": "https://web.archive.org/web/20210502035428/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-05-06T18:10:46Z",
+        "uri": "https://wayback.archive-it.org/all/20210506181046/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-05-06T18:10:46Z",
+        "uri": "https://web.archive.org/web/20210506181046/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-05-13T08:50:40Z",
+        "uri": "https://wayback.archive-it.org/all/20210513085040/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-05-13T08:50:40Z",
+        "uri": "https://web.archive.org/web/20210513085040/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-05-13T10:43:38Z",
+        "uri": "https://web.archive.org/web/20210513104338/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-05-18T09:18:36Z",
+        "uri": "https://web.archive.org/web/20210518091836/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-05-20T14:44:37Z",
+        "uri": "https://web.archive.org/web/20210520144437/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-05-26T13:25:54Z",
+        "uri": "http://archive.md/20210526132554/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-06-01T11:55:37Z",
+        "uri": "https://wayback.archive-it.org/all/20210601115537/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-06-01T11:55:37Z",
+        "uri": "https://web.archive.org/web/20210601115537/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-06-09T20:02:55Z",
+        "uri": "https://web.archive.org/web/20210609200255/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-06-11T02:18:14Z",
+        "uri": "https://web.archive.org/web/20210611021814/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-06-11T09:41:10Z",
+        "uri": "http://archive.md/20210611094110/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-06-13T21:06:42Z",
+        "uri": "https://web.archive.org/web/20210613210642/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-06-17T01:38:17Z",
+        "uri": "https://web.archive.org/web/20210617013817/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-06-18T11:08:49Z",
+        "uri": "https://arquivo.pt/wayback/20210618110849mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-06-18T11:08:49Z",
+        "uri": "https://web.archive.org/web/20210618110849/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-06-18T22:37:14Z",
+        "uri": "https://web.archive.org/web/20210618223714/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-06-18T22:37:14Z",
+        "uri": "https://web.archive.org/web/20210618223714/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-06-21T21:58:40Z",
+        "uri": "https://web.archive.org/web/20210621215840/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-07-17T11:40:02Z",
+        "uri": "https://web.archive.org/web/20210717114002/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-07-23T06:08:43Z",
+        "uri": "https://wayback.archive-it.org/all/20210723060843/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-07-23T06:08:43Z",
+        "uri": "https://web.archive.org/web/20210723060843/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-08-05T20:25:29Z",
+        "uri": "https://web.archive.org/web/20210805202529/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-08-10T17:10:19Z",
+        "uri": "https://wayback.archive-it.org/all/20210810171019/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-08-10T17:10:19Z",
+        "uri": "https://web.archive.org/web/20210810171019/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-08-12T03:25:52Z",
+        "uri": "https://web.archive.org/web/20210812032552/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-08-12T06:15:45Z",
+        "uri": "https://wayback.archive-it.org/all/20210812061545/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-08-12T06:15:45Z",
+        "uri": "https://web.archive.org/web/20210812061545/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-08-13T23:48:51Z",
+        "uri": "https://web.archive.org/web/20210813234851/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-08-15T01:55:28Z",
+        "uri": "https://web.archive.org/web/20210815015528/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-08-16T10:19:11Z",
+        "uri": "https://web.archive.org/web/20210816101911/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-08-25T00:32:16Z",
+        "uri": "https://web.archive.org/web/20210825003216/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-08-26T22:58:37Z",
+        "uri": "https://web.archive.org/web/20210826225837/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-08-29T22:42:10Z",
+        "uri": "https://wayback.archive-it.org/all/20210829224210/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-08-29T22:42:10Z",
+        "uri": "https://web.archive.org/web/20210829224210/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-08-31T13:49:37Z",
+        "uri": "https://wayback.archive-it.org/all/20210831134937/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-08-31T13:49:37Z",
+        "uri": "https://web.archive.org/web/20210831134937/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-09-07T23:18:03Z",
+        "uri": "https://arquivo.pt/wayback/20210907231803mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-09-12T12:27:53Z",
+        "uri": "https://web.archive.org/web/20210912122753/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-09-23T16:48:52Z",
+        "uri": "https://web.archive.org/web/20210923164852/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-09-26T14:11:12Z",
+        "uri": "https://web.archive.org/web/20210926141112/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-10-06T04:25:43Z",
+        "uri": "https://web.archive.org/web/20211006042543/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-10-09T12:35:00Z",
+        "uri": "https://web.archive.org/web/20211009123500/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-10-12T22:05:09Z",
+        "uri": "https://web.archive.org/web/20211012220509/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-10-15T07:59:37Z",
+        "uri": "https://web.archive.org/web/20211015075937/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-10-19T16:13:01Z",
+        "uri": "https://arquivo.pt/wayback/20211019161301mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-10-22T05:09:15Z",
+        "uri": "https://web.archive.org/web/20211022050915/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-10-27T11:33:25Z",
+        "uri": "https://arquivo.pt/wayback/20211027113325mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-10-27T11:33:25Z",
+        "uri": "https://web.archive.org/web/20211027113325/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-11-05T13:28:12Z",
+        "uri": "https://web.archive.org/web/20211105132812/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-11-07T04:42:58Z",
+        "uri": "https://wayback.archive-it.org/all/20211107044258/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-11-07T04:42:58Z",
+        "uri": "https://web.archive.org/web/20211107044258/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-11-10T14:08:31Z",
+        "uri": "https://web.archive.org/web/20211110140831/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-11-10T20:28:31Z",
+        "uri": "https://web.archive.org/web/20211110202831/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-12-02T09:48:51Z",
+        "uri": "https://web.archive.org/web/20211202094851/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-12-07T10:36:04Z",
+        "uri": "https://web.archive.org/web/20211207103604/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-12-08T17:22:49Z",
+        "uri": "http://archive.md/20211208172249/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-12-16T03:53:41Z",
+        "uri": "https://web.archive.org/web/20211216035341/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2021-12-29T20:57:53Z",
+        "uri": "https://web.archive.org/web/20211229205753/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-01-18T00:29:02Z",
+        "uri": "https://wayback.archive-it.org/all/20220118002902/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-01-18T00:29:02Z",
+        "uri": "https://web.archive.org/web/20220118002902/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-01-19T15:08:44Z",
+        "uri": "https://web.archive.org/web/20220119150844/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-01-21T03:50:09Z",
+        "uri": "https://web.archive.org/web/20220121035009/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-01-25T05:51:52Z",
+        "uri": "https://wayback.archive-it.org/all/20220125055152/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-01-25T05:51:52Z",
+        "uri": "https://web.archive.org/web/20220125055152/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-01-27T00:44:19Z",
+        "uri": "https://wayback.archive-it.org/all/20220127004419/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-01-27T00:44:19Z",
+        "uri": "https://web.archive.org/web/20220127004419/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-01-29T03:14:52Z",
+        "uri": "https://web.archive.org/web/20220129031452/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-02-02T20:58:55Z",
+        "uri": "https://wayback.archive-it.org/all/20220202205855/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-02-02T20:58:55Z",
+        "uri": "https://web.archive.org/web/20220202205855/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-02-09T09:32:41Z",
+        "uri": "https://arquivo.pt/wayback/20220209093241mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-02-15T05:19:21Z",
+        "uri": "https://wayback.archive-it.org/all/20220215051921/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-02-15T05:19:21Z",
+        "uri": "https://web.archive.org/web/20220215051921/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-03-01T07:09:12Z",
+        "uri": "https://wayback.archive-it.org/all/20220301070912/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-03-01T07:09:12Z",
+        "uri": "https://web.archive.org/web/20220301070912/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-03-04T01:04:39Z",
+        "uri": "https://web.archive.org/web/20220304010439/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-03-06T22:05:10Z",
+        "uri": "https://web.archive.org/web/20220306220510/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-03-06T22:20:14Z",
+        "uri": "https://web.archive.org/web/20220306222014/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-03-08T04:57:54Z",
+        "uri": "https://wayback.archive-it.org/all/20220308045754/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-03-08T04:57:54Z",
+        "uri": "https://web.archive.org/web/20220308045754/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-03-15T04:09:09Z",
+        "uri": "https://wayback.archive-it.org/all/20220315040909/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-03-15T04:09:09Z",
+        "uri": "https://web.archive.org/web/20220315040909/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-03-20T02:54:15Z",
+        "uri": "https://web.archive.org/web/20220320025415/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-03-22T08:13:00Z",
+        "uri": "https://web.archive.org/web/20220322081300/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-03-22T15:51:04Z",
+        "uri": "https://wayback.archive-it.org/all/20220322155104/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-03-22T15:51:04Z",
+        "uri": "https://web.archive.org/web/20220322155104/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-03-27T01:54:20Z",
+        "uri": "https://wayback.archive-it.org/all/20220327015420/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-03-27T01:54:20Z",
+        "uri": "https://web.archive.org/web/20220327015420/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-04-02T16:21:33Z",
+        "uri": "https://wayback.archive-it.org/all/20220402162133/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-04-02T16:21:33Z",
+        "uri": "https://web.archive.org/web/20220402162133/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-04-02T20:41:52Z",
+        "uri": "https://web.archive.org/web/20220402204152/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-04-05T04:17:22Z",
+        "uri": "https://wayback.archive-it.org/all/20220405041722/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-04-05T04:17:22Z",
+        "uri": "https://web.archive.org/web/20220405041722/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-04-08T14:00:00Z",
+        "uri": "https://web.archive.org.au/awa/20220408140000mp_/http://pandora.nla.gov.au/pan/167246/20220409-0000/developers.google.com/youtube/terms/api-services-terms-of-service.html"
+      },
+      {
+        "datetime": "2022-04-12T21:57:35Z",
+        "uri": "https://wayback.archive-it.org/all/20220412215735/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-04-12T21:57:35Z",
+        "uri": "https://web.archive.org/web/20220412215735/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-04-13T21:03:06Z",
+        "uri": "https://web.archive.org/web/20220413210306/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-04-17T10:51:14Z",
+        "uri": "https://web.archive.org/web/20220417105114/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-04-20T09:59:07Z",
+        "uri": "https://wayback.archive-it.org/all/20220420095907/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-04-20T09:59:07Z",
+        "uri": "https://web.archive.org/web/20220420095907/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-04-23T05:07:58Z",
+        "uri": "https://arquivo.pt/wayback/20220423050758mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-04-27T03:48:27Z",
+        "uri": "https://wayback.archive-it.org/all/20220427034827/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-04-27T03:48:27Z",
+        "uri": "https://web.archive.org/web/20220427034827/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-05-03T05:09:12Z",
+        "uri": "https://wayback.archive-it.org/all/20220503050912/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-05-03T05:09:12Z",
+        "uri": "https://web.archive.org/web/20220503050912/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-05-11T21:06:26Z",
+        "uri": "https://web.archive.org/web/20220511210626/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-05-18T17:28:34Z",
+        "uri": "https://web.archive.org/web/20220518172834/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-05-23T22:36:00Z",
+        "uri": "https://web.archive.org/web/20220523223600/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-05-24T12:39:31Z",
+        "uri": "https://wayback.archive-it.org/all/20220524123931/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-05-24T12:39:31Z",
+        "uri": "https://web.archive.org/web/20220524123931/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-05-27T03:29:23Z",
+        "uri": "https://wayback.archive-it.org/all/20220527032923/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-05-27T03:29:23Z",
+        "uri": "https://web.archive.org/web/20220527032923/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-05-29T19:57:03Z",
+        "uri": "https://web.archive.org/web/20220529195703/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-05-31T02:05:52Z",
+        "uri": "https://wayback.archive-it.org/all/20220531020552/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-05-31T02:05:52Z",
+        "uri": "https://web.archive.org/web/20220531020552/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-06-07T02:52:38Z",
+        "uri": "https://wayback.archive-it.org/all/20220607025238/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-06-07T02:52:38Z",
+        "uri": "https://web.archive.org/web/20220607025238/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-06-15T07:10:24Z",
+        "uri": "https://wayback.archive-it.org/all/20220615071024/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-06-15T07:10:24Z",
+        "uri": "https://web.archive.org/web/20220615071024/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-06-18T04:41:05Z",
+        "uri": "https://web.archive.org/web/20220618044105/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-06-20T17:52:24Z",
+        "uri": "https://web.archive.org/web/20220620175224/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-06-21T07:39:05Z",
+        "uri": "https://web.archive.org/web/20220621073905/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-06-21T07:39:13Z",
+        "uri": "https://web.archive.org/web/20220621073913/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-06-21T09:12:09Z",
+        "uri": "https://wayback.archive-it.org/all/20220621091209/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-06-21T09:12:09Z",
+        "uri": "https://web.archive.org/web/20220621091209/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-06-24T12:01:19Z",
+        "uri": "https://wayback.archive-it.org/all/20220624120119/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-06-24T12:01:19Z",
+        "uri": "https://web.archive.org/web/20220624120119/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-07-05T07:52:15Z",
+        "uri": "https://wayback.archive-it.org/all/20220705075215/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-07-05T07:52:15Z",
+        "uri": "https://web.archive.org/web/20220705075215/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-07-06T11:56:54Z",
+        "uri": "https://web.archive.org/web/20220706115654/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-07-12T13:54:54Z",
+        "uri": "https://wayback.archive-it.org/all/20220712135454/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-07-12T13:54:54Z",
+        "uri": "https://web.archive.org/web/20220712135454/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-07-12T22:35:45Z",
+        "uri": "https://web.archive.org/web/20220712223545/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-07-15T21:21:31Z",
+        "uri": "https://web.archive.org/web/20220715212131/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-07-19T13:08:56Z",
+        "uri": "https://wayback.archive-it.org/all/20220719130856/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-07-19T13:08:56Z",
+        "uri": "https://web.archive.org/web/20220719130856/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-07-26T08:07:12Z",
+        "uri": "https://wayback.archive-it.org/all/20220726080712/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-07-26T08:07:12Z",
+        "uri": "https://web.archive.org/web/20220726080712/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-07-26T18:18:48Z",
+        "uri": "https://wayback.archive-it.org/all/20220726181848/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-07-26T18:18:48Z",
+        "uri": "https://web.archive.org/web/20220726181848/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-07-27T22:57:33Z",
+        "uri": "https://web.archive.org/web/20220727225733/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-07-27T22:57:46Z",
+        "uri": "https://web.archive.org/web/20220727225746/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-07-27T22:58:32Z",
+        "uri": "https://web.archive.org/web/20220727225832/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-08-02T06:55:30Z",
+        "uri": "https://wayback.archive-it.org/all/20220802065530/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-08-02T06:55:30Z",
+        "uri": "https://web.archive.org/web/20220802065530/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-08-02T14:58:27Z",
+        "uri": "https://arquivo.pt/wayback/20220802145827mp_/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-08-03T06:35:29Z",
+        "uri": "https://wayback.archive-it.org/all/20220803063529/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-08-03T06:35:29Z",
+        "uri": "https://web.archive.org/web/20220803063529/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-08-04T15:28:05Z",
+        "uri": "https://web.archive.org/web/20220804152805/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-08-16T03:24:46Z",
+        "uri": "https://wayback.archive-it.org/all/20220816032446/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-08-16T03:24:46Z",
+        "uri": "https://web.archive.org/web/20220816032446/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-08-18T21:09:37Z",
+        "uri": "https://web.archive.org/web/20220818210937/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-08-21T23:00:54Z",
+        "uri": "https://web.archive.org/web/20220821230054/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-08-23T04:44:04Z",
+        "uri": "https://wayback.archive-it.org/all/20220823044404/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-08-23T04:44:04Z",
+        "uri": "https://web.archive.org/web/20220823044404/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-08-24T04:36:46Z",
+        "uri": "https://wayback.archive-it.org/all/20220824043646/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-08-24T04:36:46Z",
+        "uri": "https://web.archive.org/web/20220824043646/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-09-01T02:50:34Z",
+        "uri": "https://web.archive.org/web/20220901025034/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-09-06T05:35:14Z",
+        "uri": "https://wayback.archive-it.org/all/20220906053514/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-09-06T05:35:14Z",
+        "uri": "https://web.archive.org/web/20220906053514/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-09-13T03:26:20Z",
+        "uri": "https://wayback.archive-it.org/all/20220913032620/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-09-13T03:26:20Z",
+        "uri": "https://web.archive.org/web/20220913032620/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-09-21T06:22:07Z",
+        "uri": "https://web.archive.org/web/20220921062207/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-09-22T01:50:12Z",
+        "uri": "https://web.archive.org/web/20220922015012/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-09-26T19:31:26Z",
+        "uri": "https://wayback.archive-it.org/all/20220926193126/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-09-26T19:31:26Z",
+        "uri": "https://web.archive.org/web/20220926193126/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-09-27T03:32:00Z",
+        "uri": "https://wayback.archive-it.org/all/20220927033200/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-09-27T03:32:00Z",
+        "uri": "https://web.archive.org/web/20220927033200/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-10-02T21:05:56Z",
+        "uri": "https://wayback.archive-it.org/all/20221002210556/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-10-02T21:05:56Z",
+        "uri": "https://web.archive.org/web/20221002210556/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-10-04T04:59:55Z",
+        "uri": "https://wayback.archive-it.org/all/20221004045955/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-10-04T04:59:55Z",
+        "uri": "https://web.archive.org/web/20221004045955/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-10-07T20:49:01Z",
+        "uri": "https://web.archive.org/web/20221007204901/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-10-07T20:58:08Z",
+        "uri": "https://web.archive.org/web/20221007205808/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-10-11T03:48:54Z",
+        "uri": "https://wayback.archive-it.org/all/20221011034854/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-10-11T03:48:54Z",
+        "uri": "https://web.archive.org/web/20221011034854/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-10-13T22:48:31Z",
+        "uri": "https://web.archive.org/web/20221013224831/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-10-18T03:29:58Z",
+        "uri": "https://wayback.archive-it.org/all/20221018032958/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-10-18T03:29:58Z",
+        "uri": "https://web.archive.org/web/20221018032958/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-10-19T20:28:27Z",
+        "uri": "https://web.archive.org/web/20221019202827/http://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-10-20T22:47:00Z",
+        "uri": "https://web.archive.org/web/20221020224700/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-10-24T04:07:52Z",
+        "uri": "https://wayback.archive-it.org/all/20221024040752/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-10-24T04:07:52Z",
+        "uri": "https://web.archive.org/web/20221024040752/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-11-05T12:06:50Z",
+        "uri": "https://web.archive.org/web/20221105120650/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-11-08T05:03:41Z",
+        "uri": "https://wayback.archive-it.org/all/20221108050341/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-11-08T05:03:41Z",
+        "uri": "https://web.archive.org/web/20221108050341/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-11-10T13:58:51Z",
+        "uri": "https://web.archive.org/web/20221110135851/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-11-24T17:48:08Z",
+        "uri": "https://web.archive.org/web/20221124174808/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-11-27T22:55:52Z",
+        "uri": "https://wayback.archive-it.org/all/20221127225552/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-11-27T22:55:52Z",
+        "uri": "https://web.archive.org/web/20221127225552/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-11-28T23:35:56Z",
+        "uri": "https://wayback.archive-it.org/all/20221128233556/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-11-28T23:35:56Z",
+        "uri": "https://web.archive.org/web/20221128233556/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-12-04T06:42:09Z",
+        "uri": "https://web.archive.org/web/20221204064209/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-12-06T08:23:00Z",
+        "uri": "https://wayback.archive-it.org/all/20221206082300/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-12-06T08:23:00Z",
+        "uri": "https://web.archive.org/web/20221206082300/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-12-13T04:59:48Z",
+        "uri": "https://wayback.archive-it.org/all/20221213045948/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-12-13T04:59:48Z",
+        "uri": "https://web.archive.org/web/20221213045948/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-12-21T09:05:13Z",
+        "uri": "https://web.archive.org/web/20221221090513/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-12-21T09:05:27Z",
+        "uri": "https://web.archive.org/web/20221221090527/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-12-27T11:58:15Z",
+        "uri": "https://web.archive.org/web/20221227115815/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-12-30T09:28:49Z",
+        "uri": "https://web.archive.org/web/20221230092849/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-12-30T09:29:00Z",
+        "uri": "https://web.archive.org/web/20221230092900/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2022-12-30T09:29:16Z",
+        "uri": "https://web.archive.org/web/20221230092916/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-03T03:53:22Z",
+        "uri": "https://wayback.archive-it.org/all/20230103035322/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-03T03:53:22Z",
+        "uri": "https://web.archive.org/web/20230103035322/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-17T06:19:09Z",
+        "uri": "https://wayback.archive-it.org/all/20230117061909/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-17T06:19:09Z",
+        "uri": "https://web.archive.org/web/20230117061909/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-18T11:57:43Z",
+        "uri": "https://web.archive.org/web/20230118115743/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-18T11:57:54Z",
+        "uri": "https://web.archive.org/web/20230118115754/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-18T11:58:02Z",
+        "uri": "https://web.archive.org/web/20230118115802/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-18T11:58:36Z",
+        "uri": "https://web.archive.org/web/20230118115836/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-24T03:32:58Z",
+        "uri": "https://wayback.archive-it.org/all/20230124033258/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-24T03:32:58Z",
+        "uri": "https://web.archive.org/web/20230124033258/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-26T18:59:37Z",
+        "uri": "https://wayback.archive-it.org/all/20230126185937/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-26T18:59:37Z",
+        "uri": "https://web.archive.org/web/20230126185937/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-27T14:59:43Z",
+        "uri": "https://web.archive.org/web/20230127145943/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-29T17:34:14Z",
+        "uri": "https://web.archive.org/web/20230129173414/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-30T19:38:56Z",
+        "uri": "https://web.archive.org/web/20230130193856/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-31T02:46:20Z",
+        "uri": "https://wayback.archive-it.org/all/20230131024620/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-31T02:46:20Z",
+        "uri": "https://web.archive.org/web/20230131024620/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-01-31T21:46:45Z",
+        "uri": "https://web.archive.org/web/20230131214645/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-02T22:20:23Z",
+        "uri": "https://wayback.archive-it.org/all/20230202222023/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-02T22:20:23Z",
+        "uri": "https://web.archive.org/web/20230202222023/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-03T02:22:00Z",
+        "uri": "https://web.archive.org/web/20230203022200/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-03T07:57:27Z",
+        "uri": "https://web.archive.org/web/20230203075727/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-03T12:02:43Z",
+        "uri": "https://web.archive.org/web/20230203120243/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-03T18:30:02Z",
+        "uri": "https://web.archive.org/web/20230203183002/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-05T22:27:58Z",
+        "uri": "https://web.archive.org/web/20230205222758/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-06T19:11:29Z",
+        "uri": "https://web.archive.org/web/20230206191129/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-07T02:12:27Z",
+        "uri": "https://wayback.archive-it.org/all/20230207021227/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-07T02:12:27Z",
+        "uri": "https://web.archive.org/web/20230207021227/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-07T13:17:47Z",
+        "uri": "https://web.archive.org/web/20230207131747/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-08T15:39:36Z",
+        "uri": "https://web.archive.org/web/20230208153936/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-14T02:14:52Z",
+        "uri": "https://wayback.archive-it.org/all/20230214021452/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-14T02:14:52Z",
+        "uri": "https://web.archive.org/web/20230214021452/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-16T15:26:22Z",
+        "uri": "https://web.archive.org/web/20230216152622/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-21T02:56:54Z",
+        "uri": "https://wayback.archive-it.org/all/20230221025654/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-21T02:56:54Z",
+        "uri": "https://web.archive.org/web/20230221025654/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-26T01:16:54Z",
+        "uri": "http://archive.md/20230226011654/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-28T03:00:19Z",
+        "uri": "https://wayback.archive-it.org/all/20230228030019/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-02-28T03:00:19Z",
+        "uri": "https://web.archive.org/web/20230228030019/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-03-05T21:19:07Z",
+        "uri": "https://web.archive.org/web/20230305211907/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-03-06T09:13:47Z",
+        "uri": "https://web.archive.org/web/20230306091347/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-03-08T19:40:10Z",
+        "uri": "https://web.archive.org/web/20230308194010/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-03-14T18:17:48Z",
+        "uri": "https://web.archive.org/web/20230314181748/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-03-16T00:22:51Z",
+        "uri": "https://web.archive.org/web/20230316002251/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-03-16T00:22:52Z",
+        "uri": "https://web.archive.org/web/20230316002252/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-03-20T20:22:08Z",
+        "uri": "https://web.archive.org/web/20230320202208/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-03-21T02:27:11Z",
+        "uri": "https://wayback.archive-it.org/all/20230321022711/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-03-21T02:27:11Z",
+        "uri": "https://web.archive.org/web/20230321022711/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-03-23T15:50:29Z",
+        "uri": "https://web.archive.org/web/20230323155029/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-03-24T04:03:34Z",
+        "uri": "https://wayback.archive-it.org/all/20230324040334/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-03-24T04:03:34Z",
+        "uri": "https://web.archive.org/web/20230324040334/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-03-26T16:12:57Z",
+        "uri": "https://web.archive.org/web/20230326161257/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-03-29T19:03:45Z",
+        "uri": "https://web.archive.org/web/20230329190345/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-03-30T06:18:46Z",
+        "uri": "https://web.archive.org/web/20230330061846/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-01T07:57:39Z",
+        "uri": "https://wayback.archive-it.org/all/20230401075739/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-01T07:57:39Z",
+        "uri": "https://web.archive.org/web/20230401075739/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-03T07:40:34Z",
+        "uri": "https://wayback.archive-it.org/all/20230403074034/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-03T07:40:34Z",
+        "uri": "https://web.archive.org/web/20230403074034/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-04T02:05:53Z",
+        "uri": "https://wayback.archive-it.org/all/20230404020553/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-04T02:05:53Z",
+        "uri": "https://web.archive.org/web/20230404020553/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-05T06:17:57Z",
+        "uri": "https://web.archive.org/web/20230405061757/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-05T20:34:03Z",
+        "uri": "https://web.archive.org/web/20230405203403/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-06T20:32:02Z",
+        "uri": "https://web.archive.org/web/20230406203202/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-13T20:44:48Z",
+        "uri": "https://web.archive.org/web/20230413204448/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-18T04:40:08Z",
+        "uri": "https://wayback.archive-it.org/all/20230418044008/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-18T04:40:08Z",
+        "uri": "https://web.archive.org/web/20230418044008/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-20T22:43:22Z",
+        "uri": "https://web.archive.org/web/20230420224322/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-21T08:56:02Z",
+        "uri": "https://web.archive.org/web/20230421085602/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-24T05:46:38Z",
+        "uri": "https://wayback.archive-it.org/all/20230424054638/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-24T05:46:38Z",
+        "uri": "https://web.archive.org/web/20230424054638/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-25T10:16:14Z",
+        "uri": "https://wayback.archive-it.org/all/20230425101614/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-25T10:16:14Z",
+        "uri": "https://web.archive.org/web/20230425101614/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-04-28T08:41:12Z",
+        "uri": "https://web.archive.org/web/20230428084112/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-01T07:30:22Z",
+        "uri": "https://wayback.archive-it.org/all/20230501073022/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-01T07:30:22Z",
+        "uri": "https://web.archive.org/web/20230501073022/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-05T09:22:49Z",
+        "uri": "https://web.archive.org/web/20230505092249/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-07T02:44:10Z",
+        "uri": "https://web.archive.org/web/20230507024410/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-09T16:28:54Z",
+        "uri": "https://wayback.archive-it.org/all/20230509162854/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-09T16:28:54Z",
+        "uri": "https://web.archive.org/web/20230509162854/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-12T08:26:47Z",
+        "uri": "https://web.archive.org/web/20230512082647/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-12T10:22:40Z",
+        "uri": "https://web.archive.org/web/20230512102240/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-16T02:36:42Z",
+        "uri": "https://wayback.archive-it.org/all/20230516023642/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-16T02:36:42Z",
+        "uri": "https://web.archive.org/web/20230516023642/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-19T11:58:00Z",
+        "uri": "https://web.archive.org/web/20230519115800/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-20T04:04:05Z",
+        "uri": "https://web.archive.org/web/20230520040405/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-21T00:00:16Z",
+        "uri": "https://web.archive.org/web/20230521000016/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-21T00:12:15Z",
+        "uri": "https://web.archive.org/web/20230521001215/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-22T02:07:35Z",
+        "uri": "https://wayback.archive-it.org/all/20230522020735/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-22T02:07:35Z",
+        "uri": "https://web.archive.org/web/20230522020735/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-23T03:03:13Z",
+        "uri": "https://wayback.archive-it.org/all/20230523030313/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-23T03:03:13Z",
+        "uri": "https://web.archive.org/web/20230523030313/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-24T06:42:46Z",
+        "uri": "https://wayback.archive-it.org/all/20230524064246/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-24T06:42:46Z",
+        "uri": "https://web.archive.org/web/20230524064246/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-26T11:29:59Z",
+        "uri": "https://web.archive.org/web/20230526112959/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-26T22:00:31Z",
+        "uri": "https://wayback.archive-it.org/all/20230526220031/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-26T22:00:31Z",
+        "uri": "https://web.archive.org/web/20230526220031/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-30T02:14:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230530021417/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-30T02:14:17Z",
+        "uri": "https://web.archive.org/web/20230530021417/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-05-30T18:15:27Z",
+        "uri": "https://web.archive.org/web/20230530181527/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-01T07:36:31Z",
+        "uri": "https://wayback.archive-it.org/all/20230601073631/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-01T07:36:31Z",
+        "uri": "https://web.archive.org/web/20230601073631/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-02T11:58:26Z",
+        "uri": "https://web.archive.org/web/20230602115826/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-04T12:20:14Z",
+        "uri": "https://web.archive.org/web/20230604122014/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-07T14:39:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230607143912/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-07T14:39:12Z",
+        "uri": "https://web.archive.org/web/20230607143912/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-09T16:01:05Z",
+        "uri": "https://web.archive.org/web/20230609160105/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-09T17:01:40Z",
+        "uri": "https://web.archive.org/web/20230609170140/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-11T00:17:24Z",
+        "uri": "https://web.archive.org/web/20230611001724/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-13T00:30:59Z",
+        "uri": "https://wayback.archive-it.org/all/20230613003059/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-13T00:30:59Z",
+        "uri": "https://web.archive.org/web/20230613003059/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-16T18:24:16Z",
+        "uri": "https://web.archive.org/web/20230616182416/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-25T03:05:02Z",
+        "uri": "https://wayback.archive-it.org/all/20230625030502/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-25T03:05:02Z",
+        "uri": "https://web.archive.org/web/20230625030502/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-26T14:09:51Z",
+        "uri": "https://web.archive.org/web/20230626140951/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-26T20:57:36Z",
+        "uri": "https://web.archive.org/web/20230626205736/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:00:50Z",
+        "uri": "https://web.archive.org/web/20230627230050/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:02:37Z",
+        "uri": "https://web.archive.org/web/20230627230237/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:03:47Z",
+        "uri": "https://web.archive.org/web/20230627230347/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:04:16Z",
+        "uri": "https://web.archive.org/web/20230627230416/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:06:44Z",
+        "uri": "https://web.archive.org/web/20230627230644/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:08:12Z",
+        "uri": "https://web.archive.org/web/20230627230812/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:08:13Z",
+        "uri": "https://web.archive.org/web/20230627230813/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:11:02Z",
+        "uri": "https://web.archive.org/web/20230627231102/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:11:25Z",
+        "uri": "https://web.archive.org/web/20230627231125/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:11:48Z",
+        "uri": "https://web.archive.org/web/20230627231148/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:11:59Z",
+        "uri": "https://web.archive.org/web/20230627231159/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:13:04Z",
+        "uri": "https://web.archive.org/web/20230627231304/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:14:51Z",
+        "uri": "https://web.archive.org/web/20230627231451/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:22:37Z",
+        "uri": "https://web.archive.org/web/20230627232237/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:24:56Z",
+        "uri": "https://web.archive.org/web/20230627232456/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:44:10Z",
+        "uri": "https://web.archive.org/web/20230627234410/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:49:49Z",
+        "uri": "https://web.archive.org/web/20230627234949/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-27T23:55:20Z",
+        "uri": "https://web.archive.org/web/20230627235520/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-28T04:25:40Z",
+        "uri": "https://web.archive.org/web/20230628042540/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-06-28T06:04:01Z",
+        "uri": "https://web.archive.org/web/20230628060401/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-02T12:49:58Z",
+        "uri": "https://web.archive.org/web/20230702124958/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-02T13:09:36Z",
+        "uri": "https://wayback.archive-it.org/all/20230702130936/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-02T13:09:36Z",
+        "uri": "https://web.archive.org/web/20230702130936/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-05T21:57:49Z",
+        "uri": "https://web.archive.org/web/20230705215749/https://developers.google.com/youtube/terms/api-services-terms-of-service/"
+      },
+      {
+        "datetime": "2023-07-11T10:20:31Z",
+        "uri": "https://wayback.archive-it.org/all/20230711102031/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-11T10:20:31Z",
+        "uri": "https://web.archive.org/web/20230711102031/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-14T10:00:01Z",
+        "uri": "https://web.archive.org/web/20230714100001/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-17T23:57:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230717235729/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-17T23:57:29Z",
+        "uri": "https://web.archive.org/web/20230717235729/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-21T11:45:32Z",
+        "uri": "https://web.archive.org/web/20230721114532/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-24T17:02:41Z",
+        "uri": "https://wayback.archive-it.org/all/20230724170241/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-24T17:02:41Z",
+        "uri": "https://web.archive.org/web/20230724170241/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-25T00:09:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230725000910/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-25T00:09:10Z",
+        "uri": "https://web.archive.org/web/20230725000910/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-26T17:56:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230726175629/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-26T17:56:29Z",
+        "uri": "https://web.archive.org/web/20230726175629/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-28T12:18:21Z",
+        "uri": "https://web.archive.org/web/20230728121821/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-31T23:52:23Z",
+        "uri": "https://wayback.archive-it.org/all/20230731235223/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-07-31T23:52:23Z",
+        "uri": "https://web.archive.org/web/20230731235223/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-08-01T07:15:11Z",
+        "uri": "https://web.archive.org/web/20230801071511/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-08-02T22:36:40Z",
+        "uri": "https://wayback.archive-it.org/all/20230802223640/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-08-02T22:36:40Z",
+        "uri": "https://web.archive.org/web/20230802223640/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-08-03T14:56:54Z",
+        "uri": "https://wayback.archive-it.org/all/20230803145654/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-08-03T14:56:54Z",
+        "uri": "https://web.archive.org/web/20230803145654/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-08-04T11:38:21Z",
+        "uri": "https://web.archive.org/web/20230804113821/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-08-07T23:45:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230807234533/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-08-07T23:45:33Z",
+        "uri": "https://web.archive.org/web/20230807234533/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-08-11T11:34:21Z",
+        "uri": "https://web.archive.org/web/20230811113421/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-08-14T23:39:57Z",
+        "uri": "https://wayback.archive-it.org/all/20230814233957/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-08-14T23:39:57Z",
+        "uri": "https://web.archive.org/web/20230814233957/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-08-18T14:42:58Z",
+        "uri": "https://web.archive.org/web/20230818144258/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-08-25T12:46:54Z",
+        "uri": "https://web.archive.org/web/20230825124654/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-09-01T08:50:37Z",
+        "uri": "https://web.archive.org/web/20230901085037/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-09-01T14:32:41Z",
+        "uri": "https://web.archive.org/web/20230901143241/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-09-04T21:43:39Z",
+        "uri": "https://wayback.archive-it.org/all/20230904214339/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-09-04T21:43:39Z",
+        "uri": "https://web.archive.org/web/20230904214339/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-09-08T14:01:03Z",
+        "uri": "https://web.archive.org/web/20230908140103/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-09-14T06:22:50Z",
+        "uri": "https://web.archive.org/web/20230914062250/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-09-15T15:34:19Z",
+        "uri": "https://web.archive.org/web/20230915153419/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-09-18T23:37:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230918233756/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-09-18T23:37:56Z",
+        "uri": "https://web.archive.org/web/20230918233756/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-09-22T15:46:25Z",
+        "uri": "https://web.archive.org/web/20230922154625/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-09-24T07:26:28Z",
+        "uri": "https://wayback.archive-it.org/all/20230924072628/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-09-24T07:26:28Z",
+        "uri": "https://web.archive.org/web/20230924072628/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-09-25T23:27:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230925232717/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-09-25T23:27:17Z",
+        "uri": "https://web.archive.org/web/20230925232717/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-09-29T17:41:47Z",
+        "uri": "https://web.archive.org/web/20230929174147/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-09-30T15:57:53Z",
+        "uri": "https://web.archive.org/web/20230930155753/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-10-01T03:43:56Z",
+        "uri": "https://web.archive.org/web/20231001034356/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-10-03T00:44:35Z",
+        "uri": "https://wayback.archive-it.org/all/20231003004435/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-10-06T16:27:25Z",
+        "uri": "https://web.archive.org/web/20231006162725/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-10-07T23:32:36Z",
+        "uri": "https://web.archive.org/web/20231007233236/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-10-09T06:13:16Z",
+        "uri": "https://web.archive.org/web/20231009061316/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-10-10T09:20:31Z",
+        "uri": "https://wayback.archive-it.org/all/20231010092031/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-10-13T17:52:32Z",
+        "uri": "https://web.archive.org/web/20231013175232/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-10-17T02:04:41Z",
+        "uri": "https://wayback.archive-it.org/all/20231017020441/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-10-17T08:30:38Z",
+        "uri": "https://web.archive.org/web/20231017083038/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-10-20T17:33:24Z",
+        "uri": "https://web.archive.org/web/20231020173324/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-10-24T08:15:58Z",
+        "uri": "https://wayback.archive-it.org/all/20231024081558/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-10-25T09:14:07Z",
+        "uri": "https://web.archive.org/web/20231025091407/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-10-26T09:01:41Z",
+        "uri": "https://wayback.archive-it.org/all/20231026090141/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-10-27T18:20:54Z",
+        "uri": "https://web.archive.org/web/20231027182054/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-10-31T00:50:58Z",
+        "uri": "https://wayback.archive-it.org/all/20231031005058/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-11-01T21:39:53Z",
+        "uri": "https://wayback.archive-it.org/all/20231101213953/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-11-01T21:39:53Z",
+        "uri": "https://web.archive.org/web/20231101213953/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-11-03T04:29:09Z",
+        "uri": "https://web.archive.org/web/20231103042909/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-11-03T18:58:01Z",
+        "uri": "https://web.archive.org/web/20231103185801/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-11-06T23:25:17Z",
+        "uri": "https://web.archive.org/web/20231106232517/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-11-07T03:22:36Z",
+        "uri": "https://wayback.archive-it.org/all/20231107032236/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-11-10T19:25:40Z",
+        "uri": "https://web.archive.org/web/20231110192540/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-11-13T23:50:09Z",
+        "uri": "https://wayback.archive-it.org/all/20231113235009/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-11-17T19:44:09Z",
+        "uri": "https://web.archive.org/web/20231117194409/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-11-20T14:43:18Z",
+        "uri": "https://web.archive.org/web/20231120144318/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-11-20T21:22:59Z",
+        "uri": "https://web.archive.org/web/20231120212259/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-11-21T00:31:44Z",
+        "uri": "https://wayback.archive-it.org/all/20231121003144/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-11-24T10:50:37Z",
+        "uri": "https://wayback.archive-it.org/all/20231124105037/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-11-24T20:32:41Z",
+        "uri": "https://web.archive.org/web/20231124203241/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-11-27T03:36:10Z",
+        "uri": "https://wayback.archive-it.org/all/20231127033610/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-11-27T23:55:30Z",
+        "uri": "https://wayback.archive-it.org/all/20231127235530/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-12-01T21:17:07Z",
+        "uri": "https://wayback.archive-it.org/all/20231201211707/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-12-01T21:21:17Z",
+        "uri": "https://web.archive.org/web/20231201212117/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-12-02T10:19:12Z",
+        "uri": "https://web.archive.org/web/20231202101912/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-12-03T14:37:37Z",
+        "uri": "https://web.archive.org/web/20231203143737/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-12-08T18:24:08Z",
+        "uri": "https://web.archive.org/web/20231208182408/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-12-08T18:24:13Z",
+        "uri": "https://web.archive.org/web/20231208182413/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-12-08T23:18:09Z",
+        "uri": "https://web.archive.org/web/20231208231809/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-12-15T23:47:04Z",
+        "uri": "https://web.archive.org/web/20231215234704/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-12-23T00:13:44Z",
+        "uri": "https://web.archive.org/web/20231223001344/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-12-24T04:12:06Z",
+        "uri": "https://wayback.archive-it.org/all/20231224041206/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2023-12-30T02:14:09Z",
+        "uri": "https://web.archive.org/web/20231230021409/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-01-04T09:37:27Z",
+        "uri": "https://web.archive.org/web/20240104093727/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-01-05T01:35:28Z",
+        "uri": "https://web.archive.org/web/20240105013528/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-01-06T02:33:44Z",
+        "uri": "https://web.archive.org/web/20240106023344/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-01-07T05:44:01Z",
+        "uri": "https://wayback.archive-it.org/all/20240107054401/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-01-08T18:47:57Z",
+        "uri": "https://web.archive.org/web/20240108184757/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-01-09T15:10:15Z",
+        "uri": "https://wayback.archive-it.org/all/20240109151015/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-01-09T23:02:25Z",
+        "uri": "https://web.archive.org/web/20240109230225/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-01-10T20:12:40Z",
+        "uri": "https://web.archive.org/web/20240110201240/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-01-13T05:03:55Z",
+        "uri": "https://web.archive.org/web/20240113050355/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-01-20T05:33:11Z",
+        "uri": "https://web.archive.org/web/20240120053311/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-01-24T03:34:09Z",
+        "uri": "https://wayback.archive-it.org/all/20240124033409/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-01-27T07:14:53Z",
+        "uri": "https://web.archive.org/web/20240127071453/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-01-30T03:43:03Z",
+        "uri": "https://wayback.archive-it.org/all/20240130034303/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-01-30T05:54:14Z",
+        "uri": "https://wayback.archive-it.org/all/20240130055414/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-01-30T08:45:36Z",
+        "uri": "https://web.archive.org/web/20240130084536/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-02-03T07:05:22Z",
+        "uri": "https://web.archive.org/web/20240203070522/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-02-06T10:28:13Z",
+        "uri": "https://wayback.archive-it.org/all/20240206102813/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-02-07T17:17:21Z",
+        "uri": "https://wayback.archive-it.org/all/20240207171721/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-02-10T08:00:04Z",
+        "uri": "https://web.archive.org/web/20240210080004/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-02-17T08:02:26Z",
+        "uri": "https://web.archive.org/web/20240217080226/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-02-19T23:43:19Z",
+        "uri": "https://wayback.archive-it.org/all/20240219234319/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-02-21T23:12:02Z",
+        "uri": "https://web.archive.org/web/20240221231202/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-02-24T09:17:07Z",
+        "uri": "https://web.archive.org/web/20240224091707/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-02-25T14:46:35Z",
+        "uri": "https://web.archive.org/web/20240225144635/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-03-01T22:12:34Z",
+        "uri": "https://wayback.archive-it.org/all/20240301221234/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-03-03T18:03:21Z",
+        "uri": "https://web.archive.org/web/20240303180321/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-03-03T18:03:41Z",
+        "uri": "https://web.archive.org/web/20240303180341/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-03-03T18:05:20Z",
+        "uri": "https://web.archive.org/web/20240303180520/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-03-03T18:05:44Z",
+        "uri": "https://web.archive.org/web/20240303180544/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-03-03T19:00:53Z",
+        "uri": "https://web.archive.org/web/20240303190053/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-03-07T21:08:50Z",
+        "uri": "https://web.archive.org/web/20240307210850/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-03-18T04:14:45Z",
+        "uri": "https://web.archive.org/web/20240318041445/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-03-24T08:02:30Z",
+        "uri": "https://web.archive.org/web/20240324080230/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-03-24T08:07:27Z",
+        "uri": "https://web.archive.org/web/20240324080727/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-03-24T08:07:37Z",
+        "uri": "https://web.archive.org/web/20240324080737/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-03-24T15:05:05Z",
+        "uri": "https://wayback.archive-it.org/all/20240324150505/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-03-26T18:11:32Z",
+        "uri": "https://web.archive.org/web/20240326181132/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-03-26T19:42:25Z",
+        "uri": "https://wayback.archive-it.org/all/20240326194225/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-03-26T22:11:44Z",
+        "uri": "https://wayback.archive-it.org/all/20240326221144/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-03-29T22:05:55Z",
+        "uri": "https://web.archive.org/web/20240329220555/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-13T19:52:38Z",
+        "uri": "https://web.archive.org/web/20240413195238/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-15T20:30:38Z",
+        "uri": "https://web.archive.org/web/20240415203038/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-15T21:55:31Z",
+        "uri": "https://web.archive.org/web/20240415215531/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-16T01:23:03Z",
+        "uri": "https://web.archive.org/web/20240416012303/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-16T04:07:57Z",
+        "uri": "https://web.archive.org/web/20240416040757/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-16T04:38:20Z",
+        "uri": "https://web.archive.org/web/20240416043820/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-16T09:04:32Z",
+        "uri": "https://web.archive.org/web/20240416090432/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-16T09:09:48Z",
+        "uri": "https://web.archive.org/web/20240416090948/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-16T09:11:01Z",
+        "uri": "https://web.archive.org/web/20240416091101/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-16T09:21:06Z",
+        "uri": "https://web.archive.org/web/20240416092106/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-16T11:23:51Z",
+        "uri": "https://web.archive.org/web/20240416112351/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-16T19:10:55Z",
+        "uri": "https://web.archive.org/web/20240416191055/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-16T20:06:41Z",
+        "uri": "https://web.archive.org/web/20240416200641/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-16T20:09:11Z",
+        "uri": "https://web.archive.org/web/20240416200911/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-16T22:07:00Z",
+        "uri": "https://web.archive.org/web/20240416220700/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-17T00:52:22Z",
+        "uri": "https://web.archive.org/web/20240417005222/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-17T03:31:15Z",
+        "uri": "https://web.archive.org/web/20240417033115/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-17T10:10:10Z",
+        "uri": "https://web.archive.org/web/20240417101010/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-17T10:37:03Z",
+        "uri": "https://web.archive.org/web/20240417103703/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-17T10:42:55Z",
+        "uri": "https://web.archive.org/web/20240417104255/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-17T11:07:28Z",
+        "uri": "https://web.archive.org/web/20240417110728/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-17T13:53:21Z",
+        "uri": "https://web.archive.org/web/20240417135321/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-18T09:09:51Z",
+        "uri": "https://web.archive.org/web/20240418090951/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-18T09:56:48Z",
+        "uri": "https://web.archive.org/web/20240418095648/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-18T10:37:43Z",
+        "uri": "https://web.archive.org/web/20240418103743/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-18T18:14:48Z",
+        "uri": "https://web.archive.org/web/20240418181448/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-24T04:52:28Z",
+        "uri": "https://wayback.archive-it.org/all/20240424045228/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-04-24T23:48:36Z",
+        "uri": "https://web.archive.org/web/20240424234836/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-05-04T03:12:59Z",
+        "uri": "https://web.archive.org/web/20240504031259/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-05-08T05:38:31Z",
+        "uri": "https://web.archive.org/web/20240508053831/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-05-09T05:50:18Z",
+        "uri": "https://web.archive.org/web/20240509055018/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-05-09T06:04:32Z",
+        "uri": "https://web.archive.org/web/20240509060432/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-05-09T06:23:32Z",
+        "uri": "https://web.archive.org/web/20240509062332/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      },
+      {
+        "datetime": "2024-05-09T07:00:48Z",
+        "uri": "https://web.archive.org/web/20240509070048/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+      }
+    ],
+    "first": {
+      "datetime": "2016-08-19T19:04:11Z",
+      "uri": "https://web.archive.org/web/20160819190411/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+    },
+    "last": {
+      "datetime": "2024-05-09T07:00:48Z",
+      "uri": "https://web.archive.org/web/20240509070048/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://developers.google.com/youtube/terms/api-services-terms-of-service",
+    "json_format": "http://localhost:1208/timemap/json/https://developers.google.com/youtube/terms/api-services-terms-of-service",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://developers.google.com/youtube/terms/api-services-terms-of-service"
+}

@@ -1,0 +1,614 @@
+{
+  "original_uri": "https://studenthacks.co.uk/",
+  "self": "http://localhost:1208/timemap/json/https://studenthacks.co.uk/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-02-11T22:20:57Z",
+        "uri": "https://web.archive.org/web/20150211222057/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2015-03-07T16:55:59Z",
+        "uri": "https://web.archive.org/web/20150307165559/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2015-03-10T02:12:50Z",
+        "uri": "https://web.archive.org/web/20150310021250/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2015-03-15T05:23:39Z",
+        "uri": "https://web.archive.org/web/20150315052339/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2015-04-07T03:41:01Z",
+        "uri": "https://web.archive.org/web/20150407034101/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2015-04-09T08:16:22Z",
+        "uri": "https://web.archive.org/web/20150409081622/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2015-05-07T14:59:41Z",
+        "uri": "https://web.archive.org/web/20150507145941/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2015-05-10T00:23:39Z",
+        "uri": "https://web.archive.org/web/20150510002339/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2015-06-07T05:40:53Z",
+        "uri": "https://web.archive.org/web/20150607054053/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2015-06-10T05:00:32Z",
+        "uri": "https://web.archive.org/web/20150610050032/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2015-07-08T01:11:45Z",
+        "uri": "https://web.archive.org/web/20150708011145/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2015-07-10T18:09:53Z",
+        "uri": "https://web.archive.org/web/20150710180953/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2015-07-24T00:52:13Z",
+        "uri": "http://archive.md/20150724005213/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2015-08-08T05:00:25Z",
+        "uri": "https://web.archive.org/web/20150808050025/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2015-08-10T13:09:04Z",
+        "uri": "https://web.archive.org/web/20150810130904/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2015-09-06T01:21:48Z",
+        "uri": "https://web.archive.org/web/20150906012148/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2015-09-07T11:38:59Z",
+        "uri": "https://web.archive.org/web/20150907113859/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2015-09-10T03:18:50Z",
+        "uri": "https://web.archive.org/web/20150910031850/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2015-10-11T13:25:31Z",
+        "uri": "https://web.archive.org/web/20151011132531/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2015-11-03T03:35:20Z",
+        "uri": "https://web.archive.org/web/20151103033520/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2015-12-03T17:06:02Z",
+        "uri": "https://web.archive.org/web/20151203170602/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2015-12-11T22:39:49Z",
+        "uri": "https://web.archive.org/web/20151211223949/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2016-01-10T01:25:59Z",
+        "uri": "https://web.archive.org/web/20160110012559/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2016-01-12T04:08:19Z",
+        "uri": "https://web.archive.org/web/20160112040819/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2016-02-11T15:42:40Z",
+        "uri": "https://web.archive.org/web/20160211154240/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2016-03-05T14:01:02Z",
+        "uri": "https://web.archive.org/web/20160305140102/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2016-03-13T19:02:16Z",
+        "uri": "https://web.archive.org/web/20160313190216/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2016-03-14T10:06:26Z",
+        "uri": "https://web.archive.org/web/20160314100626/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2016-03-15T04:02:27Z",
+        "uri": "https://web.archive.org/web/20160315040227/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2016-04-01T16:16:56Z",
+        "uri": "https://web.archive.org/web/20160401161656/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2016-04-14T12:37:08Z",
+        "uri": "https://web.archive.org/web/20160414123708/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2016-04-15T03:47:08Z",
+        "uri": "https://web.archive.org/web/20160415034708/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2016-05-15T02:28:51Z",
+        "uri": "https://web.archive.org/web/20160515022851/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2016-05-16T00:16:29Z",
+        "uri": "https://web.archive.org/web/20160516001629/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2016-05-17T00:16:42Z",
+        "uri": "https://web.archive.org/web/20160517001642/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2016-06-18T04:36:24Z",
+        "uri": "https://web.archive.org/web/20160618043624/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2016-06-18T04:36:28Z",
+        "uri": "https://web.archive.org/web/20160618043628/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2016-07-16T03:38:14Z",
+        "uri": "https://web.archive.org/web/20160716033814/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2016-07-18T13:51:13Z",
+        "uri": "https://web.archive.org/web/20160718135113/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2016-07-23T02:50:33Z",
+        "uri": "https://web.archive.org/web/20160723025033/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2016-08-18T12:24:43Z",
+        "uri": "https://web.archive.org/web/20160818122443/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2016-08-30T02:12:55Z",
+        "uri": "https://web.archive.org/web/20160830021255/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2016-09-18T05:53:37Z",
+        "uri": "https://web.archive.org/web/20160918055337/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2016-10-02T10:36:22Z",
+        "uri": "https://web.archive.org/web/20161002103622/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2016-10-13T16:11:33Z",
+        "uri": "https://web.archive.org/web/20161013161133/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2016-10-17T21:53:36Z",
+        "uri": "https://web.archive.org/web/20161017215336/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2016-11-18T01:44:28Z",
+        "uri": "https://web.archive.org/web/20161118014428/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2016-11-20T20:25:05Z",
+        "uri": "https://web.archive.org/web/20161120202505/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2016-11-28T15:03:18Z",
+        "uri": "https://web.archive.org/web/20161128150318/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2017-04-05T04:00:31Z",
+        "uri": "https://web.archive.org/web/20170405040031/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2017-04-25T16:26:21Z",
+        "uri": "https://web.archive.org/web/20170425162621/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2017-05-15T18:05:34Z",
+        "uri": "https://web.archive.org/web/20170515180534/http://studenthacks.co.uk:80/?"
+      },
+      {
+        "datetime": "2017-05-17T21:04:00Z",
+        "uri": "https://web.archive.org/web/20170517210400/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2017-05-27T11:04:22Z",
+        "uri": "https://web.archive.org/web/20170527110422/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2017-06-06T12:29:08Z",
+        "uri": "https://web.archive.org/web/20170606122908/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2017-06-11T06:30:15Z",
+        "uri": "https://web.archive.org/web/20170611063015/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2017-06-29T05:21:38Z",
+        "uri": "https://web.archive.org/web/20170629052138/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2017-07-02T10:22:16Z",
+        "uri": "https://web.archive.org/web/20170702102216/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2017-08-02T02:49:44Z",
+        "uri": "https://web.archive.org/web/20170802024944/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2017-08-30T08:34:36Z",
+        "uri": "https://web.archive.org/web/20170830083436/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2017-08-30T21:23:11Z",
+        "uri": "https://web.archive.org/web/20170830212311/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2017-09-02T04:02:00Z",
+        "uri": "https://web.archive.org/web/20170902040200/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2017-09-11T01:12:40Z",
+        "uri": "https://web.archive.org/web/20170911011240/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2017-09-11T01:12:44Z",
+        "uri": "https://web.archive.org/web/20170911011244/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2017-09-13T20:57:05Z",
+        "uri": "https://web.archive.org/web/20170913205705/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2017-09-28T04:11:29Z",
+        "uri": "https://web.archive.org/web/20170928041129/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2017-09-28T04:11:35Z",
+        "uri": "https://web.archive.org/web/20170928041135/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2017-10-02T10:22:27Z",
+        "uri": "https://web.archive.org/web/20171002102227/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2017-10-02T11:31:08Z",
+        "uri": "https://web.archive.org/web/20171002113108/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2017-10-03T07:06:39Z",
+        "uri": "https://web.archive.org/web/20171003070639/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2017-11-03T21:20:59Z",
+        "uri": "https://web.archive.org/web/20171103212059/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2017-12-05T00:00:52Z",
+        "uri": "https://web.archive.org/web/20171205000052/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2018-01-04T23:59:38Z",
+        "uri": "https://web.archive.org/web/20180104235938/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2018-01-29T12:30:11Z",
+        "uri": "https://web.archive.org/web/20180129123011/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2018-02-04T18:30:45Z",
+        "uri": "https://web.archive.org/web/20180204183045/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2018-03-05T10:23:02Z",
+        "uri": "https://web.archive.org/web/20180305102302/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2018-03-07T01:51:43Z",
+        "uri": "https://web.archive.org/web/20180307015143/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2018-03-24T04:34:50Z",
+        "uri": "https://web.archive.org/web/20180324043450/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2018-04-06T14:53:10Z",
+        "uri": "https://web.archive.org/web/20180406145310/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2018-04-20T22:00:30Z",
+        "uri": "https://web.archive.org/web/20180420220030/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2018-05-07T09:05:46Z",
+        "uri": "https://web.archive.org/web/20180507090546/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2018-08-11T20:04:16Z",
+        "uri": "https://web.archive.org/web/20180811200416/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2018-09-04T20:29:04Z",
+        "uri": "https://web.archive.org/web/20180904202904/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2018-09-21T13:47:14Z",
+        "uri": "https://web.archive.org/web/20180921134714/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2018-12-05T21:03:34Z",
+        "uri": "https://web.archive.org/web/20181205210334/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2018-12-27T11:50:18Z",
+        "uri": "https://web.archive.org/web/20181227115018/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2019-01-18T10:46:30Z",
+        "uri": "https://web.archive.org/web/20190118104630/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2019-03-26T06:45:09Z",
+        "uri": "https://web.archive.org/web/20190326064509/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2019-03-30T11:07:17Z",
+        "uri": "https://web.archive.org/web/20190330110717/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2019-04-19T07:03:54Z",
+        "uri": "https://web.archive.org/web/20190419070354/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2019-11-21T21:55:43Z",
+        "uri": "https://web.archive.org/web/20191121215543/http://studenthacks.co.uk:80/"
+      },
+      {
+        "datetime": "2019-12-09T18:54:55Z",
+        "uri": "https://web.archive.org/web/20191209185455/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2020-08-13T17:22:01Z",
+        "uri": "https://web.archive.org/web/20200813172201/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2020-09-28T18:41:15Z",
+        "uri": "https://web.archive.org/web/20200928184115/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2020-10-31T07:30:21Z",
+        "uri": "https://web.archive.org/web/20201031073021/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2020-11-24T17:53:29Z",
+        "uri": "https://web.archive.org/web/20201124175329/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-01-27T10:16:50Z",
+        "uri": "https://web.archive.org/web/20210127101650/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-02-27T00:52:59Z",
+        "uri": "https://web.archive.org/web/20210227005259/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-02-28T13:13:49Z",
+        "uri": "https://web.archive.org/web/20210228131349/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-04-20T16:35:41Z",
+        "uri": "https://web.archive.org/web/20210420163541/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-05-16T05:57:29Z",
+        "uri": "https://web.archive.org/web/20210516055729/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-06-21T00:57:37Z",
+        "uri": "https://web.archive.org/web/20210621005737/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-06-21T00:57:37Z",
+        "uri": "https://web.archive.org/web/20210621005737/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-06-23T08:52:23Z",
+        "uri": "https://web.archive.org/web/20210623085223/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-06-23T08:52:23Z",
+        "uri": "https://web.archive.org/web/20210623085223/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-07-29T02:39:30Z",
+        "uri": "https://web.archive.org/web/20210729023930/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-08-30T13:54:50Z",
+        "uri": "https://web.archive.org/web/20210830135450/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-09-19T14:08:55Z",
+        "uri": "https://web.archive.org/web/20210919140855/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-10-24T16:39:30Z",
+        "uri": "https://web.archive.org/web/20211024163930/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-10-24T16:39:30Z",
+        "uri": "https://web.archive.org/web/20211024163930/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-10-25T04:22:07Z",
+        "uri": "https://web.archive.org/web/20211025042207/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-12-09T01:14:09Z",
+        "uri": "https://web.archive.org/web/20211209011409/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2021-12-26T06:40:06Z",
+        "uri": "https://web.archive.org/web/20211226064006/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2022-01-16T19:10:03Z",
+        "uri": "https://web.archive.org/web/20220116191003/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2022-01-25T00:34:12Z",
+        "uri": "https://web.archive.org/web/20220125003412/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2022-01-28T17:05:04Z",
+        "uri": "https://web.archive.org/web/20220128170504/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2022-01-28T17:05:05Z",
+        "uri": "https://web.archive.org/web/20220128170505/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2022-03-03T17:58:28Z",
+        "uri": "https://web.archive.org/web/20220303175828/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2022-05-22T06:06:42Z",
+        "uri": "https://web.archive.org/web/20220522060642/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2022-05-23T14:41:52Z",
+        "uri": "https://web.archive.org/web/20220523144152/https://studenthacks.co.uk"
+      },
+      {
+        "datetime": "2022-05-23T14:46:11Z",
+        "uri": "https://web.archive.org/web/20220523144611/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2022-06-21T14:47:21Z",
+        "uri": "https://web.archive.org/web/20220621144721/https://studenthacks.co.uk//"
+      },
+      {
+        "datetime": "2022-06-21T14:47:24Z",
+        "uri": "https://web.archive.org/web/20220621144724/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2022-06-25T04:48:00Z",
+        "uri": "https://web.archive.org/web/20220625044800/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2022-06-25T16:44:09Z",
+        "uri": "https://web.archive.org/web/20220625164409/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2022-08-14T18:52:15Z",
+        "uri": "https://web.archive.org/web/20220814185215/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2022-08-26T22:45:41Z",
+        "uri": "https://web.archive.org/web/20220826224541/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2022-12-12T13:57:24Z",
+        "uri": "https://web.archive.org/web/20221212135724/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2023-01-28T23:16:35Z",
+        "uri": "https://web.archive.org/web/20230128231635/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2023-02-15T04:09:02Z",
+        "uri": "https://web.archive.org/web/20230215040902/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2023-03-02T20:32:22Z",
+        "uri": "https://web.archive.org/web/20230302203222/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2023-03-20T02:28:52Z",
+        "uri": "https://web.archive.org/web/20230320022852/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2023-05-21T20:48:57Z",
+        "uri": "https://web.archive.org/web/20230521204857/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2023-06-01T10:51:18Z",
+        "uri": "https://web.archive.org/web/20230601105118/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2023-06-06T11:38:09Z",
+        "uri": "https://web.archive.org/web/20230606113809/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2023-06-06T11:59:57Z",
+        "uri": "https://web.archive.org/web/20230606115957/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2023-06-07T12:24:21Z",
+        "uri": "https://web.archive.org/web/20230607122421/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2023-08-17T01:14:49Z",
+        "uri": "https://web.archive.org/web/20230817011449/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2023-08-22T04:37:40Z",
+        "uri": "https://web.archive.org/web/20230822043740/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2023-08-22T17:54:38Z",
+        "uri": "https://web.archive.org/web/20230822175438/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2023-08-30T03:33:22Z",
+        "uri": "https://web.archive.org/web/20230830033322/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2023-08-30T05:39:31Z",
+        "uri": "https://web.archive.org/web/20230830053931/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2023-12-07T10:33:13Z",
+        "uri": "https://web.archive.org/web/20231207103313/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2023-12-07T16:44:25Z",
+        "uri": "https://web.archive.org/web/20231207164425/https://studenthacks.co.uk"
+      },
+      {
+        "datetime": "2024-01-23T23:15:53Z",
+        "uri": "https://web.archive.org/web/20240123231553/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2024-03-23T23:14:39Z",
+        "uri": "https://web.archive.org/web/20240323231439/https://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2024-03-23T23:15:02Z",
+        "uri": "https://web.archive.org/web/20240323231502/http://studenthacks.co.uk/"
+      },
+      {
+        "datetime": "2024-05-10T07:09:53Z",
+        "uri": "https://web.archive.org/web/20240510070953/http://www.studenthacks.co.uk/"
+      }
+    ],
+    "first": {
+      "datetime": "2015-02-11T22:20:57Z",
+      "uri": "https://web.archive.org/web/20150211222057/http://studenthacks.co.uk:80/"
+    },
+    "last": {
+      "datetime": "2024-05-10T07:09:53Z",
+      "uri": "https://web.archive.org/web/20240510070953/http://www.studenthacks.co.uk/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://studenthacks.co.uk/",
+    "json_format": "http://localhost:1208/timemap/json/https://studenthacks.co.uk/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://studenthacks.co.uk/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://studenthacks.co.uk/"
+}

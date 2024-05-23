@@ -1,0 +1,566 @@
+{
+  "original_uri": "https://en.wikipedia.org/wiki/Essay",
+  "self": "http://localhost:1208/timemap/json/https://en.wikipedia.org/wiki/Essay",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2005-10-15T09:15:29Z",
+        "uri": "https://wayback.archive-it.org/all/20051015091529/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2005-10-22T19:37:33Z",
+        "uri": "https://wayback.archive-it.org/all/20051022193733/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2006-03-06T04:27:13Z",
+        "uri": "https://wayback.archive-it.org/all/20060306042713/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2006-10-12T11:21:46Z",
+        "uri": "https://wayback.archive-it.org/all/20061012112146/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2007-07-04T16:27:07Z",
+        "uri": "https://wayback.archive-it.org/all/20070704162707/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2007-07-10T02:53:38Z",
+        "uri": "https://wayback.archive-it.org/all/20070710025338/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2007-08-09T23:49:09Z",
+        "uri": "https://wayback.archive-it.org/all/20070809234909/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2007-09-27T04:45:40Z",
+        "uri": "https://wayback.archive-it.org/all/20070927044540/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2007-11-27T23:41:45Z",
+        "uri": "https://wayback.archive-it.org/all/20071127234145/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2008-02-27T06:41:19Z",
+        "uri": "https://wayback.archive-it.org/all/20080227064119/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2008-05-30T04:38:10Z",
+        "uri": "https://wayback.archive-it.org/all/20080530043810/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2008-09-10T23:24:14Z",
+        "uri": "https://wayback.archive-it.org/all/20080910232414/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2008-12-18T12:25:53Z",
+        "uri": "https://wayback.archive-it.org/all/20081218122553/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-02-07T07:45:25Z",
+        "uri": "https://wayback.archive-it.org/all/20090207074525/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-02-25T09:02:00Z",
+        "uri": "https://wayback.archive-it.org/all/20090225090200/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-03-04T13:26:27Z",
+        "uri": "https://wayback.archive-it.org/all/20090304132627/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-03-18T21:15:07Z",
+        "uri": "https://wayback.archive-it.org/all/20090318211507/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-03-26T11:53:46Z",
+        "uri": "https://wayback.archive-it.org/all/20090326115346/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-03-27T05:02:03Z",
+        "uri": "https://wayback.archive-it.org/all/20090327050203/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-04-09T04:48:44Z",
+        "uri": "https://wayback.archive-it.org/all/20090409044844/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-04-16T03:07:36Z",
+        "uri": "https://wayback.archive-it.org/all/20090416030736/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-04-22T11:05:59Z",
+        "uri": "https://wayback.archive-it.org/all/20090422110559/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-04-23T10:20:39Z",
+        "uri": "https://wayback.archive-it.org/all/20090423102039/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-05-24T05:35:30Z",
+        "uri": "https://wayback.archive-it.org/all/20090524053530/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-06-01T04:49:18Z",
+        "uri": "https://wayback.archive-it.org/all/20090601044918/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-07-29T14:58:03Z",
+        "uri": "https://wayback.archive-it.org/all/20090729145803/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-08-26T12:56:06Z",
+        "uri": "https://wayback.archive-it.org/all/20090826125606/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-08-31T20:56:55Z",
+        "uri": "https://wayback.archive-it.org/all/20090831205655/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-10-16T00:56:06Z",
+        "uri": "https://wayback.archive-it.org/all/20091016005606/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-11-04T06:39:05Z",
+        "uri": "https://wayback.archive-it.org/all/20091104063905/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-11-04T06:39:06Z",
+        "uri": "https://wayback.archive-it.org/all/20091104063906/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-11-11T12:33:41Z",
+        "uri": "https://wayback.archive-it.org/all/20091111123341/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-11-11T12:33:42Z",
+        "uri": "https://wayback.archive-it.org/all/20091111123342/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-11-20T03:47:22Z",
+        "uri": "https://wayback.archive-it.org/all/20091120034722/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-12-01T22:28:23Z",
+        "uri": "https://wayback.archive-it.org/all/20091201222823/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2009-12-27T05:47:09Z",
+        "uri": "https://wayback.archive-it.org/all/20091227054709/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2010-01-25T19:31:53Z",
+        "uri": "https://wayback.archive-it.org/all/20100125193153/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2010-01-25T19:31:54Z",
+        "uri": "https://wayback.archive-it.org/all/20100125193154/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2010-03-02T21:58:19Z",
+        "uri": "https://wayback.archive-it.org/all/20100302215819/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2010-05-09T05:53:00Z",
+        "uri": "https://wayback.archive-it.org/all/20100509055300/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2010-05-29T10:37:44Z",
+        "uri": "https://wayback.archive-it.org/all/20100529103744/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2010-06-27T05:57:19Z",
+        "uri": "https://wayback.archive-it.org/all/20100627055719/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2010-08-01T06:23:02Z",
+        "uri": "https://wayback.archive-it.org/all/20100801062302/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2010-08-29T15:38:24Z",
+        "uri": "https://wayback.archive-it.org/all/20100829153824/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2010-11-03T11:20:52Z",
+        "uri": "https://wayback.archive-it.org/all/20101103112052/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-02-05T03:10:17Z",
+        "uri": "https://wayback.archive-it.org/all/20110205031017/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-02-07T20:20:49Z",
+        "uri": "https://wayback.archive-it.org/all/20110207202049/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-02-11T20:48:57Z",
+        "uri": "https://wayback.archive-it.org/all/20110211204857/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-02-18T09:21:50Z",
+        "uri": "https://wayback.archive-it.org/all/20110218092150/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-02-20T09:04:41Z",
+        "uri": "https://wayback.archive-it.org/all/20110220090441/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-02-22T07:38:21Z",
+        "uri": "https://wayback.archive-it.org/all/20110222073821/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-02-27T08:59:18Z",
+        "uri": "https://wayback.archive-it.org/all/20110227085918/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-02-27T09:33:45Z",
+        "uri": "https://wayback.archive-it.org/all/20110227093345/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-02-28T08:51:32Z",
+        "uri": "https://wayback.archive-it.org/all/20110228085132/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-03-01T04:32:15Z",
+        "uri": "https://wayback.archive-it.org/all/20110301043215/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-03-01T11:53:02Z",
+        "uri": "https://wayback.archive-it.org/all/20110301115302/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-03-07T15:35:22Z",
+        "uri": "https://wayback.archive-it.org/all/20110307153522/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-03-14T14:38:13Z",
+        "uri": "https://wayback.archive-it.org/all/20110314143813/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-03-14T21:15:48Z",
+        "uri": "https://wayback.archive-it.org/all/20110314211548/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-03-21T20:25:42Z",
+        "uri": "https://wayback.archive-it.org/all/20110321202542/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-03-31T12:22:29Z",
+        "uri": "https://wayback.archive-it.org/all/20110331122229/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-04-15T07:18:22Z",
+        "uri": "https://web.archive.org.au/awa/20110415071822mp_/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-04-23T00:55:12Z",
+        "uri": "https://wayback.archive-it.org/all/20110423005512/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-07-14T17:27:26Z",
+        "uri": "https://wayback.archive-it.org/all/20110714172726/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-07-17T02:08:55Z",
+        "uri": "https://wayback.archive-it.org/all/20110717020855/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2011-12-27T05:59:19Z",
+        "uri": "https://wayback.archive-it.org/all/20111227055919/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2012-04-06T04:36:25Z",
+        "uri": "https://wayback.archive-it.org/all/20120406043625/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2012-11-14T13:20:41Z",
+        "uri": "https://wayback.archive-it.org/all/20121114132041/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2013-01-30T17:33:59Z",
+        "uri": "https://wayback.archive-it.org/all/20130130173359/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2013-01-30T22:47:13Z",
+        "uri": "https://wayback.archive-it.org/all/20130130224713/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2013-01-31T10:42:49Z",
+        "uri": "https://wayback.archive-it.org/all/20130131104249/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2013-01-31T19:08:27Z",
+        "uri": "https://wayback.archive-it.org/all/20130131190827/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2013-02-01T04:17:20Z",
+        "uri": "https://wayback.archive-it.org/all/20130201041720/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2013-02-01T16:13:16Z",
+        "uri": "https://wayback.archive-it.org/all/20130201161316/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2013-04-20T07:14:32Z",
+        "uri": "https://wayback.archive-it.org/all/20130420071432/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2013-07-24T14:22:51Z",
+        "uri": "https://wayback.archive-it.org/all/20130724142251/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2013-10-23T00:03:51Z",
+        "uri": "https://wayback.archive-it.org/all/20131023000351/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2014-08-13T10:45:05Z",
+        "uri": "https://wayback.archive-it.org/all/20140813104505/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2014-10-24T04:07:19Z",
+        "uri": "https://wayback.archive-it.org/all/20141024040719/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2014-12-18T00:56:56Z",
+        "uri": "https://wayback.archive-it.org/all/20141218005656/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2015-01-10T19:39:19Z",
+        "uri": "https://wayback.archive-it.org/all/20150110193919/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2015-04-04T17:11:23Z",
+        "uri": "http://archive.md/20150404171123/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2015-04-10T06:09:26Z",
+        "uri": "https://wayback.archive-it.org/all/20150410060926/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2015-04-11T15:31:22Z",
+        "uri": "https://arquivo.pt/wayback/20150411153122mp_/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2015-05-06T14:01:01Z",
+        "uri": "https://wayback.archive-it.org/all/20150506140101/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2015-05-06T22:00:43Z",
+        "uri": "https://wayback.archive-it.org/all/20150506220043/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2015-05-07T14:24:07Z",
+        "uri": "https://wayback.archive-it.org/all/20150507142407/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2015-06-17T14:03:12Z",
+        "uri": "https://wayback.archive-it.org/all/20150617140312/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2015-10-23T23:59:32Z",
+        "uri": "https://wayback.archive-it.org/all/20151023235932/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2016-01-08T20:04:57Z",
+        "uri": "https://arquivo.pt/wayback/20160108200457mp_/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2016-02-28T02:34:27Z",
+        "uri": "https://wayback.archive-it.org/all/20160228023427/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2016-03-11T11:36:51Z",
+        "uri": "https://wayback.archive-it.org/all/20160311113651/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2016-04-09T19:49:32Z",
+        "uri": "https://wayback.archive-it.org/all/20160409194932/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2016-09-28T14:55:36Z",
+        "uri": "https://wayback.archive-it.org/all/20160928145536/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2016-09-28T19:25:53Z",
+        "uri": "https://web.archive.org.au/awa/20160928192553mp_/http://pandora.nla.gov.au/pan/147897/20160929-0000/en.wikipedia.org/wiki/Essay.html"
+      },
+      {
+        "datetime": "2016-10-25T05:12:18Z",
+        "uri": "https://wayback.archive-it.org/all/20161025051218/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2017-02-13T04:11:39Z",
+        "uri": "https://web.archive.org.au/awa/20170213041139mp_/http://pandora.nla.gov.au/pan/155390/20170213-1133/en.wikipedia.org/wiki/Essay.html"
+      },
+      {
+        "datetime": "2017-07-16T11:26:04Z",
+        "uri": "https://wayback.archive-it.org/all/20170716112604/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2018-01-04T05:05:56Z",
+        "uri": "https://wayback.archive-it.org/all/20180104050556/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2018-01-04T17:54:37Z",
+        "uri": "https://wayback.archive-it.org/all/20180104175437/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2018-03-23T02:16:44Z",
+        "uri": "https://wayback.archive-it.org/all/20180323021644/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2019-07-01T10:00:54Z",
+        "uri": "https://web.archive.org.au/awa/20190701100054mp_/http://pandora.nla.gov.au/pan/150735/20190701-0936/en.wikipedia.org/wiki/Essay.html"
+      },
+      {
+        "datetime": "2019-08-24T22:27:28Z",
+        "uri": "https://wayback.archive-it.org/all/20190824222728/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2019-10-16T08:51:13Z",
+        "uri": "https://arquivo.pt/wayback/20191016085113mp_/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2019-12-25T10:45:25Z",
+        "uri": "https://wayback.archive-it.org/all/20191225104525/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2019-12-28T15:58:23Z",
+        "uri": "https://arquivo.pt/wayback/20191228155823mp_/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2020-02-02T04:16:28Z",
+        "uri": "https://arquivo.pt/wayback/20200202041628mp_/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2020-02-21T15:01:09Z",
+        "uri": "https://arquivo.pt/wayback/20200221150109mp_/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2020-03-17T00:23:37Z",
+        "uri": "https://arquivo.pt/wayback/20200317002337mp_/http://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2020-08-04T20:40:30Z",
+        "uri": "https://web.archive.org.au/awa/20200804204030mp_/http://pandora.nla.gov.au/pan/183931/20200805-0038/en.wikipedia.org/wiki/Essay.html"
+      },
+      {
+        "datetime": "2020-08-05T17:54:48Z",
+        "uri": "https://web.archive.org.au/awa/20200805175448mp_/http://pandora.nla.gov.au/pan/183931/20200805-2133/en.wikipedia.org/wiki/Essay.html"
+      },
+      {
+        "datetime": "2020-10-04T19:31:25Z",
+        "uri": "https://web.archive.org.au/awa/20201004193125mp_/http://pandora.nla.gov.au/pan/183931/20201005-0008/en.wikipedia.org/wiki/Essay.html"
+      },
+      {
+        "datetime": "2020-12-04T20:40:11Z",
+        "uri": "https://web.archive.org.au/awa/20201204204011mp_/http://pandora.nla.gov.au/pan/183931/20201205-0000/en.wikipedia.org/wiki/Essay.html"
+      },
+      {
+        "datetime": "2020-12-15T08:54:25Z",
+        "uri": "https://wayback.archive-it.org/all/20201215085425/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2021-01-20T05:49:20Z",
+        "uri": "https://wayback.archive-it.org/all/20210120054920/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2021-01-20T17:53:00Z",
+        "uri": "https://wayback.archive-it.org/all/20210120175300/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2021-02-04T19:28:42Z",
+        "uri": "https://web.archive.org.au/awa/20210204192842mp_/http://pandora.nla.gov.au/pan/183931/20210205-0004/en.wikipedia.org/wiki/Essay.html"
+      },
+      {
+        "datetime": "2021-04-04T20:20:28Z",
+        "uri": "https://web.archive.org.au/awa/20210404202028mp_/http://pandora.nla.gov.au/pan/183931/20210405-0000/en.wikipedia.org/wiki/Essay.html"
+      },
+      {
+        "datetime": "2021-06-27T20:01:31Z",
+        "uri": "https://web.archive.org.au/awa/20210627200131mp_/http://pandora.nla.gov.au/pan/183931/20210628-0000/en.wikipedia.org/wiki/Essay.html"
+      },
+      {
+        "datetime": "2021-08-26T04:58:25Z",
+        "uri": "https://web.archive.org.au/awa/20210826045825mp_/http://pandora.nla.gov.au/pan/183931/20210828-0000/en.wikipedia.org/wiki/Essay.html"
+      },
+      {
+        "datetime": "2021-11-02T13:00:00Z",
+        "uri": "https://web.archive.org.au/awa/20211102130000mp_/http://pandora.nla.gov.au/pan/183931/20211103-0000/en.wikipedia.org/wiki/Essay.html"
+      },
+      {
+        "datetime": "2022-01-18T20:14:31Z",
+        "uri": "https://wayback.archive-it.org/all/20220118201431/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2022-04-15T23:40:55Z",
+        "uri": "https://wayback.archive-it.org/all/20220415234055/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2022-09-12T20:13:59Z",
+        "uri": "https://arquivo.pt/wayback/20220912201359mp_/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2022-10-31T19:18:09Z",
+        "uri": "https://wayback.archive-it.org/all/20221031191809/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2022-12-01T17:25:34Z",
+        "uri": "https://wayback.archive-it.org/all/20221201172534/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2022-12-31T18:55:44Z",
+        "uri": "https://wayback.archive-it.org/all/20221231185544/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2023-01-31T15:59:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230131155929/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2023-03-01T06:27:41Z",
+        "uri": "https://wayback.archive-it.org/all/20230301062741/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2023-04-02T18:09:20Z",
+        "uri": "https://wayback.archive-it.org/all/20230402180920/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2023-04-14T16:13:43Z",
+        "uri": "https://wayback.archive-it.org/all/20230414161343/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2023-05-03T06:41:45Z",
+        "uri": "https://wayback.archive-it.org/all/20230503064145/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2023-05-31T07:05:27Z",
+        "uri": "https://wayback.archive-it.org/all/20230531070527/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2023-06-30T23:28:49Z",
+        "uri": "https://wayback.archive-it.org/all/20230630232849/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2023-08-01T21:14:59Z",
+        "uri": "https://wayback.archive-it.org/all/20230801211459/https://en.wikipedia.org/wiki/Essay"
+      },
+      {
+        "datetime": "2023-11-12T02:21:24Z",
+        "uri": "https://wayback.archive-it.org/all/20231112022124/https://en.wikipedia.org/wiki/Essay"
+      }
+    ],
+    "first": {
+      "datetime": "2005-10-15T09:15:29Z",
+      "uri": "https://wayback.archive-it.org/all/20051015091529/http://en.wikipedia.org/wiki/Essay"
+    },
+    "last": {
+      "datetime": "2023-11-12T02:21:24Z",
+      "uri": "https://wayback.archive-it.org/all/20231112022124/https://en.wikipedia.org/wiki/Essay"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://en.wikipedia.org/wiki/Essay",
+    "json_format": "http://localhost:1208/timemap/json/https://en.wikipedia.org/wiki/Essay",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://en.wikipedia.org/wiki/Essay"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://en.wikipedia.org/wiki/Essay"
+}

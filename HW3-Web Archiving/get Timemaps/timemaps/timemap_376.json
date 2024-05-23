@@ -1,0 +1,554 @@
+{
+  "original_uri": "https://developers.google.com/youtube/android/player",
+  "self": "http://localhost:1208/timemap/json/https://developers.google.com/youtube/android/player",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-03-08T00:47:29Z",
+        "uri": "https://wayback.archive-it.org/all/20130308004729/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2014-03-10T22:09:40Z",
+        "uri": "https://wayback.archive-it.org/all/20140310220940/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2014-03-10T22:21:52Z",
+        "uri": "https://wayback.archive-it.org/all/20140310222152/http://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2014-03-10T22:21:53Z",
+        "uri": "https://wayback.archive-it.org/all/20140310222153/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2015-07-21T21:53:16Z",
+        "uri": "https://wayback.archive-it.org/all/20150721215316/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2015-07-24T01:21:07Z",
+        "uri": "https://wayback.archive-it.org/all/20150724012107/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2016-04-25T04:37:56Z",
+        "uri": "https://wayback.archive-it.org/all/20160425043756/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2016-04-26T22:21:12Z",
+        "uri": "https://wayback.archive-it.org/all/20160426222112/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2016-09-07T17:58:30Z",
+        "uri": "https://wayback.archive-it.org/all/20160907175830/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2016-09-16T12:58:15Z",
+        "uri": "https://wayback.archive-it.org/all/20160916125815/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2018-07-14T01:55:48Z",
+        "uri": "https://wayback.archive-it.org/all/20180714015548/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2018-07-19T04:00:30Z",
+        "uri": "https://arquivo.pt/wayback/20180719040030mp_/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2019-03-28T09:28:15Z",
+        "uri": "https://arquivo.pt/wayback/20190328092815mp_/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2019-04-25T22:12:32Z",
+        "uri": "https://arquivo.pt/wayback/20190425221232mp_/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2019-09-06T23:04:21Z",
+        "uri": "https://arquivo.pt/wayback/20190906230421mp_/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2019-11-14T22:22:42Z",
+        "uri": "https://arquivo.pt/wayback/20191114222242mp_/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2019-12-27T21:45:46Z",
+        "uri": "https://arquivo.pt/wayback/20191227214546mp_/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2020-02-10T00:34:42Z",
+        "uri": "https://arquivo.pt/wayback/20200210003442mp_/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2020-06-29T09:57:27Z",
+        "uri": "https://arquivo.pt/wayback/20200629095727mp_/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2020-06-29T09:58:50Z",
+        "uri": "https://arquivo.pt/wayback/20200629095850mp_/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2020-07-18T10:54:42Z",
+        "uri": "https://wayback.archive-it.org/all/20200718105442/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2020-12-15T23:51:25Z",
+        "uri": "https://wayback.archive-it.org/all/20201215235125/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2021-07-23T06:09:22Z",
+        "uri": "https://wayback.archive-it.org/all/20210723060922/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2021-08-10T17:10:51Z",
+        "uri": "https://wayback.archive-it.org/all/20210810171051/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2021-08-12T13:03:28Z",
+        "uri": "https://wayback.archive-it.org/all/20210812130328/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-01-18T08:27:06Z",
+        "uri": "https://wayback.archive-it.org/all/20220118082706/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-01-20T11:10:54Z",
+        "uri": "https://arquivo.pt/wayback/20220120111054mp_/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2022-01-25T09:29:56Z",
+        "uri": "https://wayback.archive-it.org/all/20220125092956/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-01-27T02:44:51Z",
+        "uri": "https://wayback.archive-it.org/all/20220127024451/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-02-02T21:00:36Z",
+        "uri": "https://wayback.archive-it.org/all/20220202210036/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-02-15T06:54:00Z",
+        "uri": "https://wayback.archive-it.org/all/20220215065400/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-03-01T07:10:22Z",
+        "uri": "https://wayback.archive-it.org/all/20220301071022/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-03-08T04:59:46Z",
+        "uri": "https://wayback.archive-it.org/all/20220308045946/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-03-15T04:55:58Z",
+        "uri": "https://wayback.archive-it.org/all/20220315045558/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-03-18T21:17:04Z",
+        "uri": "https://arquivo.pt/wayback/20220318211704mp_/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-03-19T21:11:32Z",
+        "uri": "https://arquivo.pt/wayback/20220319211132mp_/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-03-20T20:43:43Z",
+        "uri": "https://arquivo.pt/wayback/20220320204343mp_/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-03-22T16:02:38Z",
+        "uri": "https://wayback.archive-it.org/all/20220322160238/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-03-27T04:35:36Z",
+        "uri": "https://wayback.archive-it.org/all/20220327043536/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-04-02T17:01:50Z",
+        "uri": "https://wayback.archive-it.org/all/20220402170150/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-04-05T05:00:51Z",
+        "uri": "https://wayback.archive-it.org/all/20220405050051/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-04-08T14:00:00Z",
+        "uri": "https://web.archive.org.au/awa/20220408140000mp_/http://pandora.nla.gov.au/pan/167246/20220409-0000/developers.google.com/youtube/android/player.html"
+      },
+      {
+        "datetime": "2022-04-12T11:26:20Z",
+        "uri": "https://arquivo.pt/wayback/20220412112620mp_/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-04-12T11:48:31Z",
+        "uri": "https://arquivo.pt/wayback/20220412114831mp_/https://developers.google.com/youtube/android/player/"
+      },
+      {
+        "datetime": "2022-04-12T22:49:32Z",
+        "uri": "https://wayback.archive-it.org/all/20220412224932/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-04-20T10:00:37Z",
+        "uri": "https://wayback.archive-it.org/all/20220420100037/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-04-27T03:48:59Z",
+        "uri": "https://wayback.archive-it.org/all/20220427034859/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-05-03T09:49:47Z",
+        "uri": "https://wayback.archive-it.org/all/20220503094947/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-05-24T19:19:21Z",
+        "uri": "https://wayback.archive-it.org/all/20220524191921/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-05-27T05:04:20Z",
+        "uri": "https://wayback.archive-it.org/all/20220527050420/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-05-31T03:28:34Z",
+        "uri": "https://wayback.archive-it.org/all/20220531032834/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-06-07T03:43:12Z",
+        "uri": "https://wayback.archive-it.org/all/20220607034312/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-06-15T07:11:02Z",
+        "uri": "https://wayback.archive-it.org/all/20220615071102/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-06-21T09:13:24Z",
+        "uri": "https://wayback.archive-it.org/all/20220621091324/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-06-24T12:02:23Z",
+        "uri": "https://wayback.archive-it.org/all/20220624120223/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-07-05T07:56:48Z",
+        "uri": "https://wayback.archive-it.org/all/20220705075648/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-07-12T13:58:39Z",
+        "uri": "https://wayback.archive-it.org/all/20220712135839/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-07-19T13:13:56Z",
+        "uri": "https://wayback.archive-it.org/all/20220719131356/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-07-26T08:08:20Z",
+        "uri": "https://wayback.archive-it.org/all/20220726080820/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-07-26T18:27:37Z",
+        "uri": "https://wayback.archive-it.org/all/20220726182737/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-08-02T07:51:44Z",
+        "uri": "https://wayback.archive-it.org/all/20220802075144/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-08-03T06:40:16Z",
+        "uri": "https://wayback.archive-it.org/all/20220803064016/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-08-16T04:19:17Z",
+        "uri": "https://wayback.archive-it.org/all/20220816041917/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-08-23T04:44:35Z",
+        "uri": "https://wayback.archive-it.org/all/20220823044435/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-08-24T04:37:57Z",
+        "uri": "https://wayback.archive-it.org/all/20220824043757/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-09-06T05:50:11Z",
+        "uri": "https://wayback.archive-it.org/all/20220906055011/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-09-13T03:59:49Z",
+        "uri": "https://wayback.archive-it.org/all/20220913035949/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-09-26T21:04:46Z",
+        "uri": "https://wayback.archive-it.org/all/20220926210446/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-09-27T05:35:42Z",
+        "uri": "https://wayback.archive-it.org/all/20220927053542/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-10-02T21:08:28Z",
+        "uri": "https://wayback.archive-it.org/all/20221002210828/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-10-04T05:00:35Z",
+        "uri": "https://wayback.archive-it.org/all/20221004050035/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-10-11T03:49:27Z",
+        "uri": "https://wayback.archive-it.org/all/20221011034927/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-10-18T03:59:37Z",
+        "uri": "https://wayback.archive-it.org/all/20221018035937/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-10-24T06:06:24Z",
+        "uri": "https://wayback.archive-it.org/all/20221024060624/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-11-29T00:18:33Z",
+        "uri": "https://wayback.archive-it.org/all/20221129001833/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2022-12-13T05:00:30Z",
+        "uri": "https://wayback.archive-it.org/all/20221213050030/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-01-17T07:22:54Z",
+        "uri": "https://wayback.archive-it.org/all/20230117072254/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-01-24T05:59:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230124055956/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-01-26T21:49:27Z",
+        "uri": "https://wayback.archive-it.org/all/20230126214927/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-01-31T02:53:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230131025316/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-02-03T13:20:20Z",
+        "uri": "https://wayback.archive-it.org/all/20230203132020/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-02-07T03:40:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230207034017/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-02-14T02:56:20Z",
+        "uri": "https://wayback.archive-it.org/all/20230214025620/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-02-21T03:14:30Z",
+        "uri": "https://wayback.archive-it.org/all/20230221031430/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-02-28T03:01:13Z",
+        "uri": "https://wayback.archive-it.org/all/20230228030113/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-03-21T02:53:09Z",
+        "uri": "https://wayback.archive-it.org/all/20230321025309/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-03-24T05:59:52Z",
+        "uri": "https://wayback.archive-it.org/all/20230324055952/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-04-01T08:00:27Z",
+        "uri": "https://wayback.archive-it.org/all/20230401080027/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-04-03T09:36:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230403093612/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-04-04T02:38:01Z",
+        "uri": "https://wayback.archive-it.org/all/20230404023801/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-04-18T10:45:53Z",
+        "uri": "https://wayback.archive-it.org/all/20230418104553/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-04-24T05:47:25Z",
+        "uri": "https://wayback.archive-it.org/all/20230424054725/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-04-25T19:19:22Z",
+        "uri": "https://wayback.archive-it.org/all/20230425191922/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-05-01T08:07:38Z",
+        "uri": "https://wayback.archive-it.org/all/20230501080738/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-05-09T16:30:41Z",
+        "uri": "https://wayback.archive-it.org/all/20230509163041/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-05-16T03:04:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230516030415/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-05-22T02:10:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230522021017/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-05-23T03:45:31Z",
+        "uri": "https://wayback.archive-it.org/all/20230523034531/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-05-24T06:43:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230524064356/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-05-26T22:03:26Z",
+        "uri": "https://wayback.archive-it.org/all/20230526220326/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-05-30T02:35:48Z",
+        "uri": "https://wayback.archive-it.org/all/20230530023548/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-06-01T09:05:07Z",
+        "uri": "https://wayback.archive-it.org/all/20230601090507/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-06-13T02:35:50Z",
+        "uri": "https://wayback.archive-it.org/all/20230613023550/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-06-25T03:05:40Z",
+        "uri": "https://wayback.archive-it.org/all/20230625030540/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-07-11T10:21:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230711102133/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-07-18T01:32:03Z",
+        "uri": "https://wayback.archive-it.org/all/20230718013203/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-07-26T00:45:08Z",
+        "uri": "https://wayback.archive-it.org/all/20230726004508/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-07-29T16:31:34Z",
+        "uri": "https://wayback.archive-it.org/all/20230729163134/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-08-01T00:36:37Z",
+        "uri": "https://wayback.archive-it.org/all/20230801003637/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-08-02T22:49:59Z",
+        "uri": "https://wayback.archive-it.org/all/20230802224959/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-08-07T23:46:42Z",
+        "uri": "https://wayback.archive-it.org/all/20230807234642/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-08-15T00:04:05Z",
+        "uri": "https://wayback.archive-it.org/all/20230815000405/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-09-19T00:24:30Z",
+        "uri": "https://wayback.archive-it.org/all/20230919002430/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-09-24T07:27:30Z",
+        "uri": "https://wayback.archive-it.org/all/20230924072730/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-09-25T23:46:07Z",
+        "uri": "https://wayback.archive-it.org/all/20230925234607/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-10-03T00:44:55Z",
+        "uri": "https://wayback.archive-it.org/all/20231003004455/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-10-10T09:22:26Z",
+        "uri": "https://wayback.archive-it.org/all/20231010092226/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-10-17T02:52:41Z",
+        "uri": "https://wayback.archive-it.org/all/20231017025241/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-10-24T08:41:27Z",
+        "uri": "https://wayback.archive-it.org/all/20231024084127/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-11-01T22:02:24Z",
+        "uri": "https://wayback.archive-it.org/all/20231101220224/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-11-07T03:23:06Z",
+        "uri": "https://wayback.archive-it.org/all/20231107032306/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-11-13T23:50:36Z",
+        "uri": "https://wayback.archive-it.org/all/20231113235036/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-11-21T01:20:43Z",
+        "uri": "https://wayback.archive-it.org/all/20231121012043/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-11-24T20:27:07Z",
+        "uri": "https://wayback.archive-it.org/all/20231124202707/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-11-27T04:20:32Z",
+        "uri": "https://wayback.archive-it.org/all/20231127042032/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2023-12-24T08:37:01Z",
+        "uri": "https://wayback.archive-it.org/all/20231224083701/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2024-01-09T15:14:14Z",
+        "uri": "https://wayback.archive-it.org/all/20240109151414/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2024-01-30T08:29:05Z",
+        "uri": "https://wayback.archive-it.org/all/20240130082905/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2024-02-06T11:22:47Z",
+        "uri": "https://wayback.archive-it.org/all/20240206112247/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2024-02-07T17:17:29Z",
+        "uri": "https://wayback.archive-it.org/all/20240207171729/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2024-03-24T15:05:31Z",
+        "uri": "https://wayback.archive-it.org/all/20240324150531/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2024-03-26T22:12:58Z",
+        "uri": "https://wayback.archive-it.org/all/20240326221258/https://developers.google.com/youtube/android/player"
+      },
+      {
+        "datetime": "2024-04-24T04:52:57Z",
+        "uri": "https://wayback.archive-it.org/all/20240424045257/https://developers.google.com/youtube/android/player"
+      }
+    ],
+    "first": {
+      "datetime": "2013-03-08T00:47:29Z",
+      "uri": "https://wayback.archive-it.org/all/20130308004729/https://developers.google.com/youtube/android/player/"
+    },
+    "last": {
+      "datetime": "2024-04-24T04:52:57Z",
+      "uri": "https://wayback.archive-it.org/all/20240424045257/https://developers.google.com/youtube/android/player"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://developers.google.com/youtube/android/player",
+    "json_format": "http://localhost:1208/timemap/json/https://developers.google.com/youtube/android/player",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://developers.google.com/youtube/android/player"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://developers.google.com/youtube/android/player"
+}

@@ -1,0 +1,582 @@
+{
+  "original_uri": "https://www.allassignmenthelp.com/uk/",
+  "self": "http://localhost:1208/timemap/json/https://www.allassignmenthelp.com/uk/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-01-09T13:56:26Z",
+        "uri": "https://wayback.archive-it.org/all/20190109135626/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-01-09T13:56:26Z",
+        "uri": "https://web.archive.org/web/20190109135626/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-02-28T06:51:47Z",
+        "uri": "https://web.archive.org/web/20190228065147/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-03-27T07:04:40Z",
+        "uri": "https://web.archive.org/web/20190327070440/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-03-27T07:05:49Z",
+        "uri": "https://web.archive.org/web/20190327070549/https://www.allassignmenthelp.com/uk"
+      },
+      {
+        "datetime": "2019-03-30T13:37:13Z",
+        "uri": "https://arquivo.pt/wayback/20190330133713mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-03-30T13:37:13Z",
+        "uri": "https://web.archive.org/web/20190330133713/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-04-12T06:31:35Z",
+        "uri": "https://arquivo.pt/wayback/20190412063135mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-04-12T06:31:35Z",
+        "uri": "https://web.archive.org/web/20190412063135/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-04-14T11:53:46Z",
+        "uri": "https://web.archive.org/web/20190414115346/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-05-15T15:06:17Z",
+        "uri": "https://web.archive.org/web/20190515150617/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-06-26T14:14:18Z",
+        "uri": "https://arquivo.pt/wayback/20190626141418mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-07-09T09:29:59Z",
+        "uri": "https://web.archive.org/web/20190709092959/https://www.allassignmenthelp.com/uk"
+      },
+      {
+        "datetime": "2019-08-22T13:17:45Z",
+        "uri": "https://web.archive.org/web/20190822131745/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-09-08T03:41:17Z",
+        "uri": "https://arquivo.pt/wayback/20190908034117mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-09-08T03:41:17Z",
+        "uri": "https://web.archive.org/web/20190908034117/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-09-20T03:51:41Z",
+        "uri": "https://arquivo.pt/wayback/20190920035141mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-09-20T03:51:41Z",
+        "uri": "https://web.archive.org/web/20190920035141/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-10-03T01:34:02Z",
+        "uri": "https://web.archive.org/web/20191003013402/http://www.allassignmenthelp.com:80/uk"
+      },
+      {
+        "datetime": "2019-10-05T06:35:29Z",
+        "uri": "https://web.archive.org/web/20191005063529/http://www.allassignmenthelp.com:80/uk/"
+      },
+      {
+        "datetime": "2019-12-04T13:23:11Z",
+        "uri": "https://web.archive.org/web/20191204132311/http://www.allassignmenthelp.com:80/uk/"
+      },
+      {
+        "datetime": "2019-12-11T01:29:57Z",
+        "uri": "https://arquivo.pt/wayback/20191211012957mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2019-12-11T01:29:57Z",
+        "uri": "https://web.archive.org/web/20191211012957/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-02-01T12:28:42Z",
+        "uri": "https://web.archive.org/web/20200201122842/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-02-02T20:43:27Z",
+        "uri": "https://web.archive.org/web/20200202204327/http://www.allassignmenthelp.com:80/uk/"
+      },
+      {
+        "datetime": "2020-02-10T08:56:43Z",
+        "uri": "https://web.archive.org/web/20200210085643/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-02-26T07:19:59Z",
+        "uri": "https://web.archive.org/web/20200226071959/http://www.allassignmenthelp.com:80/uk/"
+      },
+      {
+        "datetime": "2020-02-27T17:17:22Z",
+        "uri": "https://web.archive.org/web/20200227171722/http://www.allassignmenthelp.com:80/uk/"
+      },
+      {
+        "datetime": "2020-03-12T17:00:46Z",
+        "uri": "https://arquivo.pt/wayback/20200312170046mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-03-12T17:00:46Z",
+        "uri": "https://web.archive.org/web/20200312170046/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-04-14T07:09:27Z",
+        "uri": "https://web.archive.org/web/20200414070927/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-04-21T15:55:49Z",
+        "uri": "https://web.archive.org/web/20200421155549/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-04-24T10:12:11Z",
+        "uri": "https://web.archive.org/web/20200424101211/http://www.allassignmenthelp.com:80/uk"
+      },
+      {
+        "datetime": "2020-04-27T20:42:04Z",
+        "uri": "https://web.archive.org/web/20200427204204/http://www.allassignmenthelp.com:80/uk/"
+      },
+      {
+        "datetime": "2020-05-15T01:04:13Z",
+        "uri": "https://web.archive.org/web/20200515010413/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-06-01T18:19:50Z",
+        "uri": "https://arquivo.pt/wayback/20200601181950mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-06-01T18:19:50Z",
+        "uri": "https://web.archive.org/web/20200601181950/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-06-01T18:19:50Z",
+        "uri": "https://web.archive.org/web/20200601181950/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-06-11T01:22:35Z",
+        "uri": "https://arquivo.pt/wayback/20200611012235mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-06-11T01:22:35Z",
+        "uri": "https://web.archive.org/web/20200611012235/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-06-24T01:19:26Z",
+        "uri": "https://web.archive.org/web/20200624011926/http://www.allassignmenthelp.com:80/uk"
+      },
+      {
+        "datetime": "2020-06-27T02:11:44Z",
+        "uri": "https://web.archive.org/web/20200627021144/http://www.allassignmenthelp.com:80/uk/"
+      },
+      {
+        "datetime": "2020-07-14T08:11:51Z",
+        "uri": "https://web.archive.org/web/20200714081151/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-07-21T15:16:46Z",
+        "uri": "https://web.archive.org/web/20200721151646/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-08-09T22:26:00Z",
+        "uri": "https://web.archive.org/web/20200809222600/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-08-22T16:00:45Z",
+        "uri": "https://web.archive.org/web/20200822160045/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-08-27T18:15:50Z",
+        "uri": "https://web.archive.org/web/20200827181550/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-08-31T08:01:46Z",
+        "uri": "https://web.archive.org/web/20200831080146/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-09-09T01:56:21Z",
+        "uri": "https://arquivo.pt/wayback/20200909015621mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-09-09T01:56:21Z",
+        "uri": "https://web.archive.org/web/20200909015621/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-10-12T20:06:46Z",
+        "uri": "https://web.archive.org/web/20201012200646/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-12-06T10:29:23Z",
+        "uri": "https://web.archive.org/web/20201206102923/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-12-10T11:57:24Z",
+        "uri": "https://arquivo.pt/wayback/20201210115724mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2020-12-10T11:57:24Z",
+        "uri": "https://web.archive.org/web/20201210115724/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-01-01T22:45:10Z",
+        "uri": "https://web.archive.org/web/20210101224510/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-01-06T22:09:00Z",
+        "uri": "https://web.archive.org/web/20210106220900/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-01-16T02:07:03Z",
+        "uri": "https://arquivo.pt/wayback/20210116020703mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-01-22T18:22:02Z",
+        "uri": "https://web.archive.org/web/20210122182202/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-01-25T04:49:05Z",
+        "uri": "https://web.archive.org/web/20210125044905/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-02-20T08:46:37Z",
+        "uri": "https://web.archive.org/web/20210220084637/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-03-08T16:57:34Z",
+        "uri": "https://arquivo.pt/wayback/20210308165734mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-03-08T16:57:34Z",
+        "uri": "https://web.archive.org/web/20210308165734/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-03-13T02:02:23Z",
+        "uri": "https://web.archive.org/web/20210313020223/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-04-08T17:59:54Z",
+        "uri": "https://web.archive.org/web/20210408175954/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-04-17T15:38:50Z",
+        "uri": "https://web.archive.org/web/20210417153850/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-04-23T11:37:21Z",
+        "uri": "https://web.archive.org/web/20210423113721/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-05-08T03:36:53Z",
+        "uri": "https://web.archive.org/web/20210508033653/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-05-26T15:25:09Z",
+        "uri": "https://web.archive.org/web/20210526152509/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-06-10T09:04:38Z",
+        "uri": "https://arquivo.pt/wayback/20210610090438mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-06-10T09:04:38Z",
+        "uri": "https://web.archive.org/web/20210610090438/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-06-21T01:30:09Z",
+        "uri": "https://web.archive.org/web/20210621013009/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-06-21T01:30:09Z",
+        "uri": "https://web.archive.org/web/20210621013009/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-06-23T08:32:10Z",
+        "uri": "https://web.archive.org/web/20210623083210/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-06-23T08:32:10Z",
+        "uri": "https://web.archive.org/web/20210623083210/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-08-11T23:45:24Z",
+        "uri": "https://web.archive.org/web/20210811234524/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-08-12T19:31:14Z",
+        "uri": "https://web.archive.org/web/20210812193114/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-09-02T19:33:31Z",
+        "uri": "https://web.archive.org/web/20210902193331/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-09-03T18:06:04Z",
+        "uri": "https://web.archive.org/web/20210903180604/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-09-17T12:26:45Z",
+        "uri": "https://web.archive.org/web/20210917122645/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-09-18T20:32:17Z",
+        "uri": "https://web.archive.org/web/20210918203217/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-09-22T02:49:57Z",
+        "uri": "https://web.archive.org/web/20210922024957/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-09-22T23:43:14Z",
+        "uri": "https://web.archive.org/web/20210922234314/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-10-18T09:16:55Z",
+        "uri": "https://arquivo.pt/wayback/20211018091655mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-10-18T09:16:55Z",
+        "uri": "https://web.archive.org/web/20211018091655/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-12-04T11:17:14Z",
+        "uri": "https://web.archive.org/web/20211204111714/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-12-11T02:32:50Z",
+        "uri": "https://web.archive.org/web/20211211023250/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-12-28T15:16:04Z",
+        "uri": "https://web.archive.org/web/20211228151604/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2021-12-31T05:44:49Z",
+        "uri": "https://web.archive.org/web/20211231054449/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-01-19T00:21:46Z",
+        "uri": "https://web.archive.org/web/20220119002146/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-02-06T06:59:04Z",
+        "uri": "https://arquivo.pt/wayback/20220206065904mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-03-03T19:34:45Z",
+        "uri": "https://web.archive.org/web/20220303193445/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-04-17T20:22:27Z",
+        "uri": "https://web.archive.org/web/20220417202227/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-04-28T06:27:43Z",
+        "uri": "https://arquivo.pt/wayback/20220428062743mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-05-03T15:04:50Z",
+        "uri": "https://web.archive.org/web/20220503150450/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-05-04T03:02:25Z",
+        "uri": "https://web.archive.org/web/20220504030225/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-05-20T01:34:19Z",
+        "uri": "https://web.archive.org/web/20220520013419/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-05-24T19:33:54Z",
+        "uri": "https://web.archive.org/web/20220524193354/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-06-01T05:16:30Z",
+        "uri": "https://web.archive.org/web/20220601051630/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-06-04T11:12:54Z",
+        "uri": "https://web.archive.org/web/20220604111254/https://www.allassignmenthelp.com/uk"
+      },
+      {
+        "datetime": "2022-06-06T22:52:20Z",
+        "uri": "https://web.archive.org/web/20220606225220/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-07-05T09:56:59Z",
+        "uri": "https://web.archive.org/web/20220705095659/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-08-08T10:54:22Z",
+        "uri": "https://arquivo.pt/wayback/20220808105422mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-08-12T05:28:55Z",
+        "uri": "https://web.archive.org/web/20220812052855/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-08-20T04:46:33Z",
+        "uri": "https://web.archive.org/web/20220820044633/https://allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-08-28T00:03:16Z",
+        "uri": "https://web.archive.org/web/20220828000316/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-09-16T06:58:23Z",
+        "uri": "https://web.archive.org/web/20220916065823/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-10-05T15:56:34Z",
+        "uri": "https://web.archive.org/web/20221005155634/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-10-06T08:21:41Z",
+        "uri": "https://web.archive.org/web/20221006082141/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-10-13T14:23:36Z",
+        "uri": "https://web.archive.org/web/20221013142336/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-10-24T05:17:44Z",
+        "uri": "https://arquivo.pt/wayback/20221024051744mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-11-05T13:48:10Z",
+        "uri": "https://web.archive.org/web/20221105134810/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-12-01T19:18:05Z",
+        "uri": "https://web.archive.org/web/20221201191805/https://allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2022-12-06T08:46:51Z",
+        "uri": "https://web.archive.org/web/20221206084651/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-01-29T19:03:43Z",
+        "uri": "https://web.archive.org/web/20230129190343/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-01-31T04:18:11Z",
+        "uri": "https://arquivo.pt/wayback/20230131041811mp_/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-02-16T16:09:04Z",
+        "uri": "https://web.archive.org/web/20230216160904/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-03-06T00:44:10Z",
+        "uri": "https://web.archive.org/web/20230306004410/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-03-06T13:37:38Z",
+        "uri": "https://web.archive.org/web/20230306133738/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-03-23T02:27:12Z",
+        "uri": "https://web.archive.org/web/20230323022712/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-03-23T23:07:36Z",
+        "uri": "https://web.archive.org/web/20230323230736/https://allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-03-26T05:57:12Z",
+        "uri": "https://web.archive.org/web/20230326055712/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-06-26T19:01:07Z",
+        "uri": "https://web.archive.org/web/20230626190107/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-07-09T17:07:48Z",
+        "uri": "https://web.archive.org/web/20230709170748/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-08-19T14:11:20Z",
+        "uri": "https://web.archive.org/web/20230819141120/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-10-05T12:35:07Z",
+        "uri": "https://web.archive.org/web/20231005123507/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-10-09T23:50:57Z",
+        "uri": "https://web.archive.org/web/20231009235057/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-11-11T23:03:19Z",
+        "uri": "https://web.archive.org/web/20231111230319/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-11-19T14:46:01Z",
+        "uri": "https://web.archive.org/web/20231119144601/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-12-08T19:34:30Z",
+        "uri": "https://web.archive.org/web/20231208193430/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-12-11T12:10:44Z",
+        "uri": "https://web.archive.org/web/20231211121044/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-12-12T16:36:58Z",
+        "uri": "https://web.archive.org/web/20231212163658/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-12-13T19:34:03Z",
+        "uri": "https://web.archive.org/web/20231213193403/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-12-19T08:57:13Z",
+        "uri": "https://web.archive.org/web/20231219085713/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-12-21T19:32:35Z",
+        "uri": "https://web.archive.org/web/20231221193235/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-12-23T12:32:59Z",
+        "uri": "https://web.archive.org/web/20231223123259/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2023-12-26T00:29:56Z",
+        "uri": "https://web.archive.org/web/20231226002956/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2024-01-22T06:26:53Z",
+        "uri": "https://web.archive.org/web/20240122062653/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2024-02-04T10:43:21Z",
+        "uri": "https://web.archive.org/web/20240204104321/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2024-03-25T05:38:47Z",
+        "uri": "https://web.archive.org/web/20240325053847/https://www.allassignmenthelp.com/uk/"
+      },
+      {
+        "datetime": "2024-04-04T05:03:11Z",
+        "uri": "https://web.archive.org/web/20240404050311/https://www.allassignmenthelp.com/uk/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-01-09T13:56:26Z",
+      "uri": "https://wayback.archive-it.org/all/20190109135626/https://www.allassignmenthelp.com/uk/"
+    },
+    "last": {
+      "datetime": "2024-04-04T05:03:11Z",
+      "uri": "https://web.archive.org/web/20240404050311/https://www.allassignmenthelp.com/uk/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.allassignmenthelp.com/uk/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.allassignmenthelp.com/uk/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.allassignmenthelp.com/uk/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.allassignmenthelp.com/uk/"
+}

@@ -1,0 +1,218 @@
+{
+  "original_uri": "https://www.odu.edu/set/spirit/homecoming",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/set/spirit/homecoming",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-08-12T21:16:07Z",
+        "uri": "https://web.archive.org/web/20210812211607/https://odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2021-11-15T15:55:40Z",
+        "uri": "https://arquivo.pt/wayback/20211115155540mp_/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2021-11-15T15:55:43Z",
+        "uri": "https://arquivo.pt/wayback/20211115155543mp_/http://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-03-19T23:57:55Z",
+        "uri": "https://web.archive.org/web/20220319235755/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-05-24T22:15:49Z",
+        "uri": "https://web.archive.org/web/20220524221549/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-05-27T11:21:19Z",
+        "uri": "https://arquivo.pt/wayback/20220527112119mp_/https://odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-06-30T11:05:33Z",
+        "uri": "https://web.archive.org/web/20220630110533/https://odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-08-11T05:13:46Z",
+        "uri": "https://wayback.archive-it.org/all/20220811051346/https://odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-08-11T05:13:46Z",
+        "uri": "https://web.archive.org/web/20220811051346/https://odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-08-11T05:14:26Z",
+        "uri": "https://wayback.archive-it.org/all/20220811051426/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-08-11T05:14:26Z",
+        "uri": "https://web.archive.org/web/20220811051426/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-08-11T05:14:33Z",
+        "uri": "https://wayback.archive-it.org/all/20220811051433/http://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-08-11T05:14:33Z",
+        "uri": "https://web.archive.org/web/20220811051433/http://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-08-14T09:59:06Z",
+        "uri": "https://web.archive.org/web/20220814095906/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-10-21T23:27:24Z",
+        "uri": "https://web.archive.org/web/20221021232724/http://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-10-21T23:28:56Z",
+        "uri": "https://web.archive.org/web/20221021232856/https://odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-11-07T06:07:46Z",
+        "uri": "https://wayback.archive-it.org/all/20221107060746/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-11-07T06:07:46Z",
+        "uri": "https://web.archive.org/web/20221107060746/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-11-07T21:34:26Z",
+        "uri": "https://wayback.archive-it.org/all/20221107213426/http://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-11-07T21:34:26Z",
+        "uri": "https://web.archive.org/web/20221107213426/http://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-11-13T15:59:22Z",
+        "uri": "https://web.archive.org/web/20221113155922/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-11-16T04:35:53Z",
+        "uri": "https://arquivo.pt/wayback/20221116043553mp_/https://odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-11-18T19:28:10Z",
+        "uri": "https://web.archive.org/web/20221118192810/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-12-07T13:15:21Z",
+        "uri": "https://wayback.archive-it.org/all/20221207131521/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-12-07T13:15:21Z",
+        "uri": "https://web.archive.org/web/20221207131521/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-12-08T05:51:21Z",
+        "uri": "https://web.archive.org/web/20221208055121/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-12-10T22:16:12Z",
+        "uri": "https://wayback.archive-it.org/all/20221210221612/http://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2022-12-10T22:16:12Z",
+        "uri": "https://web.archive.org/web/20221210221612/http://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-01-07T12:51:11Z",
+        "uri": "https://wayback.archive-it.org/all/20230107125111/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-01-07T12:51:11Z",
+        "uri": "https://web.archive.org/web/20230107125111/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-01-10T16:55:13Z",
+        "uri": "https://wayback.archive-it.org/all/20230110165513/http://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-01-10T16:55:13Z",
+        "uri": "https://web.archive.org/web/20230110165513/http://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-01-24T20:39:45Z",
+        "uri": "https://arquivo.pt/wayback/20230124203945mp_/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-02-07T12:10:28Z",
+        "uri": "https://wayback.archive-it.org/all/20230207121028/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-02-07T12:10:28Z",
+        "uri": "https://web.archive.org/web/20230207121028/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-02-10T10:02:36Z",
+        "uri": "https://wayback.archive-it.org/all/20230210100236/http://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-02-10T10:02:36Z",
+        "uri": "https://web.archive.org/web/20230210100236/http://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-02-20T01:06:45Z",
+        "uri": "https://web.archive.org/web/20230220010645/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-03-07T05:03:11Z",
+        "uri": "https://wayback.archive-it.org/all/20230307050311/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-03-07T05:03:11Z",
+        "uri": "https://web.archive.org/web/20230307050311/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-03-07T17:26:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230307172615/http://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-03-07T17:26:15Z",
+        "uri": "https://web.archive.org/web/20230307172615/http://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-03-27T22:35:48Z",
+        "uri": "https://web.archive.org/web/20230327223548/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-08-25T19:45:07Z",
+        "uri": "https://wayback.archive-it.org/all/20230825194507/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2023-08-25T19:45:07Z",
+        "uri": "https://web.archive.org/web/20230825194507/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2024-03-05T18:24:29Z",
+        "uri": "https://web.archive.org/web/20240305182429/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2024-04-04T07:26:52Z",
+        "uri": "https://web.archive.org/web/20240404072652/https://www.odu.edu/set/spirit/homecoming"
+      },
+      {
+        "datetime": "2024-04-27T16:12:19Z",
+        "uri": "https://web.archive.org/web/20240427161219/https://www.odu.edu/set/spirit/homecoming"
+      }
+    ],
+    "first": {
+      "datetime": "2021-08-12T21:16:07Z",
+      "uri": "https://web.archive.org/web/20210812211607/https://odu.edu/set/spirit/homecoming"
+    },
+    "last": {
+      "datetime": "2024-04-27T16:12:19Z",
+      "uri": "https://web.archive.org/web/20240427161219/https://www.odu.edu/set/spirit/homecoming"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/set/spirit/homecoming",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/set/spirit/homecoming",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/set/spirit/homecoming"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/set/spirit/homecoming"
+}

@@ -1,0 +1,86 @@
+{
+  "original_uri": "https://support.google.com/youtube/answer/10835034?hl=en",
+  "self": "http://localhost:1208/timemap/json/https://support.google.com/youtube/answer/10835034?hl=en",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-23T12:38:17Z",
+        "uri": "http://archive.md/20211123123817/https://support.google.com/youtube/answer/10835034?hl=en"
+      },
+      {
+        "datetime": "2022-02-25T23:48:00Z",
+        "uri": "https://wayback.archive-it.org/all/20220225234800/https://support.google.com/youtube/answer/10835034?hl=en"
+      },
+      {
+        "datetime": "2022-03-25T04:14:53Z",
+        "uri": "https://wayback.archive-it.org/all/20220325041453/https://support.google.com/youtube/answer/10835034?hl=en"
+      },
+      {
+        "datetime": "2022-03-25T18:20:09Z",
+        "uri": "https://wayback.archive-it.org/all/20220325182009/https://support.google.com/youtube/answer/10835034?hl=en"
+      },
+      {
+        "datetime": "2022-03-26T18:20:42Z",
+        "uri": "https://wayback.archive-it.org/all/20220326182042/https://support.google.com/youtube/answer/10835034?hl=en"
+      },
+      {
+        "datetime": "2022-03-27T19:14:46Z",
+        "uri": "https://wayback.archive-it.org/all/20220327191446/https://support.google.com/youtube/answer/10835034?hl=en"
+      },
+      {
+        "datetime": "2022-08-24T19:51:44Z",
+        "uri": "https://arquivo.pt/wayback/20220824195144mp_/https://support.google.com/youtube/answer/10835034?hl=en"
+      },
+      {
+        "datetime": "2022-09-15T16:28:06Z",
+        "uri": "https://wayback.archive-it.org/all/20220915162806/https://support.google.com/youtube/answer/10835034?hl=en"
+      },
+      {
+        "datetime": "2022-09-15T19:29:13Z",
+        "uri": "https://wayback.archive-it.org/all/20220915192913/https://support.google.com/youtube/answer/10835034?hl=en"
+      },
+      {
+        "datetime": "2023-06-02T13:02:54Z",
+        "uri": "https://wayback.archive-it.org/all/20230602130254/https://support.google.com/youtube/answer/10835034?hl=en"
+      },
+      {
+        "datetime": "2023-06-02T13:02:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230602130256/https://support.google.com/youtube/answer/10835034?hl=en"
+      },
+      {
+        "datetime": "2023-06-03T08:02:07Z",
+        "uri": "http://archive.md/20230603080207/https://support.google.com/youtube/answer/10835034?hl=en"
+      },
+      {
+        "datetime": "2023-09-04T06:08:33Z",
+        "uri": "https://perma.cc/X7NG-HF8H"
+      },
+      {
+        "datetime": "2023-11-07T22:44:15Z",
+        "uri": "http://archive.md/20231107224415/https://support.google.com/youtube/answer/10835034?hl=en"
+      },
+      {
+        "datetime": "2023-12-15T21:09:24Z",
+        "uri": "https://wayback.archive-it.org/all/20231215210924/https://support.google.com/youtube/answer/10835034?hl=en"
+      },
+      {
+        "datetime": "2024-04-07T18:03:04Z",
+        "uri": "https://perma.cc/C6LQ-VS7C"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-23T12:38:17Z",
+      "uri": "http://archive.md/20211123123817/https://support.google.com/youtube/answer/10835034?hl=en"
+    },
+    "last": {
+      "datetime": "2024-04-07T18:03:04Z",
+      "uri": "https://perma.cc/C6LQ-VS7C"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://support.google.com/youtube/answer/10835034?hl=en",
+    "json_format": "http://localhost:1208/timemap/json/https://support.google.com/youtube/answer/10835034?hl=en",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://support.google.com/youtube/answer/10835034?hl=en"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://support.google.com/youtube/answer/10835034?hl=en"
+}

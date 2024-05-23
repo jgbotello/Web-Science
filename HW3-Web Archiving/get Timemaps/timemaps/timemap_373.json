@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://soundcloud.com/tomfrankly/battle-in-downtown-yokohama",
+  "self": "http://localhost:1208/timemap/json/https://soundcloud.com/tomfrankly/battle-in-downtown-yokohama",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-12-06T14:19:13Z",
+        "uri": "https://web.archive.org/web/20161206141913/https://soundcloud.com/tomfrankly/battle-in-downtown-yokohama"
+      },
+      {
+        "datetime": "2020-08-10T03:54:27Z",
+        "uri": "https://web.archive.org/web/20200810035427/https://soundcloud.com/tomfrankly/battle-in-downtown-yokohama"
+      },
+      {
+        "datetime": "2021-08-14T20:44:31Z",
+        "uri": "https://web.archive.org/web/20210814204431/https://soundcloud.com/tomfrankly/battle-in-downtown-yokohama"
+      },
+      {
+        "datetime": "2021-09-24T04:46:44Z",
+        "uri": "https://web.archive.org/web/20210924044644/https://soundcloud.com/tomfrankly/battle-in-downtown-yokohama"
+      },
+      {
+        "datetime": "2022-08-08T13:19:45Z",
+        "uri": "https://web.archive.org/web/20220808131945/https://soundcloud.com/tomfrankly/battle-in-downtown-yokohama"
+      }
+    ],
+    "first": {
+      "datetime": "2016-12-06T14:19:13Z",
+      "uri": "https://web.archive.org/web/20161206141913/https://soundcloud.com/tomfrankly/battle-in-downtown-yokohama"
+    },
+    "last": {
+      "datetime": "2022-08-08T13:19:45Z",
+      "uri": "https://web.archive.org/web/20220808131945/https://soundcloud.com/tomfrankly/battle-in-downtown-yokohama"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://soundcloud.com/tomfrankly/battle-in-downtown-yokohama",
+    "json_format": "http://localhost:1208/timemap/json/https://soundcloud.com/tomfrankly/battle-in-downtown-yokohama",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://soundcloud.com/tomfrankly/battle-in-downtown-yokohama"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://soundcloud.com/tomfrankly/battle-in-downtown-yokohama"
+}

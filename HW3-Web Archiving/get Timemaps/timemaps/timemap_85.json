@@ -1,0 +1,254 @@
+{
+  "original_uri": "https://www.ripta.com/commuters/",
+  "self": "http://localhost:1208/timemap/json/https://www.ripta.com/commuters/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-23T10:41:27Z",
+        "uri": "https://web.archive.org/web/20200923104127/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2020-10-16T16:06:18Z",
+        "uri": "https://web.archive.org/web/20201016160618/https://www.ripta.com/commuters"
+      },
+      {
+        "datetime": "2020-10-16T18:48:47Z",
+        "uri": "https://web.archive.org/web/20201016184847/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2020-12-03T20:35:33Z",
+        "uri": "https://web.archive.org/web/20201203203533/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2021-03-02T05:44:40Z",
+        "uri": "https://web.archive.org/web/20210302054440/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2021-04-23T01:31:56Z",
+        "uri": "https://web.archive.org/web/20210423013156/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2021-05-01T03:46:11Z",
+        "uri": "https://web.archive.org/web/20210501034611/https://www.ripta.com/commuters"
+      },
+      {
+        "datetime": "2021-05-15T12:13:18Z",
+        "uri": "https://web.archive.org/web/20210515121318/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2021-07-27T16:07:25Z",
+        "uri": "https://web.archive.org/web/20210727160725/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2021-08-10T08:29:19Z",
+        "uri": "https://web.archive.org/web/20210810082919/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2021-09-10T02:04:11Z",
+        "uri": "https://web.archive.org/web/20210910020411/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2021-09-24T15:58:43Z",
+        "uri": "https://web.archive.org/web/20210924155843/https://www.ripta.com/commuters"
+      },
+      {
+        "datetime": "2021-10-28T21:35:18Z",
+        "uri": "https://web.archive.org/web/20211028213518/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2021-11-11T22:24:20Z",
+        "uri": "https://web.archive.org/web/20211111222420/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2021-11-16T17:19:43Z",
+        "uri": "https://web.archive.org/web/20211116171943/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2021-12-28T21:37:33Z",
+        "uri": "https://web.archive.org/web/20211228213733/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-01-04T09:50:45Z",
+        "uri": "https://web.archive.org/web/20220104095045/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-01-15T11:33:57Z",
+        "uri": "https://web.archive.org/web/20220115113357/https://www.ripta.com/commuters"
+      },
+      {
+        "datetime": "2022-01-15T16:58:28Z",
+        "uri": "https://web.archive.org/web/20220115165828/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-01-18T06:35:39Z",
+        "uri": "https://web.archive.org/web/20220118063539/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-01-27T22:55:47Z",
+        "uri": "https://arquivo.pt/wayback/20220127225547mp_/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-02-05T18:24:30Z",
+        "uri": "https://web.archive.org/web/20220205182430/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-03-05T13:49:41Z",
+        "uri": "https://web.archive.org/web/20220305134941/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-03-08T08:33:42Z",
+        "uri": "https://web.archive.org/web/20220308083342/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-03-10T21:04:40Z",
+        "uri": "https://web.archive.org/web/20220310210440/https://www.ripta.com/commuters"
+      },
+      {
+        "datetime": "2022-03-10T21:04:41Z",
+        "uri": "https://web.archive.org/web/20220310210441/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-03-10T21:06:24Z",
+        "uri": "https://web.archive.org/web/20220310210624/https://www.ripta.com/commuters"
+      },
+      {
+        "datetime": "2022-03-10T21:06:25Z",
+        "uri": "https://web.archive.org/web/20220310210625/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-03-13T06:51:18Z",
+        "uri": "https://web.archive.org/web/20220313065118/https://www.ripta.com/commuters"
+      },
+      {
+        "datetime": "2022-03-13T06:51:19Z",
+        "uri": "https://web.archive.org/web/20220313065119/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-03-13T11:59:58Z",
+        "uri": "https://web.archive.org/web/20220313115958/https://www.ripta.com/commuters"
+      },
+      {
+        "datetime": "2022-03-13T11:59:59Z",
+        "uri": "https://web.archive.org/web/20220313115959/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-04-18T18:21:05Z",
+        "uri": "https://arquivo.pt/wayback/20220418182105mp_/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-04-28T02:17:11Z",
+        "uri": "https://arquivo.pt/wayback/20220428021711mp_/https://ripta.com/commuters"
+      },
+      {
+        "datetime": "2022-05-17T08:40:29Z",
+        "uri": "https://web.archive.org/web/20220517084029/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-05-17T22:37:01Z",
+        "uri": "https://web.archive.org/web/20220517223701/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-06-25T17:12:07Z",
+        "uri": "https://web.archive.org/web/20220625171207/https://www.ripta.com/commuters"
+      },
+      {
+        "datetime": "2022-08-10T06:12:33Z",
+        "uri": "https://web.archive.org/web/20220810061233/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-10-23T23:14:33Z",
+        "uri": "https://web.archive.org/web/20221023231433/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2022-12-09T13:48:24Z",
+        "uri": "https://web.archive.org/web/20221209134824/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2023-01-23T06:06:40Z",
+        "uri": "https://web.archive.org/web/20230123060640/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2023-02-07T03:01:19Z",
+        "uri": "https://web.archive.org/web/20230207030119/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2023-03-10T00:39:54Z",
+        "uri": "https://web.archive.org/web/20230310003954/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2023-04-19T08:24:25Z",
+        "uri": "https://web.archive.org/web/20230419082425/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2023-05-22T18:50:17Z",
+        "uri": "https://web.archive.org/web/20230522185017/https://www.ripta.com/commuters"
+      },
+      {
+        "datetime": "2023-05-22T18:50:22Z",
+        "uri": "https://web.archive.org/web/20230522185022/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2023-05-25T19:32:46Z",
+        "uri": "https://web.archive.org/web/20230525193246/https://www.ripta.com/commuters"
+      },
+      {
+        "datetime": "2023-05-31T01:18:37Z",
+        "uri": "https://web.archive.org/web/20230531011837/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2023-06-01T23:00:18Z",
+        "uri": "https://web.archive.org/web/20230601230018/http://ripta.com/commuters"
+      },
+      {
+        "datetime": "2023-06-02T04:48:22Z",
+        "uri": "https://web.archive.org/web/20230602044822/https://ripta.com/commuters"
+      },
+      {
+        "datetime": "2023-06-03T04:28:17Z",
+        "uri": "https://web.archive.org/web/20230603042817/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2023-06-10T00:00:32Z",
+        "uri": "https://web.archive.org/web/20230610000032/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2023-08-10T15:55:52Z",
+        "uri": "https://web.archive.org/web/20230810155552/https://www.ripta.com/commuters"
+      },
+      {
+        "datetime": "2023-08-31T15:16:39Z",
+        "uri": "https://web.archive.org/web/20230831151639/https://www.ripta.com/commuters"
+      },
+      {
+        "datetime": "2023-09-30T00:34:19Z",
+        "uri": "https://web.archive.org/web/20230930003419/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2023-10-06T15:10:01Z",
+        "uri": "https://web.archive.org/web/20231006151001/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2023-12-11T16:47:00Z",
+        "uri": "https://web.archive.org/web/20231211164700/https://www.ripta.com/commuters/"
+      },
+      {
+        "datetime": "2024-02-13T20:34:23Z",
+        "uri": "https://web.archive.org/web/20240213203423/https://www.ripta.com/commuters/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-23T10:41:27Z",
+      "uri": "https://web.archive.org/web/20200923104127/https://www.ripta.com/commuters/"
+    },
+    "last": {
+      "datetime": "2024-02-13T20:34:23Z",
+      "uri": "https://web.archive.org/web/20240213203423/https://www.ripta.com/commuters/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.ripta.com/commuters/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.ripta.com/commuters/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ripta.com/commuters/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.ripta.com/commuters/"
+}

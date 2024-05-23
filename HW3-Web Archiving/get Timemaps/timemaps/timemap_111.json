@@ -1,0 +1,150 @@
+{
+  "original_uri": "https://www.odu.edu/privacy",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/privacy",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-16T20:10:17Z",
+        "uri": "https://wayback.archive-it.org/all/20200416201017/https://odu.edu/privacy"
+      },
+      {
+        "datetime": "2020-04-16T20:15:22Z",
+        "uri": "https://wayback.archive-it.org/all/20200416201522/https://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2020-04-16T20:15:48Z",
+        "uri": "https://wayback.archive-it.org/all/20200416201548/http://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2021-05-26T20:24:11Z",
+        "uri": "https://wayback.archive-it.org/all/20210526202411/https://odu.edu/privacy"
+      },
+      {
+        "datetime": "2021-05-26T20:24:25Z",
+        "uri": "https://wayback.archive-it.org/all/20210526202425/https://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2021-05-26T20:24:32Z",
+        "uri": "https://wayback.archive-it.org/all/20210526202432/http://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2021-09-10T15:41:11Z",
+        "uri": "https://arquivo.pt/wayback/20210910154111mp_/https://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2021-11-03T11:28:06Z",
+        "uri": "https://arquivo.pt/wayback/20211103112806mp_/https://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2021-11-03T11:28:11Z",
+        "uri": "https://arquivo.pt/wayback/20211103112811mp_/http://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-01-22T11:05:53Z",
+        "uri": "https://arquivo.pt/wayback/20220122110553mp_/https://odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-01-26T05:43:16Z",
+        "uri": "https://arquivo.pt/wayback/20220126054316mp_/http://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-04-17T06:20:44Z",
+        "uri": "https://arquivo.pt/wayback/20220417062044mp_/https://odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-04-22T17:26:46Z",
+        "uri": "https://arquivo.pt/wayback/20220422172646mp_/https://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-04-22T17:26:50Z",
+        "uri": "https://arquivo.pt/wayback/20220422172650mp_/http://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-04-24T18:59:44Z",
+        "uri": "https://arquivo.pt/wayback/20220424185944mp_/http://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-07-30T15:35:32Z",
+        "uri": "https://arquivo.pt/wayback/20220730153532mp_/https://odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-08-10T20:47:43Z",
+        "uri": "https://wayback.archive-it.org/all/20220810204743/https://odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-08-10T20:48:30Z",
+        "uri": "https://wayback.archive-it.org/all/20220810204830/https://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-08-10T20:48:50Z",
+        "uri": "https://wayback.archive-it.org/all/20220810204850/http://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-11-07T04:41:05Z",
+        "uri": "https://wayback.archive-it.org/all/20221107044105/https://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-11-07T10:35:22Z",
+        "uri": "https://wayback.archive-it.org/all/20221107103522/http://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-12-07T07:04:30Z",
+        "uri": "https://wayback.archive-it.org/all/20221207070430/https://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-12-08T15:39:06Z",
+        "uri": "https://wayback.archive-it.org/all/20221208153906/http://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-01-07T06:43:57Z",
+        "uri": "https://wayback.archive-it.org/all/20230107064357/https://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-01-08T08:44:23Z",
+        "uri": "https://wayback.archive-it.org/all/20230108084423/http://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-01-24T19:42:29Z",
+        "uri": "https://arquivo.pt/wayback/20230124194229mp_/https://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-02-07T05:54:08Z",
+        "uri": "https://wayback.archive-it.org/all/20230207055408/https://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-02-08T22:37:32Z",
+        "uri": "https://wayback.archive-it.org/all/20230208223732/http://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-03-07T04:22:40Z",
+        "uri": "https://wayback.archive-it.org/all/20230307042240/https://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-03-07T07:53:13Z",
+        "uri": "https://wayback.archive-it.org/all/20230307075313/http://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-08-25T17:33:09Z",
+        "uri": "https://wayback.archive-it.org/all/20230825173309/https://www.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-08-26T05:09:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230826050915/http://www.odu.edu/privacy"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-16T20:10:17Z",
+      "uri": "https://wayback.archive-it.org/all/20200416201017/https://odu.edu/privacy"
+    },
+    "last": {
+      "datetime": "2023-08-26T05:09:15Z",
+      "uri": "https://wayback.archive-it.org/all/20230826050915/http://www.odu.edu/privacy"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/privacy",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/privacy",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/privacy"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/privacy"
+}

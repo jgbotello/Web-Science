@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.allassignmenthelp.com/computer-programming-assignment-help.html",
+  "self": "http://localhost:1208/timemap/json/https://www.allassignmenthelp.com/computer-programming-assignment-help.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-04-12T06:34:24Z",
+        "uri": "https://arquivo.pt/wayback/20190412063424mp_/https://www.allassignmenthelp.com/computer-programming-assignment-help.html"
+      },
+      {
+        "datetime": "2019-09-08T03:38:52Z",
+        "uri": "https://arquivo.pt/wayback/20190908033852mp_/https://www.allassignmenthelp.com/computer-programming-assignment-help.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-04-12T06:34:24Z",
+      "uri": "https://arquivo.pt/wayback/20190412063424mp_/https://www.allassignmenthelp.com/computer-programming-assignment-help.html"
+    },
+    "last": {
+      "datetime": "2019-09-08T03:38:52Z",
+      "uri": "https://arquivo.pt/wayback/20190908033852mp_/https://www.allassignmenthelp.com/computer-programming-assignment-help.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.allassignmenthelp.com/computer-programming-assignment-help.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.allassignmenthelp.com/computer-programming-assignment-help.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.allassignmenthelp.com/computer-programming-assignment-help.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.allassignmenthelp.com/computer-programming-assignment-help.html"
+}

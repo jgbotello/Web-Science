@@ -1,0 +1,118 @@
+{
+  "original_uri": "https://www.odu.edu/partnerships/community/programs/upwardbound",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/partnerships/community/programs/upwardbound",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-05-26T21:57:56Z",
+        "uri": "https://wayback.archive-it.org/all/20210526215756/https://odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2021-05-26T21:58:07Z",
+        "uri": "https://wayback.archive-it.org/all/20210526215807/https://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2021-05-26T21:58:16Z",
+        "uri": "https://wayback.archive-it.org/all/20210526215816/http://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2021-11-11T02:16:30Z",
+        "uri": "https://arquivo.pt/wayback/20211111021630mp_/http://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2022-05-07T22:11:59Z",
+        "uri": "https://arquivo.pt/wayback/20220507221159mp_/https://odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2022-05-16T04:42:13Z",
+        "uri": "https://arquivo.pt/wayback/20220516044213mp_/http://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2022-08-10T23:23:20Z",
+        "uri": "https://wayback.archive-it.org/all/20220810232320/https://odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2022-08-10T23:23:41Z",
+        "uri": "https://wayback.archive-it.org/all/20220810232341/https://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2022-08-10T23:23:59Z",
+        "uri": "https://wayback.archive-it.org/all/20220810232359/http://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2022-08-18T08:05:44Z",
+        "uri": "https://arquivo.pt/wayback/20220818080544mp_/https://odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2022-11-07T05:25:13Z",
+        "uri": "https://wayback.archive-it.org/all/20221107052513/https://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2022-11-07T11:33:24Z",
+        "uri": "https://wayback.archive-it.org/all/20221107113324/http://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2022-11-16T04:03:34Z",
+        "uri": "https://arquivo.pt/wayback/20221116040334mp_/https://odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2022-12-07T07:56:42Z",
+        "uri": "https://wayback.archive-it.org/all/20221207075642/https://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2022-12-09T01:57:29Z",
+        "uri": "https://wayback.archive-it.org/all/20221209015729/http://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2023-01-07T07:40:13Z",
+        "uri": "https://wayback.archive-it.org/all/20230107074013/https://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2023-01-08T15:56:19Z",
+        "uri": "https://wayback.archive-it.org/all/20230108155619/http://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2023-01-24T19:52:00Z",
+        "uri": "https://arquivo.pt/wayback/20230124195200mp_/https://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2023-02-07T06:35:27Z",
+        "uri": "https://wayback.archive-it.org/all/20230207063527/https://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2023-02-09T11:01:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230209110133/http://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2023-03-07T04:30:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230307043017/https://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2023-03-07T09:17:40Z",
+        "uri": "https://wayback.archive-it.org/all/20230307091740/http://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2023-08-25T17:39:43Z",
+        "uri": "https://wayback.archive-it.org/all/20230825173943/https://www.odu.edu/partnerships/community/programs/upwardbound"
+      },
+      {
+        "datetime": "2023-08-26T06:54:35Z",
+        "uri": "https://wayback.archive-it.org/all/20230826065435/http://www.odu.edu/partnerships/community/programs/upwardbound"
+      }
+    ],
+    "first": {
+      "datetime": "2021-05-26T21:57:56Z",
+      "uri": "https://wayback.archive-it.org/all/20210526215756/https://odu.edu/partnerships/community/programs/upwardbound"
+    },
+    "last": {
+      "datetime": "2023-08-26T06:54:35Z",
+      "uri": "https://wayback.archive-it.org/all/20230826065435/http://www.odu.edu/partnerships/community/programs/upwardbound"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/partnerships/community/programs/upwardbound",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/partnerships/community/programs/upwardbound",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/partnerships/community/programs/upwardbound"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/partnerships/community/programs/upwardbound"
+}

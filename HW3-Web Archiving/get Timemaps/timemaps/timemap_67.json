@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.ripta.com/providence-newport-ferry/",
+  "self": "http://localhost:1208/timemap/json/https://www.ripta.com/providence-newport-ferry/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-01-27T22:51:35Z",
+        "uri": "https://arquivo.pt/wayback/20220127225135mp_/https://www.ripta.com/providence-newport-ferry/"
+      },
+      {
+        "datetime": "2022-04-18T18:12:55Z",
+        "uri": "https://arquivo.pt/wayback/20220418181255mp_/https://www.ripta.com/providence-newport-ferry/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-01-27T22:51:35Z",
+      "uri": "https://arquivo.pt/wayback/20220127225135mp_/https://www.ripta.com/providence-newport-ferry/"
+    },
+    "last": {
+      "datetime": "2022-04-18T18:12:55Z",
+      "uri": "https://arquivo.pt/wayback/20220418181255mp_/https://www.ripta.com/providence-newport-ferry/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.ripta.com/providence-newport-ferry/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.ripta.com/providence-newport-ferry/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ripta.com/providence-newport-ferry/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.ripta.com/providence-newport-ferry/"
+}

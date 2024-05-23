@@ -1,0 +1,282 @@
+{
+  "original_uri": "https://www.odu.edu/asis/trio",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/asis/trio",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-17T14:14:08Z",
+        "uri": "https://arquivo.pt/wayback/20211117141408mp_/http://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-06-28T11:59:41Z",
+        "uri": "https://web.archive.org/web/20220628115941/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-08-11T10:07:49Z",
+        "uri": "https://wayback.archive-it.org/all/20220811100749/https://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-08-11T10:07:49Z",
+        "uri": "https://web.archive.org/web/20220811100749/https://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-08-11T10:07:55Z",
+        "uri": "https://wayback.archive-it.org/all/20220811100755/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-08-11T10:07:55Z",
+        "uri": "https://web.archive.org/web/20220811100755/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-08-11T10:08:02Z",
+        "uri": "https://wayback.archive-it.org/all/20220811100802/http://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-08-11T10:08:02Z",
+        "uri": "https://web.archive.org/web/20220811100802/http://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-09-27T20:29:45Z",
+        "uri": "https://web.archive.org/web/20220927202945/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-10-07T14:41:32Z",
+        "uri": "https://web.archive.org/web/20221007144132/https://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-10-07T14:41:40Z",
+        "uri": "https://web.archive.org/web/20221007144140/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-10-26T13:08:13Z",
+        "uri": "https://web.archive.org/web/20221026130813/http://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-10-26T15:33:51Z",
+        "uri": "https://web.archive.org/web/20221026153351/http://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-10-26T19:34:43Z",
+        "uri": "https://web.archive.org/web/20221026193443/https://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-10-27T10:00:10Z",
+        "uri": "https://web.archive.org/web/20221027100010/http://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-10-27T10:00:22Z",
+        "uri": "https://web.archive.org/web/20221027100022/https://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-10-29T19:02:32Z",
+        "uri": "https://wayback.archive-it.org/all/20221029190232/http://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-10-29T19:02:32Z",
+        "uri": "https://web.archive.org/web/20221029190232/http://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-10-29T19:02:52Z",
+        "uri": "https://wayback.archive-it.org/all/20221029190252/https://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-10-29T19:02:52Z",
+        "uri": "https://web.archive.org/web/20221029190252/https://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-10-30T17:29:16Z",
+        "uri": "https://wayback.archive-it.org/all/20221030172916/http://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-10-30T17:29:16Z",
+        "uri": "https://web.archive.org/web/20221030172916/http://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-10-30T17:29:21Z",
+        "uri": "https://wayback.archive-it.org/all/20221030172921/https://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-10-30T17:29:21Z",
+        "uri": "https://web.archive.org/web/20221030172921/https://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-10-31T11:18:25Z",
+        "uri": "https://web.archive.org/web/20221031111825/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-11-01T12:05:23Z",
+        "uri": "https://web.archive.org/web/20221101120523/http://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-11-07T06:07:39Z",
+        "uri": "https://wayback.archive-it.org/all/20221107060739/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-11-07T06:07:39Z",
+        "uri": "https://web.archive.org/web/20221107060739/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-11-07T21:04:30Z",
+        "uri": "https://wayback.archive-it.org/all/20221107210430/http://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-11-07T21:04:30Z",
+        "uri": "https://web.archive.org/web/20221107210430/http://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-11-08T14:06:03Z",
+        "uri": "https://web.archive.org/web/20221108140603/https://odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-11-08T14:06:05Z",
+        "uri": "https://web.archive.org/web/20221108140605/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-11-13T04:18:02Z",
+        "uri": "https://web.archive.org/web/20221113041802/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-12-07T13:13:54Z",
+        "uri": "https://wayback.archive-it.org/all/20221207131354/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-12-07T13:13:54Z",
+        "uri": "https://web.archive.org/web/20221207131354/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-12-08T05:51:55Z",
+        "uri": "https://web.archive.org/web/20221208055155/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-12-10T21:56:15Z",
+        "uri": "https://wayback.archive-it.org/all/20221210215615/http://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2022-12-10T21:56:15Z",
+        "uri": "https://web.archive.org/web/20221210215615/http://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-01-07T12:49:32Z",
+        "uri": "https://wayback.archive-it.org/all/20230107124932/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-01-07T12:49:32Z",
+        "uri": "https://web.archive.org/web/20230107124932/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-01-10T15:50:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230110155056/http://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-01-10T15:50:56Z",
+        "uri": "https://web.archive.org/web/20230110155056/http://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-01-24T20:37:57Z",
+        "uri": "https://arquivo.pt/wayback/20230124203757mp_/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-02-07T11:56:57Z",
+        "uri": "https://wayback.archive-it.org/all/20230207115657/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-02-07T11:56:57Z",
+        "uri": "https://web.archive.org/web/20230207115657/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-02-10T09:26:43Z",
+        "uri": "https://wayback.archive-it.org/all/20230210092643/http://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-02-10T09:26:43Z",
+        "uri": "https://web.archive.org/web/20230210092643/http://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-02-20T01:05:50Z",
+        "uri": "https://web.archive.org/web/20230220010550/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-03-07T05:02:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230307050233/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-03-07T05:02:33Z",
+        "uri": "https://web.archive.org/web/20230307050233/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-03-07T16:52:48Z",
+        "uri": "https://wayback.archive-it.org/all/20230307165248/http://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-03-07T16:52:48Z",
+        "uri": "https://web.archive.org/web/20230307165248/http://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-03-27T22:35:29Z",
+        "uri": "https://web.archive.org/web/20230327223529/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-08-25T18:57:46Z",
+        "uri": "https://wayback.archive-it.org/all/20230825185746/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-08-25T18:57:46Z",
+        "uri": "https://web.archive.org/web/20230825185746/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2023-11-28T03:54:19Z",
+        "uri": "https://web.archive.org/web/20231128035419/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2024-02-21T20:16:36Z",
+        "uri": "https://web.archive.org/web/20240221201636/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2024-02-28T23:38:48Z",
+        "uri": "https://web.archive.org/web/20240228233848/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2024-03-05T18:23:05Z",
+        "uri": "https://web.archive.org/web/20240305182305/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2024-04-01T13:06:52Z",
+        "uri": "https://web.archive.org/web/20240401130652/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2024-04-04T07:26:59Z",
+        "uri": "https://web.archive.org/web/20240404072659/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2024-04-17T03:30:49Z",
+        "uri": "https://web.archive.org/web/20240417033049/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2024-04-27T16:08:49Z",
+        "uri": "https://web.archive.org/web/20240427160849/https://www.odu.edu/asis/trio"
+      },
+      {
+        "datetime": "2024-05-13T13:54:33Z",
+        "uri": "https://web.archive.org/web/20240513135433/https://www.odu.edu/asis/trio"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-17T14:14:08Z",
+      "uri": "https://arquivo.pt/wayback/20211117141408mp_/http://www.odu.edu/asis/trio"
+    },
+    "last": {
+      "datetime": "2024-05-13T13:54:33Z",
+      "uri": "https://web.archive.org/web/20240513135433/https://www.odu.edu/asis/trio"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/asis/trio",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/asis/trio",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/asis/trio"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/asis/trio"
+}

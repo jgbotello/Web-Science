@@ -1,0 +1,94 @@
+{
+  "original_uri": "https://careercenter.risd.edu/artworks",
+  "self": "http://localhost:1208/timemap/json/https://careercenter.risd.edu/artworks",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-20T14:36:52Z",
+        "uri": "https://web.archive.org/web/20200420143652/https://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2020-04-24T20:39:12Z",
+        "uri": "https://web.archive.org/web/20200424203912/https://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2020-08-14T00:26:29Z",
+        "uri": "https://web.archive.org/web/20200814002629/https://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2020-10-27T22:02:05Z",
+        "uri": "https://web.archive.org/web/20201027220205/https://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2021-01-22T17:05:34Z",
+        "uri": "https://web.archive.org/web/20210122170534/https://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2021-04-15T05:52:24Z",
+        "uri": "https://web.archive.org/web/20210415055224/https://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2021-06-13T18:34:26Z",
+        "uri": "https://web.archive.org/web/20210613183426/https://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2021-06-13T18:34:26Z",
+        "uri": "https://web.archive.org/web/20210613183426/https://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2021-08-15T17:31:07Z",
+        "uri": "https://web.archive.org/web/20210815173107/https://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2022-03-01T18:55:37Z",
+        "uri": "https://web.archive.org/web/20220301185537/https://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2022-05-17T18:27:14Z",
+        "uri": "https://web.archive.org/web/20220517182714/https://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2022-08-27T05:26:19Z",
+        "uri": "https://web.archive.org/web/20220827052619/https://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2022-10-03T15:42:29Z",
+        "uri": "https://web.archive.org/web/20221003154229/https://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2023-01-25T23:32:52Z",
+        "uri": "https://web.archive.org/web/20230125233252/http://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2023-03-31T20:01:35Z",
+        "uri": "https://web.archive.org/web/20230331200135/https://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2023-09-23T02:10:34Z",
+        "uri": "https://web.archive.org/web/20230923021034/https://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2023-09-26T03:59:44Z",
+        "uri": "https://web.archive.org/web/20230926035944/https://careercenter.risd.edu/artworks"
+      },
+      {
+        "datetime": "2024-05-14T05:01:39Z",
+        "uri": "https://wayback.archive-it.org/all/20240514050139/https://careercenter.risd.edu/artworks"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-20T14:36:52Z",
+      "uri": "https://web.archive.org/web/20200420143652/https://careercenter.risd.edu/artworks"
+    },
+    "last": {
+      "datetime": "2024-05-14T05:01:39Z",
+      "uri": "https://wayback.archive-it.org/all/20240514050139/https://careercenter.risd.edu/artworks"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://careercenter.risd.edu/artworks",
+    "json_format": "http://localhost:1208/timemap/json/https://careercenter.risd.edu/artworks",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://careercenter.risd.edu/artworks"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://careercenter.risd.edu/artworks"
+}

@@ -1,0 +1,854 @@
+{
+  "original_uri": "https://www.odu.edu/impact/centers",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/impact/centers",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-06-29T03:44:08Z",
+        "uri": "https://web.archive.org/web/20160629034408/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2016-10-27T07:33:50Z",
+        "uri": "https://web.archive.org/web/20161027073350/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2016-10-28T21:12:20Z",
+        "uri": "https://web.archive.org/web/20161028211220/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2016-11-07T05:46:34Z",
+        "uri": "https://web.archive.org/web/20161107054634/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2016-11-19T13:29:11Z",
+        "uri": "https://web.archive.org/web/20161119132911/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2016-11-22T03:46:38Z",
+        "uri": "https://web.archive.org/web/20161122034638/http://odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2017-01-18T22:50:02Z",
+        "uri": "https://web.archive.org/web/20170118225002/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2017-01-21T14:59:14Z",
+        "uri": "https://web.archive.org/web/20170121145914/http://odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2017-01-21T19:12:30Z",
+        "uri": "https://web.archive.org/web/20170121191230/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2017-03-18T07:34:25Z",
+        "uri": "https://web.archive.org/web/20170318073425/http://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2017-03-24T00:31:44Z",
+        "uri": "https://web.archive.org/web/20170324003144/http://odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2017-03-25T23:49:35Z",
+        "uri": "https://web.archive.org/web/20170325234935/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2017-04-17T12:12:57Z",
+        "uri": "https://web.archive.org/web/20170417121257/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2017-05-01T01:20:21Z",
+        "uri": "https://web.archive.org/web/20170501012021/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2017-05-12T15:45:22Z",
+        "uri": "https://web.archive.org/web/20170512154522/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2017-05-26T13:22:39Z",
+        "uri": "https://web.archive.org/web/20170526132239/http://odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2017-06-06T01:45:34Z",
+        "uri": "https://web.archive.org/web/20170606014534/http://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2017-06-30T22:30:04Z",
+        "uri": "https://web.archive.org/web/20170630223004/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2017-07-26T13:09:48Z",
+        "uri": "https://web.archive.org/web/20170726130948/http://odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2017-08-30T09:27:34Z",
+        "uri": "https://web.archive.org/web/20170830092734/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2017-09-10T17:16:18Z",
+        "uri": "https://web.archive.org/web/20170910171618/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2017-09-25T10:44:17Z",
+        "uri": "https://web.archive.org/web/20170925104417/http://odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2017-10-11T03:55:13Z",
+        "uri": "https://web.archive.org/web/20171011035513/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2017-10-30T12:22:19Z",
+        "uri": "https://web.archive.org/web/20171030122219/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2017-11-24T20:26:16Z",
+        "uri": "https://web.archive.org/web/20171124202616/http://odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2017-12-30T18:38:05Z",
+        "uri": "https://web.archive.org/web/20171230183805/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2018-01-25T19:58:03Z",
+        "uri": "https://web.archive.org/web/20180125195803/http://odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2018-01-31T11:29:43Z",
+        "uri": "https://web.archive.org/web/20180131112943/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2018-03-03T14:59:47Z",
+        "uri": "https://web.archive.org/web/20180303145947/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2018-03-05T02:13:36Z",
+        "uri": "https://web.archive.org/web/20180305021336/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2018-03-27T10:55:52Z",
+        "uri": "https://web.archive.org/web/20180327105552/http://odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2018-05-05T19:17:47Z",
+        "uri": "https://web.archive.org/web/20180505191747/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2018-05-27T05:41:44Z",
+        "uri": "https://web.archive.org/web/20180527054144/http://odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2018-07-05T07:54:11Z",
+        "uri": "https://web.archive.org/web/20180705075411/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2018-07-26T23:40:45Z",
+        "uri": "https://web.archive.org/web/20180726234045/http://odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2018-09-05T16:59:49Z",
+        "uri": "https://web.archive.org/web/20180905165949/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2018-09-08T08:26:35Z",
+        "uri": "https://web.archive.org/web/20180908082635/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2018-09-12T05:23:35Z",
+        "uri": "https://web.archive.org/web/20180912052335/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2018-11-05T06:19:15Z",
+        "uri": "https://web.archive.org/web/20181105061915/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2018-11-05T16:24:29Z",
+        "uri": "https://web.archive.org/web/20181105162429/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2019-01-06T03:01:17Z",
+        "uri": "https://web.archive.org/web/20190106030117/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2019-03-08T04:26:24Z",
+        "uri": "https://web.archive.org/web/20190308042624/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2019-04-08T20:21:35Z",
+        "uri": "https://web.archive.org/web/20190408202135/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2019-04-14T21:34:56Z",
+        "uri": "https://web.archive.org/web/20190414213456/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2019-04-17T12:29:38Z",
+        "uri": "https://web.archive.org/web/20190417122938/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2019-05-07T20:14:09Z",
+        "uri": "https://web.archive.org/web/20190507201409/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2019-06-04T20:20:57Z",
+        "uri": "https://web.archive.org/web/20190604202057/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2019-07-07T22:27:16Z",
+        "uri": "https://web.archive.org/web/20190707222716/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2019-09-06T15:39:53Z",
+        "uri": "https://web.archive.org/web/20190906153953/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2019-10-16T05:32:10Z",
+        "uri": "https://web.archive.org/web/20191016053210/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2019-11-08T18:51:29Z",
+        "uri": "https://web.archive.org/web/20191108185129/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2019-12-14T12:53:59Z",
+        "uri": "https://web.archive.org/web/20191214125359/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2019-12-15T09:10:44Z",
+        "uri": "https://web.archive.org/web/20191215091044/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2019-12-21T17:53:14Z",
+        "uri": "https://web.archive.org/web/20191221175314/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2020-02-13T14:39:00Z",
+        "uri": "https://web.archive.org/web/20200213143900/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2020-02-14T15:15:16Z",
+        "uri": "https://web.archive.org/web/20200214151516/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2020-04-16T19:52:41Z",
+        "uri": "https://wayback.archive-it.org/all/20200416195241/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2020-04-16T19:52:41Z",
+        "uri": "https://web.archive.org/web/20200416195241/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2020-04-16T19:53:26Z",
+        "uri": "https://wayback.archive-it.org/all/20200416195326/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2020-04-16T19:53:26Z",
+        "uri": "https://web.archive.org/web/20200416195326/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2020-04-16T19:53:53Z",
+        "uri": "https://wayback.archive-it.org/all/20200416195353/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2020-04-16T19:53:53Z",
+        "uri": "https://web.archive.org/web/20200416195353/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2020-04-24T15:54:10Z",
+        "uri": "https://web.archive.org/web/20200424155410/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2020-05-03T16:49:00Z",
+        "uri": "https://web.archive.org/web/20200503164900/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2020-07-02T19:10:56Z",
+        "uri": "https://web.archive.org/web/20200702191056/http://www.odu.edu:80/impact/centers"
+      },
+      {
+        "datetime": "2020-07-11T17:16:06Z",
+        "uri": "https://web.archive.org/web/20200711171606/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2020-07-14T23:08:00Z",
+        "uri": "https://web.archive.org/web/20200714230800/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2020-07-28T13:13:55Z",
+        "uri": "https://web.archive.org/web/20200728131355/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2020-08-06T11:42:32Z",
+        "uri": "https://web.archive.org/web/20200806114232/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2020-08-30T22:13:43Z",
+        "uri": "https://web.archive.org/web/20200830221343/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2020-11-16T10:25:55Z",
+        "uri": "https://web.archive.org/web/20201116102555/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-02-07T08:43:18Z",
+        "uri": "https://web.archive.org/web/20210207084318/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-03-21T15:31:29Z",
+        "uri": "https://web.archive.org/web/20210321153129/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-04-09T23:28:34Z",
+        "uri": "https://web.archive.org/web/20210409232834/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-04-13T17:35:13Z",
+        "uri": "https://web.archive.org/web/20210413173513/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-04-14T06:05:31Z",
+        "uri": "https://web.archive.org/web/20210414060531/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-04-14T10:48:51Z",
+        "uri": "https://web.archive.org/web/20210414104851/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-04-25T18:24:30Z",
+        "uri": "https://web.archive.org/web/20210425182430/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-04-30T20:13:04Z",
+        "uri": "https://web.archive.org/web/20210430201304/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-05-20T14:58:48Z",
+        "uri": "https://web.archive.org/web/20210520145848/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-05-26T20:09:15Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200915/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-05-26T20:09:15Z",
+        "uri": "https://web.archive.org/web/20210526200915/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-05-26T20:09:20Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200920/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-05-26T20:09:20Z",
+        "uri": "https://web.archive.org/web/20210526200920/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-05-26T20:09:25Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200925/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-05-26T20:09:25Z",
+        "uri": "https://web.archive.org/web/20210526200925/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-06-02T01:57:42Z",
+        "uri": "https://web.archive.org/web/20210602015742/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-07-02T18:48:54Z",
+        "uri": "https://web.archive.org/web/20210702184854/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-08-11T19:22:47Z",
+        "uri": "https://web.archive.org/web/20210811192247/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-08-12T08:54:27Z",
+        "uri": "https://web.archive.org/web/20210812085427/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-08-12T08:54:56Z",
+        "uri": "https://web.archive.org/web/20210812085456/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-08-12T23:10:20Z",
+        "uri": "https://web.archive.org/web/20210812231020/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-09-10T15:39:21Z",
+        "uri": "https://arquivo.pt/wayback/20210910153921mp_/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-09-29T13:41:21Z",
+        "uri": "https://web.archive.org/web/20210929134121/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-10-19T19:34:59Z",
+        "uri": "https://web.archive.org/web/20211019193459/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-11-03T11:21:18Z",
+        "uri": "https://arquivo.pt/wayback/20211103112118mp_/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-11-03T11:21:18Z",
+        "uri": "https://web.archive.org/web/20211103112118/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-11-03T13:51:42Z",
+        "uri": "https://arquivo.pt/wayback/20211103135142mp_/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-11-03T13:51:42Z",
+        "uri": "https://web.archive.org/web/20211103135142/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-11-15T04:21:35Z",
+        "uri": "https://web.archive.org/web/20211115042135/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2021-11-23T23:40:55Z",
+        "uri": "https://web.archive.org/web/20211123234055/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-07T22:15:51Z",
+        "uri": "https://web.archive.org/web/20220107221551/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-08T16:37:53Z",
+        "uri": "https://web.archive.org/web/20220108163753/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-10T17:07:30Z",
+        "uri": "https://web.archive.org/web/20220110170730/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-11T20:15:37Z",
+        "uri": "https://web.archive.org/web/20220111201537/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-12T16:57:48Z",
+        "uri": "https://web.archive.org/web/20220112165748/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-12T21:58:47Z",
+        "uri": "https://web.archive.org/web/20220112215847/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-13T01:01:50Z",
+        "uri": "https://web.archive.org/web/20220113010150/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-13T19:32:49Z",
+        "uri": "https://web.archive.org/web/20220113193249/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-16T23:35:27Z",
+        "uri": "https://web.archive.org/web/20220116233527/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-17T07:07:26Z",
+        "uri": "https://web.archive.org/web/20220117070726/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-21T21:46:22Z",
+        "uri": "https://web.archive.org/web/20220121214622/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-22T10:44:50Z",
+        "uri": "https://arquivo.pt/wayback/20220122104450mp_/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-22T17:16:55Z",
+        "uri": "https://web.archive.org/web/20220122171655/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-24T20:26:04Z",
+        "uri": "https://web.archive.org/web/20220124202604/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-26T02:01:38Z",
+        "uri": "https://web.archive.org/web/20220126020138/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-26T05:38:36Z",
+        "uri": "https://arquivo.pt/wayback/20220126053836mp_/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-01-31T22:15:50Z",
+        "uri": "https://web.archive.org/web/20220131221550/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-02-01T22:31:20Z",
+        "uri": "https://web.archive.org/web/20220201223120/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-02-03T18:57:57Z",
+        "uri": "https://web.archive.org/web/20220203185757/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-02-17T22:25:45Z",
+        "uri": "https://web.archive.org/web/20220217222545/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-03-19T20:35:18Z",
+        "uri": "https://web.archive.org/web/20220319203518/https://www.odu.edu/impact/centers/"
+      },
+      {
+        "datetime": "2022-03-19T21:19:48Z",
+        "uri": "https://web.archive.org/web/20220319211948/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-03-19T21:19:49Z",
+        "uri": "https://web.archive.org/web/20220319211949/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-04-07T09:44:27Z",
+        "uri": "https://web.archive.org/web/20220407094427/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-04-17T05:53:19Z",
+        "uri": "https://arquivo.pt/wayback/20220417055319mp_/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-04-20T04:22:56Z",
+        "uri": "https://web.archive.org/web/20220420042256/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-04-22T17:21:19Z",
+        "uri": "https://arquivo.pt/wayback/20220422172119mp_/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-04-22T17:21:23Z",
+        "uri": "https://arquivo.pt/wayback/20220422172123mp_/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-04-24T18:55:06Z",
+        "uri": "https://arquivo.pt/wayback/20220424185506mp_/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-05-14T05:09:40Z",
+        "uri": "https://web.archive.org/web/20220514050940/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-05-25T10:42:02Z",
+        "uri": "https://web.archive.org/web/20220525104202/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-05-29T00:02:37Z",
+        "uri": "https://web.archive.org/web/20220529000237/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-06-15T05:40:49Z",
+        "uri": "https://web.archive.org/web/20220615054049/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-06-19T00:52:32Z",
+        "uri": "https://web.archive.org/web/20220619005232/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-06-19T11:22:58Z",
+        "uri": "https://web.archive.org/web/20220619112258/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-06-19T11:25:04Z",
+        "uri": "https://web.archive.org/web/20220619112504/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-06-19T18:32:45Z",
+        "uri": "https://web.archive.org/web/20220619183245/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-06-19T23:24:50Z",
+        "uri": "https://web.archive.org/web/20220619232450/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-06-19T23:26:36Z",
+        "uri": "https://web.archive.org/web/20220619232636/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-06-25T14:35:17Z",
+        "uri": "https://web.archive.org/web/20220625143517/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-07-12T13:36:59Z",
+        "uri": "https://web.archive.org/web/20220712133659/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-07-30T15:01:50Z",
+        "uri": "https://arquivo.pt/wayback/20220730150150mp_/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-02T17:35:17Z",
+        "uri": "https://web.archive.org/web/20220802173517/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-02T22:35:09Z",
+        "uri": "https://web.archive.org/web/20220802223509/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-03T02:17:12Z",
+        "uri": "https://web.archive.org/web/20220803021712/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-04T06:05:46Z",
+        "uri": "https://web.archive.org/web/20220804060546/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-05T14:12:00Z",
+        "uri": "https://web.archive.org/web/20220805141200/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-06T18:44:33Z",
+        "uri": "https://web.archive.org/web/20220806184433/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-07T23:56:32Z",
+        "uri": "https://web.archive.org/web/20220807235632/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-08T09:45:33Z",
+        "uri": "https://web.archive.org/web/20220808094533/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-08T11:44:48Z",
+        "uri": "https://web.archive.org/web/20220808114448/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-08T20:16:33Z",
+        "uri": "https://web.archive.org/web/20220808201633/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-10T19:13:42Z",
+        "uri": "https://web.archive.org/web/20220810191342/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-10T19:15:42Z",
+        "uri": "https://web.archive.org/web/20220810191542/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-10T20:21:06Z",
+        "uri": "https://wayback.archive-it.org/all/20220810202106/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-10T20:21:06Z",
+        "uri": "https://web.archive.org/web/20220810202106/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-10T20:21:23Z",
+        "uri": "https://wayback.archive-it.org/all/20220810202123/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-10T20:21:23Z",
+        "uri": "https://web.archive.org/web/20220810202123/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-10T20:21:39Z",
+        "uri": "https://wayback.archive-it.org/all/20220810202139/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-10T20:21:39Z",
+        "uri": "https://web.archive.org/web/20220810202139/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-11T08:16:34Z",
+        "uri": "https://web.archive.org/web/20220811081634/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-14T10:24:51Z",
+        "uri": "https://web.archive.org/web/20220814102451/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-08-14T18:35:47Z",
+        "uri": "https://web.archive.org/web/20220814183547/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-09-22T11:48:07Z",
+        "uri": "https://web.archive.org/web/20220922114807/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-10-11T02:35:24Z",
+        "uri": "https://arquivo.pt/wayback/20221011023524mp_/https://odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-10-14T04:38:21Z",
+        "uri": "https://web.archive.org/web/20221014043821/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-10-26T06:48:58Z",
+        "uri": "https://web.archive.org/web/20221026064858/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-10-31T11:21:07Z",
+        "uri": "https://web.archive.org/web/20221031112107/http://www.odu.edu/impact/centers/"
+      },
+      {
+        "datetime": "2022-11-07T06:03:10Z",
+        "uri": "https://wayback.archive-it.org/all/20221107060310/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-11-07T06:03:10Z",
+        "uri": "https://web.archive.org/web/20221107060310/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-11-07T18:44:30Z",
+        "uri": "https://wayback.archive-it.org/all/20221107184430/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-11-07T18:44:30Z",
+        "uri": "https://web.archive.org/web/20221107184430/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-11-16T20:44:58Z",
+        "uri": "https://web.archive.org/web/20221116204458/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-12-07T11:52:38Z",
+        "uri": "https://wayback.archive-it.org/all/20221207115238/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-12-07T11:52:38Z",
+        "uri": "https://web.archive.org/web/20221207115238/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-12-08T05:50:08Z",
+        "uri": "https://web.archive.org/web/20221208055008/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-12-10T17:12:10Z",
+        "uri": "https://wayback.archive-it.org/all/20221210171210/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2022-12-10T17:12:10Z",
+        "uri": "https://web.archive.org/web/20221210171210/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-01-07T11:22:53Z",
+        "uri": "https://wayback.archive-it.org/all/20230107112253/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-01-07T11:22:53Z",
+        "uri": "https://web.archive.org/web/20230107112253/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-01-09T21:35:05Z",
+        "uri": "https://wayback.archive-it.org/all/20230109213505/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-01-09T21:35:05Z",
+        "uri": "https://web.archive.org/web/20230109213505/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-01-24T20:25:22Z",
+        "uri": "https://arquivo.pt/wayback/20230124202522mp_/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-02-07T09:49:09Z",
+        "uri": "https://wayback.archive-it.org/all/20230207094909/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-02-07T09:49:09Z",
+        "uri": "https://web.archive.org/web/20230207094909/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-02-10T03:30:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230210033010/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-02-10T03:30:10Z",
+        "uri": "https://web.archive.org/web/20230210033010/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-02-20T01:00:30Z",
+        "uri": "https://web.archive.org/web/20230220010030/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-03-07T04:55:50Z",
+        "uri": "https://wayback.archive-it.org/all/20230307045550/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-03-07T04:55:50Z",
+        "uri": "https://web.archive.org/web/20230307045550/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-03-07T15:06:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230307150656/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-03-07T15:06:56Z",
+        "uri": "https://web.archive.org/web/20230307150656/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-03-27T22:34:29Z",
+        "uri": "https://web.archive.org/web/20230327223429/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-08-25T18:50:26Z",
+        "uri": "https://wayback.archive-it.org/all/20230825185026/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-08-25T18:50:26Z",
+        "uri": "https://web.archive.org/web/20230825185026/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-08-26T12:59:08Z",
+        "uri": "https://wayback.archive-it.org/all/20230826125908/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2023-08-26T12:59:08Z",
+        "uri": "https://web.archive.org/web/20230826125908/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2024-01-17T00:35:59Z",
+        "uri": "https://web.archive.org/web/20240117003559/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2024-01-17T00:35:59Z",
+        "uri": "https://web.archive.org/web/20240117003559/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2024-02-21T20:15:47Z",
+        "uri": "https://web.archive.org/web/20240221201547/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2024-02-28T21:32:23Z",
+        "uri": "https://web.archive.org/web/20240228213223/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2024-02-28T23:44:54Z",
+        "uri": "https://web.archive.org/web/20240228234454/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2024-04-04T07:26:59Z",
+        "uri": "https://web.archive.org/web/20240404072659/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2024-04-04T07:27:16Z",
+        "uri": "https://web.archive.org/web/20240404072716/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2024-04-04T07:27:16Z",
+        "uri": "https://web.archive.org/web/20240404072716/http://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2024-04-27T16:09:19Z",
+        "uri": "https://web.archive.org/web/20240427160919/https://www.odu.edu/impact/centers"
+      },
+      {
+        "datetime": "2024-05-13T13:54:39Z",
+        "uri": "https://web.archive.org/web/20240513135439/https://www.odu.edu/impact/centers"
+      }
+    ],
+    "first": {
+      "datetime": "2016-06-29T03:44:08Z",
+      "uri": "https://web.archive.org/web/20160629034408/http://www.odu.edu:80/impact/centers"
+    },
+    "last": {
+      "datetime": "2024-05-13T13:54:39Z",
+      "uri": "https://web.archive.org/web/20240513135439/https://www.odu.edu/impact/centers"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/impact/centers",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/impact/centers",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/impact/centers"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/impact/centers"
+}

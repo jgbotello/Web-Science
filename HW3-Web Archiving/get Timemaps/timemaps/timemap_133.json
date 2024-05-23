@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.odu.edu/article/odus-general-assembly-internship-program-provides-an-close-look-at-the-legislative-process",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/article/odus-general-assembly-internship-program-provides-an-close-look-at-the-legislative-process",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-08-27T23:34:02Z",
+        "uri": "https://wayback.archive-it.org/all/20230827233402/https://www.odu.edu/article/odus-general-assembly-internship-program-provides-an-close-look-at-the-legislative-process"
+      }
+    ],
+    "first": {
+      "datetime": "2023-08-27T23:34:02Z",
+      "uri": "https://wayback.archive-it.org/all/20230827233402/https://www.odu.edu/article/odus-general-assembly-internship-program-provides-an-close-look-at-the-legislative-process"
+    },
+    "last": {
+      "datetime": "2023-08-27T23:34:02Z",
+      "uri": "https://wayback.archive-it.org/all/20230827233402/https://www.odu.edu/article/odus-general-assembly-internship-program-provides-an-close-look-at-the-legislative-process"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/article/odus-general-assembly-internship-program-provides-an-close-look-at-the-legislative-process",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/article/odus-general-assembly-internship-program-provides-an-close-look-at-the-legislative-process",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/article/odus-general-assembly-internship-program-provides-an-close-look-at-the-legislative-process"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/article/odus-general-assembly-internship-program-provides-an-close-look-at-the-legislative-process"
+}

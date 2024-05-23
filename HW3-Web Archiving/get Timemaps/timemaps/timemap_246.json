@@ -1,0 +1,262 @@
+{
+  "original_uri": "https://www.odu.edu/al/academics/pre-law",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/al/academics/pre-law",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2014-04-15T00:00:11Z",
+        "uri": "https://web.archive.org/web/20140415000011/http://www.odu.edu:80/al/academics/pre-law"
+      },
+      {
+        "datetime": "2014-07-10T08:09:31Z",
+        "uri": "https://web.archive.org/web/20140710080931/http://odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2016-04-25T16:40:12Z",
+        "uri": "https://web.archive.org/web/20160425164012/http://odu.edu:80/al/academics/pre-law"
+      },
+      {
+        "datetime": "2016-11-11T18:08:48Z",
+        "uri": "https://web.archive.org/web/20161111180848/http://odu.edu:80/al/academics/pre-law"
+      },
+      {
+        "datetime": "2017-03-11T14:44:15Z",
+        "uri": "https://web.archive.org/web/20170311144415/http://www.odu.edu:80/al/academics/pre-law"
+      },
+      {
+        "datetime": "2017-07-03T08:25:07Z",
+        "uri": "https://web.archive.org/web/20170703082507/http://www.odu.edu:80/al/academics/pre-law"
+      },
+      {
+        "datetime": "2017-08-10T23:49:36Z",
+        "uri": "https://web.archive.org/web/20170810234936/http://odu.edu:80/al/academics/pre-law"
+      },
+      {
+        "datetime": "2017-09-27T00:50:03Z",
+        "uri": "https://web.archive.org/web/20170927005003/http://odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2018-01-19T05:32:45Z",
+        "uri": "https://web.archive.org/web/20180119053245/http://www.odu.edu:80/al/academics/pre-law"
+      },
+      {
+        "datetime": "2018-03-21T10:30:54Z",
+        "uri": "https://web.archive.org/web/20180321103054/http://www.odu.edu:80/al/academics/pre-law"
+      },
+      {
+        "datetime": "2018-05-23T02:59:00Z",
+        "uri": "https://web.archive.org/web/20180523025900/http://www.odu.edu:80/al/academics/pre-law"
+      },
+      {
+        "datetime": "2018-05-24T08:59:52Z",
+        "uri": "https://web.archive.org/web/20180524085952/http://www.odu.edu:80/al/academics/pre-law"
+      },
+      {
+        "datetime": "2018-07-25T16:38:15Z",
+        "uri": "https://web.archive.org/web/20180725163815/http://www.odu.edu:80/al/academics/pre-law"
+      },
+      {
+        "datetime": "2020-08-21T17:10:49Z",
+        "uri": "https://web.archive.org/web/20200821171049/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2021-04-20T06:44:37Z",
+        "uri": "https://web.archive.org/web/20210420064437/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2021-05-27T19:27:11Z",
+        "uri": "https://wayback.archive-it.org/all/20210527192711/https://odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2021-05-27T19:27:11Z",
+        "uri": "https://web.archive.org/web/20210527192711/https://odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2021-05-27T19:27:20Z",
+        "uri": "https://wayback.archive-it.org/all/20210527192720/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2021-05-27T19:27:20Z",
+        "uri": "https://web.archive.org/web/20210527192720/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2021-05-27T19:27:27Z",
+        "uri": "https://wayback.archive-it.org/all/20210527192727/http://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2021-05-27T19:27:27Z",
+        "uri": "https://web.archive.org/web/20210527192727/http://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2021-10-21T08:25:59Z",
+        "uri": "https://arquivo.pt/wayback/20211021082559mp_/https://odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2021-10-21T08:25:59Z",
+        "uri": "https://web.archive.org/web/20211021082559/https://odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2021-11-03T13:19:01Z",
+        "uri": "https://arquivo.pt/wayback/20211103131901mp_/http://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2021-11-03T13:19:01Z",
+        "uri": "https://web.archive.org/web/20211103131901/http://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-03-19T20:07:39Z",
+        "uri": "https://web.archive.org/web/20220319200739/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-05-16T03:41:13Z",
+        "uri": "https://arquivo.pt/wayback/20220516034113mp_/http://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-05-28T22:56:57Z",
+        "uri": "https://web.archive.org/web/20220528225657/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-06-26T14:06:26Z",
+        "uri": "https://web.archive.org/web/20220626140626/https://odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-08-11T20:54:05Z",
+        "uri": "https://wayback.archive-it.org/all/20220811205405/https://odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-08-11T20:54:05Z",
+        "uri": "https://web.archive.org/web/20220811205405/https://odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-08-11T20:54:15Z",
+        "uri": "https://wayback.archive-it.org/all/20220811205415/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-08-11T20:54:15Z",
+        "uri": "https://web.archive.org/web/20220811205415/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-08-11T20:54:26Z",
+        "uri": "https://wayback.archive-it.org/all/20220811205426/http://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-08-11T20:54:26Z",
+        "uri": "https://web.archive.org/web/20220811205426/http://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-10-02T15:36:52Z",
+        "uri": "https://web.archive.org/web/20221002153652/https://odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-10-02T19:04:57Z",
+        "uri": "https://web.archive.org/web/20221002190457/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-11-07T11:36:05Z",
+        "uri": "https://wayback.archive-it.org/all/20221107113605/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-11-07T11:36:05Z",
+        "uri": "https://web.archive.org/web/20221107113605/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-11-09T01:10:48Z",
+        "uri": "https://wayback.archive-it.org/all/20221109011048/http://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-11-09T01:10:48Z",
+        "uri": "https://web.archive.org/web/20221109011048/http://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-12-08T05:51:27Z",
+        "uri": "https://web.archive.org/web/20221208055127/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-12-09T02:26:57Z",
+        "uri": "https://wayback.archive-it.org/all/20221209022657/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-12-09T02:26:57Z",
+        "uri": "https://web.archive.org/web/20221209022657/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-12-21T00:50:33Z",
+        "uri": "https://wayback.archive-it.org/all/20221221005033/http://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2022-12-21T00:50:33Z",
+        "uri": "https://web.archive.org/web/20221221005033/http://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2023-01-08T16:35:14Z",
+        "uri": "https://wayback.archive-it.org/all/20230108163514/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2023-01-08T16:35:14Z",
+        "uri": "https://web.archive.org/web/20230108163514/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2023-02-09T11:31:40Z",
+        "uri": "https://wayback.archive-it.org/all/20230209113140/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2023-02-09T11:31:40Z",
+        "uri": "https://web.archive.org/web/20230209113140/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2023-03-07T09:27:21Z",
+        "uri": "https://wayback.archive-it.org/all/20230307092721/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2023-03-07T09:27:21Z",
+        "uri": "https://web.archive.org/web/20230307092721/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2023-03-09T06:41:48Z",
+        "uri": "https://wayback.archive-it.org/all/20230309064148/http://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2023-03-09T06:41:48Z",
+        "uri": "https://web.archive.org/web/20230309064148/http://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2023-08-26T07:39:22Z",
+        "uri": "https://wayback.archive-it.org/all/20230826073922/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2023-08-26T07:39:22Z",
+        "uri": "https://web.archive.org/web/20230826073922/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2023-08-28T10:17:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230828101716/http://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2023-08-28T10:17:16Z",
+        "uri": "https://web.archive.org/web/20230828101716/http://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2024-02-14T16:09:03Z",
+        "uri": "https://web.archive.org/web/20240214160903/https://www.odu.edu/al/academics/pre-law"
+      },
+      {
+        "datetime": "2024-04-04T07:26:42Z",
+        "uri": "https://web.archive.org/web/20240404072642/https://www.odu.edu/al/academics/pre-law"
+      }
+    ],
+    "first": {
+      "datetime": "2014-04-15T00:00:11Z",
+      "uri": "https://web.archive.org/web/20140415000011/http://www.odu.edu:80/al/academics/pre-law"
+    },
+    "last": {
+      "datetime": "2024-04-04T07:26:42Z",
+      "uri": "https://web.archive.org/web/20240404072642/https://www.odu.edu/al/academics/pre-law"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/al/academics/pre-law",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/al/academics/pre-law",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/al/academics/pre-law"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/al/academics/pre-law"
+}

@@ -1,0 +1,94 @@
+{
+  "original_uri": "https://www.odu.edu/parkingservices/parking",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/parkingservices/parking",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-27T13:07:53Z",
+        "uri": "https://arquivo.pt/wayback/20220527130753mp_/https://odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-08-11T04:38:12Z",
+        "uri": "https://wayback.archive-it.org/all/20220811043812/https://odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-08-11T04:38:19Z",
+        "uri": "https://wayback.archive-it.org/all/20220811043819/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-08-11T04:38:28Z",
+        "uri": "https://wayback.archive-it.org/all/20220811043828/http://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-11-07T05:58:12Z",
+        "uri": "https://wayback.archive-it.org/all/20221107055812/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-11-07T16:17:12Z",
+        "uri": "https://wayback.archive-it.org/all/20221107161712/http://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-11-16T04:28:38Z",
+        "uri": "https://arquivo.pt/wayback/20221116042838mp_/https://odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-12-07T10:53:03Z",
+        "uri": "https://wayback.archive-it.org/all/20221207105303/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-12-10T09:41:16Z",
+        "uri": "https://wayback.archive-it.org/all/20221210094116/http://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-01-07T09:52:06Z",
+        "uri": "https://wayback.archive-it.org/all/20230107095206/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-01-09T07:49:07Z",
+        "uri": "https://wayback.archive-it.org/all/20230109074907/http://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-01-24T20:11:09Z",
+        "uri": "https://arquivo.pt/wayback/20230124201109mp_/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-02-07T08:13:53Z",
+        "uri": "https://wayback.archive-it.org/all/20230207081353/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-02-09T21:27:34Z",
+        "uri": "https://wayback.archive-it.org/all/20230209212734/http://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-03-07T04:47:05Z",
+        "uri": "https://wayback.archive-it.org/all/20230307044705/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-03-07T13:24:42Z",
+        "uri": "https://wayback.archive-it.org/all/20230307132442/http://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-08-25T18:16:31Z",
+        "uri": "https://wayback.archive-it.org/all/20230825181631/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-08-26T10:53:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230826105315/http://www.odu.edu/parkingservices/parking"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-27T13:07:53Z",
+      "uri": "https://arquivo.pt/wayback/20220527130753mp_/https://odu.edu/parkingservices/parking"
+    },
+    "last": {
+      "datetime": "2023-08-26T10:53:15Z",
+      "uri": "https://wayback.archive-it.org/all/20230826105315/http://www.odu.edu/parkingservices/parking"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/parkingservices/parking",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/parkingservices/parking",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/parkingservices/parking"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/parkingservices/parking"
+}
