@@ -51,7 +51,7 @@ I used 4 Billion as the total size of the corpus
 
 |File	|Occurrences| TF | IDF  | TF-IDF |URI
 |------:|---:|---:|-----:|-----:|---
-|1. 0e2154677f5fbea99def4a978c813aad.html| 1 |  0.0021 | 26.12 | 0.0548 |https://careercenter.risd.edu/
+|1.0e2154677f5fbea99def4a978c813aad.html| 1 |  0.0021 | 26.12 | 0.0548 |https://careercenter.risd.edu/
 |2. 0f26ad1991e5f0a54cd7c4630bd0bb38.html| 3 |  0.0042 | 26.12 | 0.1097 |https://www.odu.edu/about/orgchart
 |3. 4006d6fc37b55083059718adaef0598d.html| 1 |  0.0008 | 26.12 | 0.0208 |https://www.princeton.edu/
 |4. 542c7d911035e82a203c4597dfc8b842.html| 3 |  0.0012 | 26.12 | 0.0313 |https://ischool.sjsu.edu/istudent-blog
