@@ -11,11 +11,7 @@ To start, I tested the installation of Memgator in my computer using the specifi
 
 The result showed a timemap for the website of Dr. Weigle.
 
-
 <img src="Images/test_install_memgator.PNG" height="500" alt="">
-
-
-
 
 **What do the -F 2 and -f JSON options do?**
 According to the documentation provided by the creators of Memgator in their Github F an f have the following funtionalities:
@@ -26,8 +22,9 @@ According to the documentation provided by the creators of Memgator in their Git
 
 ## Q1. Get TimeMaps for Each URI.
 
-In this part of the process, I obtained the [TimeMaps](http://www.mementoweb.org/guide/quick-intro/) for each of the unique URIs I collected in HW1 using the [MemGator Memento Aggregator](https://github.com/oduwsdl/MemGator). para esta tarea se realizo un script de python que luego fue ejecutado desde la linea de comando (See image of the script below).  
+In this part of the process, I obtained the [TimeMaps](http://www.mementoweb.org/guide/quick-intro/) for each of the unique URIs I collected in HW1 using the [MemGator Memento Aggregator](https://github.com/oduwsdl/MemGator). For this task I made a [python script] (https://github.com/jgbotello/Web-Science/blob/main/HW3-Web%20Archiving/get%20Timemaps/get_timemaps.py) that was then executed from the command line. 
 
+The process included generating the TimeMaps in JSON format for each URI and saving them, making sure to include a 15-second break between each request to avoid connection errors or crashes from the web archives. During the process, I encountered some URI-Rs that had no mementos, which was expected. For very large TimeMaps, I opted to compress the files individually using a python [gzip](https://github.com/jgbotello/Web-Science/blob/main/HW3-Web%20Archiving/get%20Timemaps/compress.py) to better manage storage space and facilitate further analysis. Finally, I uploaded all the generated TimeMaps to a [repository on GitHub] (https://github.com/jgbotello/Web-Science/tree/main/HW3-Web%20Archiving/get%20Timemaps/timemaps), organizing them in a separate folder from the report for use in future tasks.
 
 ### Q2. Analyze Mementos Per URI-R.
 
