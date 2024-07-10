@@ -36,7 +36,7 @@ I used the TimeMaps saved in Q1 to analyze the archival quality of the URIs coll
 
 Below there is a image of the output after running the script and a table counting number of mementos and URI-Rs.
 
-<img src="Images/example analysis mementos.png" height="500" alt="">
+<img src="Images/example analysis mementos .png" height="500" alt="">
 
 | Mementos Range    | URI-Rs |
 |-------------------|--------|
