@@ -26,9 +26,17 @@ In this part of the process, I obtained the [TimeMaps](http://www.mementoweb.org
 
 The process included generating the TimeMaps in JSON format for each URI and saving them, making sure to include a 15-second break between each request to avoid connection errors or crashes from the web archives. During the process, I encountered some URI-Rs that had no mementos, which was expected. For very large TimeMaps, I opted to compress the files individually using [gzip](https://github.com/jgbotello/Web-Science/blob/main/HW3-Web%20Archiving/get%20Timemaps/compress.py) in python to better manage storage space and facilitate further analysis. Finally, I uploaded all the generated TimeMaps to a [repository on GitHub](https://github.com/jgbotello/Web-Science/tree/main/HW3-Web%20Archiving/get%20Timemaps/timemaps), organizing them in a separate folder from the report for use in future tasks.
 
+The figure below shows what the stored data looks like
+
+<img src="Images/time maps saved.png" height="500" alt="">
+
 ### Q2. Analyze Mementos Per URI-R.
 
-I used the TimeMaps saved in Q1 to analyze the archival quality of the URIs collected in HW1. By examining the TimeMaps, I was able to determine how well each URI was archived over time. The table below displays the number of URI-Rs (original resource URIs) and the corresponding number of mementos (archived versions) they have. To do this, I created a Python script that decompresses the compressed JSON files, counts the number of mementos for each URI-R, and finds the URI-R with the highest number of mementos. In addition, the script generates a table with the distribution of mementos and provides the name of the file containing the URI-R with the most mementos. Notese que 70 de las URI-R no contenian informacion de Mementos. 
+I used the TimeMaps saved in Q1 to analyze the archival quality of the URIs collected in HW1. By examining the TimeMaps, I was able to determine how well each URI was archived over time. The table below displays the number of URI-Rs (original resource URIs) and the corresponding number of mementos (archived versions) they have. To do this, I created a Python [script](https://github.com/jgbotello/Web-Science/blob/main/HW3-Web%20Archiving/get%20Timemaps/Analyze_mementos.py)  that decompresses the compressed JSON files, counts the number of mementos for each URI-R, and finds the URI-R with the highest number of mementos. In addition, the script generates a table with the distribution of mementos and provides the name of the file containing the URI-R with the most mementos. Note that 70 of the URI-Rs did not contain Mementos information.
+
+Below there is a image of the output after running the script and a table counting number of mementos and URI-Rs.
+
+<img src="Images/example analysis mementos.png" height="500" alt="">
 
 | Mementos Range    | URI-Rs |
 |-------------------|--------|
@@ -45,6 +53,8 @@ I used the TimeMaps saved in Q1 to analyze the archival quality of the URIs coll
 | 1001-5000         | 14     |
 | 5001-10000        | 9      |
 | 10001+            | 17     |
+
+
 
 **Q: What URI-Rs had the most mementos?  Did that surprise you?**
 
