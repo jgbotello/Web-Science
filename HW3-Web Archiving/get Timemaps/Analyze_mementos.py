@@ -3,10 +3,10 @@ import os
 import gzip
 from collections import Counter
 
-# Directory where your TimeMaps JSON files are stored
+# Directory where my TimeMaps JSON files are stored
 directory = r"C:\Users\JHON G. BOTELLO\OneDrive - Old Dominion University\PHD\Courses\Spring 2024\Web Science\Web-Science\HW3-Web Archiving\get Timemaps\timemaps"
 
-# Initialize a counter for the mementos
+# Initialize counters
 memento_counts = Counter()
 max_mementos = 0
 uri_with_max_mementos = None
@@ -21,7 +21,7 @@ for filename in os.listdir(directory):
                 data = json.load(file)
                 # Check if data is loaded correctly
                 if 'mementos' in data and 'list' in data['mementos']:
-                    # Count the mementos for this URI-R
+                    # Count the mementos for the URI-R
                     memento_count = len(data['mementos']['list'])  # Number of mementos
                     memento_counts[memento_count] += 1
                     # Update max_mementos and uri_with_max_mementos if this URI-R has more mementos
@@ -34,10 +34,10 @@ for filename in os.listdir(directory):
         except Exception as e:
             print(f"Error processing file {filename}: {e}")
 
-# Convert the counter to a sorted list of tuples
+# Convert the counter to a sorted list of tuples (sorting this)
 memento_distribution = sorted(memento_counts.items())
 
-# Print the result in a table format
+# Print the result
 print("Mementos | URI-Rs")
 print("----------------")
 for mementos, count in memento_distribution:
