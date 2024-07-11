@@ -1,33 +1,18 @@
 # Homework 4 - Web Archiving, part 2
-**Due:** Sunday, March 10, 2024 by 11:59pm  
-
-Read through the entire assignment before starting.  
 
 ## Assignment
-
-Write a report that contains the answers and *explains how you arrived at the answers* to the following questions.  Be sure to address any questions that are asked (indicated by "*Q: ...?*" in italics). Include any interesting findings that you discover from your analysis.  
-
-Before starting, review the [HW report guidelines](getting-started/reports.md).  Name your report for this assignment `HW4-report` with the proper file extension. 
 
 **Important:** This assignment is a continuation of HW3. If you did not complete HW3 satisfactorily, contact me for instructions on how to proceed. This **cannot** be done at the last minute.
 
 ### Q1. Analyze Datetimes of Mementos.
 
-For each of the URI-Rs from HW3, Q2 that had > 0 mementos, use the saved TimeMap to determine the datetime of the earliest memento. 
+In Q1 of Homework 4, I conducted an analysis of the archival quality of the URIs collected in HW1 by leveraging the TimeMaps saved previously. My objective was to determine how well each URI was archived over time by examining the number and age of mementos. To achieve this, I created a Python script that processed the compressed JSON files containing the TimeMaps. The script first decompressed each .json.gz file and extracted the datetime of the earliest memento for each URI-R. Using the collection date as a reference point, I calculated the age in days between the collection date and the earliest memento datetime. Additionally, the script counted the total number of mementos for each URI-R. With this data, I generated a scatterplot using Matplotlib and Pandas, where the x-axis represented the age of the URI-R in days, and the y-axis depicted the number of mementos. This visualization allowed me to observe patterns in the archival frequency of different URIs, revealing insights into the persistence and accessibility of web resources over time.
 
-Create a scatterplot with the age of each URI-R (days between collection date and earliest memento datetime) on the x-axis and number of mementos for that URI-R on the y-axis.  For this graph, the item is the URI-R and the attributes are the estimated age of the URI-R (channel is horizontal position) and the number of mementos for that URI-R (channel is vertical position).
+**Q: What can you say about the relationship between the age of a URI-R and the number of its mementos?**
 
-An example is shown below:
+**Q: What URI-R had the oldest memento? Did that surprise you?**
 
-![hw4-scatterplot-example.png](hw4-scatterplot-example.png)
-
-This scatterplot should be created using either R or Python, not Excel.
-
-*Q: What can you say about the relationship between the age of a URI-R and the number of its mementos?*
-
-*Q: What URI-R had the oldest memento? Did that surprise you?*
-
-*Q: How many URI-Rs had an age of < 1 week, meaning that their first memento was captured the same week you collected the data?*                                                              
+**Q: How many URI-Rs had an age of < 1 week, meaning that their first memento was captured the same week you collected the data?**                                                              
                                                                       
 ### Q2. Explore Conifer and ReplayWeb.Page
 
