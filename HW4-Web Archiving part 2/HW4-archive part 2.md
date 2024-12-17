@@ -4,7 +4,7 @@
 
 ### Q1. Analyze Datetimes of Mementos.
 
-In this question, my objetive was to determine how well each URI was archived over time by examining the number and age of its mementos. To achieve this, I created a Python script that processes compressed JSON files containing the TimeMaps. These files were saved as part of [Homework 3 (Web Archiving Part 1)](C:\Users\JHON G. BOTELLO\OneDrive - Old Dominion University\PHD\Courses\Spring 2024\Web Science\Web-Science\HW3-Web Archiving\get Timemaps\timemaps).
+In this question, my objetive was to determine how well each URI was archived over time by examining the number and age of its mementos. To achieve this, I created a Python script that processes compressed JSON files containing the TimeMaps. These files were saved as part of [Homework 3 (Web Archiving Part 1)](https://github.com/jgbotello/Web-Science/tree/main/HW3-Web%20Archiving/get%20Timemaps/timemaps).
 
 The script decompresses each .json.gz file and extracts the datetime of the earliest memento for each URI-R. Using the date when the TimeMaps were collected as a reference point, I calculate the age in days between the collection date and the earliest memento datetime. The script also counts the total number of mementos for each URI-R.
 
