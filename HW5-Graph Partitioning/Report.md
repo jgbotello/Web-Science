@@ -11,7 +11,7 @@ This assignment will have you investigate the split of the Karate Club (Zachary,
 
 To visualize the split in the Karate Club graph, I used Zachary's Karate Club dataset from the NetworkX library. This graph represents the relationships (friendships) between members of a karate club that split into two factions after a conflict. Mr. Hi's faction and John A's faction are shown in grey and light coral, respectively.
 
-<img src="Images/graph.jpg" height="100" alt="">
+<img src="Images/graph.jpg" height="400" alt="">
 
 
 *Q: How many nodes eventually go with John and how many with Mr. Hi?*
@@ -39,7 +39,7 @@ As explained in the videos and showed in the slides, the Girvan-Newman algorithm
 
 Edges with high betweenness often act as "bridges" between clusters. 
 
-I implemented the algorithm by creating a funtion in python to make the process easier. In each iteration I visualize the edges that were removed. The [code]() follows these key steps:
+I implemented the algorithm by creating a funtion in python to make the process easier. In each iteration I visualize the edges that were removed. The [code](https://github.com/jgbotello/Web-Science/blob/main/HW5-Graph%20Partitioning/code/Code.ipynb) follows these key steps:
 
 1. Load the Karate Club graph using NetworkX.
 
