@@ -9,7 +9,7 @@ The MovieLens datasets were collected by the [GroupLens Research Project](https:
 
 ## Questions
 
-The questions below were answered using a [jupyter notebook]() that includes parts of the provided [example](https://github.com/odu-cs432-websci/public/blob/main/432_PCI_Ch02.ipynb) and some functions created from scratch.
+The questions below were answered using a [jupyter notebook](https://github.com/jgbotello/Web-Science/blob/main/HW6-Recommender%20Systems/Code/code.ipynb) that includes parts of the provided [example](https://github.com/odu-cs432-websci/public/blob/main/432_PCI_Ch02.ipynb) and some functions created from scratch.
 
 ### Q1: Find 3 users who are closest to you in terms of age, gender, and occupation. For each of those 3 users:
 
