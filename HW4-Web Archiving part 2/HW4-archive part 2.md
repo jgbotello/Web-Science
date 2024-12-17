@@ -12,7 +12,7 @@ With this data, I generate a scatterplot using Matplotlib and Pandas. The x-axis
 
 the output of the scrips shows the scatter plot, The URI-R and date of the oldest memento, and the number of URI-Rs with an age of less than 1 week. The image below shows the output.
 
-<img src="Images/output.png" height="200" alt="">
+<img src="Images/output.png" height="100" alt="">
 
 **Q: What can you say about the relationship between the age of a URI-R and the number of its mementos?**
 The correlation between the age of a URI-R (in days) and the number of its mementos is 0.384. This suggests a positive but moderate correlation.
