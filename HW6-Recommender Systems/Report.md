@@ -5,85 +5,9 @@
 The goal of this assignment is to use the basic recommendation principles we have learned to recommend movies for yourself.
 
 ### Dataset
-The MovieLens datasets were collected by the [GroupLens Research Project](https://grouplens.org/) at the University of Minnesota during the seven-month period from September 19, 1997 through April 22, 1998.  We are using the "100k dataset", available from
-https://grouplens.org/datasets/movielens/100k/
-
-There are three files that we will use:
-
-1.  `u.data`: 100,000 ratings by 943 users on 1682 movies. Each user has rated at least 20 movies. Users and items are numbered
-consecutively from 1. The data is randomly ordered. This is a tab-separated list of 
-
-```
-user id   item id   rating    timestamp
-```
-
-The timestamps are Unix seconds since 1/1/1970 UTC.
-
-Example:
-```
-196     242     3       881250949
-186     302     3       891717742
-22      377     1       878887116
-244     51      2       880606923
-166     346     1       886397596
-298     474     4       884182806
-115     265     2       881171488
-```
-
-2.  `u.item`: Information about the 1682 movies. This is a tab-separated list of
-
-```
-movie id | movie title | release date | video release date | IMDb URL | unknown | Action | Adventure | Animation | Children's | Comedy | Crime | Documentary | Drama | Fantasy | Film-Noir | Horror | Musical | Mystery | Romance | Sci-Fi | Thriller | War | Western |
-```
-
-The last 19 fields are the genres, a 1 indicates the movie is of that genre, a 0 indicates it is not; movies can be in several genres at once. The movie ids are the ones used in the u.data dataset. 
-
-Example:
-
-```
-161|Top Gun (1986)|01-Jan-1986||http://us.imdb.com/M/title-exact?Top%20Gun%20(1986)|0|1|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0 
-162|On Golden Pond (1981)|01-Jan-1981||http://us.imdb.com/M/title-exact?On%20Golden%20Pond%20(1981)|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0 
-163|Return of the Pink Panther, The (1974)|01-Jan-1974||http://us.imdb.com/M/title-exact?Return%20of%20the%20Pink%20Panther,%20The%20(1974)|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0
-``` 
-
-Top Gun (1986) is genre "Action" and "Romance", On Golden Pond is genre "Drama", and Return of the Pink Panther is genre "Comedy".
-
-3.  `u.user`: Demographic information about the users. This is a tab-separated list of:
-
-```
-user id | age | gender | occupation | zip code
-```
-
-The user ids are the ones used in the u.data dataset.
-
-Example:
-```
-1|24|M|technician|85711 
-2|53|F|other|94043 
-3|23|M|writer|32067 
-4|24|M|technician|43537 
-5|33|F|other|15213
-```
-
-### Example Code
-Instead of writing code from scratch (or searching for a solution online), modify the code from Ch 2 of *Programming Collective Intelligence* that performs movie recommendations.  If you make any modifications to the given code, be sure to note it in comments and in your report. There is code that we did not cover (contained in `recommendations.py`) that reads in the `u.data` and `u.item` files. 
-
-Main source: https://github.com/arthur-e/Programming-Collective-Intelligence/blob/master/chapter2/recommendations.py  *(This code is written in Python 2, so if you use it directly, there may be changes required, as the `print` function in Python 3 requires parentheses.)*
-
-[Class notebook w/examples](https://github.com/odu-cs432-websci/public/blob/main/432_PCI_Ch02.ipynb)
-
-Notes:
-* You do not have to write a single Python script that answers all of the questions (*think modular!*). 
-* You do not have write Python code for every operation. If you can answer questions using Unix commands or by manually scanning the data files, do so, but include the commands and describe what you did.
-* You could pull the example code (that doesn't need modification) into a separate `.py` file and then use `import` in your script to use the needed functions.
-
-Before starting, make sure that you understand what the functions `topMatches()` and `getRecommendations()` in the example code do.
+The MovieLens datasets were collected by the [GroupLens Research Project](https://grouplens.org/) at the University of Minnesota during the seven-month period from September 19, 1997 through April 22, 1998.  We are using the "100k dataset", available from [https://grouplens.org/datasets/movielens/100k/](https://grouplens.org/datasets/movielens/100k/)
 
 ## Questions
-
-
-
-
 
 ### Q1: Find 3 users who are closest to you in terms of age, gender, and occupation. For each of those 3 users:
 
