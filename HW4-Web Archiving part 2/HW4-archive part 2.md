@@ -72,14 +72,14 @@ Then click on the "URLs" tab and choose "All URLs" from the dropdown menu.
 
 <img src="Images/conifer4.png" height="400" alt="">
 
-*Q: How many URLs were archived in the WARC file?  How does this compare to the number of Pages?*
+**Q: How many URLs were archived in the WARC file?  How does this compare to the number of Pages?**
 
 A total of 547 URLs were archived. This number is significantly higher than the 10 pages. The discrepancy in this case arises because webpages often include many additional resources, such as images, JavaScript files, CSS, fonts. Each resorce is a URL that contributes to the total count.
 
-*Create a bar chart showing the number of URLs in the WARC file for each of the file types in the dropdown menu.*
+**Create a bar chart showing the number of URLs in the WARC file for each of the file types in the dropdown menu.**
 
 <img src="Images/bar_chart.jpg" height="400" alt="">
 
-*Q: Which file type had the most URLs?  Were you surprised by this?*
+**Q: Which file type had the most URLs?  Were you surprised by this?**
 
 The file type with the most URLs was Images, with a total of 198 URLs. This result is not entirely surprising because webpages typically include numerous images, such as banners, icons, logos, and other graphics, so it contributes to the total count.
