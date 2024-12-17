@@ -7,21 +7,54 @@ This assignment will have you investigate the split of the Karate Club (Zachary,
 
 ### Q1. Color nodes based on final split
 
-Draw the original Karate club graph (before the split) and color the nodes according to the factions they belong to (John A or Mr. Hi).  This should look similar to the graph on slide 92 - all edges should be present, just indicate the nodes in the eventual split by color.
+**Draw the original Karate club graph (before the split) and color the nodes according to the factions they belong to (John A or Mr. Hi).  This should look similar to the graph on slide 92 - all edges should be present, just indicate the nodes in the eventual split by color.**
+
+To visualize the split in the Karate Club graph, I used Zachary's Karate Club dataset from the NetworkX library. This graph represents the relationships (friendships) between members of a karate club that split into two factions after a conflict. Mr. Hi's faction and John A's faction are shown in grey and light coral, respectively.
+
+<img src="Images/graph.jpg" height="100" alt="">
+
 
 *Q: How many nodes eventually go with John and how many with Mr. Hi?*
+Number of nodes in Mr. Hi: 17
+Number of nodes in John A: 17
 
 ### Q2. Use the Girvan-Newman algorithm to illustrate the split
 
-We know the "real" result of the Karate Club split, which you've colored in Q1. Your task is to use the Girvan-Newman algorithm to show that this result of the split could have been predicted by the weighted graph of social interactions.  How well does the mathematical model represent reality?  Generously document your answer with all supporting equations, code, graphs, arguments, etc.
+**We know the "real" result of the Karate Club split, which you've colored in Q1. Your task is to use the Girvan-Newman algorithm to show that this result of the split could have been predicted by the weighted graph of social interactions.  How well does the mathematical model represent reality?  Generously document your answer with all supporting equations, code, graphs, arguments, etc.**
 
-Keeping the node colors the same as they were in Q1, run multiple iterations of the Girvan-Newman graph partioning algorithm (see [Social Networks, slides 90-99](https://docs.google.com/presentation/d/1G9bY32EslxRdIq7znDZoGJd3-_Ock1FeJcqN3QgQuy4/edit#slide=id.p98)) on the Karate Club graph until the graph splits into two connected components. Include an image of the graph *after each iteration* in your report.  
+**Keeping the node colors the same as they were in Q1, run multiple iterations of the Girvan-Newman graph partioning algorithm (see [Social Networks, slides 90-99](https://docs.google.com/presentation/d/1G9bY32EslxRdIq7znDZoGJd3-_Ock1FeJcqN3QgQuy4/edit#slide=id.p98)) on the Karate Club graph until the graph splits into two connected components. Include an image of the graph *after each iteration in your report.** 
 
-Note that you will have to implement the Girvan-Newman algorithm rather than relying on a built-in function, because a built-in function will automatically run the whole algorithm and you will not be able to view the intermediate graphs.  Make sure that you explain in your report what the Girvan-Newman algorithm is doing.
+**Note that you will have to implement the Girvan-Newman algorithm rather than relying on a built-in function, because a built-in function will automatically run the whole algorithm and you will not be able to view the intermediate graphs.  Make sure that you explain in your report what the Girvan-Newman algorithm is doing.**
+
+In this task, I implemented the Girvan-Newman algorithm to predict the split in Zachary's Karate Club graph. 
+
+As explained in the videos and showed in the slides, the Girvan-Newman algorithm is a graph partitioning method by progressively removing edges with the highest betweenness. Slide 90 shows the following steps:
+
+
+1. Calculate betweenness of all edges
+
+2. Remove the edge(s) with highest betweenness
+
+3. Repeat steps 1 and 2 until graph is partitioned into as many regions as desired
+
+Edges with high betweenness often act as "bridges" between clusters. 
+
+I implemented the algorithm by creating a funtion in python to make the process easier. In each iteration I visualize the edges that were removed. The [code]() follows these key steps:
+
+1. Load the Karate Club graph using NetworkX.
+
+2. Compute the edge betweenness at each iteration.
+
+3. Identify and remove edges with the highest betweenness.
+
+4. Visualize the graph after each iteration using Matplotlib.
+
+5. Stop the process when the graph splits into two connected components.
+
+
 
 *Q: How many iterations did it take to split the graph?*  
 
-**Note:** We are aware of solutions online that appear to answer this question.  However, the solutions do not adequately meet the requirements of this question. You must implement the Girvan-Newman algorithm (not community detection) and you must draw the graph after each iteration of the Girvan-Newman algorithm.
 
 ### Q3. Compare the actual split to the mathematical split
 
@@ -56,14 +89,3 @@ Use D3.js's force-directed graph layout to draw the Karate Club Graph before the
 * If you load a new file containing the split upon button press, this EC is worth 2 points.
 * If you modify the nodes and edges using D3 (without loading a new file), this EC is worth 4 points.
 * If you use D3 transitions to move the nodes and edges to their new locations, this EC is worth 6 points.
-
-## Submission
-
-You should be working in the private GitHub repo that I created for you in the [odu-cs432-websci organization](https://github.com/odu-cs432-websci/) (your repo URL should look something like https<nolink>://github.com/odu-cs432-websci/spr24-*username*/). 
-
-If you are working locally, make sure that you have committed and pushed your local repo, including `HW5-report.md` and any images you reference, to GitHub. 
-
-Submit the URL of your report (*not the URL of your repo*) in Canvas under HW5. This should be something like  
-https<nolink>://github.com/odu-cs432-websci/spr24-*username*/blob/main/HW5-report.md
-
-*If you make changes to your report after submitting in Canvas, I will use the last commit time in your repo as your assignment submission time.*
