@@ -39,7 +39,7 @@ As explained in the videos and showed in the slides, the Girvan-Newman algorithm
 
 Edges with high betweenness often act as "bridges" between clusters. 
 
-I implemented the algorithm by creating a funtion in python to make the process easier. In each iteration I visualize the edges that were removed. The [code](https://github.com/jgbotello/Web-Science/blob/main/HW5-Graph%20Partitioning/code/Code.ipynb) follows these key steps:
+I implemented the algorithm by creating a funtion in python to make the process easier. In each iteration I visualize the edges that were removed. The [code](https://github.com/jgbotello/Web-Science/blob/main/HW5-Graph%20Partitioning/code/Code.ipynb) follows these steps:
 
 1. Load the Karate Club graph using NetworkX.
 
@@ -51,41 +51,66 @@ I implemented the algorithm by creating a funtion in python to make the process 
 
 5. Stop the process when the graph splits into two connected components.
 
+The images below show the graph after each iteration and the edges that were removed.
 
+Iteration 1: Removed edge 0 - 31
 
-*Q: How many iterations did it take to split the graph?*  
+<img src="Images/graph1.jpg" height="400" alt="">
+
+Iteration 2: Removed edge 0 - 2
+
+<img src="Images/graph2.jpg" height="400" alt="">
+
+Iteration 3: Removed edge 0 - 8
+
+<img src="Images/graph3.jpg" height="400" alt="">
+
+Iteration 4: Removed edge 13 - 33
+
+<img src="Images/graph4.jpg" height="400" alt="">
+
+Iteration 5: Removed edge 19 - 33
+
+<img src="Images/graph5.jpg" height="400" alt="">
+
+Iteration 6: Removed edge 2 - 32
+
+<img src="Images/graph6.jpg" height="400" alt="">
+
+Iteration 7: Removed edge 1 - 30
+
+<img src="Images/graph7.jpg" height="400" alt="">
+
+Iteration 8: Removed edge 1 - 2
+
+<img src="Images/graph8.jpg" height="400" alt="">
+
+Iteration 9: Removed edge 2 - 3
+
+<img src="Images/graph9.jpg" height="400" alt="">
+
+Iteration 10: Removed edge 2 - 7 and edge 2 - 13. (Two because they had the same betweenness)
+
+<img src="Images/graph10.jpg" height="400" alt="">
+
+**Q: How many iterations did it take to split the graph?**
+The Girvan-Newman algorithm split the Karate Club graph into two connected components after 10 iterations.
 
 
 ### Q3. Compare the actual split to the mathematical split
 
-Compare the connected components of the Girvan-Newman split graph (Q2) with the connected components of the actual split Karate club graph (Q1). 
+**Compare the connected components of the Girvan-Newman split graph (Q2) with the connected components of the actual split Karate club graph (Q1).Q: Did all of the same colored nodes end up in the same group?  If not, what is different?**
 
-*Q: Did all of the same colored nodes end up in the same group?  If not, what is different?*
 
-### Useful Resources
+Here is the corrected version with improved grammar, consistency, and clarity:
 
-* Wayne Zachary, ["An Information Flow Model for Conflict and Fission in Small Groups"](http://aris.ss.uci.edu/~lin/76.pdf), 1977 - original paper 
-* [Zachary's Karate Club](https://en.wikipedia.org/wiki/Zachary's_karate_club) (Wikipedia)
-* Data 
-   * matrix format: [UCINET IV Version 1.0 DATASETS](http://vlado.fmf.uni-lj.si/pub/networks/data/Ucinet/UciData.htm#zachary)
-   * GML file: [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets)
-   * [karate_club_graph()](https://networkx.org/documentation/stable/auto_examples/graph/plot_karate_club.html) in [NetworkX](https://networkx.org/documentation/stable/index.html)
-* Example code
-  * [CS 432/532 Google Colab notebook](https://github.com/odu-cs432-websci/public/blob/main/432_NetworkX_example.ipynb)
-  * [CommunityGirvanNewman](https://snap.stanford.edu/snappy/doc/reference/CommunityGirvanNewman.html) in [Snap.py](https://snap.stanford.edu/snappy/doc/tutorial/index-tut.html) 
-  * [community_edge_betweenness()](https://igraph.org/python/doc/api/igraph.Graph.html#community_edge_betweenness) in [igraph-python](https://igraph.org/python/) 
-  * [edge_betweenness_centrality()](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.edge_betweenness_centrality.html#networkx.algorithms.centrality.edge_betweenness_centrality) in [NetworkX](https://networkx.org/)
-  * [number_connected_components()](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.components.number_connected_components.html#networkx.algorithms.components.number_connected_components) in [NetworkX](https://networkx.org/)
-  * ["What are the differences between community detection algorithms in igraph?"](http://stackoverflow.com/questions/9471906/what-are-the-differences-between-community-detection-algorithms-in-igraph/9478989#9478989), StackOverflow question/answer
-  * ["Are there implementations of algorithms for community detection in graphs? "](http://stackoverflow.com/questions/5822265/are-there-implementations-of-algorithms-for-community-detection-in-graphs), StackOverflow question/answer
+Note that I kept the same colors as in Q1 so we can see 17 nodes for Mr. Hi and 17 nodes for John A, respectively. We can compare this with the results of the mathematical implementation shown below:
 
-## Extra Credit
+Number of nodes in Mr. Hi: 15 {0, 1, 3, 4, 5, 6, 7, 10, 11, 12, 13, 16, 17, 19, 21}
 
-### Q4. *(1 point)*
-We know the group split in two different groups.  Suppose the disagreements in the group were more nuanced.  What would the clubs look like if they split into 3, 4, and 5 groups?  A single node can be considered as a "group".
+Number of nodes in John A: 19 {2, 8, 9, 14, 15, 18, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33}
 
-### Q5. *(various)*
-Use D3.js's force-directed graph layout to draw the Karate Club Graph before the split. Color the nodes according to the factions they belong to (John A or Mr. Hi). After a button is clicked, split the graph based on the original graph split. Include a link to the HTML/JavaScript files (or Observable notebook) in your report and all necessary screenshots.
-* If you load a new file containing the split upon button press, this EC is worth 2 points.
-* If you modify the nodes and edges using D3 (without loading a new file), this EC is worth 4 points.
-* If you use D3 transitions to move the nodes and edges to their new locations, this EC is worth 6 points.
+Notice that nodes 2 and 8 originally belonged to Mr. Hi, but in the mathematical implementation, they are assigned to John A.
+
+Overall, the algorithm demonstrates the real result of the split could have been predicted by the weighted graph of social interactions. However, there may be a minimal discrepancy.
+
