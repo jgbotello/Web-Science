@@ -45,14 +45,12 @@ I chose Artificial Intelligence as my topic because it aligns with my research f
 *Q: Did you have any issues in archiving the webpages?*
 the only challenge I had was that While archiving the webpages, some websites contained dynamic content, which caused them to take longer to load or not display correctly during recording.
 
-2. When archiving one webpage, it was necessary to stop the recording as quickly as possible because it started either archiving other links on the page or archiving duplicates.
-
 *Q: Do the archived webpages look like the original webpages?*
 For most webpages, the archived versions look like the originals. However, one of the URI-Rs did not display correctly. It showed special characters, likely due to issues with its dynamic content or encoding format.
 
 **After creating your collection at Conifer, download the collection as a WARC file (see [Exporting or Downloading Content](https://guide.conifer.rhizome.org/docs/manage-sessions/exporting-warc/)).**
 
-The WARC file is available by clicking [here](XXXXXXXXXXXXXX)
+The WARC file is available by clicking [here]([XXXXXXXXXXXXXX](https://github.com/jgbotello/Web-Science/blob/main/HW4-Web%20Archiving%20part%202/Conifer/artificial-intelligence-resources-20241217012520.warc))
 
 Then load this WARC file into [ReplayWeb.page](https://replayweb.page), a tool from the Webrecorder Project (folks who developed Conifer).  From <https://webrecorder.net/tools>: 
 
@@ -62,19 +60,19 @@ Once the WARC file has loaded, click on the "Pages" tab.  Take a screenshot that
 
 
 
-<img src="Images/conifer3.png" height="100" alt="">
+<img src="Images/conifer3.png" height="400" alt="">
 
 
 Then click on the "URLs" tab and choose "All URLs" from the dropdown menu.  
 
-<img src="Images/conifer4.png" height="100" alt="">
+<img src="Images/conifer4.png" height="400" alt="">
 
 *Q: How many URLs were archived in the WARC file?  How does this compare to the number of Pages?*
 A total of 547 URLs were archived. This number is significantly higher than the 10 pages. The discrepancy in this case arises because webpages often include many additional resources, such as images, JavaScript files, CSS, fonts. Each resorce is a URL that contributes to the total count.
 
 *Create a bar chart showing the number of URLs in the WARC file for each of the file types in the dropdown menu.*
 
-<img src="Images/bar_chart.jpg" height="100" alt="">
+<img src="Images/bar_chart.jpg" height="400" alt="">
 
 *Q: Which file type had the most URLs?  Were you surprised by this?*
 The file type with the most URLs was Images, with a total of 198 URLs. This result is not entirely surprising because webpages typically include numerous images, such as banners, icons, logos, and other graphics, so it contributes to the total count.
