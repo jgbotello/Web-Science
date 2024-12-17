@@ -13,21 +13,78 @@ The questions below were answered using a [jupyter notebook](https://github.com/
 
 ### Q1: Find 3 users who are closest to you in terms of age, gender, and occupation. For each of those 3 users:
 
+### The 3 Users Closest to Me
+
+| **Index** | **user_id** | **age** | **gender** | **occupation** | **zip_code** |
+|-----------|-------------|---------|------------|----------------|-------------|
+| 152       | 153         | 25      | M          | student        | 60641       |
+| 153       | 154         | 25      | M          | student        | 53703       |
+| 247       | 248         | 25      | M          | student        | 37235       |
+
+
 **Q: What are their top 3 (favorite) films?**
-**Q: What are their bottom 3 (least favorite) films?**
 
-| **User ID** | **Age** | **Gender** | **Occupation** | **Top 3 Movies**                                                                 | **Bottom 3 Movies**                                                                 |
-|-------------|---------|------------|----------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| **153**     | 25      | M          | Student        | 1. *The Shawshank Redemption* (1994) - 5 <br> 2. *Pulp Fiction* (1994) - 5 <br> 3. *Contact* (1997) - 5 | 1. *Raiders of the Lost Ark* (1981) - 1 <br> 2. *Star Wars* (1977) - 1 <br> 3. *Return of the Jedi* (1983) - 1 |
-| **154**     | 25      | M          | Student        | 1. *Brazil* (1985) - 5 <br> 2. *GoodFellas* (1990) - 5 <br> 3. *Star Wars* (1977) - 5     | 1. *Evita* (1996) - 2 <br> 2. *Lost Highway* (1997) - 2 <br> 3. *Star Trek: First Contact* (1996) - 2 |
-| **248**     | 25      | M          | Student        | 1. *The Rock* (1996) - 5 <br> 2. *Trainspotting* (1996) - 5 <br> 3. *The Godfather* (1972) - 5 | 1. *Forrest Gump* (1994) - 1 <br> 2. *Emma* (1996) - 1 <br> 3. *Dante's Peak* (1997) - 1 |
+**User 153: Top and Bottom Movies**
+
+*Top 3 Movies*
+
+| **Rank** | **Title**                                | **Rating** |
+|----------|------------------------------------------|------------|
+| 1        | Shawshank Redemption, The (1994)         | 5          |
+| 2        | Pulp Fiction (1994)                     | 5          |
+| 3        | Contact (1997)                          | 5          |
+
+*Bottom 3 Movies*
+| **Rank** | **Title**                                | **Rating** |
+|----------|------------------------------------------|------------|
+| 1        | Raiders of the Lost Ark (1981)          | 1          |
+| 2        | Star Wars (1977)                        | 1          |
+| 3        | Return of the Jedi (1983)               | 1          |
+
+
+**User 154: Top and Bottom Movies**
+
+*Top 3 Movies*
+
+| **Rank** | **Title**                                | **Rating** |
+|----------|------------------------------------------|------------|
+| 1        | Brazil (1985)                            | 5          |
+| 2        | GoodFellas (1990)                        | 5          |
+| 3        | Star Wars (1977)                         | 5          |
+
+*Bottom 3 Movies*
+
+| **Rank** | **Title**                                | **Rating** |
+|----------|------------------------------------------|------------|
+| 1        | Evita (1996)                             | 2          |
+| 2        | Lost Highway (1997)                      | 2          |
+| 3        | Star Trek: First Contact (1996)          | 2          |
 
 
 
+**User 248: Top and Bottom Movies**
 
-Based on the movie values in those 6 tables (3 users X (favorite + least favorite)), choose a user that you feel is most like you.  Feel free to note any outliers (e.g., "I mostly identify with user 123, except I did not like "Ghost" at all").  You can investigate more than just the top 3 and bottom 3 movies to find your best match.
+*Top 3 Movies*
 
-This user is the *substitute you*.  
+| **Rank** | **Title**                                | **Rating** |
+|----------|------------------------------------------|------------|
+| 1        | Rock, The (1996)                         | 5          |
+| 2        | Trainspotting (1996)                     | 5          |
+| 3        | Godfather, The (1972)                    | 5          |
+
+*Bottom 3 Movies*
+
+| **Rank** | **Title**                                | **Rating** |
+|----------|------------------------------------------|------------|
+| 1        | Forrest Gump (1994)                      | 1          |
+| 2        | Emma (1996)                              | 1          |
+| 3        | Dante's Peak (1997)                      | 1          |
+
+
+
+**Based on the movie values in those 6 tables (3 users X (favorite + least favorite)), choose a user that you feel is most like you.  Feel free to note any outliers (e.g., "I mostly identify with user 123, except I did not like "Ghost" at all").  You can investigate more than just the top 3 and bottom 3 movies to find your best match. This user is the *substitute you**.  
+
+
 
 ### Q2
 
