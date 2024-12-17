@@ -2,18 +2,38 @@
 
 ## Assignment
 
-**Important:** This assignment is a continuation of HW3. If you did not complete HW3 satisfactorily, contact me for instructions on how to proceed. This **cannot** be done at the last minute.
-
 ### Q1. Analyze Datetimes of Mementos.
 
-In Q1 of Homework 4, I conducted an analysis of the archival quality of the URIs collected in HW1 by leveraging the TimeMaps saved previously. My objective was to determine how well each URI was archived over time by examining the number and age of mementos. To achieve this, I created a Python script that processed the compressed JSON files containing the TimeMaps. The script first decompressed each .json.gz file and extracted the datetime of the earliest memento for each URI-R. Using the collection date as a reference point, I calculated the age in days between the collection date and the earliest memento datetime. Additionally, the script counted the total number of mementos for each URI-R. With this data, I generated a scatterplot using Matplotlib and Pandas, where the x-axis represented the age of the URI-R in days, and the y-axis depicted the number of mementos. This visualization allowed me to observe patterns in the archival frequency of different URIs, revealing insights into the persistence and accessibility of web resources over time.
+In this question, my objetive was to determine how well each URI was archived over time by examining the number and age of its mementos. To achieve this, I created a Python script that processes compressed JSON files containing the TimeMaps. These files were saved as part of [Homework 3 (Web Archiving Part 1)](C:\Users\JHON G. BOTELLO\OneDrive - Old Dominion University\PHD\Courses\Spring 2024\Web Science\Web-Science\HW3-Web Archiving\get Timemaps\timemaps).
+
+The script decompresses each .json.gz file and extracts the datetime of the earliest memento for each URI-R. Using the date when the TimeMaps were collected as a reference point, I calculate the age in days between the collection date and the earliest memento datetime. The script also counts the total number of mementos for each URI-R.
+
+With this data, I generate a scatterplot using Matplotlib and Pandas. The x-axis represents the age of each URI-R in days, and the y-axis shows the number of mementos. This visualization allows me to observe patterns in the archival frequency of different URIs.
+
+the output of the scrips shows the scatter plot, The URI-R and date of the oldest memento, and the number of URI-Rs with an age of less than 1 week. The image below shows the output.
+
+<img src="Images/output.PNG" height="500" alt="">
 
 **Q: What can you say about the relationship between the age of a URI-R and the number of its mementos?**
+The correlation between the age of a URI-R (in days) and the number of its mementos is 0.384. This suggests a positive but moderate correlation.
+
+Interpretation: Older URI-Rs tend to have more mementos, but the relationship is not very strong. This means that while age contributes to the number of mementos, other factors (like importance, popularity, or frequency of updates) may also influence how often a URI-R is archived.
+
 
 **Q: What URI-R had the oldest memento? Did that surprise you?**
+The URI-R with the oldest memento is: https://www.washington.edu/
+
+The date of the oldest memento is October 18, 1996.
+Does it surprise me?
+Yes, it is somewhat surprising because 1996 represents an early period in web history when web archiving efforts were just starting (e.g., the Internet Archive was founded in 1996). The fact that a memento from 1996 exists indicates that this URI-R is likely a well-established and historically significant website.
+
 
 **Q: How many URI-Rs had an age of < 1 week, meaning that their first memento was captured the same week you collected the data?**                                                              
-                                                                      
+The number of URI-Rs with an age of less than 1 week is 0.
+
+Interpretation: This means that none of the analyzed URI-Rs had their first memento captured in the same week as the data collection (July 2024). This could indicate that the analyzed URI-Rs have all been archived at least once in the past and are not newly observed web pages.
+
+
 ### Q2. Explore Conifer and ReplayWeb.Page
 
 Create an account at [Conifer](https://conifer.rhizome.org) and create a collection.  Archive at least 10 webpages related to a common topic that you find interesting. Make the collection public and include the link to your collection in your report.
