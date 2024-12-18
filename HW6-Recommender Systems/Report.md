@@ -116,12 +116,12 @@ I will pick user 153 because the Shawshank Redemption movie is also my top favor
 
 
 **Q: Explain the general operation of any functions you use from recommendations.py.**
+
 To answer the question, I used the sim_pearson function from recommendations.py to calculate the Pearson correlation coefficient between two users. This function quantifies how similar two users are in terms of their movie ratings, specifically considering the movies they both rated. The function first identifies the list of movies that both users have rated. This is done by iterating through the movie ratings of two users and storing the overlapping item_id values in a dictionary.
 
 Results regarding the top 5 Most Correlated Users indicate that these users share a perfect linear relationship with my "substitute jhon" in terms of ratings for the movies we both rated. In other words, our preferences are identical or proportional. It suggest similar tastes in movies. On the other hand, A correlation of -1.000 indicates a perfect negative linear relationship, meaning that the Top 5 least Correlated Users rated movies in an opposite manner to my "substitute jhon.
 
-### Q3
-Compute ratings for all the films that the *substitute you* has not seen and answer the following questions:
+### Q3: Compute ratings for all the films that the *substitute you* has not seen and answer the following questions:
 
 **Q: What are the top 5 recommendations for films that the *substitute you* should see.?**
 
@@ -144,6 +144,7 @@ Compute ratings for all the films that the *substitute you* has not seen and ans
 | Theodore Rex (1995)                                       | 1.00                 |
 
 * *Q: Explain the general operation of any functions you use from recommendations.py.*
+* 
 To answer this question, I used the getRecommendations function from recommendations.py. This function generates recommendations for a user based on collaborative filtering. It analyzes other users' preferences, using a similarity metric (I used pearson correlation) to identify relevant items that the target user hasn't rated yet. It receives three parameter as input: 1) a dictionary of preferences where the keys are user, and the values are dictionaries containing the movies ratings. 2) the target user for whom recommendations will be generated, and 3) the way similarity will be calculated (In this case pearson correlation).
 
 ### Q4: Choose your (the real you, not the *substitute you*) favorite and least favorite film from the data. 
@@ -173,12 +174,14 @@ I will pick Jurassic Park (1993) as my favorite movie because I used to watch it
 | Perfect Candidate (1996)               | -1.00               |
 
 
-* *Q: Based on your knowledge of the resulting films, do you agree with the results?*  In other words, do you personally like/dislike the resulting films? 
+* *Q: Based on your knowledge of the resulting films, do you agree with the results?*  In other words, do you personally like/dislike the resulting films?
+* 
 After watching the trailers of the recommended movies, I believe I would enjoy the top 3 most correlated films, but not the other two. On the other hand, for the bottom 5 least correlated films, I agree with the results—I don’t think I would like them.
 
 I consider this is part of a recommendation system, which will not be 100% accurate as it depends on user preferences. Additionally, most of the movies are old and do not match exactly with my preferences.
 
 * *Q: Explain the general operation of any functions you use from recommendations.py.*
+* 
 To answer the above questions I used the topMatches and transformPrefs funtions from recomendations.py. The topMatches function works by iterating through all other users in the preferences dictionary, calculating the similarity score between the target user and each other one. The transformPrefs function restructures the input preferences dictionary into a reversed form. It transform the recommendations into a mapping where persons are described with interest scores for a given title e.g. {title: person} instead of {person: title}. Based on the above, when passing as input the id of my favorite movie, the system extract similar movies based on pearson correlation.
 
 the [trailer for "Loch Ness (1995)"](https://www.youtube.com/watch?v=kMb5nrFsN2Q) was found by searching for "Loch Ness (1995)" on Google.
