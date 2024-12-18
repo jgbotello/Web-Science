@@ -152,17 +152,51 @@ I will pick Jurassic Park (1993) as my favorite movie because I used to watch it
 
 * *Q: What are the top 5 most correlated films to your favorite film?  Bottom 5 least correlated?*
 
+*top 5 most correlated films*
+
+| **Movie Title**            | **Similarity Score** |
+|----------------------------|----------------------|
+| Loch Ness (1995)           | 1.00                 |
+| Nico Icon (1995)           | 1.00                 |
+| Hurricane Streets (1998)   | 1.00                 |
+| Love Serenade (1996)       | 1.00                 |
+| Safe Passage (1994)        | 1.00                 |
+
+*Bottom 5 least correlated?*
+
+| **Movie Title**                         | **Similarity Score** |
+|----------------------------------------|----------------------|
+| Kaspar Hauser (1993)                   | -1.00               |
+| Wonderland (1997)                      | -1.00               |
+| The Innocent (1994)                    | -1.00               |
+| Blood for Dracula (Andy Warhol's Dracula) (1974) | -1.00               |
+| Perfect Candidate (1996)               | -1.00               |
 
 
-* *Q: What are the top 5 most correlated films to your least favorite film?  Bottom 5 least correlated?*
 * *Q: Based on your knowledge of the resulting films, do you agree with the results?*  In other words, do you personally like/dislike the resulting films? 
+After watching the trailers of the recommended movies, I believe I would enjoy the top 3 most correlated films, but not the other two. On the other hand, for the bottom 5 least correlated films, I agree with the results—I don’t think I would like them.
+
+I consider this is part of a recommendation system, which will not be 100% accurate as it depends on user preferences. Additionally, most of the movies are old and do not match exactly with my preferences.
+
 * *Q: Explain the general operation of any functions you use from recommendations.py.*
+To answer the above questions I used the topMatches and transformPrefs funtions from recomendations.py. The topMatches function works by iterating through all other users in the preferences dictionary, calculating the similarity score between the target user and each other one. The transformPrefs function restructures the input preferences dictionary into a reversed form. It transform the recommendations into a mapping where persons are described with interest scores for a given title e.g. {title: person} instead of {person: title}. Based on the above, when passing as input the id of my favorite movie, the system extract similar movies based on pearson correlation.
 
+the [trailer for "Loch Ness (1995)"](https://www.youtube.com/watch?v=kMb5nrFsN2Q) was found by searching for "Loch Ness (1995)" on Google.
 
+the [trailer for "Nico Icon (1995)"](https://mubi.com/en/films/nico-icon/trailer) was found by searching for "Nico Icon (1995)" on Google.
 
+the [trailer for "Hurricane Streets (1998)"](https://www.youtube.com/watch?v=PZibLqWZ7cM) was found by searching for "Hurricane Streets (1998)" on Google.
 
+the [trailer for "Love Serenade (1996)"](https://www.youtube.com/watch?v=Rk92ymOMlyc) was found by searching for "Love Serenade (1996) " on Google.
 
+the [trailer for "Safe Passage (1994)"](https://www.youtube.com/watch?v=X2vyr662x4Q) was found by searching for "Safe Passage (1994)" on Google.
 
-the [trailer for "Top Gun (1986)"](https://www.youtube.com/watch?v=xa_z57UatDY) was found by searching for "top gun 1986 trailer" on Google.   
+the [trailer for "Kaspar Hauser (1993)"](https://www.youtube.com/watch?v=6yuOZWBAhO8) was found by searching for "Kaspar Hauser (1993)" on Google.
 
+the [trailer for "Wonderland (1997)"](https://www.youtube.com/watch?v=tIWMOSKKlgs) was found by searching for "Kaspar Hauser (1993)" on Google.
 
+the [trailer for "The Innocent (1994)"](https://www.dailymotion.com/video/x8i23dv) was found by searching for "The Innocent (1994)" on Google.
+
+the [trailer for "Blood for Dracula (Andy Warhol's Dracula)"](https://www.youtube.com/watch?v=-mxhJzSKV08) was found by searching for "Blood for Dracula (Andy Warhol's Dracula)" on Google.
+
+the [trailer for "Perfect Candidate (1996)"](https://www.youtube.com/watch?v=-mxhJzSKV08) was found by searching for "Perfect Candidate (1996)" on Google.
