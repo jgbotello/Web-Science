@@ -100,9 +100,8 @@ Report the precision and accuracy scores of your classification results.
 
 #### **Formulas**
 - **Precision** (for *work* category):
-  \[
-  \text{Precision} = \frac{\text{TP}}{\text{TP} + \text{FP}}
-  \]
+
+\[\text{Precision} = \frac{\text{TP}}{\text{TP} + \text{FP}}\]
 
 - **Accuracy**:
   \[
