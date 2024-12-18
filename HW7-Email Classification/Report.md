@@ -100,42 +100,19 @@ Report the precision and accuracy scores of your classification results.
 
 #### **Formulas**
 - **Precision** (for *work* category):
-
-\[\text{Precision} = \frac{\text{TP}}{\text{TP} + \text{FP}}\]
-
-- **Accuracy**:
-  \[
-  \text{Accuracy} = \frac{\text{TP} + \text{TN}}{\text{TP} + \text{TN} + \text{FP} + \text{FN}}
-  \]
-
----
-
-#### **Calculations**
-**Precision**:
-Using **TP = 3** and **FP = 0**:
-\[
-\text{Precision} = \frac{3}{3 + 0} = \frac{3}{3} = 1.0
-\]
+Precision = TP / (TP + FP)
 
 **Accuracy**:
-Using **TP = 3**, **TN = 5**, **FP = 0**, and **FN = 2**:
-\[
-\text{Accuracy} = \frac{3 + 5}{3 + 5 + 0 + 2} = \frac{8}{10} = 0.8 \, \text{or} \, 80\%
-\]
+Accuracy = (TP + TN) / (TP + TN + FP + FN)
 
 ---
 
-#### **Final Report**
 The precision and accuracy scores for the classifier are:
 
 - **Precision:** \( 1.0 \) (or 100%)  
 - **Accuracy:** \( 0.8 \) (or 80%)  
 
-**Explanation:**  
 The precision is **1.0** because there were no false positives, meaning the classifier never incorrectly classified a nonwork email as work. The accuracy is **80%**, as 8 out of 10 emails were correctly classified.
-
-
-
 
 
 ### Q5 *(2 points)* 
