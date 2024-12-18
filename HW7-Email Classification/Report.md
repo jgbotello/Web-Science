@@ -114,16 +114,3 @@ The precision and accuracy scores for the classifier are:
 
 The precision is **1.0** because there were no false positives, meaning the classifier never incorrectly classified a nonwork email as work. The accuracy is **80%**, as 8 out of 10 emails were correctly classified.
 
-
-### Q5 *(2 points)* 
-
-Tune your classifier by updating weights to obtain better classification results. You may want to change the default weights (`weight`, `ap`) given to `weightedprob()` or the threshold used for the Bayesian classifier or change how the words are extracted from the document (for this you will need to re-train the model).  Report the changes you made, re-run your Testing dataset, and show that the performance improved (either by using the confusion matrix or by computing precision and accuracy).
-
-If your classifier got all of the items correct in Q2, change the weights to make the classifier perform worse and discuss the results.
-
-### Q6 *(4 points)* 
-
-Implement the classifier with the Multinomial model instead of the multiple Bernoulli model and re-run Q2 and Q3.  Did the classification improve?  *Make sure to remove the unique word filter from the extractor.*
-
-*For credit on this part, you must describe what you have done and discuss the differences between the Multinomial model and the multiple Bernoulli model.*
-
