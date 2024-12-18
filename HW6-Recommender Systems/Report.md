@@ -11,9 +11,9 @@ The MovieLens datasets were collected by the [GroupLens Research Project](https:
 
 The questions below were answered using a [jupyter notebook](https://github.com/jgbotello/Web-Science/blob/main/HW6-Recommender%20Systems/Code/code.ipynb) that includes parts of the provided [example](https://github.com/odu-cs432-websci/public/blob/main/432_PCI_Ch02.ipynb) and some functions created from scratch.
 
-### Q1: Find 3 users who are closest to you in terms of age, gender, and occupation. For each of those 3 users:
+### Q1: Find 3 users who are closest to you in terms of age, gender, and occupation.
 
-### The 3 Users Closest to Me
+**The 3 Users Closest to Me**
 
 | **Index** | **user_id** | **age** | **gender** | **occupation** | **zip_code** |
 |-----------|-------------|---------|------------|----------------|-------------|
@@ -21,6 +21,8 @@ The questions below were answered using a [jupyter notebook](https://github.com/
 | 153       | 154         | 25      | M          | student        | 53703       |
 | 247       | 248         | 25      | M          | student        | 37235       |
 
+
+**For each of those 3 users:**
 
 **Q: What are their top 3 (favorite) films?**
 
@@ -84,61 +86,83 @@ The questions below were answered using a [jupyter notebook](https://github.com/
 
 **Based on the movie values in those 6 tables (3 users X (favorite + least favorite)), choose a user that you feel is most like you.  Feel free to note any outliers (e.g., "I mostly identify with user 123, except I did not like "Ghost" at all").  You can investigate more than just the top 3 and bottom 3 movies to find your best match. This user is the *substitute you**.  
 
+I will pick user 153 because the Shawshank Redemption movie is also my top favorite movie, and the genres of the other two movies are also of interest to me.
+
+### Q2: Based on the ratings that users have given to the movies, answer the following questions:
+
+**Q: Which 5 users are most correlated to the substitute you (i.e., which 5 users rate movies most similarly to the* substitute you?)**
+
+*Top 5 Most Correlated Users*
+
+| **User** | **Pearson Correlation** |
+|----------|-------------------------|
+| User 163 | 1.000                   |
+| User 469 | 1.000                   |
+| User 277 | 1.000                   |
+| User 340 | 1.000                   |
+| User 284 | 1.000                   |
+
+**Q: Which 5 users are least correlated (i.e., negative correlation)?**
+
+*Top 5 Least Correlated Users*
+
+| **User** | **Pearson Correlation** |
+|----------|-------------------------|
+| User 939 | -1.000                  |
+| User 257 | -1.000                  |
+| User 258 | -1.000                  |
+| User 32  | -1.000                  |
+| User 231 | -1.000                  |
 
 
-### Q2
+**Q: Explain the general operation of any functions you use from recommendations.py.**
+To answer the question, I used the sim_pearson function from recommendations.py to calculate the Pearson correlation coefficient between two users. This function quantifies how similar two users are in terms of their movie ratings, specifically considering the movies they both rated. The function first identifies the list of movies that both users have rated. This is done by iterating through the movie ratings of two users and storing the overlapping item_id values in a dictionary.
 
-Based on the ratings that users have given to the movies, answer the following questions:
-
-* *Q: Which 5 users are most correlated to the* substitute you *(i.e., which 5 users rate movies most similarly to the* substitute you?)
-* *Q: Which 5 users are least correlated (i.e., negative correlation)?*
-* *Q: Explain the general operation of any functions you use from recommendations.py.*
+Results regarding the top 5 Most Correlated Users indicate that these users share a perfect linear relationship with my "substitute jhon" in terms of ratings for the movies we both rated. In other words, our preferences are identical or proportional. It suggest similar tastes in movies. On the other hand, A correlation of -1.000 indicates a perfect negative linear relationship, meaning that the Top 5 least Correlated Users rated movies in an opposite manner to my "substitute jhon.
 
 ### Q3
 Compute ratings for all the films that the *substitute you* has not seen and answer the following questions:
 
-* *Q: What are the top 5 recommendations for films that the *substitute you* should see.?*
-* *Q: What are the bottom 5 recommendations (i.e., films the *substitute you* is almost certain to hate)?*
-* *Q: Explain the general operation of any functions you use from recommendations.py.*
+**Q: What are the top 5 recommendations for films that the *substitute you* should see.?**
 
-### Q4
-Choose your (the real you, not the *substitute you*) favorite and least favorite film from the data. 
+| **Movie Title**                                           | **Predicted Rating** |
+|-----------------------------------------------------------|----------------------|
+| Little City (1998)                                       | 5.00                 |
+| Entertaining Angels: The Dorothy Day Story (1996)        | 5.00                 |
+| Aparajito (1956)                                         | 5.00                 |
+| Aiqing wansui (1994)                                     | 5.00                 |
+| World of Apu, The (Apur Sansar) (1959)                   | 5.00                 |
+
+**Q: What are the bottom 5 recommendations (i.e., films the *substitute you* is almost certain to hate)?**
+
+| **Movie Title**                                            | **Predicted Rating** |
+|------------------------------------------------------------|----------------------|
+| Amityville 3-D (1983)                                     | 1.00                 |
+| Amityville 1992: It's About Time (1992)                   | 1.00                 |
+| 3 Ninjas: High Noon At Mega Mountain (1998)               | 1.00                 |
+| Turbo: A Power Rangers Movie (1997)                       | 1.00                 |
+| Theodore Rex (1995)                                       | 1.00                 |
+
+* *Q: Explain the general operation of any functions you use from recommendations.py.*
+To answer this question, I used the getRecommendations function from recommendations.py. This function generates recommendations for a user based on collaborative filtering. It analyzes other users' preferences, using a similarity metric (I used pearson correlation) to identify relevant items that the target user hasn't rated yet. It receives three parameter as input: 1) a dictionary of preferences where the keys are user, and the values are dictionaries containing the movies ratings. 2) the target user for whom recommendations will be generated, and 3) the way similarity will be calculated (In this case pearson correlation).
+
+### Q4: Choose your (the real you, not the *substitute you*) favorite and least favorite film from the data. 
+
+I will pick Jurassic Park (1993) as my favorite movie because I used to watch it with my family when I was growing up. On the other hand, I will choose The Fugitive as my least favorite movie because I remember my grandpa saying that it was really bad when we watched it.
 
 * *Q: What are the top 5 most correlated films to your favorite film?  Bottom 5 least correlated?*
+
+
+
 * *Q: What are the top 5 most correlated films to your least favorite film?  Bottom 5 least correlated?*
 * *Q: Based on your knowledge of the resulting films, do you agree with the results?*  In other words, do you personally like/dislike the resulting films? 
 * *Q: Explain the general operation of any functions you use from recommendations.py.*
 
-If you have not heard of the recommended movies, search for the movie's trailer on YouTube and watch it before you answer.  If you do this, include the link to the trailer in your report.  For example, the [trailer for "Top Gun (1986)"](https://www.youtube.com/watch?v=xa_z57UatDY) was found by searching for "top gun 1986 trailer" on Google.   
 
-## Extra Credit
 
-### Q5 *(2 points)*
 
-Filter the MovieLens dataset so that it only contains movies with at least 10 ratings.  
 
-*Q: How many movies are in the filtered dataset?*
 
-Re-do Q3 and Q4 using this dataset.  
+the [trailer for "Top Gun (1986)"](https://www.youtube.com/watch?v=xa_z57UatDY) was found by searching for "top gun 1986 trailer" on Google.   
 
-*Q: Do you think the recommendations have improved?*
 
-### Q6 *(2 points)*  
-
-Rank all 1682 movies in the 1997/1998 MovieLens dataset.  (*Rank*, not rate. These should be 1-1682.) Break any ties based on number of raters (for example, a movie with an average rating of 4 with 100 raters should be ranked higher than a movie with an average rating of 4 with only 50 raters).
-
-Put a file with the full list in your repo.  List the top 10 and bottom 10 movies in your report.
-
-### Q7 *(3 points)*  
-
-Rank the 1682 movies in the 1997/1998 MovieLens dataset according to [today's IMDB data](https://www.imdb.com/interfaces/).  Note that the IMDB data includes TV shows and other items that aren't movies. Break any ties based on number of raters (for example, a movie with an average rating of 7.2 with 10,000 raters should be ranked higher than a movie with a rating of 7.2 with only 9,000 raters).
-
-Put a file with the full list in your repo.  List the top 10 and bottom 10 movies in your report.
-
-### Q8 *(1 point)*
-
-*You must have done both Q6 and Q7 to complete this question.*
-
-Draw a scatterplot where each dot is a film (i.e., 1682 dots).  The x-axis is the MovieLens ranking (Q6) and the y-axis is today's IMDB ranking (Q7).  Note that the MovieLens ratings are 1-5 and the IMDB ratings are 1-10, so you may want to normalize the data before plotting.  *The scatterplot must be created in R or Python, no Excel.*
-
-*Q: Describe any interesting outliers.*
