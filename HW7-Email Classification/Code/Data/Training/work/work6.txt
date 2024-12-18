@@ -1,0 +1,38 @@
+top 10 blog posts from the last 7 days
+
+
+
+ws-dl@googlegroups.com on behalf of Nelson, Michael L.<mln@cs.odu.edu>
+​
+ws-dl@googlegroups.com
+​
+Hi All,
+
+Just a reminder that 2024 is nearly done and we're running out of time to get your 2024 blog posts in.  I know many of you have drafts in progress, but here's what I have so far:
+
+https://ws-dl.cs.odu.edu/wiki/index.php/Blog_Plan#2024_Blog_Posts
+
+Also, attached is the number of views for the top 10 most popular blog posts from the last 7 days.  There are some long-time popular posts ("Wayback Memento", "Flash Games", "Carbon Dating"), but most are pretty recent, esp. Travis's iframe ads post (getting traction with the IA folks) and recent trip reports from Yash and Mohan. 
+
+Trip reports are especially useful: if the taxpayers have funded us to travel on their dime, we owe the public an explanation of how we spent our time and their $.   Even though CS is a conference-driven discipline and there are advantages to traveling, it remains a terribly inefficient method, for both the time it takes and the money it costs, for presenting results.  Not everyone can travel, and there are certainly more events than any one person has time for.  Our commentary about the events we're fortunate enough to attend is helpful to our colleagues that did not travel. 
+
+regards,
+
+Michael
+
+
+
+-----
+Michael L. Nelson mln@cs.odu.edu www.cs.odu.edu/~mln/
+Professor and Eminent Scholar
+Web Sciences and Digital Libraries Research Group
+Department of Computer Science, Old Dominion University, Norfolk VA 23529
+Virginia Modeling, Analysis and Simulation Center, 1030 University Blvd, Suffolk, VA 23435
+Deputy Director, School of Data Science
+Chief Scientist, Office of Enterprise Research and Innovation
++1 757 683-6393 (o) +1 757 683-4900 (f) +1 757 570-7376 (c)
+
+--
+You received this message because you are subscribed to the Google Groups "Web Science and Digital Libraries Research" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to ws-dl+unsubscribe@googlegroups.com.
+To view this discussion visit https://groups.google.com/d/msgid/ws-dl/CY5PR17MB6167AB1A6031F3C1BE2F1C698F3E2%40CY5PR17MB6167.namprd17.prod.outlook.com.

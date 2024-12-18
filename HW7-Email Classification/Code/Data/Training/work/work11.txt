@@ -1,0 +1,23 @@
+JSON Structured output with Ollama
+
+
+
+
+JOSEPH MARTINEZ SALCEDO
+Fri 12/06/24 6:30 PM
+Just as we were having our discussion today! This might be useful to further force the LLM to give JSON as output: https://ollama.com/blog/structured-outputs Regards, Joseph Martínez
+DAVE SHUTTLEWORTH<dshut002@odu.edu>
+​
+MARTINEZ SALCEDO, JOSEPH
+​
+​
+LLINAS MARIMON, BRIAN;
+​+4 others
+​
+​
+​
+​
+I think this is open source: https://github.com/aplpolaris/promptfx
+
+I think it is a useful tool for exploring a corpus and seeing the
+effects of a few parameters

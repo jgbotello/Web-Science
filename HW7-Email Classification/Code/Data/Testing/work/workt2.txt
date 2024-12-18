@@ -1,0 +1,17 @@
+Thoughts on this?
+
+Padilla, Jose J.
+​
+LLINAS MARIMON, BRIAN;
+​+2 others
+​
+​
+This project will generate original data to study how climate and environmental stressors shape a broad range of individual and group adaptation behaviors and which government-level adaptations reduce the prevalence of socially problematic adaptations, such as household migration or local inter-group violence, which often precede wider societal disruptions. To generate original data on climate adaptation policies and behaviors at the individual, social group, and governmental levels, we will use a series of fine-tuned Large Language Models (LLMs) applied to a unique corpus of 120 million articles published by local news outlets based in more than 60 developing countries from 2012-2024. This will allow us to create a monthly, sub-national (ADM1) dataset on 10 distinct types of environmental adaptations never before measured at such scale. We will also use this method to generate new media-derived data for reporting on sudden onset weather and environmental events as well as slow onset environmental change that we expect to cause adaptation behaviors. We will complement these data with forthcoming data from the International Organization of Migration (IOM), publicly available project-level data on adaptation-focused development aid from the OECD, and high-resolution data on climate and environmental stressors.
+
+ 
+
+Thoughts?
+
+ 
+
+https://minerva.defense.gov/Research/Funded-Projects/Article/3956358/modeling-climate-induced-societal-adaptation-and-population/

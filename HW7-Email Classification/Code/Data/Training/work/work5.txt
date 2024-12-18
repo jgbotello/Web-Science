@@ -1,0 +1,56 @@
+Weekly check-in December 09 - 13, 2024
+VALENTINA PAOLA ESTOR DUQUE
+Tue 12/10/24 6:27 PM
+Hi everyone, I hope you are doing well. Below is my weekly check-in: a. ​Working days Remote work: Monday, Tuesday, Thursday, and Friday. In-person work: Wednesday b. ​What did you learn? What are the key takeaways or areas for improvement? I participated in
+Daniel Alfonso Bolivar Pimiento
+Tue 12/10/24 7:03 PM
+Weekly Check In 9 to 13 Dic Here is my weekly check-in Draft: Hi Storymodelers, I hope you’re doing well! Below is my weekly check-in: Working Days: • In-person: • Remote: Monday to Friday What Did I Learn? While searching for a scholarship, I came across the
+Leidy Julieth González Garzón
+Wed 12/11/24 11:19 AM
+Good day, Storymodelers team I hope this email finds you well. Below is my weekly check-in: 1. Working Days: a. In-person: None b. Remote: Monday to Friday 2. What did I learn? a. I identified the need to adjust the objectives to ensure a clear and consistent
+Valeria Silgado Restrepo
+Wed 12/11/24 2:19 PM
+Hi everyone, Below is my Weekly check-in: 1. Working days In-person: None. Remote: Monday and Friday. 2. Last week's goals progress and wins I worked on the article: methodology and discussions. I worked on the data collection protocol in Villa Caracas. 3.
+Rafael Angel Martinez Montero<ramontero@uninorte.edu.co>
+​
+Valeria Silgado Restrepo;
+​+5 others
+​
+​
+​
+​
+​
+​
+Mozingo, Meaghan;
+​+10 others
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Hey everyone,
+Below is my weekly check-in:
+Working Days:
+Remote: Tuesday, Thursday
+What did I learn?
+~ Last week, I learned how to use SQLite in a C# application, and it turned out to be much easier than I expected. SQLite is a free, lightweight SQL database that offers simple installation and implementation, making it ideal for projects requiring data persistence. In particular, I found it extremely useful for implementing data permanence in video games made with Unity. For those unfamiliar with SQLite and interested in exploring its capabilities, I recommend checking out guides with examples, such as the official SQLite documentation or Unity-specific tutorials.
+SQLite Home Page
+What Is SQLite? SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.SQLite is the most used database engine in the world. SQLite is built into all mobile phones and most computers and comes bundled inside countless other applications that people use every day.
+www.sqlite.org
+
+
+Last week's goals and progress wins
+I presented a workshop to high school students to learn how to make a chatbot with Gemini.
+Met with la profe and Jose to show the advances of the app
+Meeting with Dhalia and the new members of Storymodelers Colombia to show them how to use the app .
+Uploaded final version of the final project report to Uninorte
+
+This week's goals:
+Meeting with Liss to compare SEM and CFA models
+Continue working on the app
+Este correo no representa opinión o consentimiento oficial de la Universidad del Norte, por lo que esta no adquiere ninguna responsabilidad por su contenido, salvo en el caso de funcionarios en ejercicio de atribuciones reglamentarias. Puede provenir de una cuenta ofrecida a funcionarios o estudiantes, como parte del ejercicio educativo, evento en el cual tanto el mensaje como sus anexos son estrictamente confidenciales. Ha sido analizado con software antivirus; no obstante, no se garantiza que sea seguro o no contenga errores o virus, por lo que la Universidad del Norte no se hace responsable de su transmisión.

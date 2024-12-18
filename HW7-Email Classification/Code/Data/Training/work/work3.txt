@@ -1,0 +1,9 @@
+Questions from presentation
+Lesley Frew<lfrew001@odu.edu>
+​
+Weigle, Michele C.;
+​+1 other
+​
+Ethics of this tool when llm is not always correct - this is increasing misinformation potential - specifically for young people like undergraduates 
+
+Including false positives (webpages with changes in content but not structure and vice versa) in next data set

@@ -1,0 +1,31 @@
+Competition Launch: Konwinski Prize
+Kaggle<noreply@kaggle.com>
+​
+BOTELLO MALDONADO, JHON
+​
+
+
+Kaggle
+Hi Jhon BOTELLO MALDONADO,
+
+Resolving GitHub issues remains a significant challenge in software engineering—it’s common to feel stuck in a constant “merge conflict.” Why? Many existing tools struggle with accuracy and accessibility or rely too heavily on proprietary models.
+
+In this competition, you’ll build AI models to tackle a special version of the SWE-Bench benchmark, where your submitted notebooks will be frozen and then evaluated on future Github issues. This will help automate issue resolution and make sure models can’t be overfit on test data. With better tools, engineers can spend less time fixing problems and more on creative work, like designing features and improving user experiences.
+
+Total Prizes:
+$1,225,000
+
+Entry Deadline:
+March 5, 2025
+
+Learn More
+Your work will help shape the future of open and effective software development.
+
+Good luck,
+
+Sohier Dane
+Kaggle Data Scientist
+
+Kaggle, Inc 1600 Amphitheatre Pkwy Mountain View, CA 94043
+
+This email was sent to jbote001@odu.edu because you indicated that you'd like to receive news and updates about Kaggle. If you don't want to receive these emails in the future, please unsubscribe here. You can also change your preferences on your account's profile page by logging in at kaggle.com.

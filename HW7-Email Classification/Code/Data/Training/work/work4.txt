@@ -1,0 +1,43 @@
+LLMs and NetLogo
+
+Weigle, Michele C.
+​
+BOTELLO MALDONADO, JHON
+​
+Jhon,
+
+ 
+
+I was looking at some blog posts that I’d missed and saw Nithiya’s recent summary of a paper on LLMs and NetLogo.
+
+https://ws-dl.blogspot.com/2024/12/2024-12-08-paper-summary-learning-agent.html
+
+2024-12-08: Paper Summary: Learning Agent-based Modeling with LLM Companions: Experiences of Novices and Experts Using ChatGPT & NetLogo Chat
+The Web Science and Digital Libraries Research Group at Old Dominion University.
+ws-dl.blogspot.com
+
+ 
+
+I only know about NetLogo because you’ve mentioned, so wanted to make sure you saw this.
+
+ 
+
+-MCW
+
+ 
+
+--
+
+Michele C. Weigle
+
+Professor | Department of Computer Science
+
+Assistant Chair for Graduate Programs and Research
+
+Graduate Program Director, PhD Program - csgpd@odu.edu
+
+Old Dominion University, Norfolk, VA 23529
+
+mweigle@odu.edu   (757) 683-7729
+
+https://www.cs.odu.edu/~mweigle/

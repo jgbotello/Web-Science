@@ -1,0 +1,94 @@
+AI Is Killing Coding | Andrew Zuo
+Medium Daily Digest<noreply@medium.com>
+​
+BOTELLO MALDONADO, JHON
+​
+
+Jhon G. Botello
+Stories for Jhon G. Botello
+@jbote001·Become a member
+Medium daily digest
+Today's highlights
+
+Andrew ZuoAndrew Zuo
+AI Is Killing Coding
+AI Is Killing Coding
+There’s a new IDE out called Cursor. Although as I…
+Member-only content7 min readClaps1.3KResponses54
+Okan YenigünOkan YenigüninArtificial Intelligence in Plain English
+Mastering CrewAI: Chapter 1 — Your First Intelligent Workflow
+Mastering CrewAI: Chapter 1 — Your First Intelligent Workflow
+The Basics of Agents and Tasks
+Member-only content12 min readClaps59
+Hadi RouhaniHadi Rouhani
+Build Production Ready AI Assistant Backend Service (in Python) — Part 2
+Build Production Ready AI Assistant Backend Service (in Python) — Part 2
+— Build a multi agent RAG system using LangGraph +…
+Member-only content8 min read
+Wencong Yang, PhDWencong Yang, PhDinTowards Data Science
+Addressing the Butterfly Effect: Data Assimilation Using Ensemble Kalman Filter
+Addressing the Butterfly Effect: Data Assimilation Using Ensemble Kalman Filter
+Learn how to implement the Ensemble Kalman Filter for…
+Member-only content9 min readClaps34
+Gao Dalie (高達烈)Gao Dalie (高達烈)inTowards AI
+Pydantic AI + Web Scraper + Llama 3.3 Python = Powerful AI Research Agent
+Pydantic AI + Web Scraper + Llama 3.3 Python = Powerful AI Research Agent
+In this video, I have a super quick tutorial showing…
+Member-only content8 min readClaps805Responses5
+MyScaleMyScale
+Agentic AI vs Generative AI: Understanding the Key Differences and Impacts
+Agentic AI vs Generative AI: Understanding the Key Differences and Impacts
+Large Language Models (LLMs) like GPT can generate…
+7 min readClaps2
+Samar SinghSamar Singh
+Pydantic AI: The Python Agent Framework to BUILD Production-Grade AI Agents!
+Pydantic AI: The Python Agent Framework to BUILD Production-Grade AI Agents!
+Pydantic, a powerhouse in the Python ecosystem with…
+Member-only content5 min readClaps95Responses3
+AstropomeaiAstropomeai
+Implementing Map-Reduce with LangGraph: Creating Flexible Branches for Parallel Execution
+Implementing Map-Reduce with LangGraph: Creating Flexible Branches for Parallel…
+In this article, we’ll introduce the following…
+16 min readClaps138Responses3
+Shanaka C. DeSoysaShanaka C. DeSoysainTowards AI
+Emotion AI: How to Build Sentiment Prediction Models Like a Pro
+Emotion AI: How to Build Sentiment Prediction Models Like a Pro
+Master Sentiment Prediction: Techniques, Tips, and…
+Member-only content6 min readClaps92Responses1
+Leo Anello 💡Leo Anello 💡inTowards Data Science
+Master Machine Learning: 4 Classification Models Made Simple
+Master Machine Learning: 4 Classification Models Made Simple
+A Beginner’s Guide to Building Models in 15 Practical…
+Member-only content56 min readClaps367Responses1
+Kiran MaanKiran MaaninPython in Plain English
+Why I Stopped Using Python List Comprehensions (And What I Use Instead)
+Why I Stopped Using Python List Comprehensions (And What I Use Instead)
+I used to love list comprehensions and still think…
+Member-only content4 min readClaps1.2KResponses25
+George “Ace” AcevedoGeorge “Ace” AcevedoinCrow’s Feet: Life As We Age
+I Refuse To Give Up My Incandescent Christmas Lights
+I Refuse To Give Up My Incandescent Christmas Lights
+Even though today’s technology is “better”
+Member-only content4 min readClaps234Responses2
+Marcus van der ErveMarcus van der ErveinPalpable Voice
+In Search of the Last Turtle
+In Search of the Last Turtle
+Toward a New Physics of Inequality
+Member-only content9 min readClaps16Responses2
+Shaw TalebiShaw TalebiinTowards Data Science
+Text Embeddings, Classification, and Semantic Search
+Text Embeddings, Classification, and Semantic Search
+An introduction with example Python code
+Member-only content11 min readClaps504Responses6
+Steven CurtisSteven Curtis
+Swift Queues
+Swift Queues
+One thing after another
+Member-only content3 min readClaps14Responses1
+
+See more of what you like and less of what you don’t.
+Control your recommendations
+Read from anywhere.
+Get Medium on the App StoreGet Medium on Google Play
+Sent by Medium·Medium, 548 Market St, PMB 42061, San Francisco, CA 94104
+Unsubscribe from this type of email·Switch to the Weekly Digest·Careers·Help Center·Privacy Policy·Terms of service

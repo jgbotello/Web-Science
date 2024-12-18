@@ -1,15 +1,8 @@
 # Homework 7 - Email Classification
-**Due:** Sunday, April 7, 2024 by 11:59pm 
 
 ## Assignment
 
 The goal of this assignment is to classify email into two groups based on topic -- either "on topic" or "not on topic".  You can choose the topic based on what types of emails you typically receive (or what you have access to).
-
-Write a report that answers and *explains how you arrived at the answers* to the following questions.  Be sure to address any questions that are asked (indicated by "*Q: ...?*" in italics). Your GitHub repo should include all scripts, code, output files, images needed to complete the assignment.
- 
-**Important:** Because much of the code for this assignment is provided for you, your report will carry even more weight in your final grade for this assignment.  Your report must include a high-level description of how the code works and answers to all of the sub-questions asked.
-
-Before starting, review the [HW report guidelines](getting-started/reports.md).  Name your report for this assignment `HW7-report` with the proper file extension. 
 
 **Tips for Completing this Assignment:**
 * First, read the entire assignment before starting.
@@ -32,45 +25,119 @@ Before starting, review the [HW report guidelines](getting-started/reports.md). 
 
 
 ### Q1. Create two datasets, Testing and Training.
+For this assignment, I have chosen to classify emails into two categories: Work-related and Non-work-related. The "Work-related" category includes emails from ODU and VMASC such as meeting invitations, project updates, task assignments, and collaboration with colleagues. The "Non-work-related" category include personal email, promotional content, newsletters, and other non-professional communications.
 
-You may choose a topic to classify your emails on (but choose only 1 topic). This can be spam, shopping emails, school emails, etc. 
+The training and testing dataset can be found in the Data folder.
 
-The **Training** dataset should consist of
-* 20 text documents for email messages you consider on your chosen topic
-* 20 text documents for email messages you consider *not* on your chosen topic
+The **Training** dataset consist of
+* 20 text documents for email messages I considered on my chosen topic
+* 20 text documents for email messages I considered *not* on my chosen topic
 
-The **Testing** dataset should consist of:
-* 5 text documents for email messages you consider on your chosen topic
-* 5 text documents for email messages you consider *not* on your chosen topic
-
-Make sure that these are plain-text documents and that they do not include HTML tags.  The documents in the Testing set should be different than the documents in the Training set.
-
-Upload your datasets to your GitHub repo. *Please do not include emails that contain sensitive information.*
-
-*Q: What topic did you decide to classify on?*
+The **Testing** dataset consist of:
+* 5 text documents for email messages I considered on my chosen topic
+* 5 text documents for email messages I considered *not* on my chosen topic
 
 ### Q2. Naive Bayes classifier
-Use the example code in the class Colab notebook to train and test the Naive Bayes classifier.  
-* Use your *Training* dataset to *train* the Naive Bayes classifier.  
-* Use your *Testing* dataset to *test* the Naive Bayes classifier.
+I used the example code in the class Colab notebook to train and test the Naive Bayes classifier with my data. The table below shows the classification results for each email message 
 
-Create a table to report the classification results for each email message in the *Testing* dataset.  The table should include what the classifier reported (on-topic or off-topic) and the actual classification.
+| Actual   | Predicted  |
+|----------|------------|
+| work     | nonwork    |
+| work     | nonwork    |
+| work     | work       |
+| work     | work       |
+| work     | work       |
+| nonwork  | nonwork    |
+| nonwork  | nonwork    |
+| nonwork  | nonwork    |
+| nonwork  | nonwork    |
+| nonwork  | nonwork    |
 
-*Q: For those emails that the classifier got wrong, what factors might have caused the classifier to be incorrect?  You will need to look at the text of the email to determine this.*
+**Q: For those emails that the classifier got wrong, what factors might have caused the classifier to be incorrect?  You will need to look at the text of the email to determine this.**
+
+The email body for the misclassified email included elements like Google Scholar and citation, among others. These words likely contributed to categorizing the email in the nonwork category during the training of the Naive Bayes classifier, which resulted in a misclassification during testing. We have to remember that Naive Bayes relies on the conditional independence assumption. The algorithm assumes that all words in a document are independent of one another, which is rarely true for natural language. In this case, specific combinations of words or phrases (e.g., "Google Scholar Alerts" combined with "citations") might provide a strong work-related signal. However, since the classifier evaluates each word in isolation, it can lead to misclassification. Additionally, some words may appear in both work and nonwork emails. This overlap can confuse the algorithm due to how probabilities are calculated, further contributing to the incorrect classification.
+
+
 
 ### Q3. Confusion Matrix
-Draw a confusion matrix for your classification results (see [Document Filtering](https://docs.google.com/presentation/d/1OpfBDl2YEE7AONVeKUyHA-J7a1mRjncD7cen8F6BG1A/edit?usp=sharing), slides 40, 42, 43).  
-* This should be a table in Markdown or LaTeX, not a screenshot of output or image generated by another program.  There's an example of a LaTeX confusion matrix in the [Overleaf report template](https://www.overleaf.com/read/tzvqcjvjtgdx).
 
-*Q: Based on the results in the confusion matrix, how well did the classifier perform?*  
+**Draw a confusion matrix for your classification results**
 
-*Q: Would you prefer an email classifier to have more false positives or more false negatives?  Why?*
+|                | Predicted: Work | Predicted: Nonwork |
+|----------------|-----------------|--------------------|
+| **Actual: Work** | 3               | 2                  |
+| **Actual: Nonwork** | 0               | 5                  |
+
+
+**Q: Based on the results in the confusion matrix, how well did the classifier perform?**  
+
+I consider the classifier performed reasonably well, as it correctly classified 8 out of 10 emails, resulting in an accuracy of 80%. The classifier had 2 false negatives, meaning it incorrectly classified work emails as nonwork. There were no false positives, which means it did not misclassify any nonwork emails as work.
+
+**Q: Would you prefer an email classifier to have more false positives or more false negatives?  Why?**
+
+It depends on the purpose of the email classifier. However, in this specific cases, i would say it is preferable to have more false positives (classifying nonwork emails as work) rather than false negatives (classifying work emails as nonwork).It is because false negatives can cause work emails to be missed. It could lead to miss any deadline. False positives are less risky because a user can manually filter through a few incorrectly classified emails to find relevant ones.
 
 ## Extra Credit
 
 ### Q4 *(1 point)* 
 
-Report the precision and accuracy scores of your classification results (see [Document Filtering](https://docs.google.com/presentation/d/1OpfBDl2YEE7AONVeKUyHA-J7a1mRjncD7cen8F6BG1A/edit?usp=sharing), slide 43).  Include the formulas you used to compute these values.
+Report the precision and accuracy scores of your classification results.
+
+### **Q4: Precision and Accuracy Scores**
+
+#### **Confusion Matrix Recap**
+|                | Predicted: Work | Predicted: Nonwork |
+|----------------|-----------------|--------------------|
+| **Actual: Work** | 3               | 2                  |
+| **Actual: Nonwork** | 0               | 5                  |
+
+- **True Positives (TP):** 3 (work emails correctly classified as *work*)  
+- **False Negatives (FN):** 2 (work emails incorrectly classified as *nonwork*)  
+- **True Negatives (TN):** 5 (nonwork emails correctly classified as *nonwork*)  
+- **False Positives (FP):** 0 (nonwork emails incorrectly classified as *work*)  
+
+---
+
+#### **Formulas**
+- **Precision** (for *work* category):
+  \[
+  \text{Precision} = \frac{\text{TP}}{\text{TP} + \text{FP}}
+  \]
+
+- **Accuracy**:
+  \[
+  \text{Accuracy} = \frac{\text{TP} + \text{TN}}{\text{TP} + \text{TN} + \text{FP} + \text{FN}}
+  \]
+
+---
+
+#### **Calculations**
+**Precision**:
+Using **TP = 3** and **FP = 0**:
+\[
+\text{Precision} = \frac{3}{3 + 0} = \frac{3}{3} = 1.0
+\]
+
+**Accuracy**:
+Using **TP = 3**, **TN = 5**, **FP = 0**, and **FN = 2**:
+\[
+\text{Accuracy} = \frac{3 + 5}{3 + 5 + 0 + 2} = \frac{8}{10} = 0.8 \, \text{or} \, 80\%
+\]
+
+---
+
+#### **Final Report**
+The precision and accuracy scores for the classifier are:
+
+- **Precision:** \( 1.0 \) (or 100%)  
+- **Accuracy:** \( 0.8 \) (or 80%)  
+
+**Explanation:**  
+The precision is **1.0** because there were no false positives, meaning the classifier never incorrectly classified a nonwork email as work. The accuracy is **80%**, as 8 out of 10 emails were correctly classified.
+
+
+
+
 
 ### Q5 *(2 points)* 
 
@@ -84,13 +151,3 @@ Implement the classifier with the Multinomial model instead of the multiple Bern
 
 *For credit on this part, you must describe what you have done and discuss the differences between the Multinomial model and the multiple Bernoulli model.*
 
-## Submission
-
-You should be working in the private GitHub repo that I created for you in the [odu-cs432-websci organization](https://github.com/odu-cs432-websci/) (your repo URL should look something like https<nolink>://github.com/odu-cs432-websci/spr24-*username*/). 
-
-If you are working locally, make sure that you have committed and pushed your local repo, including `HW7-report.md` and any images you reference, to GitHub. 
-
-Submit the URL of your report (*not the URL of your repo*) in Canvas under HW7. This should be something like  
-https<nolink>://github.com/odu-cs432-websci/spr24-*username*/blob/main/HW7-report.md
-
-*If you make changes to your report after submitting in Canvas, I will use the last commit time in your repo as your assignment submission time.*

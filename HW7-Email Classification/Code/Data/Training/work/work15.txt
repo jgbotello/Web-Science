@@ -1,0 +1,31 @@
+Format with Chain Of Thought
+JOSEPH MARTINEZ SALCEDO<jmart130@odu.edu>
+​
+OBIUWEVWI, LAWRENCE;
+​+2 others
+​
+​
+Hi, guys.
+I sent this in he comments, but just in case you did not see it in the meeting this is how the format would look like with chain of thought:
+
+<output>
+    <chain_of_thought>
+    The article contains references to several key entities that fit into the specified categories. First, "Afghanistan" is explicitly mentioned as the home country of Atiq Rahimi and is classified as a geographical location. Second, "Atiq Rahimi," the main subject of the article, is a person. Third, "Klassekampen," the source of the article, qualifies as an organization. Lastly, "Zaher Shah," the ex-king of Afghanistan discussed in the article, is categorized as a person. No other explicit entities matching the five categories were found in the text.
+    </chain_of_thought>
+    <formatted_output>
+    [
+        {"entity": "Afghanistan", "entity_type": "GEOGRAPHICAL_LOCATION"},
+        {"entity": "Atiq Rahimi", "entity_type": "PERSON"},
+        {"entity": "Klassekampen", "entity_type": "ORGANIZATION"},
+        {"entity": "Zaher Shah", "entity_type": "PERSON"}
+    ]
+    </formatted_output>
+</output>
+
+
+Regards,
+Joseph
+_______________________________
+Joseph Martínez Salcedo
+M.S. Student at Old Dominion University
+Modeling and Simulation Engineering Program

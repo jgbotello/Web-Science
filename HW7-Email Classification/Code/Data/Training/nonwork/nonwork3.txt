@@ -1,0 +1,41 @@
+Observable wrapped 
+Observable<community@e.observablehq.com>
+​
+BOTELLO MALDONADO, JHON
+​
+
+Observable's Monthly Newsletter
+Observable wrapped
+2024 in review
+The Observable community was busy in 2024. Since launching Framework earlier this year, it’s now downloaded nearly 6,000 times per week on average, while Observable Plot continues to grow, and now sees nearly 59,000 downloads per week. At our blog, we took a look back at some of the biggest highlights from 2024.
+
+Read more
+ 
+Insight 2024
+Catch up on Insight 2024
+At our annual conference, we heard inspiring talks on the future of data viz and building better together, got a look “under the hood” to see how some iconic maps are built, and learned how Observable community members are pushing the envelope of what’s possible in interactive data visualization.
+
+Watch now
+ 
+Embedded analytics launch
+Embedded analytics is here
+Observable now supports embedded analytics, making it easier than ever to integrate Framework data apps within your existing digital products. Now, data teams can seamlessly embed fast, interactive visualizations without rewriting their entire application from scratch. 
+
+Learn more
+ 
+Ben Welsh interview
+Delivering better data pipelines
+We recently caught up with Ben Welsh, data journalist and news applications editor at Reuters, to discuss his work building automated data pipelines that let journalists spend less time in the data weeds and more time telling stories that matter. 
+
+Read more
+ 
+Resources
+Stay up-to-date with our release notes.
+Troubleshoot and get help from the community on our forum.
+Join the Observable Slack to engage with peers and our team.
+Header background image: "WebGPU 3D Physarum" by Mike Tahani
+
+
+584 Castro Street #858, San Francisco, CA 94114, USA
+Get support
+Manage email preferences

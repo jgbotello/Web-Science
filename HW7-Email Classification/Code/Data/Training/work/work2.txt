@@ -1,0 +1,60 @@
+Links from the mtg
+
+Weigle, Michele C.
+​
+BOTELLO MALDONADO, JHON
+​
+Jhon,
+
+ 
+
+Here are some of the links I mentioned during our meeting today.
+
+ 
+
+Selenium-wire
+
+https://pypi.org/project/selenium-wire/
+Example use: https://gist.github.com/weiglemc/81c7befb1ee35c405105036c5632ff82
+ 
+
+Local Memory Project – world outlets, https://newsresearch.lab.wm.edu/tools/local-memory/world
+
+ 
+
+GDELT
+
+My notes - https://docs.google.com/document/d/1CZYfG-HC7J7Xud84QwtM-cW3YVQ61MtsNSpISBg5t8A/edit?tab=t.0
+See GDELT BigQuery Tables section for things I figured out about some of the different fields
+Slides that Himarsha put together about some of the tables, https://docs.google.com/presentation/d/1tp4iHdk1e-ALPaXCIMcq4sYSZPJEBG9kYlVyYM2YyIg/edit?usp=sharing
+My test GDELT notebook, https://colab.research.google.com/drive/1TJRXETF2RMt6iRfsZTngMEXRAW8Pn0nU?usp=sharing
+I’ve also given you view access to the .CSV files that the notebook uses, https://drive.google.com/drive/folders/11VesRp4wRk2xVEvOtlCA5x_dzS5xP5Xk?usp=sharing
+ 
+
+My summary of our JCDL 2011 paper on the blog, https://ws-dl.blogspot.com/2011/06/2011-06-23-how-much-of-web-is-archived.html
+
+ 
+
+Let me know if you have any questions.
+
+ 
+
+-MCW
+
+ 
+
+--
+
+Michele C. Weigle
+
+Professor | Department of Computer Science
+
+Assistant Chair for Graduate Programs and Research
+
+Graduate Program Director, PhD Program - csgpd@odu.edu
+
+Old Dominion University, Norfolk, VA 23529
+
+mweigle@odu.edu   (757) 683-7729
+
+https://www.cs.odu.edu/~mweigle/

@@ -1,0 +1,25 @@
+1 new citation to your articles
+---------- Forwarded message ---------
+From: Google Scholar Alerts <scholaralerts-noreply@google.com>
+Date: Sat, Nov 30, 2024 at 4:12 AM
+Subject: 1 new citation to your articles
+
+[HTML] Storyline Extraction of Document-Level Events Using Large Language Models
+Z Hu, Y Li - Journal of Computer and Communications, 2024
+This article proposes a document-level prompt learning approach using LLMs to
+extract the timeline-based storyline. Through verification tests on datasets such as
+ESCv1. 2 and Timeline17, the results show that the prompt+ one-shot learning
+proposed in this article works well. Meanwhile, our research findings indicate that
+although timeline-based storyline extraction has shown promising prospects in the
+practical applications of LLMs, it is still a complex natural language processing task …
+•	Cites: ‪Generating stories from archived collections‬  Edit
+Save	Twitter	
+
+
+Weigle, Michele C.
+​
+FREW, LESLEY E.;
+​+2 others
+​
+​
+Might be interesting to check out. 
