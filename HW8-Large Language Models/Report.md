@@ -118,6 +118,8 @@ This exercise helped me improve the way I draft prompts in a practical and hands
 
 <img src="Images/answer13.jpg" height="400" alt="">
 
+<img src="Images/answer14.jpg" height="400" alt="">
 
-ChatGPT provided an accurate description of the research areas for Dr. Michele Weigle and Dr. Jose Padilla. However, while it identified two research papers and included links to them, these were not their most well-known papers. A check on Google Scholar revealed that they were not the ones with the highest number of citations. Overall, I consider ChatGPT to be a great tool for getting an overview of any topic, but it should not be used as the main source of information.
+
+ChatGPT provided an accurate description of the research areas for Dr. Michele Weigle, Dr. Jose Padilla, and Dr. Michael Nelson. However, while it identified two research papers and included links to them, these were not always their best-known papers. It depended on the source from which ChatGPT retrieved the information. In the case of Dr. Nelson, it referred to Google Scholar, so the papers were highly cited. However, for Dr. Padilla and Dr. Weigle, the selected papers were not their most well-known, as they were not the ones with the highest number of citations. Overall, I consider ChatGPT to be a great tool for getting an overview of any topic, but it should not be used as the primary source of information.
 
