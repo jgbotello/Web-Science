@@ -1,0 +1,2746 @@
+[
+    {
+        "URI": "https://risd.coursedog.com/",
+        "HW3 Mementos": 3,
+        "Current Mementos": 10,
+        "Difference": 7,
+        "HW3 File": "timemap_1.json.gz",
+        "Current File": "timemap_b35fd88de37916f3a18a974f616cf15d.json.gz"
+    },
+    {
+        "URI": "https://www.georgetown.edu/",
+        "HW3 Mementos": 24203,
+        "Current Mementos": 25553,
+        "Difference": 1350,
+        "HW3 File": "timemap_10.json.gz",
+        "Current File": "timemap_2c5eeb675f676f5cc0c61559daf2bfed.json.gz"
+    },
+    {
+        "URI": "https://www.princeton.edu/",
+        "HW3 Mementos": 52667,
+        "Current Mementos": 59381,
+        "Difference": 6714,
+        "HW3 File": "timemap_100.json.gz",
+        "Current File": "timemap_4006d6fc37b55083059718adaef0598d.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/honors/research",
+        "HW3 Mementos": 80,
+        "Current Mementos": 93,
+        "Difference": 13,
+        "HW3 File": "timemap_101.json.gz",
+        "Current File": "timemap_de9495de58b66ba57f992f95718c869a.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/acadaffairs/directory",
+        "HW3 Mementos": 104,
+        "Current Mementos": 112,
+        "Difference": 8,
+        "HW3 File": "timemap_102.json.gz",
+        "Current File": "timemap_652525647991e7013e17a5357536e32a.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/media",
+        "HW3 Mementos": 36,
+        "Current Mementos": 236,
+        "Difference": 200,
+        "HW3 File": "timemap_103.json.gz",
+        "Current File": "timemap_2fad1ae8afdebea918c1f78bd2a74e43.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/library",
+        "HW3 Mementos": 49,
+        "Current Mementos": 2093,
+        "Difference": 2044,
+        "HW3 File": "timemap_104.json.gz",
+        "Current File": "timemap_857f6b3e59e52acb2a1effdbe3d6358c.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/about/visitors/campus-map",
+        "HW3 Mementos": 29,
+        "Current Mementos": 202,
+        "Difference": 173,
+        "HW3 File": "timemap_105.json.gz",
+        "Current File": "timemap_63d6877c1e06a3386547c73909c1e13d.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/academics/undergraduate",
+        "HW3 Mementos": 19,
+        "Current Mementos": 91,
+        "Difference": 72,
+        "HW3 File": "timemap_106.json.gz",
+        "Current File": "timemap_43de7c898af2ac459b0124392dc0b0ef.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/housing/application-information/continuing-students",
+        "HW3 Mementos": 45,
+        "Current Mementos": 56,
+        "Difference": 11,
+        "HW3 File": "timemap_107.json.gz",
+        "Current File": "timemap_58620e1b69bc5815fd797fc8f629a6a5.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/sees/social-mobility",
+        "HW3 Mementos": 23,
+        "Current Mementos": 69,
+        "Difference": 46,
+        "HW3 File": "timemap_108.json.gz",
+        "Current File": "timemap_60f0cf267dae7866e8e88948621fe584.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/departments",
+        "HW3 Mementos": 25,
+        "Current Mementos": 115,
+        "Difference": 90,
+        "HW3 File": "timemap_109.json.gz",
+        "Current File": "timemap_8df0960e2c77f95e18f600133ba23f01.json.gz"
+    },
+    {
+        "URI": "https://alumni.risd.edu",
+        "HW3 Mementos": 448,
+        "Current Mementos": 467,
+        "Difference": 19,
+        "HW3 File": "timemap_11.json.gz",
+        "Current File": "timemap_13cc95b9791e51b632337080d0d046da.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/cyber",
+        "HW3 Mementos": 24,
+        "Current Mementos": 118,
+        "Difference": 94,
+        "HW3 File": "timemap_110.json.gz",
+        "Current File": "timemap_cd839c513eed469458729fba5e77c565.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/privacy",
+        "HW3 Mementos": 32,
+        "Current Mementos": 291,
+        "Difference": 259,
+        "HW3 File": "timemap_111.json.gz",
+        "Current File": "timemap_ff4c9d2effdf89aec11d3fa729de0c1d.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/about/accreditation",
+        "HW3 Mementos": 26,
+        "Current Mementos": 235,
+        "Difference": 209,
+        "HW3 File": "timemap_112.json.gz",
+        "Current File": "timemap_8fb5c74591a7fa39c93bf4ea624d5163.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/about/visitors",
+        "HW3 Mementos": 30,
+        "Current Mementos": 193,
+        "Difference": 163,
+        "HW3 File": "timemap_113.json.gz",
+        "Current File": "timemap_c1a3bf5e7b7d7240c147d0501c57e0c4.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/resources",
+        "HW3 Mementos": 21,
+        "Current Mementos": 73,
+        "Difference": 52,
+        "HW3 File": "timemap_114.json.gz",
+        "Current File": "timemap_816e80be839381b5622f88fa0c8c6292.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/resources/awards",
+        "HW3 Mementos": 62,
+        "Current Mementos": 66,
+        "Difference": 4,
+        "HW3 File": "timemap_115.json.gz",
+        "Current File": "timemap_b887d040054102b3e2532221d790d5ae.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/accessibility",
+        "HW3 Mementos": 23,
+        "Current Mementos": 140,
+        "Difference": 117,
+        "HW3 File": "timemap_116.json.gz",
+        "Current File": "timemap_c61557a8180008bbd03185ba83ea2b1f.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/news",
+        "HW3 Mementos": 543,
+        "Current Mementos": 553,
+        "Difference": 10,
+        "HW3 File": "timemap_117.json.gz",
+        "Current File": "timemap_4a6d9738b1df4ebd8617742bf2c2ce81.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/business",
+        "HW3 Mementos": 242,
+        "Current Mementos": 259,
+        "Difference": 17,
+        "HW3 File": "timemap_118.json.gz",
+        "Current File": "timemap_07c514e72fc24e6365173efb3900bf98.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/success/center",
+        "HW3 Mementos": 96,
+        "Current Mementos": 103,
+        "Difference": 7,
+        "HW3 File": "timemap_119.json.gz",
+        "Current File": "timemap_1c8fc434e07665849bf0cf0e47fa2484.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/31638-2/",
+        "HW3 Mementos": 3,
+        "Current Mementos": 5,
+        "Difference": 2,
+        "HW3 File": "timemap_12.json.gz",
+        "Current File": "timemap_635a938c5f2acc068190c81d7386f3f5.json.gz"
+    },
+    {
+        "URI": "https://online.odu.edu/",
+        "HW3 Mementos": 547,
+        "Current Mementos": 595,
+        "Difference": 48,
+        "HW3 File": "timemap_120.json.gz",
+        "Current File": "timemap_1201dfbb4678715df63998d245f032d3.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/life/culture/arts/galleries",
+        "HW3 Mementos": 199,
+        "Current Mementos": 210,
+        "Difference": 11,
+        "HW3 File": "timemap_121.json.gz",
+        "Current File": "timemap_10598ef28f8ddaccf8abc6130a6d678b.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/impact/centers",
+        "HW3 Mementos": 208,
+        "Current Mementos": 212,
+        "Difference": 4,
+        "HW3 File": "timemap_122.json.gz",
+        "Current File": "timemap_c4ab59d7c3bb23a9b314954f2fe8ce35.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/set/fsl/facts-figures",
+        "HW3 Mementos": 31,
+        "Current Mementos": 32,
+        "Difference": 1,
+        "HW3 File": "timemap_123.json.gz",
+        "Current File": "timemap_660b51e03c327a3fd495a09b17440347.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/sci",
+        "HW3 Mementos": 31,
+        "Current Mementos": 296,
+        "Difference": 265,
+        "HW3 File": "timemap_124.json.gz",
+        "Current File": "timemap_06d81cf259dc054d77ae3682aae09e65.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/life/support/wgec",
+        "HW3 Mementos": 79,
+        "Current Mementos": 90,
+        "Difference": 11,
+        "HW3 File": "timemap_125.json.gz",
+        "Current File": "timemap_e05a5259c4ec4ecc09cb5f0f825e3487.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/colleges",
+        "HW3 Mementos": 388,
+        "Current Mementos": 398,
+        "Difference": 10,
+        "HW3 File": "timemap_126.json.gz",
+        "Current File": "timemap_d6dc73f8c8f9d5da50ba52369cd560fb.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/resources/graduate",
+        "HW3 Mementos": 64,
+        "Current Mementos": 68,
+        "Difference": 4,
+        "HW3 File": "timemap_127.json.gz",
+        "Current File": "timemap_93dd6476a389219b8a4dd3629d5fe04e.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/hs",
+        "HW3 Mementos": 209,
+        "Current Mementos": 218,
+        "Difference": 9,
+        "HW3 File": "timemap_128.json.gz",
+        "Current File": "timemap_73925beabe4a966f39a848a6701b3a66.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/search-page/",
+        "HW3 Mementos": 34,
+        "Current Mementos": 2,
+        "Difference": -32,
+        "HW3 File": "timemap_13.json.gz",
+        "Current File": "timemap_88d8fdd5f4fa28d8c33ad57e1200f622.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/about/president/directory",
+        "HW3 Mementos": 105,
+        "Current Mementos": 111,
+        "Difference": 6,
+        "HW3 File": "timemap_131.json.gz",
+        "Current File": "timemap_785e2abdcd587c99d46760e727737b39.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/article/odus-general-assembly-internship-program-provides-an-close-look-at-the-legislative-process",
+        "HW3 Mementos": 1,
+        "Current Mementos": 8,
+        "Difference": 7,
+        "HW3 File": "timemap_133.json.gz",
+        "Current File": "timemap_bad9e725a3007f332b3425fde8892189.json.gz"
+    },
+    {
+        "URI": "https://www.linkedin.com/company/64702308/",
+        "HW3 Mementos": 2,
+        "Current Mementos": 2,
+        "Difference": 0,
+        "HW3 File": "timemap_134.json.gz",
+        "Current File": "timemap_17111fd244ad0564372b5684d9c7a599.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/life/culture/arts/litfest",
+        "HW3 Mementos": 28,
+        "Current Mementos": 177,
+        "Difference": 149,
+        "HW3 File": "timemap_135.json.gz",
+        "Current File": "timemap_e9cbf9de165313ae807d14cc37f2a92a.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/life/health-safety",
+        "HW3 Mementos": 240,
+        "Current Mementos": 250,
+        "Difference": 10,
+        "HW3 File": "timemap_136.json.gz",
+        "Current File": "timemap_94384b13e44f19d38cec7d6c6df0cd3b.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/finaidoffice/types/scholarships",
+        "HW3 Mementos": 21,
+        "Current Mementos": 80,
+        "Difference": 59,
+        "HW3 File": "timemap_137.json.gz",
+        "Current File": "timemap_e20ea41bf5f22957cdde4236172b8554.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/about/orgchart",
+        "HW3 Mementos": 28,
+        "Current Mementos": 235,
+        "Difference": 207,
+        "HW3 File": "timemap_138.json.gz",
+        "Current File": "timemap_0f26ad1991e5f0a54cd7c4630bd0bb38.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/centers",
+        "HW3 Mementos": 19,
+        "Current Mementos": 77,
+        "Difference": 58,
+        "HW3 File": "timemap_139.json.gz",
+        "Current File": "timemap_c5e16e2133e8cc07a60bbbd63d2abdbb.json.gz"
+    },
+    {
+        "URI": "https://www.unl.edu/",
+        "HW3 Mementos": 8306,
+        "Current Mementos": 34527,
+        "Difference": 26221,
+        "HW3 File": "timemap_14.json.gz",
+        "Current File": "timemap_240492196c8e81d7dacfa3b144a7061a.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/life/culture",
+        "HW3 Mementos": 30,
+        "Current Mementos": 212,
+        "Difference": 182,
+        "HW3 File": "timemap_141.json.gz",
+        "Current File": "timemap_bb3d41cbc419f909f950229881b42ca3.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/about/historyandarchives",
+        "HW3 Mementos": 236,
+        "Current Mementos": 253,
+        "Difference": 17,
+        "HW3 File": "timemap_142.json.gz",
+        "Current File": "timemap_a67f15e37a93afe36f97658962cedae6.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/educationalaccessibility",
+        "HW3 Mementos": 237,
+        "Current Mementos": 245,
+        "Difference": 8,
+        "HW3 File": "timemap_143.json.gz",
+        "Current File": "timemap_5af1958a31326c0946101a5c89c21897.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/leadership-learning",
+        "HW3 Mementos": 49,
+        "Current Mementos": 55,
+        "Difference": 6,
+        "HW3 File": "timemap_144.json.gz",
+        "Current File": "timemap_fece9285011f1d7b0c0991c53e971ef5.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al",
+        "HW3 Mementos": 33,
+        "Current Mementos": 231,
+        "Difference": 198,
+        "HW3 File": "timemap_146.json.gz",
+        "Current File": "timemap_4930f7dd96abd10edd1785740f8be63f.json.gz"
+    },
+    {
+        "URI": "https://www.linkedin.com/school/old-dominion-university/",
+        "HW3 Mementos": 3,
+        "Current Mementos": 33,
+        "Difference": 30,
+        "HW3 File": "timemap_147.json.gz",
+        "Current File": "timemap_f00d8d088d82dc59601f31387495e46a.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/tuition-aid/tuition/military",
+        "HW3 Mementos": 59,
+        "Current Mementos": 63,
+        "Difference": 4,
+        "HW3 File": "timemap_149.json.gz",
+        "Current File": "timemap_b888c1304aad38d83cbdc0cf8313b56a.json.gz"
+    },
+    {
+        "URI": "https://www.transit.dot.gov/",
+        "HW3 Mementos": 1600,
+        "Current Mementos": 9580,
+        "Difference": 7980,
+        "HW3 File": "timemap_15.json.gz",
+        "Current File": "timemap_a4ca014296717e860bfc28317bbad10b.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/tuition-aid",
+        "HW3 Mementos": 36,
+        "Current Mementos": 288,
+        "Difference": 252,
+        "HW3 File": "timemap_150.json.gz",
+        "Current File": "timemap_d289b5cb4d7eb6ac1556fe0f7355c043.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/visit",
+        "HW3 Mementos": 7,
+        "Current Mementos": 8,
+        "Difference": 1,
+        "HW3 File": "timemap_152.json.gz",
+        "Current File": "timemap_4aeb566bcaae0d3780d238d298956268.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/about/odu-publications/monarch-magazine/issue/winter-2017/jennifer-fish",
+        "HW3 Mementos": 12,
+        "Current Mementos": 33,
+        "Difference": 21,
+        "HW3 File": "timemap_153.json.gz",
+        "Current File": "timemap_ac0beda6640f7074c4ca2ffbf04a9024.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/",
+        "HW3 Mementos": 2768,
+        "Current Mementos": 11347,
+        "Difference": 8579,
+        "HW3 File": "timemap_155.json.gz",
+        "Current File": "timemap_bfcbd7c748d59fdbc5577435671dc5b1.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/facultydevelopment",
+        "HW3 Mementos": 64,
+        "Current Mementos": 73,
+        "Difference": 9,
+        "HW3 File": "timemap_156.json.gz",
+        "Current File": "timemap_dfe4f067b315e9af8cc0b024a511b39c.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/research-0",
+        "HW3 Mementos": 7,
+        "Current Mementos": 37,
+        "Difference": 30,
+        "HW3 File": "timemap_157.json.gz",
+        "Current File": "timemap_4eb1d913502d08a092762b06cdca73d6.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/counselingservices",
+        "HW3 Mementos": 125,
+        "Current Mementos": 130,
+        "Difference": 5,
+        "HW3 File": "timemap_158.json.gz",
+        "Current File": "timemap_63625e7e067c2880b6d3358a800fbfe1.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/academics",
+        "HW3 Mementos": 423,
+        "Current Mementos": 433,
+        "Difference": 10,
+        "HW3 File": "timemap_159.json.gz",
+        "Current File": "timemap_363f8db0dd4c8a83218aa5c8ba3027e2.json.gz"
+    },
+    {
+        "URI": "https://students.risd.edu/health-and-wellness",
+        "HW3 Mementos": 5,
+        "Current Mementos": 26,
+        "Difference": 21,
+        "HW3 File": "timemap_16.json.gz",
+        "Current File": "timemap_f8d48405902dff8fa8a1e8bbe6a05a69.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/parkingservices",
+        "HW3 Mementos": 159,
+        "Current Mementos": 170,
+        "Difference": 11,
+        "HW3 File": "timemap_160.json.gz",
+        "Current File": "timemap_9e8af6a45eede56ffa2f75a241636d47.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/leadership-learning/service",
+        "HW3 Mementos": 80,
+        "Current Mementos": 87,
+        "Difference": 7,
+        "HW3 File": "timemap_161.json.gz",
+        "Current File": "timemap_8fae9e25cac9d28ee91da1a4142b67e6.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/international",
+        "HW3 Mementos": 268,
+        "Current Mementos": 277,
+        "Difference": 9,
+        "HW3 File": "timemap_162.json.gz",
+        "Current File": "timemap_37d03a9566fd7315d242413d6575526f.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/directory",
+        "HW3 Mementos": 376,
+        "Current Mementos": 396,
+        "Difference": 20,
+        "HW3 File": "timemap_163.json.gz",
+        "Current File": "timemap_36335f91976c4ce4dea18573ca3a7235.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/triad",
+        "HW3 Mementos": 93,
+        "Current Mementos": 98,
+        "Difference": 5,
+        "HW3 File": "timemap_164.json.gz",
+        "Current File": "timemap_b9c04a8f7e2e52e93854636d9c84f229.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/life/culture/arts",
+        "HW3 Mementos": 34,
+        "Current Mementos": 201,
+        "Difference": 167,
+        "HW3 File": "timemap_165.json.gz",
+        "Current File": "timemap_8dcd252c1fb22d446b6734fbb689fe33.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/academics/programs?field_degree_type_target_id%5B0%5D=2682",
+        "HW3 Mementos": 42,
+        "Current Mementos": 49,
+        "Difference": 7,
+        "HW3 File": "timemap_166.json.gz",
+        "Current File": "timemap_2de181689e8abf8ae7506f0c8b58aa88.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/academics/minors",
+        "HW3 Mementos": 60,
+        "Current Mementos": 64,
+        "Difference": 4,
+        "HW3 File": "timemap_167.json.gz",
+        "Current File": "timemap_90af814b7cc486504c604ef9a4ed5621.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/success/academic/advising/advisors",
+        "HW3 Mementos": 106,
+        "Current Mementos": 108,
+        "Difference": 2,
+        "HW3 File": "timemap_168.json.gz",
+        "Current File": "timemap_60a7ed31813d5170240e4a2e93894ff8.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/armyrotc",
+        "HW3 Mementos": 122,
+        "Current Mementos": 131,
+        "Difference": 9,
+        "HW3 File": "timemap_169.json.gz",
+        "Current File": "timemap_4ba82be677824dc89dfcf6c6acdbb0b4.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/how-to-ride/",
+        "HW3 Mementos": 2,
+        "Current Mementos": 42,
+        "Difference": 40,
+        "HW3 File": "timemap_17.json.gz",
+        "Current File": "timemap_e8db0a8f69f4febb3ad29cbe5d35cd51.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/admission/admitted/international",
+        "HW3 Mementos": 117,
+        "Current Mementos": 125,
+        "Difference": 8,
+        "HW3 File": "timemap_170.json.gz",
+        "Current File": "timemap_99e35b9dfd2842145c6fdabc2dbb9a5e.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/admission/international",
+        "HW3 Mementos": 393,
+        "Current Mementos": 403,
+        "Difference": 10,
+        "HW3 File": "timemap_171.json.gz",
+        "Current File": "timemap_b4f297cb9285f52ee45e928177d02999.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/life/diversity",
+        "HW3 Mementos": 193,
+        "Current Mementos": 195,
+        "Difference": 2,
+        "HW3 File": "timemap_172.json.gz",
+        "Current File": "timemap_e3f64c1dde69ccc06fe38db199bcfeba.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/academics/student-computing/student-email",
+        "HW3 Mementos": 18,
+        "Current Mementos": 102,
+        "Difference": 84,
+        "HW3 File": "timemap_173.json.gz",
+        "Current File": "timemap_52a2ae5da0989f1bbebd61b3741e1023.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/news/2019/12/hampton_mural",
+        "HW3 Mementos": 50,
+        "Current Mementos": 108,
+        "Difference": 58,
+        "HW3 File": "timemap_174.json.gz",
+        "Current File": "timemap_c1ac1797b9ea953bb8c3099a94d76bf0.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/article/through-giandoni-awards-alum-provides-opportunities-to-history-students",
+        "HW3 Mementos": 8,
+        "Current Mementos": 12,
+        "Difference": 4,
+        "HW3 File": "timemap_175.json.gz",
+        "Current File": "timemap_c0980e903bec655c0b0f26a0953f02e7.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/resources/faculty",
+        "HW3 Mementos": 19,
+        "Current Mementos": 68,
+        "Difference": 49,
+        "HW3 File": "timemap_176.json.gz",
+        "Current File": "timemap_1d87237fb93d740583ac820801240f0b.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/finaidoffice",
+        "HW3 Mementos": 25,
+        "Current Mementos": 176,
+        "Difference": 151,
+        "HW3 File": "timemap_177.json.gz",
+        "Current File": "timemap_50331f43be7a50da4eff51799b7f2369.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/life",
+        "HW3 Mementos": 33,
+        "Current Mementos": 275,
+        "Difference": 242,
+        "HW3 File": "timemap_178.json.gz",
+        "Current File": "timemap_91698d150d90684e8bb2c39dadd34b41.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/vendors",
+        "HW3 Mementos": 25,
+        "Current Mementos": 86,
+        "Difference": 61,
+        "HW3 File": "timemap_179.json.gz",
+        "Current File": "timemap_46d8bc4647e77b3a654414e53eabf6c9.json.gz"
+    },
+    {
+        "URI": "https://www.leapsome.com/",
+        "HW3 Mementos": 12,
+        "Current Mementos": 1195,
+        "Difference": 1183,
+        "HW3 File": "timemap_18.json.gz",
+        "Current File": "timemap_a2b1175d6a37043869f6f680e1fedda0.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/set/studentorgs",
+        "HW3 Mementos": 73,
+        "Current Mementos": 76,
+        "Difference": 3,
+        "HW3 File": "timemap_180.json.gz",
+        "Current File": "timemap_45829ca14b30e68faa898d54fc4bbaa9.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/academics/calendar",
+        "HW3 Mementos": 267,
+        "Current Mementos": 280,
+        "Difference": 13,
+        "HW3 File": "timemap_181.json.gz",
+        "Current File": "timemap_11bcabd5490943d837a1ea692cc6aa57.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/nrotc",
+        "HW3 Mementos": 156,
+        "Current Mementos": 163,
+        "Difference": 7,
+        "HW3 File": "timemap_182.json.gz",
+        "Current File": "timemap_5dcd64ea344c24e3b2c0002fb86d0d1b.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/military/veterans-services",
+        "HW3 Mementos": 18,
+        "Current Mementos": 70,
+        "Difference": 52,
+        "HW3 File": "timemap_183.json.gz",
+        "Current File": "timemap_be7e9b0dbfbdc9603a6286e54b6ec4a7.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/life/sports-recreation",
+        "HW3 Mementos": 19,
+        "Current Mementos": 95,
+        "Difference": 76,
+        "HW3 File": "timemap_184.json.gz",
+        "Current File": "timemap_855f3b3ac46df77f7eaa35a4c9915b60.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/apply",
+        "HW3 Mementos": 13,
+        "Current Mementos": 83,
+        "Difference": 70,
+        "HW3 File": "timemap_185.json.gz",
+        "Current File": "timemap_dde8c2a4a6721a3d087f702f3b0eef25.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/about/visitors/coastal-virginia",
+        "HW3 Mementos": 37,
+        "Current Mementos": 175,
+        "Difference": 138,
+        "HW3 File": "timemap_186.json.gz",
+        "Current File": "timemap_c8d9b3f649048111efa16d01cbba2e6b.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/graduateschool",
+        "HW3 Mementos": 298,
+        "Current Mementos": 306,
+        "Difference": 8,
+        "HW3 File": "timemap_187.json.gz",
+        "Current File": "timemap_719e67d9c079698db664323864066714.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/about/odu-publications/monarch-magazine",
+        "HW3 Mementos": 27,
+        "Current Mementos": 198,
+        "Difference": 171,
+        "HW3 File": "timemap_188.json.gz",
+        "Current File": "timemap_8a4111f18e20478ace70d214aa3e37c6.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/eng",
+        "HW3 Mementos": 36,
+        "Current Mementos": 246,
+        "Difference": 210,
+        "HW3 File": "timemap_189.json.gz",
+        "Current File": "timemap_0c002ea6126a3ffc2b668265f594628b.json.gz"
+    },
+    {
+        "URI": "https://policies.risd.edu/",
+        "HW3 Mementos": 19,
+        "Current Mementos": 169,
+        "Difference": 150,
+        "HW3 File": "timemap_19.json.gz",
+        "Current File": "timemap_a29da8fd09d3970dd2fc16b1c769f11b.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/cds",
+        "HW3 Mementos": 39,
+        "Current Mementos": 186,
+        "Difference": 147,
+        "HW3 File": "timemap_190.json.gz",
+        "Current File": "timemap_8ae5311c674ca0eb7c972ca5adeffb47.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/partnerships/community/programs/upwardbound",
+        "HW3 Mementos": 24,
+        "Current Mementos": 89,
+        "Difference": 65,
+        "HW3 File": "timemap_191.json.gz",
+        "Current File": "timemap_f8f7e917fe70dc39eb1dcbbdb222abdc.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/resources/undergraduate",
+        "HW3 Mementos": 19,
+        "Current Mementos": 67,
+        "Difference": 48,
+        "HW3 File": "timemap_192.json.gz",
+        "Current File": "timemap_aba28deae09f1483a2b3a81135ab45ee.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/success/academic/tutoring",
+        "HW3 Mementos": 28,
+        "Current Mementos": 105,
+        "Difference": 77,
+        "HW3 File": "timemap_193.json.gz",
+        "Current File": "timemap_710d18c655d241c61d36f2c6b7921693.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/partnerships/military",
+        "HW3 Mementos": 75,
+        "Current Mementos": 87,
+        "Difference": 12,
+        "HW3 File": "timemap_194.json.gz",
+        "Current File": "timemap_03b9e8a6ba225c6720a11f0ba2a22a3b.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/oir",
+        "HW3 Mementos": 30,
+        "Current Mementos": 181,
+        "Difference": 151,
+        "HW3 File": "timemap_195.json.gz",
+        "Current File": "timemap_3ac6cb5edbed898516d4a54c7af9e22d.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/housing",
+        "HW3 Mementos": 25,
+        "Current Mementos": 134,
+        "Difference": 109,
+        "HW3 File": "timemap_196.json.gz",
+        "Current File": "timemap_ff825663428d986bc4ad8b7e1831756a.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/partnerships/community",
+        "HW3 Mementos": 33,
+        "Current Mementos": 247,
+        "Difference": 214,
+        "HW3 File": "timemap_197.json.gz",
+        "Current File": "timemap_f8dba3db6742310f87cb6cf3da27f6fd.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/alumni",
+        "HW3 Mementos": 273,
+        "Current Mementos": 282,
+        "Difference": 9,
+        "HW3 File": "timemap_198.json.gz",
+        "Current File": "timemap_fbd8efaf8f277ac392a7a64a2e198150.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/admission/admitted/graduate",
+        "HW3 Mementos": 126,
+        "Current Mementos": 133,
+        "Difference": 7,
+        "HW3 File": "timemap_199.json.gz",
+        "Current File": "timemap_c9f449e22a840379b0b87df9b4fd4618.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/human-services-transportation-coordination/",
+        "HW3 Mementos": 52,
+        "Current Mementos": 59,
+        "Difference": 7,
+        "HW3 File": "timemap_2.json.gz",
+        "Current File": "timemap_ffafcd589f4710a9f54fb188fd636a9b.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/city-pocket-maps/",
+        "HW3 Mementos": 2,
+        "Current Mementos": 43,
+        "Difference": 41,
+        "HW3 File": "timemap_20.json.gz",
+        "Current File": "timemap_ba6dff725d702e9c9408fa7e3738a79e.json.gz"
+    },
+    {
+        "URI": "https://catalog.odu.edu/",
+        "HW3 Mementos": 341,
+        "Current Mementos": 350,
+        "Difference": 9,
+        "HW3 File": "timemap_200.json.gz",
+        "Current File": "timemap_3c3ed3d4b5c6291d7dde704d5248f81f.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/regionalcenters",
+        "HW3 Mementos": 129,
+        "Current Mementos": 136,
+        "Difference": 7,
+        "HW3 File": "timemap_201.json.gz",
+        "Current File": "timemap_1768bb86d31c5fc9d3899cee8c19a626.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/tuition-aid/tuition",
+        "HW3 Mementos": 62,
+        "Current Mementos": 63,
+        "Difference": 1,
+        "HW3 File": "timemap_202.json.gz",
+        "Current File": "timemap_f375ea5621c5676f9d431daed8eb50fc.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/a-to-z-index",
+        "HW3 Mementos": 32,
+        "Current Mementos": 35,
+        "Difference": 3,
+        "HW3 File": "timemap_203.json.gz",
+        "Current File": "timemap_840acc35b348fae02617c662b36c0d0e.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/ts/software-services/facultyemail",
+        "HW3 Mementos": 54,
+        "Current Mementos": 60,
+        "Difference": 6,
+        "HW3 File": "timemap_204.json.gz",
+        "Current File": "timemap_6a2b03c8c45471904ae4462dc497dbff.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/about/planning",
+        "HW3 Mementos": 235,
+        "Current Mementos": 246,
+        "Difference": 11,
+        "HW3 File": "timemap_205.json.gz",
+        "Current File": "timemap_6365fc2af643cea17a71550e8e33da09.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/centers/writing-center",
+        "HW3 Mementos": 116,
+        "Current Mementos": 130,
+        "Difference": 14,
+        "HW3 File": "timemap_206.json.gz",
+        "Current File": "timemap_855b45bf6e84858fbdf54c063ac9e475.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/facultystaff/research/development",
+        "HW3 Mementos": 70,
+        "Current Mementos": 75,
+        "Difference": 5,
+        "HW3 File": "timemap_208.json.gz",
+        "Current File": "timemap_2786141e35b2ea49573c6c35c282f6d2.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/about",
+        "HW3 Mementos": 343,
+        "Current Mementos": 364,
+        "Difference": 21,
+        "HW3 File": "timemap_209.json.gz",
+        "Current File": "timemap_bdef36c59ce77ee83edce433369f1d14.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/holidays/",
+        "HW3 Mementos": 2,
+        "Current Mementos": 38,
+        "Difference": 36,
+        "HW3 File": "timemap_21.json.gz",
+        "Current File": "timemap_a46f0affb81a2d0bc9fe592315812b4e.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/about/advisory-board",
+        "HW3 Mementos": 2,
+        "Current Mementos": 2,
+        "Difference": 0,
+        "HW3 File": "timemap_210.json.gz",
+        "Current File": "timemap_8501bce7a7eebdfdb8ac543efd58c8ad.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/military",
+        "HW3 Mementos": 36,
+        "Current Mementos": 252,
+        "Difference": 216,
+        "HW3 File": "timemap_211.json.gz",
+        "Current File": "timemap_522d8513ba5b1e576caa8ef6aa87fba9.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/oir/lgbt",
+        "HW3 Mementos": 39,
+        "Current Mementos": 43,
+        "Difference": 4,
+        "HW3 File": "timemap_212.json.gz",
+        "Current File": "timemap_5c9b2b3443b4cd92ec6ed2561c76242f.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/admissions-aid",
+        "HW3 Mementos": 7,
+        "Current Mementos": 39,
+        "Difference": 32,
+        "HW3 File": "timemap_213.json.gz",
+        "Current File": "timemap_499e3bf63048f772e5cd5776bc01beb2.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/facultystaff",
+        "HW3 Mementos": 285,
+        "Current Mementos": 295,
+        "Difference": 10,
+        "HW3 File": "timemap_214.json.gz",
+        "Current File": "timemap_5c28349a3deb7d68296025763dd45256.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/admission/graduate",
+        "HW3 Mementos": 37,
+        "Current Mementos": 309,
+        "Difference": 272,
+        "HW3 File": "timemap_215.json.gz",
+        "Current File": "timemap_5cbfc64864ed6e2b88857686ac66b0af.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/recwell",
+        "HW3 Mementos": 26,
+        "Current Mementos": 158,
+        "Difference": 132,
+        "HW3 File": "timemap_216.json.gz",
+        "Current File": "timemap_bb8446d87ee7e16e3df56d6f1fb57d3a.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/success",
+        "HW3 Mementos": 29,
+        "Current Mementos": 126,
+        "Difference": 97,
+        "HW3 File": "timemap_217.json.gz",
+        "Current File": "timemap_f49d97e18065d6dd2f96aac798c3d8de.json.gz"
+    },
+    {
+        "URI": "https://odu.campusgroups.com/login_only?redirect=https%3a%2f%2fodu.campusgroups.com%2fgroups",
+        "HW3 Mementos": 3,
+        "Current Mementos": 41,
+        "Difference": 38,
+        "HW3 File": "timemap_218.json.gz",
+        "Current File": "timemap_52c4de1e35a097c85e8c62723a871634.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/research",
+        "HW3 Mementos": 291,
+        "Current Mementos": 301,
+        "Difference": 10,
+        "HW3 File": "timemap_219.json.gz",
+        "Current File": "timemap_a7eceedef96d000b071ed655e9255791.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/projects-archive/current-projects/",
+        "HW3 Mementos": 31,
+        "Current Mementos": 37,
+        "Difference": 6,
+        "HW3 File": "timemap_22.json.gz",
+        "Current File": "timemap_7bc580707e2de409e228eb99111e1aeb.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/sci/directory",
+        "HW3 Mementos": 109,
+        "Current Mementos": 116,
+        "Difference": 7,
+        "HW3 File": "timemap_220.json.gz",
+        "Current File": "timemap_d500425d77cdf870e8f67f0951e481e0.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/about/compliance/transparency",
+        "HW3 Mementos": 33,
+        "Current Mementos": 220,
+        "Difference": 187,
+        "HW3 File": "timemap_221.json.gz",
+        "Current File": "timemap_d91b573ceee49323cec9b492b6f700c0.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/set/spirit/homecoming",
+        "HW3 Mementos": 49,
+        "Current Mementos": 52,
+        "Difference": 3,
+        "HW3 File": "timemap_222.json.gz",
+        "Current File": "timemap_e2e9765b4ba91d1503e56ffe18cf5266.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/parkingservices/parking",
+        "HW3 Mementos": 18,
+        "Current Mementos": 62,
+        "Difference": 44,
+        "HW3 File": "timemap_223.json.gz",
+        "Current File": "timemap_ab20da3846bf4ef69e1fc024649cc68c.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/academics/summer",
+        "HW3 Mementos": 36,
+        "Current Mementos": 254,
+        "Difference": 218,
+        "HW3 File": "timemap_224.json.gz",
+        "Current File": "timemap_0cf01b27a02fdbbd5564285f8e954625.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/employment",
+        "HW3 Mementos": 36,
+        "Current Mementos": 302,
+        "Difference": 266,
+        "HW3 File": "timemap_225.json.gz",
+        "Current File": "timemap_514b94ef4a21c25f139d1c82e382b9cc.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/prospective",
+        "HW3 Mementos": 260,
+        "Current Mementos": 264,
+        "Difference": 4,
+        "HW3 File": "timemap_226.json.gz",
+        "Current File": "timemap_b06a67a4fc93d2c386b1cca6bb6ffee4.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/bioelectrics",
+        "HW3 Mementos": 28,
+        "Current Mementos": 107,
+        "Difference": 79,
+        "HW3 File": "timemap_227.json.gz",
+        "Current File": "timemap_4668a3ac2e9b4e3d032521662bd76979.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/academics/teacher-preparation",
+        "HW3 Mementos": 19,
+        "Current Mementos": 64,
+        "Difference": 45,
+        "HW3 File": "timemap_228.json.gz",
+        "Current File": "timemap_a061a9170d4c965b70e83437ea33dd1b.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/admission/returning-student",
+        "HW3 Mementos": 11,
+        "Current Mementos": 47,
+        "Difference": 36,
+        "HW3 File": "timemap_229.json.gz",
+        "Current File": "timemap_e8cf03ff99e69637c5fca3dcb5a9bb80.json.gz"
+    },
+    {
+        "URI": "https://www.oberlin.edu/",
+        "HW3 Mementos": 41899,
+        "Current Mementos": 47751,
+        "Difference": 5852,
+        "HW3 File": "timemap_23.json.gz",
+        "Current File": "timemap_e3f253884336772d767d5ffe03f3dedc.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/life/dean-students/student-outreach",
+        "HW3 Mementos": 28,
+        "Current Mementos": 129,
+        "Difference": 101,
+        "HW3 File": "timemap_230.json.gz",
+        "Current File": "timemap_27e75055b4c3c78a42f7b280bfa64e92.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/impact/initiatives",
+        "HW3 Mementos": 32,
+        "Current Mementos": 204,
+        "Difference": 172,
+        "HW3 File": "timemap_231.json.gz",
+        "Current File": "timemap_d17784a0b224a657c2f0ab32c058e7c5.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/events",
+        "HW3 Mementos": 48,
+        "Current Mementos": 61,
+        "Difference": 13,
+        "HW3 File": "timemap_232.json.gz",
+        "Current File": "timemap_a1a57b3663c1160cf756bb5bdea4e83a.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/academics/international-learning-opportunities/study-abroad",
+        "HW3 Mementos": 32,
+        "Current Mementos": 146,
+        "Difference": 114,
+        "HW3 File": "timemap_233.json.gz",
+        "Current File": "timemap_531701abee923475ff22f4cf7a75c16f.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/about/contact",
+        "HW3 Mementos": 33,
+        "Current Mementos": 314,
+        "Difference": 281,
+        "HW3 File": "timemap_234.json.gz",
+        "Current File": "timemap_a49f1b6607df342fba38621cc1b95eb1.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/life/culture/arts/diehn",
+        "HW3 Mementos": 106,
+        "Current Mementos": 114,
+        "Difference": 8,
+        "HW3 File": "timemap_235.json.gz",
+        "Current File": "timemap_b10c01549227c83825e3c82761084462.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/eps/directory",
+        "HW3 Mementos": 59,
+        "Current Mementos": 65,
+        "Difference": 6,
+        "HW3 File": "timemap_236.json.gz",
+        "Current File": "timemap_93a244ed42ce1283afcf214bc9412999.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/univ-impact/entrepreneurship/strome",
+        "HW3 Mementos": 144,
+        "Current Mementos": 152,
+        "Difference": 8,
+        "HW3 File": "timemap_237.json.gz",
+        "Current File": "timemap_d160036592154006b299fa18dba97f07.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/news",
+        "HW3 Mementos": 76,
+        "Current Mementos": 80,
+        "Difference": 4,
+        "HW3 File": "timemap_238.json.gz",
+        "Current File": "timemap_204408e8da8c19981f146d0c88880235.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/directory",
+        "HW3 Mementos": 96,
+        "Current Mementos": 101,
+        "Difference": 5,
+        "HW3 File": "timemap_239.json.gz",
+        "Current File": "timemap_776be28bf575b405cc916abe1ce7da2b.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/category/press-releases/",
+        "HW3 Mementos": 46,
+        "Current Mementos": 58,
+        "Difference": 12,
+        "HW3 File": "timemap_24.json.gz",
+        "Current File": "timemap_8e507c4a3c10d079a9eb9d6b414244db.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/academics",
+        "HW3 Mementos": 93,
+        "Current Mementos": 97,
+        "Difference": 4,
+        "HW3 File": "timemap_240.json.gz",
+        "Current File": "timemap_5ac7d0e2648c0b415ed9d4c51d3f9d7a.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/students",
+        "HW3 Mementos": 313,
+        "Current Mementos": 320,
+        "Difference": 7,
+        "HW3 File": "timemap_241.json.gz",
+        "Current File": "timemap_487105e9df014b17c623d34324e5a42e.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/cepd",
+        "HW3 Mementos": 252,
+        "Current Mementos": 274,
+        "Difference": 22,
+        "HW3 File": "timemap_242.json.gz",
+        "Current File": "timemap_49356cadd3c7922247b87b1fc4e1e999.json.gz"
+    },
+    {
+        "URI": "https://www.bkstr.com/olddominionstore/home",
+        "HW3 Mementos": 55,
+        "Current Mementos": 60,
+        "Difference": 5,
+        "HW3 File": "timemap_243.json.gz",
+        "Current File": "timemap_8559935bca6478241c53019bcbc3cafa.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/hs/centers/globalhealth",
+        "HW3 Mementos": 109,
+        "Current Mementos": 117,
+        "Difference": 8,
+        "HW3 File": "timemap_244.json.gz",
+        "Current File": "timemap_092634ac16ee5f7d9db3971b95807333.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/about",
+        "HW3 Mementos": 76,
+        "Current Mementos": 80,
+        "Difference": 4,
+        "HW3 File": "timemap_245.json.gz",
+        "Current File": "timemap_16bbadb0ae9463a460be80c135e0b59b.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/academics/pre-law",
+        "HW3 Mementos": 60,
+        "Current Mementos": 64,
+        "Difference": 4,
+        "HW3 File": "timemap_246.json.gz",
+        "Current File": "timemap_e906cb223b00dfb1600e8dfb9578ebc9.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/al/academics/graduate",
+        "HW3 Mementos": 57,
+        "Current Mementos": 61,
+        "Difference": 4,
+        "HW3 File": "timemap_247.json.gz",
+        "Current File": "timemap_a36731083b82a8511e13fa5df971aff2.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/asis/trio",
+        "HW3 Mementos": 65,
+        "Current Mementos": 70,
+        "Difference": 5,
+        "HW3 File": "timemap_248.json.gz",
+        "Current File": "timemap_4dbc929ce9823e402aaf21804cce3917.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A",
+        "HW3 Mementos": 82,
+        "Current Mementos": 81,
+        "Difference": -1,
+        "HW3 File": "timemap_249.json.gz",
+        "Current File": "timemap_4bf690e11ac0d87df5f097065618cff6.json.gz"
+    },
+    {
+        "URI": "https://www.risd.edu",
+        "HW3 Mementos": 13271,
+        "Current Mementos": 13841,
+        "Difference": 570,
+        "HW3 File": "timemap_25.json.gz",
+        "Current File": "timemap_bed92a9a984ef6a332ad8e37f628fff2.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/emergency",
+        "HW3 Mementos": 37,
+        "Current Mementos": 152,
+        "Difference": 115,
+        "HW3 File": "timemap_250.json.gz",
+        "Current File": "timemap_5a5243e28c3bc215ca772578eff4996b.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/business/center/port",
+        "HW3 Mementos": 33,
+        "Current Mementos": 156,
+        "Difference": 123,
+        "HW3 File": "timemap_251.json.gz",
+        "Current File": "timemap_9ebb7be8025cde2d807114de04810224.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/military-connection",
+        "HW3 Mementos": 20,
+        "Current Mementos": 74,
+        "Difference": 54,
+        "HW3 File": "timemap_252.json.gz",
+        "Current File": "timemap_02fcc7cffb8a27b720034b370e6e67d4.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/success/academic/advising",
+        "HW3 Mementos": 130,
+        "Current Mementos": 135,
+        "Difference": 5,
+        "HW3 File": "timemap_253.json.gz",
+        "Current File": "timemap_31f8cf79702f983a06a4f76d1e1993ec.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/set",
+        "HW3 Mementos": 69,
+        "Current Mementos": 69,
+        "Difference": 0,
+        "HW3 File": "timemap_254.json.gz",
+        "Current File": "timemap_f92c3912ef3dfc58c7ef0fc51f863b69.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/admission/admitted/undergraduate",
+        "HW3 Mementos": 18,
+        "Current Mementos": 163,
+        "Difference": 145,
+        "HW3 File": "timemap_255.json.gz",
+        "Current File": "timemap_f5b1863c948ddbd6e0e91638f43fb72b.json.gz"
+    },
+    {
+        "URI": "https://www.odu.edu/honors",
+        "HW3 Mementos": 35,
+        "Current Mementos": 322,
+        "Difference": 287,
+        "HW3 File": "timemap_256.json.gz",
+        "Current File": "timemap_537ab5a4d8d7e424b5fe3a581a678251.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/university-of-phoenix-ldr-531-assignment-coursework-help.html",
+        "HW3 Mementos": 28,
+        "Current Mementos": 34,
+        "Difference": 6,
+        "HW3 File": "timemap_257.json.gz",
+        "Current File": "timemap_8097dce01f995ed990bb8a3562dbf3a4.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/riders-with-disabilities/",
+        "HW3 Mementos": 44,
+        "Current Mementos": 50,
+        "Difference": 6,
+        "HW3 File": "timemap_26.json.gz",
+        "Current File": "timemap_857ce67673e340b33131023170b73513.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/my-assignment-help.html",
+        "HW3 Mementos": 2,
+        "Current Mementos": 85,
+        "Difference": 83,
+        "HW3 File": "timemap_260.json.gz",
+        "Current File": "timemap_37fcdfbdd672ecce7b80b4804ac2b0fc.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/critical-essay-writing-help.html",
+        "HW3 Mementos": 21,
+        "Current Mementos": 26,
+        "Difference": 5,
+        "HW3 File": "timemap_261.json.gz",
+        "Current File": "timemap_05e64e36c9e02c14c7ae53c1dc656d20.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/computer-programming-assignment-help.html",
+        "HW3 Mementos": 2,
+        "Current Mementos": 57,
+        "Difference": 55,
+        "HW3 File": "timemap_264.json.gz",
+        "Current File": "timemap_916525907884db7c2a5b2b80231859de.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/uml-component-diagram-assignment-help.html",
+        "HW3 Mementos": 31,
+        "Current Mementos": 0,
+        "Difference": -31,
+        "HW3 File": "timemap_266.json.gz",
+        "Current File": "N/A"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/essay-writing-services-by-usa-expert-writer.html",
+        "HW3 Mementos": 19,
+        "Current Mementos": 20,
+        "Difference": 1,
+        "HW3 File": "timemap_267.json.gz",
+        "Current File": "timemap_e63ade7f6d49b4ec498eacf1710abf34.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/public-finance-assignment-help.html",
+        "HW3 Mementos": 27,
+        "Current Mementos": 35,
+        "Difference": 8,
+        "HW3 File": "timemap_268.json.gz",
+        "Current File": "timemap_b45cd4b81f8391b8cec511dc8d2d300c.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/uml-class-diagram-assignment-help.html",
+        "HW3 Mementos": 35,
+        "Current Mementos": 41,
+        "Difference": 6,
+        "HW3 File": "timemap_269.json.gz",
+        "Current File": "timemap_880692b14462111ed5bd72e9c85b59ad.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/projects-archive/project-archive/",
+        "HW3 Mementos": 35,
+        "Current Mementos": 40,
+        "Difference": 5,
+        "HW3 File": "timemap_27.json.gz",
+        "Current File": "timemap_15c66d15e5c303080fa0d0c2d0835ed0.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/sequence-diagram-assignment-help.html",
+        "HW3 Mementos": 29,
+        "Current Mementos": 36,
+        "Difference": 7,
+        "HW3 File": "timemap_270.json.gz",
+        "Current File": "timemap_cd0f4007f38574211c42c9c96e3e7def.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/ruby-assignment-help.html",
+        "HW3 Mementos": 29,
+        "Current Mementos": 36,
+        "Difference": 7,
+        "HW3 File": "timemap_271.json.gz",
+        "Current File": "timemap_0b04f4e877131ead7818cd06ae952d32.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/business-marketing-assignment-help.html",
+        "HW3 Mementos": 27,
+        "Current Mementos": 35,
+        "Difference": 8,
+        "HW3 File": "timemap_272.json.gz",
+        "Current File": "timemap_f66a31e80c59e28a5c6a3a1cf6596da6.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/accounting-homework-help-us.html",
+        "HW3 Mementos": 24,
+        "Current Mementos": 0,
+        "Difference": -24,
+        "HW3 File": "timemap_273.json.gz",
+        "Current File": "N/A"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/managerial-economics-assignment-help.html",
+        "HW3 Mementos": 38,
+        "Current Mementos": 44,
+        "Difference": 6,
+        "HW3 File": "timemap_274.json.gz",
+        "Current File": "timemap_40a489d3111ef6d900580f8d229d42a7.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/middlesex-university-assignment-help.html",
+        "HW3 Mementos": 30,
+        "Current Mementos": 35,
+        "Difference": 5,
+        "HW3 File": "timemap_275.json.gz",
+        "Current File": "timemap_e97c30f604aed5e7d749aa6969ee8de9.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/university-of-phoenix-ops-571-assignment-coursework-help.html",
+        "HW3 Mementos": 28,
+        "Current Mementos": 34,
+        "Difference": 6,
+        "HW3 File": "timemap_276.json.gz",
+        "Current File": "timemap_f3161843cdb9fd4588995b741fb5eb84.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/law-assignment-help.html",
+        "HW3 Mementos": 59,
+        "Current Mementos": 64,
+        "Difference": 5,
+        "HW3 File": "timemap_277.json.gz",
+        "Current File": "timemap_b9f05963b74957c323261bfc9365e951.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/management-presentations-assignment-help.html",
+        "HW3 Mementos": 27,
+        "Current Mementos": 34,
+        "Difference": 7,
+        "HW3 File": "timemap_278.json.gz",
+        "Current File": "timemap_bfdb11fb6ee9c697fa286b0eaafc9f97.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/database-assignment-help.html",
+        "HW3 Mementos": 27,
+        "Current Mementos": 35,
+        "Difference": 8,
+        "HW3 File": "timemap_279.json.gz",
+        "Current File": "timemap_18051816c27fce76be258a10f5e8db31.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/transitcenter/",
+        "HW3 Mementos": 65,
+        "Current Mementos": 76,
+        "Difference": 11,
+        "HW3 File": "timemap_28.json.gz",
+        "Current File": "timemap_5218a15f2879749eaea1390d2467ab70.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/assignment-help-in-uae.html",
+        "HW3 Mementos": 44,
+        "Current Mementos": 50,
+        "Difference": 6,
+        "HW3 File": "timemap_280.json.gz",
+        "Current File": "timemap_18bb83d394f9b1bf6cdca0cb33632cc3.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/dissertation-proofreading-service.html",
+        "HW3 Mementos": 15,
+        "Current Mementos": 17,
+        "Difference": 2,
+        "HW3 File": "timemap_281.json.gz",
+        "Current File": "timemap_70b55d63cb0103000b9e408bc30c4169.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/uk/",
+        "HW3 Mementos": 140,
+        "Current Mementos": 149,
+        "Difference": 9,
+        "HW3 File": "timemap_282.json.gz",
+        "Current File": "timemap_25e68fed1dcc7b830c3e885a111369f4.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/online-assignment-help-sydney-australia.html",
+        "HW3 Mementos": 1,
+        "Current Mementos": 68,
+        "Difference": 67,
+        "HW3 File": "timemap_285.json.gz",
+        "Current File": "timemap_90ec0d4c0ef1e5d4f4aa7b6321fd3e32.json.gz"
+    },
+    {
+        "URI": "https://en.wikipedia.org/wiki/Essay",
+        "HW3 Mementos": 136,
+        "Current Mementos": 1098,
+        "Difference": 962,
+        "HW3 File": "timemap_286.json.gz",
+        "Current File": "timemap_306eb54e124184241200b762516b2f48.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/subject-expert-for-assignment.html",
+        "HW3 Mementos": 13,
+        "Current Mementos": 16,
+        "Difference": 3,
+        "HW3 File": "timemap_288.json.gz",
+        "Current File": "timemap_e04036b301f0da1f64e4943bbcd13c5a.json.gz"
+    },
+    {
+        "URI": "https://www.vcu.edu/",
+        "HW3 Mementos": 3688,
+        "Current Mementos": 3714,
+        "Difference": 26,
+        "HW3 File": "timemap_29.json.gz",
+        "Current File": "timemap_479dc0e86d24dc721f7a86604ffd59d6.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/essay-writing-service.html",
+        "HW3 Mementos": 11,
+        "Current Mementos": 51,
+        "Difference": 40,
+        "HW3 File": "timemap_291.json.gz",
+        "Current File": "timemap_97b0173b621e62e45d6394ce3d68cde5.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/assignment-help-melbourne.html",
+        "HW3 Mementos": 1,
+        "Current Mementos": 62,
+        "Difference": 61,
+        "HW3 File": "timemap_292.json.gz",
+        "Current File": "timemap_40880fff7c4a1db751daea1cff98f367.json.gz"
+    },
+    {
+        "URI": "https://www.allassignmenthelp.com/university-of-phoenix-law-531-assignment-coursework-help.html",
+        "HW3 Mementos": 31,
+        "Current Mementos": 37,
+        "Difference": 6,
+        "HW3 File": "timemap_296.json.gz",
+        "Current File": "timemap_2228e2a60f3da437ca6be5725c1db25d.json.gz"
+    },
+    {
+        "URI": "https://www.risd.edu/",
+        "HW3 Mementos": 13271,
+        "Current Mementos": 13841,
+        "Difference": 570,
+        "HW3 File": "timemap_3.json.gz",
+        "Current File": "timemap_6892588a821a011f1e6fa34f02205c82.json.gz"
+    },
+    {
+        "URI": "https://www.risd.edu/student-financial-services/student-accounts",
+        "HW3 Mementos": 4,
+        "Current Mementos": 81,
+        "Difference": 77,
+        "HW3 File": "timemap_30.json.gz",
+        "Current File": "timemap_cb5968761ff67cf6d037534fa33cea24.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/ads/",
+        "HW3 Mementos": 1609,
+        "Current Mementos": 72411,
+        "Difference": 70802,
+        "HW3 File": "timemap_377.json.gz",
+        "Current File": "timemap_c4dbeeb75d56d35d0dcaa57e71384d8d.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/t/terms",
+        "HW3 Mementos": 6073,
+        "Current Mementos": 347675,
+        "Difference": 341602,
+        "HW3 File": "timemap_301.json.gz",
+        "Current File": "timemap_b81d777b9d0781b3cb533166ad7825a9.json.gz"
+    },
+    {
+        "URI": "https://support.google.com/youtube/answer/10834785?hl=en",
+        "HW3 Mementos": 13,
+        "Current Mementos": 151,
+        "Difference": 138,
+        "HW3 File": "timemap_302.json.gz",
+        "Current File": "timemap_4229154fbc59ad982ff2f0c0f2eb30ff.json.gz"
+    },
+    {
+        "URI": "https://www.linkedin.com/company/common-sense-media",
+        "HW3 Mementos": 3,
+        "Current Mementos": 70,
+        "Difference": 67,
+        "HW3 File": "timemap_303.json.gz",
+        "Current File": "timemap_4d4c2459b2f53414a37c3963166db449.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/user/weebly",
+        "HW3 Mementos": 6024,
+        "Current Mementos": 6199,
+        "Difference": 175,
+        "HW3 File": "timemap_304.json.gz",
+        "Current File": "timemap_8204eddee50b709e33abc4793e6884e4.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/premium/",
+        "HW3 Mementos": 63045,
+        "Current Mementos": 63800,
+        "Difference": 755,
+        "HW3 File": "timemap_307.json.gz",
+        "Current File": "timemap_38cd1020130503f24b6794235f895a72.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/musicpremium",
+        "HW3 Mementos": 7593,
+        "Current Mementos": 8163,
+        "Difference": 570,
+        "HW3 File": "timemap_308.json.gz",
+        "Current File": "timemap_d64a2ba02eb9213142cf0b09d83b728e.json.gz"
+    },
+    {
+        "URI": "https://www.linkedin.com/company/common-sense-media/",
+        "HW3 Mementos": 59,
+        "Current Mementos": 69,
+        "Difference": 10,
+        "HW3 File": "timemap_309.json.gz",
+        "Current File": "timemap_04f25846e08a60f6cbbe0bbe3777485b.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/bus-shelter-advertising/",
+        "HW3 Mementos": 2,
+        "Current Mementos": 47,
+        "Difference": 45,
+        "HW3 File": "timemap_31.json.gz",
+        "Current File": "timemap_64f0b4d9acbf4f95154a046648bf9227.json.gz"
+    },
+    {
+        "URI": "https://www.google.com/policies/privacy/",
+        "HW3 Mementos": 60878,
+        "Current Mementos": 63863,
+        "Difference": 2985,
+        "HW3 File": "timemap_310.json.gz",
+        "Current File": "timemap_5837b8bb2f0c4e25bba4a8cd7f4ed3c2.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/channel/UCqVDpXKLmKeBU_yyt_QkItQ",
+        "HW3 Mementos": 8698,
+        "Current Mementos": 8705,
+        "Difference": 7,
+        "HW3 File": "timemap_312.json.gz",
+        "Current File": "timemap_df6b54e5e96d57e6976c276c0986f07b.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/user/CommonSenseEducators",
+        "HW3 Mementos": 45,
+        "Current Mementos": 221,
+        "Difference": 176,
+        "HW3 File": "timemap_315.json.gz",
+        "Current File": "timemap_8f9efae475e421ec25c8fa59b73bc3a0.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/playlist?list=PLxc-QYpD02ma4DSSodguGUVMLcwCj9BtO",
+        "HW3 Mementos": 19,
+        "Current Mementos": 24,
+        "Difference": 5,
+        "HW3 File": "timemap_319.json.gz",
+        "Current File": "timemap_3288675068b4d1bf6b502373cd78b5c4.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/ride-paratransit-program/",
+        "HW3 Mementos": 2,
+        "Current Mementos": 76,
+        "Difference": 74,
+        "HW3 File": "timemap_32.json.gz",
+        "Current File": "timemap_92a1cd19df2c3daba6790193649638f9.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/trends/",
+        "HW3 Mementos": 5791,
+        "Current Mementos": 6047,
+        "Difference": 256,
+        "HW3 File": "timemap_320.json.gz",
+        "Current File": "timemap_803006864da929bb583fd5e83cf06c64.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com",
+        "HW3 Mementos": 84159,
+        "Current Mementos": 92800,
+        "Difference": 8641,
+        "HW3 File": "timemap_322.json.gz",
+        "Current File": "timemap_d245406cb6c9f36be9064c92c34e12e1.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/howyoutubeworks/policies/overview/",
+        "HW3 Mementos": 731,
+        "Current Mementos": 846,
+        "Difference": 115,
+        "HW3 File": "timemap_323.json.gz",
+        "Current File": "timemap_12f033af4fcdcd61c053e51b4d543a18.json.gz"
+    },
+    {
+        "URI": "https://research.youtube",
+        "HW3 Mementos": 347,
+        "Current Mementos": 414,
+        "Difference": 67,
+        "HW3 File": "timemap_325.json.gz",
+        "Current File": "timemap_2172b42e9ad004309309c8ff7498f645.json.gz"
+    },
+    {
+        "URI": "https://support.google.com/youtube/answer/13813322?hl=en",
+        "HW3 Mementos": 122,
+        "Current Mementos": 136,
+        "Difference": 14,
+        "HW3 File": "timemap_326.json.gz",
+        "Current File": "timemap_f35595d2b8f3c6876dcf20ff878edc44.json.gz"
+    },
+    {
+        "URI": "https://socialimpact.youtube.com/",
+        "HW3 Mementos": 1138,
+        "Current Mementos": 1206,
+        "Difference": 68,
+        "HW3 File": "timemap_328.json.gz",
+        "Current File": "timemap_0564d3b789d601ffe6a6192d761daa25.json.gz"
+    },
+    {
+        "URI": "https://support.google.com/youtube/answer/7667605?hl=en",
+        "HW3 Mementos": 274,
+        "Current Mementos": 313,
+        "Difference": 39,
+        "HW3 File": "timemap_329.json.gz",
+        "Current File": "timemap_a9e9948da7dc320d5e28e92f8a606128.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/wave/",
+        "HW3 Mementos": 4,
+        "Current Mementos": 86,
+        "Difference": 82,
+        "HW3 File": "timemap_33.json.gz",
+        "Current File": "timemap_c7804e4b7940eeeba6bb314814af505d.json.gz"
+    },
+    {
+        "URI": "https://support.google.com/youtube/answer/185111?hl=en",
+        "HW3 Mementos": 246,
+        "Current Mementos": 253,
+        "Difference": 7,
+        "HW3 File": "timemap_330.json.gz",
+        "Current File": "timemap_c981b220eaf7180328382e4ae71e43f9.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/user/CommonSenseMedia/featured",
+        "HW3 Mementos": 139,
+        "Current Mementos": 144,
+        "Difference": 5,
+        "HW3 File": "timemap_331.json.gz",
+        "Current File": "timemap_9a73c2940a7ea85d72c545913ce5027e.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/creators/podcasts/",
+        "HW3 Mementos": 183,
+        "Current Mementos": 299,
+        "Difference": 116,
+        "HW3 File": "timemap_332.json.gz",
+        "Current File": "timemap_1171f05dd10c9d5ef3711ce915f7c596.json.gz"
+    },
+    {
+        "URI": "https://support.google.com/youtube/#topic=9257498",
+        "HW3 Mementos": 30853,
+        "Current Mementos": 36069,
+        "Difference": 5216,
+        "HW3 File": "timemap_333.json.gz",
+        "Current File": "timemap_41135e0fe28209f554f569ca7e38eb53.json.gz"
+    },
+    {
+        "URI": "https://support.google.com/youtube/answer/7554338?hl=en",
+        "HW3 Mementos": 229,
+        "Current Mementos": 236,
+        "Difference": 7,
+        "HW3 File": "timemap_334.json.gz",
+        "Current File": "timemap_25c86dd73fb725a769e4f4c09e59efab.json.gz"
+    },
+    {
+        "URI": "https://support.google.com/youtube/answer/10835034?hl=en",
+        "HW3 Mementos": 16,
+        "Current Mementos": 473,
+        "Difference": 457,
+        "HW3 File": "timemap_336.json.gz",
+        "Current File": "timemap_307a7b5a980d8b238cfce18ca850bd77.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/creators/",
+        "HW3 Mementos": 4455,
+        "Current Mementos": 78990,
+        "Difference": 74535,
+        "HW3 File": "timemap_360.json.gz",
+        "Current File": "timemap_6d5e59c7b133b87f970bcd9860318bf0.json.gz"
+    },
+    {
+        "URI": "https://www.youthvoices.live/",
+        "HW3 Mementos": 277,
+        "Current Mementos": 318,
+        "Difference": 41,
+        "HW3 File": "timemap_339.json.gz",
+        "Current File": "timemap_343b5f191a8c242c9699cc505f61a883.json.gz"
+    },
+    {
+        "URI": "https://www.linkedin.com/company/springrole/",
+        "HW3 Mementos": 41,
+        "Current Mementos": 51,
+        "Difference": 10,
+        "HW3 File": "timemap_34.json.gz",
+        "Current File": "timemap_ec990f4a4af5da7336a37ac637706ac4.json.gz"
+    },
+    {
+        "URI": "https://support.google.com/youtube/answer/174084",
+        "HW3 Mementos": 1789,
+        "Current Mementos": 1017,
+        "Difference": -772,
+        "HW3 File": "timemap_341.json.gz",
+        "Current File": "timemap_b3fabcb9b8132e7f2a9c86a2a6466214.json.gz"
+    },
+    {
+        "URI": "https://support.google.com/youtube/answer/2802032?hl=en",
+        "HW3 Mementos": 210,
+        "Current Mementos": 822,
+        "Difference": 612,
+        "HW3 File": "timemap_343.json.gz",
+        "Current File": "timemap_f8638af637a147a43b5e6d209c4995ab.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/howyoutubeworks/policies/monetization-policies/",
+        "HW3 Mementos": 219,
+        "Current Mementos": 915,
+        "Difference": 696,
+        "HW3 File": "timemap_344.json.gz",
+        "Current File": "timemap_99f48a8855e1a6b20ddf306693ade35f.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/jobs/",
+        "HW3 Mementos": 448,
+        "Current Mementos": 2145,
+        "Difference": 1697,
+        "HW3 File": "timemap_345.json.gz",
+        "Current File": "timemap_4c8747f6ef9ab2b366c52a5a3e177444.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/csai-match/",
+        "HW3 Mementos": 696,
+        "Current Mementos": 2253,
+        "Difference": 1557,
+        "HW3 File": "timemap_347.json.gz",
+        "Current File": "timemap_8177cb5fa05a8222b4c790fb34cd4bff.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/kids/",
+        "HW3 Mementos": 101919,
+        "Current Mementos": 102899,
+        "Difference": 980,
+        "HW3 File": "timemap_348.json.gz",
+        "Current File": "timemap_5b30c39d2859ce980d398382f3791d14.json.gz"
+    },
+    {
+        "URI": "https://support.google.com/youtube/answer/2802027",
+        "HW3 Mementos": 1454,
+        "Current Mementos": 1493,
+        "Difference": 39,
+        "HW3 File": "timemap_351.json.gz",
+        "Current File": "timemap_fc4b298483972edf4627a19ab8327644.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/howyoutubeworks/",
+        "HW3 Mementos": 4920,
+        "Current Mementos": 4938,
+        "Difference": 18,
+        "HW3 File": "timemap_353.json.gz",
+        "Current File": "timemap_94e4bcd9653ef8219e6ac451f5a87927.json.gz"
+    },
+    {
+        "URI": "https://support.google.com/youtube/answer/9229611?hl=en",
+        "HW3 Mementos": 51,
+        "Current Mementos": 63,
+        "Difference": 12,
+        "HW3 File": "timemap_354.json.gz",
+        "Current File": "timemap_98234be9ff96d3e76fe7b45f8db5340a.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/youtube",
+        "HW3 Mementos": 2185,
+        "Current Mementos": 26008,
+        "Difference": 23823,
+        "HW3 File": "timemap_382.json.gz",
+        "Current File": "timemap_89b458fc6a71ff838f1f60a9a0270d75.json.gz"
+    },
+    {
+        "URI": "https://www.linkedin.com/in/kathryn-azevedo/",
+        "HW3 Mementos": 1,
+        "Current Mementos": 1,
+        "Difference": 0,
+        "HW3 File": "timemap_356.json.gz",
+        "Current File": "timemap_8c39600aca83f501a9550e7b4ee18e60.json.gz"
+    },
+    {
+        "URI": "https://apps.apple.com/us/app/amazon-seller/id794141485",
+        "HW3 Mementos": 122,
+        "Current Mementos": 148,
+        "Difference": 26,
+        "HW3 File": "timemap_358.json.gz",
+        "Current File": "timemap_4fd4936c7a31c85293fc876a6497d4c1.json.gz"
+    },
+    {
+        "URI": "https://www.schoolhabitsuniversity.com/",
+        "HW3 Mementos": 7,
+        "Current Mementos": 21,
+        "Difference": 14,
+        "HW3 File": "timemap_359.json.gz",
+        "Current File": "timemap_36a0ff38cbae6ecae45753886387446c.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/statewide-system-map/",
+        "HW3 Mementos": 2,
+        "Current Mementos": 108,
+        "Difference": 106,
+        "HW3 File": "timemap_36.json.gz",
+        "Current File": "timemap_adb51f7edeaecfe86e1ef5cbb21882b4.json.gz"
+    },
+    {
+        "URI": "https://www.executivefunctionjournal.com/",
+        "HW3 Mementos": 8,
+        "Current Mementos": 15,
+        "Difference": 7,
+        "HW3 File": "timemap_361.json.gz",
+        "Current File": "timemap_828dfa221431d70dd1fda56dd060a140.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/products",
+        "HW3 Mementos": 1973,
+        "Current Mementos": 170,
+        "Difference": -1803,
+        "HW3 File": "timemap_362.json.gz",
+        "Current File": "timemap_ef72cb74657476e24e0ee96f3d2abfaf.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/youtube/iframe_api_reference",
+        "HW3 Mementos": 325,
+        "Current Mementos": 2281,
+        "Difference": 1956,
+        "HW3 File": "timemap_364.json.gz",
+        "Current File": "timemap_2f13e18c5a5d131b2378200f661a0742.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/",
+        "HW3 Mementos": 58170,
+        "Current Mementos": 1009531,
+        "Difference": 951361,
+        "HW3 File": "timemap_365.json.gz",
+        "Current File": "timemap_730f4dedc4355f954be5a975dc9259d0.json.gz"
+    },
+    {
+        "URI": "https://issuetracker.google.com/issues?q=componentid:186600",
+        "HW3 Mementos": 10,
+        "Current Mementos": 93,
+        "Difference": 83,
+        "HW3 File": "timemap_366.json.gz",
+        "Current File": "timemap_dc9236626a13582e16202af6ed665470.json.gz"
+    },
+    {
+        "URI": "https://www.cornell.edu/",
+        "HW3 Mementos": 8456,
+        "Current Mementos": 40856,
+        "Difference": 32400,
+        "HW3 File": "timemap_37.json.gz",
+        "Current File": "timemap_e801c1834bca3bc5d1999849f649f919.json.gz"
+    },
+    {
+        "URI": "https://ivypanda.com/blog/",
+        "HW3 Mementos": 4,
+        "Current Mementos": 87,
+        "Difference": 83,
+        "HW3 File": "timemap_370.json.gz",
+        "Current File": "timemap_f5e4528f1f95afe3ef98e7c8d516363d.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/channel/UCuD_syXDs4tSKExuPjM9ZWQ",
+        "HW3 Mementos": 21,
+        "Current Mementos": 21,
+        "Difference": 0,
+        "HW3 File": "timemap_371.json.gz",
+        "Current File": "timemap_c2c227ca7c3ecbb730803646370cf195.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/apis-explorer/#p/",
+        "HW3 Mementos": 5660,
+        "Current Mementos": 5800,
+        "Difference": 140,
+        "HW3 File": "timemap_372.json.gz",
+        "Current File": "timemap_587f878fe05988dbf74b44110862a14e.json.gz"
+    },
+    {
+        "URI": "https://soundcloud.com/tomfrankly/battle-in-downtown-yokohama",
+        "HW3 Mementos": 5,
+        "Current Mementos": 5,
+        "Difference": 0,
+        "HW3 File": "timemap_373.json.gz",
+        "Current File": "timemap_49e5f7eff72b0eec31a3b8835fbc0ff7.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/youtube/v3/code_samples",
+        "HW3 Mementos": 343,
+        "Current Mementos": 377,
+        "Difference": 34,
+        "HW3 File": "timemap_375.json.gz",
+        "Current File": "timemap_9c68d0c69d3193438195fa91a280689c.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/youtube/android/player",
+        "HW3 Mementos": 133,
+        "Current Mementos": 468,
+        "Difference": 335,
+        "HW3 File": "timemap_376.json.gz",
+        "Current File": "timemap_843257346accae58f9aa6f0dc21a90ca.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/youtube/v3/getting-started",
+        "HW3 Mementos": 136,
+        "Current Mementos": 626,
+        "Difference": 490,
+        "HW3 File": "timemap_378.json.gz",
+        "Current File": "timemap_676f2f2771451ea146b25ccbeb5e4ddb.json.gz"
+    },
+    {
+        "URI": "https://research.youtube/",
+        "HW3 Mementos": 162,
+        "Current Mementos": 414,
+        "Difference": 252,
+        "HW3 File": "timemap_379.json.gz",
+        "Current File": "timemap_db203befee2cf0efb87b15888fff2e9f.json.gz"
+    },
+    {
+        "URI": "https://www.stanford.edu/",
+        "HW3 Mementos": 56325,
+        "Current Mementos": 255365,
+        "Difference": 199040,
+        "HW3 File": "timemap_38.json.gz",
+        "Current File": "timemap_5ca346154f11faa60026048eaae35de3.json.gz"
+    },
+    {
+        "URI": "https://www.linkedin.com/company/feedspot",
+        "HW3 Mementos": 4,
+        "Current Mementos": 26,
+        "Difference": 22,
+        "HW3 File": "timemap_383.json.gz",
+        "Current File": "timemap_5ecf89c876e2fb4a2133f098692f48c9.json.gz"
+    },
+    {
+        "URI": "https://www.indeed.com/salaries/Virtual-Assistant-Salaries",
+        "HW3 Mementos": 2,
+        "Current Mementos": 93,
+        "Difference": 91,
+        "HW3 File": "timemap_384.json.gz",
+        "Current File": "timemap_580bf0cd3d4873e74dfb576f2983ce80.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/channel/UCG-KntY7aVnIGXYEBQvmBAQ",
+        "HW3 Mementos": 12,
+        "Current Mementos": 473,
+        "Difference": 461,
+        "HW3 File": "timemap_385.json.gz",
+        "Current File": "timemap_f6bcb9fde21092cf0e93be1efe9d68b4.json.gz"
+    },
+    {
+        "URI": "https://www.glassdoor.com/Salaries/freelance-web-developer-salary-SRCH_KO0,23.htm",
+        "HW3 Mementos": 11,
+        "Current Mementos": 11,
+        "Difference": 0,
+        "HW3 File": "timemap_386.json.gz",
+        "Current File": "timemap_f8a82170b890249460a5c3c0810effae.json.gz"
+    },
+    {
+        "URI": "http://www.myucdblog.com/",
+        "HW3 Mementos": 117,
+        "Current Mementos": 125,
+        "Difference": 8,
+        "HW3 File": "timemap_387.json.gz",
+        "Current File": "timemap_ee41dc4db55e4943382a07c372ba8551.json.gz"
+    },
+    {
+        "URI": "https://studenthacks.co.uk/",
+        "HW3 Mementos": 148,
+        "Current Mementos": 169,
+        "Difference": 21,
+        "HW3 File": "timemap_388.json.gz",
+        "Current File": "timemap_e0027653d8cadf46d1f269c027463a01.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/TransitCenter/",
+        "HW3 Mementos": 65,
+        "Current Mementos": 76,
+        "Difference": 11,
+        "HW3 File": "timemap_39.json.gz",
+        "Current File": "timemap_2f23a40b47eb9cd6bfd578a2478b9c6e.json.gz"
+    },
+    {
+        "URI": "https://www.upwork.com/hiring/marketing/cost-to-hire-video-editor/",
+        "HW3 Mementos": 1,
+        "Current Mementos": 6,
+        "Difference": 5,
+        "HW3 File": "timemap_390.json.gz",
+        "Current File": "timemap_43a166ca76d9fd0205c711cf37a14978.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/youtube/youtube_subscribe_button",
+        "HW3 Mementos": 392,
+        "Current Mementos": 403,
+        "Difference": 11,
+        "HW3 File": "timemap_391.json.gz",
+        "Current File": "timemap_12758fe49a2da6b26650522be8db537e.json.gz"
+    },
+    {
+        "URI": "https://blog.intostudy.com/",
+        "HW3 Mementos": 139,
+        "Current Mementos": 154,
+        "Difference": 15,
+        "HW3 File": "timemap_392.json.gz",
+        "Current File": "timemap_37a8dd8681189cdc56260b1c7074891d.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/youtube/v3/guides/ios_youtube_helper",
+        "HW3 Mementos": 116,
+        "Current Mementos": 323,
+        "Difference": 207,
+        "HW3 File": "timemap_394.json.gz",
+        "Current File": "timemap_0508265384e8ef408c4f971342cc0540.json.gz"
+    },
+    {
+        "URI": "https://ischool.sjsu.edu/istudent-blog",
+        "HW3 Mementos": 76,
+        "Current Mementos": 79,
+        "Difference": 3,
+        "HW3 File": "timemap_395.json.gz",
+        "Current File": "timemap_542c7d911035e82a203c4597dfc8b842.json.gz"
+    },
+    {
+        "URI": "http://mblawstudents.blogspot.com/",
+        "HW3 Mementos": 44,
+        "Current Mementos": 49,
+        "Difference": 5,
+        "HW3 File": "timemap_396.json.gz",
+        "Current File": "timemap_99c6bcf3a7769a72d65a9a92473c54fe.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/channel/UCqfULGuGGjpAfVsADlVR6vQ?sub_confirmation=1",
+        "HW3 Mementos": 10,
+        "Current Mementos": 13,
+        "Difference": 3,
+        "HW3 File": "timemap_397.json.gz",
+        "Current File": "timemap_332e42b1501d857c6231e223cadaa560.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/youtube/v3/docs",
+        "HW3 Mementos": 606,
+        "Current Mementos": 651,
+        "Difference": 45,
+        "HW3 File": "timemap_399.json.gz",
+        "Current File": "timemap_f18418dc9a83346e3a9c9a500a7f86de.json.gz"
+    },
+    {
+        "URI": "https://www.blueboard.com/",
+        "HW3 Mementos": 462,
+        "Current Mementos": 480,
+        "Difference": 18,
+        "HW3 File": "timemap_4.json.gz",
+        "Current File": "timemap_b6546bea48e05fd0e5246489e395888e.json.gz"
+    },
+    {
+        "URI": "https://duke.edu/",
+        "HW3 Mementos": 68569,
+        "Current Mementos": 15539,
+        "Difference": -53030,
+        "HW3 File": "timemap_40.json.gz",
+        "Current File": "timemap_8e0593bd77f6d442a30d9fc8ae3dc6d3.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/youtube/terms/api-services-terms-of-service",
+        "HW3 Mementos": 877,
+        "Current Mementos": 928,
+        "Difference": 51,
+        "HW3 File": "timemap_400.json.gz",
+        "Current File": "timemap_19dec72f897965ebf087d4b77cb13555.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/youtube/documentation",
+        "HW3 Mementos": 125,
+        "Current Mementos": 404,
+        "Difference": 279,
+        "HW3 File": "timemap_401.json.gz",
+        "Current File": "timemap_641c2d95de07a9267411316bd268042a.json.gz"
+    },
+    {
+        "URI": "https://www.upwork.com/",
+        "HW3 Mementos": 3339,
+        "Current Mementos": 74658,
+        "Difference": 71319,
+        "HW3 File": "timemap_404.json.gz",
+        "Current File": "timemap_e6fc43f222b1d8fc82b83d41fbe2bfb3.json.gz"
+    },
+    {
+        "URI": "https://www.learningscientists.org/blog/",
+        "HW3 Mementos": 24,
+        "Current Mementos": 268,
+        "Difference": 244,
+        "HW3 File": "timemap_405.json.gz",
+        "Current File": "timemap_6c5da0aaa2d5c465b3d7a9ec6d21c422.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/youtube/v3/live/getting-started",
+        "HW3 Mementos": 107,
+        "Current Mementos": 107,
+        "Difference": 0,
+        "HW3 File": "timemap_406.json.gz",
+        "Current File": "timemap_400a4a7b8785bf8901ffb48b17d8c1f6.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/youtube/reporting",
+        "HW3 Mementos": 102,
+        "Current Mementos": 342,
+        "Difference": 240,
+        "HW3 File": "timemap_408.json.gz",
+        "Current File": "timemap_fe21a35cc96cc32476d90a7817980eb9.json.gz"
+    },
+    {
+        "URI": "https://online.campuscommerce.com/register/4P77T/instlogin/reg-message",
+        "HW3 Mementos": 4,
+        "Current Mementos": 6,
+        "Difference": 2,
+        "HW3 File": "timemap_41.json.gz",
+        "Current File": "timemap_129161f5dafbf10c68e24d0e8cf91a61.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/channel/UCif2xthZcmDp2NxvG56Gdlg",
+        "HW3 Mementos": 18,
+        "Current Mementos": 49,
+        "Difference": 31,
+        "HW3 File": "timemap_410.json.gz",
+        "Current File": "timemap_df92ddb5e862e997bac0bc2ee0602321.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/youtube/reporting/v1/code_samples",
+        "HW3 Mementos": 130,
+        "Current Mementos": 364,
+        "Difference": 234,
+        "HW3 File": "timemap_411.json.gz",
+        "Current File": "timemap_adb6c514d2ddeeb713cc5e899c533574.json.gz"
+    },
+    {
+        "URI": "https://www.schoolhabitsuniversity.com",
+        "HW3 Mementos": 7,
+        "Current Mementos": 21,
+        "Difference": 14,
+        "HW3 File": "timemap_412.json.gz",
+        "Current File": "timemap_776fddf85373b9a6123b2e31a3e91ae5.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/youtube/code_samples",
+        "HW3 Mementos": 313,
+        "Current Mementos": 322,
+        "Difference": 9,
+        "HW3 File": "timemap_413.json.gz",
+        "Current File": "timemap_e3f94cf8b11d00c4d2c1e3dbe5275d1e.json.gz"
+    },
+    {
+        "URI": "https://developers.google.com/youtube/player_parameters",
+        "HW3 Mementos": 862,
+        "Current Mementos": 929,
+        "Difference": 67,
+        "HW3 File": "timemap_415.json.gz",
+        "Current File": "timemap_aa9aad6cb3ccecbd547ae6bf8d765e0c.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/watch?v=ELSRnQigBsI",
+        "HW3 Mementos": 25,
+        "Current Mementos": 39,
+        "Difference": 14,
+        "HW3 File": "timemap_416.json.gz",
+        "Current File": "timemap_b70eb3ae614ea18fa54eba7178202c99.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/downtown-transit-connector-new/",
+        "HW3 Mementos": 32,
+        "Current Mementos": 38,
+        "Difference": 6,
+        "HW3 File": "timemap_42.json.gz",
+        "Current File": "timemap_7bdbb3956d6b6ec1c46563d5a9cfe451.json.gz"
+    },
+    {
+        "URI": "https://alumni.risd.edu/",
+        "HW3 Mementos": 448,
+        "Current Mementos": 157,
+        "Difference": -291,
+        "HW3 File": "timemap_43.json.gz",
+        "Current File": "timemap_53de9d6f8e232a72454fdc653e675ff8.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/community/",
+        "HW3 Mementos": 8,
+        "Current Mementos": 16,
+        "Difference": 8,
+        "HW3 File": "timemap_44.json.gz",
+        "Current File": "timemap_4515089a9be7accdfadf7ccb2c63753a.json.gz"
+    },
+    {
+        "URI": "https://risdmuseum.org/",
+        "HW3 Mementos": 3907,
+        "Current Mementos": 4303,
+        "Difference": 396,
+        "HW3 File": "timemap_45.json.gz",
+        "Current File": "timemap_41fe453d5fec16dce88d68f6c8aaad1c.json.gz"
+    },
+    {
+        "URI": "https://workday.risd.edu/student-workers/",
+        "HW3 Mementos": 6,
+        "Current Mementos": 8,
+        "Difference": 2,
+        "HW3 File": "timemap_46.json.gz",
+        "Current File": "timemap_61042d7187ecb27c162c74ed3a8e3b81.json.gz"
+    },
+    {
+        "URI": "https://graduatestudy.risd.edu/",
+        "HW3 Mementos": 45,
+        "Current Mementos": 59,
+        "Difference": 14,
+        "HW3 File": "timemap_47.json.gz",
+        "Current File": "timemap_3442644cec529815cb4daec240e6a67d.json.gz"
+    },
+    {
+        "URI": "https://www.uchicago.edu/",
+        "HW3 Mementos": 44551,
+        "Current Mementos": 47690,
+        "Difference": 3139,
+        "HW3 File": "timemap_48.json.gz",
+        "Current File": "timemap_15ae93bd4856c0da415b18a725a9154e.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/park-n-ride/",
+        "HW3 Mementos": 38,
+        "Current Mementos": 44,
+        "Difference": 6,
+        "HW3 File": "timemap_49.json.gz",
+        "Current File": "timemap_c0c9105742ff30b2c9e5e7caa71148f6.json.gz"
+    },
+    {
+        "URI": "https://students.risd.edu?utm_source=www-footer",
+        "HW3 Mementos": 4,
+        "Current Mementos": 6,
+        "Difference": 2,
+        "HW3 File": "timemap_5.json.gz",
+        "Current File": "timemap_0fc01a92648d09f1a2d2597e8436a2b5.json.gz"
+    },
+    {
+        "URI": "https://onmessage.nd.edu/university-branding/website-requirements/",
+        "HW3 Mementos": 57,
+        "Current Mementos": 62,
+        "Difference": 5,
+        "HW3 File": "timemap_50.json.gz",
+        "Current File": "timemap_c0e9e640e4a2ad6376c40cacfa81d24c.json.gz"
+    },
+    {
+        "URI": "https://www.linkedin.com/company/morweb-cms/",
+        "HW3 Mementos": 4,
+        "Current Mementos": 4,
+        "Difference": 0,
+        "HW3 File": "timemap_51.json.gz",
+        "Current File": "timemap_65fb84dfe4992917c306626e6ca0fd77.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com",
+        "HW3 Mementos": 201,
+        "Current Mementos": 3859,
+        "Difference": 3658,
+        "HW3 File": "timemap_53.json.gz",
+        "Current File": "timemap_789d32f6b4e21fb9503b41f5d16e322d.json.gz"
+    },
+    {
+        "URI": "https://compliance.springworks.in/",
+        "HW3 Mementos": 6,
+        "Current Mementos": 23,
+        "Difference": 17,
+        "HW3 File": "timemap_55.json.gz",
+        "Current File": "timemap_204ed23c91b4681daffcc683f0041017.json.gz"
+    },
+    {
+        "URI": "https://www.risd.edu/student-financial-services",
+        "HW3 Mementos": 259,
+        "Current Mementos": 271,
+        "Difference": 12,
+        "HW3 File": "timemap_56.json.gz",
+        "Current File": "timemap_48aa08c497e23c18e2d22c8ed18cc726.json.gz"
+    },
+    {
+        "URI": "https://students.risd.edu?utm_source=www-overnav",
+        "HW3 Mementos": 4,
+        "Current Mementos": 6,
+        "Difference": 2,
+        "HW3 File": "timemap_57.json.gz",
+        "Current File": "timemap_b7d69c12d34d09e5dedf37bf43abb821.json.gz"
+    },
+    {
+        "URI": "https://www.risd.edu/academics/academic-advising",
+        "HW3 Mementos": 30,
+        "Current Mementos": 38,
+        "Difference": 8,
+        "HW3 File": "timemap_58.json.gz",
+        "Current File": "timemap_b9b2a0559e41ba6117847dace6c8d8f0.json.gz"
+    },
+    {
+        "URI": "https://graduatestudy.risd.edu/new-and-incoming-students/",
+        "HW3 Mementos": 6,
+        "Current Mementos": 9,
+        "Difference": 3,
+        "HW3 File": "timemap_59.json.gz",
+        "Current File": "timemap_cce52287881440d7e5e10fa4cece4d43.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/students/",
+        "HW3 Mementos": 38,
+        "Current Mementos": 46,
+        "Difference": 8,
+        "HW3 File": "timemap_6.json.gz",
+        "Current File": "timemap_792253a695519027eb400251c6289d0a.json.gz"
+    },
+    {
+        "URI": "https://info.risd.edu/student-employment/#for-students",
+        "HW3 Mementos": 46,
+        "Current Mementos": 47,
+        "Difference": 1,
+        "HW3 File": "timemap_60.json.gz",
+        "Current File": "timemap_8a23640b4eaac9641233c55f1a010431.json.gz"
+    },
+    {
+        "URI": "https://info.risd.edu/",
+        "HW3 Mementos": 27,
+        "Current Mementos": 210,
+        "Difference": 183,
+        "HW3 File": "timemap_62.json.gz",
+        "Current File": "timemap_67529c9d90c8726aa2caf39be5bb72b9.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/vanpool/",
+        "HW3 Mementos": 2,
+        "Current Mementos": 54,
+        "Difference": 52,
+        "HW3 File": "timemap_63.json.gz",
+        "Current File": "timemap_e2f8c40a2a302e8f05d49f8b3c9956c9.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/lost-and-found/",
+        "HW3 Mementos": 35,
+        "Current Mementos": 40,
+        "Difference": 5,
+        "HW3 File": "timemap_64.json.gz",
+        "Current File": "timemap_d6e9744f68b27a1ca37676ceaf603dfc.json.gz"
+    },
+    {
+        "URI": "https://www.washington.edu/",
+        "HW3 Mementos": 11592,
+        "Current Mementos": 124553,
+        "Difference": 112961,
+        "HW3 File": "timemap_65.json.gz",
+        "Current File": "timemap_4c2872ab462a37c762769265df9c26be.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/providence-newport-ferry/",
+        "HW3 Mementos": 2,
+        "Current Mementos": 40,
+        "Difference": 38,
+        "HW3 File": "timemap_67.json.gz",
+        "Current File": "timemap_27cc1ca1a298044d1a4b01b7f5ecbde1.json.gz"
+    },
+    {
+        "URI": "https://families.risd.edu/",
+        "HW3 Mementos": 1,
+        "Current Mementos": 31,
+        "Difference": 30,
+        "HW3 File": "timemap_68.json.gz",
+        "Current File": "timemap_1bdfdf433742dedf883a5a4d3147b35c.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/schedules/",
+        "HW3 Mementos": 2,
+        "Current Mementos": 120,
+        "Difference": 118,
+        "HW3 File": "timemap_69.json.gz",
+        "Current File": "timemap_161dd1a05a5195d101bf3c27e69d68fd.json.gz"
+    },
+    {
+        "URI": "https://info.risd.edu",
+        "HW3 Mementos": 199,
+        "Current Mementos": 210,
+        "Difference": 11,
+        "HW3 File": "timemap_7.json.gz",
+        "Current File": "timemap_76c44a9d8c36a69c736eac016bb78af8.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/news/",
+        "HW3 Mementos": 2,
+        "Current Mementos": 128,
+        "Difference": 126,
+        "HW3 File": "timemap_70.json.gz",
+        "Current File": "timemap_9f516526466cd3a2c3335a67692ab9fc.json.gz"
+    },
+    {
+        "URI": "https://sei.risd.edu/",
+        "HW3 Mementos": 41,
+        "Current Mementos": 56,
+        "Difference": 15,
+        "HW3 File": "timemap_71.json.gz",
+        "Current File": "timemap_f8c18931d2bc7c0a37a31e83830a5e47.json.gz"
+    },
+    {
+        "URI": "https://naturelab.risd.edu/",
+        "HW3 Mementos": 5,
+        "Current Mementos": 552,
+        "Difference": 547,
+        "HW3 File": "timemap_73.json.gz",
+        "Current File": "timemap_3fb6e275a0851a817fd268460e60b8b5.json.gz"
+    },
+    {
+        "URI": "https://graduatestudy.risd.edu",
+        "HW3 Mementos": 2,
+        "Current Mementos": 57,
+        "Difference": 55,
+        "HW3 File": "timemap_74.json.gz",
+        "Current File": "timemap_82a2f85ce0df25104475d8540c191c76.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/veterans/",
+        "HW3 Mementos": 2,
+        "Current Mementos": 42,
+        "Difference": 40,
+        "HW3 File": "timemap_76.json.gz",
+        "Current File": "timemap_5562d8cf828f95bbaaf5bf39f4f0c1f0.json.gz"
+    },
+    {
+        "URI": "https://www.linkedin.com/company/double-the-donation/",
+        "HW3 Mementos": 5,
+        "Current Mementos": 96,
+        "Difference": 91,
+        "HW3 File": "timemap_77.json.gz",
+        "Current File": "timemap_e36dd0cd9dbcefab86a1ac74a086e5f9.json.gz"
+    },
+    {
+        "URI": "https://www.snappy.com/",
+        "HW3 Mementos": 584,
+        "Current Mementos": 709,
+        "Difference": 125,
+        "HW3 File": "timemap_78.json.gz",
+        "Current File": "timemap_637e7d3a028a8e382cb1c67a4419b21f.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/public-records-request/",
+        "HW3 Mementos": 13,
+        "Current Mementos": 21,
+        "Difference": 8,
+        "HW3 File": "timemap_79.json.gz",
+        "Current File": "timemap_5e2bcdc6f8bad8560d0b0b14b965f0a1.json.gz"
+    },
+    {
+        "URI": "https://news.uchicago.edu/story/uchicago-wins-two-webby-awards-homepage-website-redesign",
+        "HW3 Mementos": 43,
+        "Current Mementos": 45,
+        "Difference": 2,
+        "HW3 File": "timemap_8.json.gz",
+        "Current File": "timemap_97fb1682bbe322a8f5db89181addc6ff.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/ceo-board-of-directors/",
+        "HW3 Mementos": 39,
+        "Current Mementos": 45,
+        "Difference": 6,
+        "HW3 File": "timemap_80.json.gz",
+        "Current File": "timemap_b28630ab99697c97c9847092109b1e9e.json.gz"
+    },
+    {
+        "URI": "https://www.gallup.com/workplace/231668/dismal-employee-engagement-sign-global-mismanagement.aspx",
+        "HW3 Mementos": 207,
+        "Current Mementos": 213,
+        "Difference": 6,
+        "HW3 File": "timemap_81.json.gz",
+        "Current File": "timemap_290bbbbe1877b5562d59051207953762.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/major-transit-centers/",
+        "HW3 Mementos": 37,
+        "Current Mementos": 48,
+        "Difference": 11,
+        "HW3 File": "timemap_82.json.gz",
+        "Current File": "timemap_4be3e21f34893242869404e3198675af.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/contact-us/",
+        "HW3 Mementos": 110,
+        "Current Mementos": 127,
+        "Difference": 17,
+        "HW3 File": "timemap_83.json.gz",
+        "Current File": "timemap_5147086fce9799b89dd7dafdaab656e8.json.gz"
+    },
+    {
+        "URI": "https://careercenter.risd.edu/",
+        "HW3 Mementos": 74,
+        "Current Mementos": 85,
+        "Difference": 11,
+        "HW3 File": "timemap_84.json.gz",
+        "Current File": "timemap_0e2154677f5fbea99def4a978c813aad.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/commuters/",
+        "HW3 Mementos": 58,
+        "Current Mementos": 73,
+        "Difference": 15,
+        "HW3 File": "timemap_85.json.gz",
+        "Current File": "timemap_a43edd63ca2b3100c82f78f3c3dae139.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/projects-archive/planning-studies/",
+        "HW3 Mementos": 2,
+        "Current Mementos": 41,
+        "Difference": 39,
+        "HW3 File": "timemap_87.json.gz",
+        "Current File": "timemap_2c4de450f9420a2088a7ca8b26aa48da.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/where-to-purchase/",
+        "HW3 Mementos": 41,
+        "Current Mementos": 46,
+        "Difference": 5,
+        "HW3 File": "timemap_89.json.gz",
+        "Current File": "timemap_66a29a0ec70a07c511973f7bfb23d71e.json.gz"
+    },
+    {
+        "URI": "https://howard.edu/",
+        "HW3 Mementos": 9262,
+        "Current Mementos": 10258,
+        "Difference": 996,
+        "HW3 File": "timemap_9.json.gz",
+        "Current File": "timemap_73a56a3da01e8b2370fc78e325ed4700.json.gz"
+    },
+    {
+        "URI": "https://walmart.org/how-we-give",
+        "HW3 Mementos": 191,
+        "Current Mementos": 204,
+        "Difference": 13,
+        "HW3 File": "timemap_90.json.gz",
+        "Current File": "timemap_0e8ef5b853136bb8d96286dc2d391a25.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/careers-page/",
+        "HW3 Mementos": 68,
+        "Current Mementos": 94,
+        "Difference": 26,
+        "HW3 File": "timemap_91.json.gz",
+        "Current File": "timemap_913948bfcd6a722e03a30826ad4cf406.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/mission/",
+        "HW3 Mementos": 2,
+        "Current Mementos": 42,
+        "Difference": 40,
+        "HW3 File": "timemap_93.json.gz",
+        "Current File": "timemap_af25f69d91a4e73692d9e444f85e458b.json.gz"
+    },
+    {
+        "URI": "https://www.google.org/our-approach/",
+        "HW3 Mementos": 460,
+        "Current Mementos": 81,
+        "Difference": -379,
+        "HW3 File": "timemap_94.json.gz",
+        "Current File": "timemap_c4af9a97d33da8d860abdd543982bfe8.json.gz"
+    },
+    {
+        "URI": "https://careercenter.risd.edu/artworks",
+        "HW3 Mementos": 18,
+        "Current Mementos": 22,
+        "Difference": 4,
+        "HW3 File": "timemap_95.json.gz",
+        "Current File": "timemap_307131f377aeaaa354353397d10713d0.json.gz"
+    },
+    {
+        "URI": "https://www.youtube.com/channel/UCH6c7HyDKSxVxzldP95q_gw",
+        "HW3 Mementos": 158,
+        "Current Mementos": 366,
+        "Difference": 208,
+        "HW3 File": "timemap_96.json.gz",
+        "Current File": "timemap_a72820722b3e17f33687745f59ea0f8d.json.gz"
+    },
+    {
+        "URI": "https://guusto.com/",
+        "HW3 Mementos": 208,
+        "Current Mementos": 218,
+        "Difference": 10,
+        "HW3 File": "timemap_97.json.gz",
+        "Current File": "timemap_90b9ab1e39050eef8a3c32f4f691fb25.json.gz"
+    },
+    {
+        "URI": "https://www.ripta.com/fares/",
+        "HW3 Mementos": 3,
+        "Current Mementos": 125,
+        "Difference": 122,
+        "HW3 File": "timemap_98.json.gz",
+        "Current File": "timemap_68d6a3ac23b18b561731f2995044c138.json.gz"
+    },
+    {
+        "URI": "https://risd.coursedog.com",
+        "HW3 Mementos": 3,
+        "Current Mementos": 10,
+        "Difference": 7,
+        "HW3 File": "timemap_99.json.gz",
+        "Current File": "timemap_ae2133fc24947d88300620e2a098a8ea.json.gz"
+    }
+]
