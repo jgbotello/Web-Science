@@ -13,8 +13,6 @@ def compress_files_in_directory(directory):
                 with gzip.open(compressed_file_path, 'wb') as f_out:
                     shutil.copyfileobj(f_in, f_out)
 
-# Directory to save my files
 directory_path = 'C:/Users/jbote001/OneDrive - Old Dominion University/PHD/Courses/Spring 2024/Web Science/Course/Homeworks_Solutions/HW3-Web Archiving/get Timemaps/timemaps'
 
-# Compress all files in the directory
 compress_files_in_directory(directory_path)
