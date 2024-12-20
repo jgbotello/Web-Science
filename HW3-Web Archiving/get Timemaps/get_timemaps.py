@@ -3,10 +3,8 @@ import os
 import hashlib
 import time
 
-# Name of the file containing the URIs
 input_file = "collected_uris.txt"
 
-# Folder where I will save the TimeMaps
 output_folder = "timemaps"
 
 if not os.path.exists(output_folder):
