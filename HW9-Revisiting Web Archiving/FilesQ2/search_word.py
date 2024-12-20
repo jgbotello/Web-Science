@@ -23,7 +23,6 @@ for filename in os.listdir(input_directory):
 
 print(f"Total occurrences of '{term_to_search}' in HTML files: {total_occurrences}")
 
-# Print filenames containing the term along with their occurrences and TF values
 if matching_files:
     print("\nFiles containing the term 'payment':")
     print("Filename\tOccurrences\tTF")
